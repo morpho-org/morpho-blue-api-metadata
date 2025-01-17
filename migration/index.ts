@@ -6,6 +6,7 @@ import UniswapDefaultWhitelist from "./old-data/uniswap-labs-default-list.json";
 import RedstoneFeedsMainnet from "./old-data/redstone-feeds-mainnet.json";
 import RedstoneFeedsBase from "./old-data/redstone-feeds-base.json";
 import MorphoLabsFeedsMainnet from "./old-data/morpho-labs-oracle-feeds-whitelist.json";
+import VaultsWhitelist from "./old-data/vaults-whitelist.json"
 import {addresses} from "@morpho-org/blue-sdk";
 import * as fs from "node:fs";
 
@@ -214,10 +215,19 @@ const run = async () => {
     }
   })
 
+  const whitelist = Object.entries(VaultsWhitelist).flatMap(([chainIdStr, data]) => Object.entries(data).flatMap(([address, metadata]) => ({
+    address,
+    chainId: parseInt(chainIdStr),
+    ...metadata
+  })))
+
   const allFeeds = [...redstoneFeedsBase, ...redstoneFeedsMainnet, ...chainlinkFeedsBase, ...chainlinkFeedsMainnet, ...morphoLabsFeeds];
+
+
 
   await fs.promises.writeFile("./all-feeds.json", JSON.stringify(allFeeds, null, 2));
   await fs.promises.writeFile("./all-tokens.json", JSON.stringify(allTokens, null, 2));
+  await fs.promises.writeFile("./vaults-whitelist.json", JSON.stringify(whitelist, null, 2))
 
 };
 

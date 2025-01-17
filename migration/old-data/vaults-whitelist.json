@@ -1,0 +1,1601 @@
+{
+  "1": {
+    "0x38989BBA00BDF8181F4082995b3DEAe96163aC5D": {
+      "image": "https://cdn.morpho.org/assets/logos/eth.svg",
+      "description": "The Flagship ETH Morpho vault curated by B.Protocol and Block Analitica is intended to optimize risk-adjusted interest earned from blue-chip LST and stablecoin collateral markets. The Flagship ETH vault also serves as a pre-deposit vault for Relend Network. Users who supply ETH will collect RELEND units and have the option to access Relend Network once live.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/blockanalitica-b-protocol/20",
+      "curators": [
+        {
+          "name": "Block Analitica",
+          "image": "https://cdn.morpho.org/v2/assets/images/block-analitica.png",
+          "url": "https://morpho.blockanalitica.com/",
+          "verified": true
+        },
+        {
+          "name": "B.Protocol",
+          "image": "https://cdn.morpho.org/v2/assets/images/bprotocol.png",
+          "url": "https://www.bprotocol.org/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1704292895 }]
+    },
+    "0xA02F5E93f783baF150Aa1F8b341Ae90fe0a772f7": {
+      "image": "https://cdn.morpho.org/assets/logos/cbbtc.svg",
+      "description": "The Re7 cbBTC vault curated by Re7 Labs aims to provide an above-market cbBTC yield by enabling leveraged-yield strategies and supporting high-yield cbBTC markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+      "curators": [
+        {
+          "name": "RE7 Labs",
+          "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+          "url": "https://www.re7.capital",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1729086616 }]
+    },
+    "0xfbDEE8670b273E12b019210426E70091464b02Ab": {
+      "image": "https://cdn.morpho.org/v2/assets/images/m0-vault-mev.png",
+      "description": "The MEV Capital M^0 vault curated by MEV Capital is dedicated to providing capital to M^0 protocol markets. It offers borrowers access to attractive rates through M^0 incentives and provides suppliers with a competitive APR.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+      "curators": [
+        {
+          "name": "MEV Capital",
+          "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+          "url": "https://mevcapital.com/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1728631370 }]
+    },
+    "0xF587f2e8AfF7D76618d3B6B4626621860FbD54e3": {
+      "image": "https://cdn.morpho.org/assets/logos/cbbtc.svg",
+      "description": "The cbBTC Core Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1728286490 }]
+    },
+    "0x701907283a57FF77E255C3f1aAD790466B8CE4ef": {
+      "image": "https://cdn.morpho.org/v2/assets/images/index_coop_hyeth_vault.png",
+      "description": "The Index Coop High Yield ETH Index (hyETH) is a Gauntlet curated vault that optimizes risk-adjusted yield for ETH holders by allocating deposits across high-yield lending opportunities. Gauntlet uses its expertise to actively manage allocations, targeting diverse markets with stable yields above the Lido staking rate. Deposit into the vault via the Index Coop App Site for optimal performance.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1735577412 }]
+    },
+    "0x1e6ffa4e9f63d10b8820a3ab52566af881dab53c": {
+      "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+      "description": "The Gauntlet WETH Ecosystem Vault is designed to optimize risk-adjusted yields by leveraging liquid staking recursive yield markets while enabling a broader range of integrations through the v1.1 upgrade. For further insights into Gauntlet's curated strategies, visit the forum.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1736760937 }]
+    },
+    "0x132E6C9C33A62D7727cd359b1f51e5B566E485Eb": {
+      "image": "https://cdn.morpho.org/v2/assets/images/resolv-vault.png",
+      "description": "The Resolv USDC Vault curated by Gauntlet is designed to optimize risk-adjusted returns by lending USDC to Resolv collateral markets, ensuring robust risk management and sustainable yield strategies.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1735577412 }]
+    },
+    "0x98cF0B67Da0F16E1F8f1a1D23ad8Dc64c0c70E0b": {
+      "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+      "description": "The cbBTC vault curated by MEV Capital is focused on supplying liquidity to cbBTC markets. It offers borrowers access to attractive rates through BTC LRTs incentives and provides suppliers with a competitive APR.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+      "curators": [
+        {
+          "name": "MEV Capital",
+          "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+          "url": "https://mevcapital.com/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1727681425 }]
+    },
+    "0xC0A14627D6a23f70c809777CEd873238581C1032": {
+      "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+      "description": "The MEV Capital USD0 vault curated by MEV Capital is dedicated to providing capital to Usual protocol markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+      "curators": [
+        {
+          "name": "MEV Capital",
+          "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+          "url": "https://mevcapital.com/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1727439009 }]
+    },
+    "0xBEEF01735c132Ada46AA9aA4c54623cAA92A64CB": {
+      "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+      "description": "The Steakhouse USDC vault aims to optimize yields by lending USDC against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1704302495 }]
+    },
+    "0xA0804346780b4c2e3bE118ac957D1DB82F9d7484": {
+      "image": "https://cdn.morpho.org/v2/assets/images/bbqusdt.svg",
+      "description": "The Smokehouse USDT vault aims to optimize for yield on a wide range of collaterals.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1735915734 }]
+    },
+    "0x833adaef212c5cd3f78906b44bbfb18258f238f0": {
+      "image": "https://cdn.morpho.org/v2/assets/images/bbqwsteth.svg",
+      "description": "The Smokehouse wstETH vault aims to optimize for yield on LRT collateral through wstETH as the primary liquidity buffer. This is a vault for Lido stETH enjoyers.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1735915734 }]
+    },
+    "0x7204B7Dbf9412567835633B6F00C3Edc3a8D6330": {
+      "image": "https://cdn.morpho.org/v2/assets/images/coinshift-usdc-vault.svg",
+      "description": "Coinshift's USDC provides users with exposure to USDC lending against blue chip crypto and real world asset (RWA) collateral markets. We call this the “dual engine”. The vault is curated by Steakhouse on behalf of Coinshift.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1735915734 }]
+    },
+    "0xBeeF7959aE71D4e45e1863dae0B94C35244AF816": {
+      "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+      "description": "The Steakhouse PAXG vault aims to optimize yields by lending PAXG against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine”.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1735552834 }]
+    },
+    "0xbEeFc011e94f43b8B7b455eBaB290C7Ab4E216f1": {
+      "image": "https://cdn.morpho.org/v2/assets/images/coinshift-usdl-vault.svg",
+      "description": "Coinshift's USDL provides users with exposure to the yield-bearing stablecoin Paxos USDL, while offering an higher yield on the borrowed part. Using a yield-bearing stablecoin as base asset enhances efficiency (“optimal dual engine”). The vault is curated by Steakhouse on behalf of Coinshift.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1735552834 }]
+    },
+    "0x6D4e530B8431a52FFDA4516BA4Aadc0951897F8C": {
+      "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+      "description": "The Steakhouse USDC RWA vault supplies USDC against various real-world assets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1735552834 }]
+    },
+    "0xbeef07e929f84466a591de130e4154667214f491": {
+      "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+      "description": "The Steakhouse EURCV vault aims to optimize yields by lending EURCV against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine”.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1727710501 }]
+    },
+    "0x186514400e52270cef3D80e1c6F8d10A75d47344": {
+      "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "description": "The Flagship USDC Morpho vault curated by B.Protocol and Block Analitica is intended to optimize risk-adjusted interest earned from blue-chip collateral markets. The Flagship USDC vault also serves as a pre-deposit vault for Relend Network. Users who supply USDC will collect RELEND units and have the option to access Relend Network once live.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/blockanalitica-b-protocol/20",
+      "curators": [
+        {
+          "name": "Block Analitica",
+          "image": "https://cdn.morpho.org/v2/assets/images/block-analitica.png",
+          "url": "https://morpho.blockanalitica.com/",
+          "verified": true
+        },
+        {
+          "name": "B.Protocol",
+          "image": "https://cdn.morpho.org/v2/assets/images/bprotocol.png",
+          "url": "https://www.bprotocol.org/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1704834311 }]
+    },
+    "0x78Fc2c2eD1A4cDb5402365934aE5648aDAd094d0": {
+      "image": "https://cdn.morpho.org/assets/logos/eth.svg",
+      "description": "The Re7 WETH Morpho vault curated by Re7 Labs aims to outperform staked ETH yields by lending WETH against a diverse set of Liquid Staking and Liquid Restaking Token collateral markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+      "curators": [
+        {
+          "name": "RE7 Labs",
+          "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+          "url": "https://www.re7.capital",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1706639387 }]
+    },
+    "0x2C25f6C25770fFEC5959D34B94Bf898865e5D6b1": {
+      "image": "https://cdn.morpho.org/assets/logos/usdt.svg",
+      "description": "The Flagship USDT Morpho vault curated by B.Protocol and Block Analitica is intended to optimize risk-adjusted interest earned from blue-chip collateral markets. The Flagship USDT vault also serves as a pre-deposit vault for Relend Network. Users who supply USDT will collect RELEND units and have the option to access Relend Network once live.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/blockanalitica-b-protocol/20",
+      "curators": [
+        {
+          "name": "Block Analitica",
+          "image": "https://cdn.morpho.org/v2/assets/images/block-analitica.png",
+          "url": "https://morpho.blockanalitica.com/",
+          "verified": true
+        },
+        {
+          "name": "B.Protocol",
+          "image": "https://cdn.morpho.org/v2/assets/images/bprotocol.png",
+          "url": "https://www.bprotocol.org/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1706711063 }]
+    },
+    "0xbEEF02e5E13584ab96848af90261f0C8Ee04722a": {
+      "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+      "description": "The Steakhouse PYUSD vault aims to optimize yields by lending PYUSD against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1705697315 }]
+    },
+    "0xbEef047a543E45807105E51A8BBEFCc5950fcfBa": {
+      "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+      "description": "The Steakhouse USDT vault aims to optimize yields by lending USDT against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1705697315 }]
+    },
+    "0x2371e134e3455e0593363cBF89d3b6cf53740618": {
+      "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+      "description": "The Gauntlet WETH Prime vault aims to optimize for risk-adjusted yield across liquid staking recursive yield markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1709680067 }]
+    },
+    "0xdd0f28e19C1780eb6396170735D45153D261490d": {
+      "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+      "description": "The Gauntlet USDC Prime vault aims to optimize for risk-adjusted yield across large market cap and high liquidity collateral markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1709681915 }]
+    },
+    "0xEbFA750279dEfa89b8D99bdd145a016F6292757b": {
+      "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+      "description": "The Gauntlet MKR Blended vault is being deprecated. Funds can be withdrawn at any time.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1709862083 }]
+    },
+    "0x4cA0E178c94f039d7F202E09d8d1a655Ed3fb6b6": {
+      "image": "https://cdn.morpho.org/v2/assets/images/rwa_leadblock.png",
+      "description": "The USDC RWA Morpho vault curated by LeadBlock enables access to real world asset driven yields which are uncorrelated to crypto market conditions",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/leadblock/28",
+      "curators": [
+        {
+          "name": "LeadBlock",
+          "image": "https://cdn.morpho.org/v2/assets/images/leadblock.png",
+          "url": "https://leadblockpartners.com/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1710319523 }]
+    },
+    "0xC21DB71648B18C5B9E038d88393C9b254cf8eaC8": {
+      "image": "https://cdn.morpho.org/v2/assets/images/fence_vault.jpg",
+      "description": "EURe Real Yield vault aims to offer yield generated by Real World Assets with very high liquidity and stability.",
+      "forumLink": "",
+      "curators": [
+        {
+          "name": "Fence",
+          "image": "https://cdn.morpho.org/v2/assets/images/fence.svg",
+          "url": "https://www.fence.finance/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1708856351 }]
+    },
+    "0x95EeF579155cd2C5510F312c8fA39208c3Be01a8": {
+      "image": "https://cdn.morpho.org/assets/logos/usdt.svg",
+      "description": "The Re7 USDT Morpho vault curated by Re7 Labs aims to provide an above-market USDT yield by enabling leveraged-yield strategies and supporting high-yield USDT markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+      "curators": [
+        {
+          "name": "RE7 Labs",
+          "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+          "url": "https://www.re7.capital",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1710082643 }]
+    },
+    "0x8CB3649114051cA5119141a34C200D65dc0Faa73": {
+      "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+      "description": "The USDT Prime vault will whitelist highly liquid, large-cap collateral markets and continuously optimize for risk-adjusted yield across collateral markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1711066619 }]
+    },
+    "0x500331c9fF24D9d11aee6B07734Aa72343EA74a5": {
+      "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+      "description": "The DAI Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1711066739 }]
+    },
+    "0x73e65DBD630f90604062f6E02fAb9138e713edD9": {
+      "image": "https://cdn.morpho.org/assets/logos/dai.svg",
+      "description": "The Spark DAI 1 vault curated by SparkDAO is intended to seamlessly allocate DAI liquidity from Maker to Morpho markets.",
+      "forumLink": "",
+      "curators": [
+        {
+          "name": "SparkDAO",
+          "image": "https://cdn.morpho.org/v2/assets/images/spark.svg",
+          "url": "https://spark.fi/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1710515687 }]
+    },
+    "0xbeEf094333AEdD535c130958c204E84f681FD9FA": {
+      "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+      "description": "The Steakhouse WBTC vault aims to optimize yields by lending WBTC against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1709780063 }]
+    },
+    "0xbEeF087c8430C0f9dCBa39BA866Eb7c22200599B": {
+      "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+      "description": "The Steakhouse EURC vault aims to optimize yields by lending EURC against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine”.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1727440746 }]
+    },
+    "0xBeEf796ae50ba5423857CAc27DD36369cfc8241b": {
+      "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+      "description": "The Steakhouse PAXG vault aims to optimize yields by lending PAXG against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine”.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1727440746 }]
+    },
+    "0xBeEfDA19BC6114633FC17e6d074A6A2b472C756f": {
+      "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+      "description": "The Steakhouse USDS vault aims to optimize yields by lending USDS against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine”.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1727440746 }]
+    },
+    "0xbeef033b4520267C5acFcb45414117b633fCb3Dd": {
+      "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+      "description": "The Steakhouse USDM vault provides a baseline yield from USDM and allows lending against bluechip collaterals.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1727440746 }]
+    },
+    "0xBEEf050ecd6a16c4e7bfFbB52Ebba7846C4b8cD4": {
+      "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+      "description": "The Steakhouse ETH vault aims to optimize yields by lending ETH against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1709780063 }]
+    },
+    "0x4881Ef0BF6d2365D3dd6499ccd7532bcdBCE0658": {
+      "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+      "description": "The WETH Core Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1711733147 }]
+    },
+    "0xbEEf0075e03A5cE0D84d4ACcF3481363E0584F5c": {
+      "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+      "description": "The Steakhouse M vault aims to optimize yields by lending wM against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine“.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1727711659 }]
+    },
+    "0xBeEf11eCb698f4B5378685C05A210bdF71093521": {
+      "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+      "description": "The Steakhouse rUSD vault allows Reservoir Protocol to deploy rUSD against bluechip crypto and RWA collaterals.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1727711731 }]
+    },
+    "0xbEEFC01767ed5086f35deCb6C00e6C12bc7476C1": {
+      "image": "https://cdn.morpho.org/v2/assets/images/coinshift-usdl-vault.svg",
+      "description": "Coinshift's USDL provides users with exposure to the yield-bearing stablecoin Paxos USDL, while offering an higher yield on the borrowed part. Using a yield-bearing stablecoin as base asset enhances efficiency (\"optimal dual-engine\"). The vault is curated by Steakhouse on behalf of Coinshift.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1731579924 }]
+    },
+    "0x89D80f5e9BC88d8021b352064ae73F0eAf79EBd8": {
+      "image": "https://cdn.morpho.org/assets/logos/usda.svg",
+      "description": "The Re7 USDA vault curated by Re7 Labs aims to provide an above-market USDA yield by enabling leveraged-yield strategies and supporting high-yield USDA markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+      "curators": [
+        {
+          "name": "RE7 Labs",
+          "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+          "url": "https://www.re7.capital",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1712920727 }]
+    },
+    "0xdC94785959B73F7A168452b3654E44fEc6A750e4": {
+      "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+      "description": "The LBTC Core Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1732195009 }]
+    },
+    "0x125D41A6e5dbf455cD9Df8F80BCC6fd172D52Cc6": {
+      "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+      "description": "The USDA Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1712853383 }]
+    },
+    "0x67315dd969B8Cd3a3520C245837Bf71f54579C75": {
+      "image": "https://cdn.morpho.org/assets/logos/crvusd.svg",
+      "description": "The LlamaRisk crvUSD Vault whitelists a range of Convex-wrapped Curve LPs as collateral types and continuously optimizes risk-adjusted yield across those markets. Simply deposit Curve LPs and Morpho will automatically wrap them on Convex to earn additional rewards, claimable on the Convex UI. Informations to interact with the vault markets are available in the dedicated forum page.",
+      "forumLink": "https://forum.morpho.org/t/about-the-llama-risk-category/704",
+      "curators": [
+        {
+          "name": "LlamaRisk",
+          "image": "https://cdn.morpho.org/assets/logos/crvusd.svg",
+          "url": "https://www.llamarisk.com/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1712926415 }]
+    },
+    "0x8eB67A509616cd6A7c1B3c8C21D48FF57df3d458": {
+      "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+      "description": "The USDC Core Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1714594067 }]
+    },
+    "0xBE40491F3261Fd42724F1AEb465796eb11c06ddF": {
+      "image": "https://cdn.morpho.org/assets/logos/eth.svg",
+      "description": "The Re7 FRAX vault curated by Re7 Labs is intended to seamlessly allocate FRAX liquidity to various Morpho markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+      "curators": [
+        {
+          "name": "RE7 Labs",
+          "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+          "url": "https://www.re7.capital",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1712920727 }]
+    },
+    "0x60d715515d4411f7F43e4206dc5d4a3677f0eC78": {
+      "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "description": "The Re7 USDC vault curated by Re7 Labs is intended to seamlessly allocate USDC liquidity to various Morpho markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+      "curators": [
+        {
+          "name": "RE7 Labs",
+          "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+          "url": "https://www.re7.capital",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1716673499 }]
+    },
+    "0x78B18E07dc43017fcEaabaD0751d6464c0F56b25": {
+      "image": "https://cdn.morpho.org/v2/assets/images/metronome.svg",
+      "description": "The Metronome msETH vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those collateral markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1728288029 }]
+    },
+    "0x6859B34a9379122d25A9FA46f0882d434fee36c3": {
+      "image": "https://cdn.morpho.org/v2/assets/images/metronome.svg",
+      "description": "The Metronome msUSD vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those collateral markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1733164632 }]
+    },
+    "0x4F460bb11cf958606C69A963B4A17f9DaEEea8b6": {
+      "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "description": "The f(x) Protocol USDC vault lends against assets in the f(x) protocol ecosystem in partnership with Aladdin DAO.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+      "curators": [
+        {
+          "name": "RE7 Labs",
+          "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+          "url": "https://www.re7.capital",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1719822887 }]
+    },
+    "0xc080f56504e0278828A403269DB945F6c6D6E014": {
+      "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+      "description": "The eUSD Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those collateral markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1721110523 }]
+    },
+    "0xd63070114470f685b75B74D60EEc7c1113d33a3D": {
+      "image": "https://cdn.morpho.org/v2/assets/images/usual.svg",
+      "description": "The Usual Boosted USDC provides a set of liquid collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
+      "forumLink": "https://forum.morpho.org/t/usual-boosted-usdc-vault-whitelisting/686",
+      "curators": [
+        {
+          "name": "MEV Capital",
+          "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+          "url": "https://mevcapital.com/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1721834135 }]
+    },
+    "0x1265a81d42d513Df40d0031f8f2e1346954d665a": {
+      "image": "https://cdn.morpho.org/v2/assets/images/mceusdc.svg",
+      "description": "The Elixir vault curated by MEV Capital is focused on supplying liquidity to Elixir protocol markets. It offers borrowers access to attractive rates through Elixir’s incentives and provides suppliers with a competitive APR.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+      "curators": [
+        {
+          "name": "MEV Capital",
+          "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+          "url": "https://mevcapital.com/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1725871227 }]
+    },
+    "0x1c530D6de70c05A81bF1670157b9d928e9699089": {
+      "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+      "description": "The WBTC vault curated by MEV Capital is focused on supplying liquidity to WBTC markets. It offers borrowers access to attractive rates through BTC LRTs incentives and provides suppliers with a competitive APR.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+      "curators": [
+        {
+          "name": "MEV Capital",
+          "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+          "url": "https://mevcapital.com/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1726477784 }]
+    },
+    "0x225C119fFaf1CaddCfCDb493283eDF4b816Bf773": {
+      "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+      "description": "The Usual Boosted USDT Morpho vault curated by MEV Capital is dedicated to providing capital to Usual protocol markets. It gives access to extra incentives from Usual to boost the USDT APR for borrowers.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+      "curators": [
+        {
+          "name": "MEV Capital",
+          "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+          "url": "https://mevcapital.com/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1727074414 }]
+    },
+    "0x43fD147d5319B8Cf39a6e57143684Efca9CF3613": {
+      "image": "https://cdn.morpho.org/assets/logos/tbtc.svg",
+      "description": "The Re7 tBTC Morpho Vault curated by Re7 Labs aims to provide an above-market tBTC yield by enabling leveraged-yield strategies and supporting high-yield tBTC markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+      "curators": [
+        {
+          "name": "RE7 Labs",
+          "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+          "url": "https://www.re7.capital",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1724675505 }]
+    },
+    "0x9a8bC3B04b7f3D87cfC09ba407dCED575f2d61D8": {
+      "image": "https://cdn.morpho.org/assets/logos/eth.svg",
+      "description": "The MEVCap WETH Morpho vault, curated by MEV Capital, aims at optimizing risk-adjusted interest by lending wrapped ETH (wETH) to borrow a whitelisted range of Liquid Staking Token (LST) and Liquid Restaking Token (LRT) as collateralized assets on Ethereum Chain.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+      "curators": [
+        {
+          "name": "MEV Capital",
+          "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+          "url": "https://mevcapital.com/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1722192299 }]
+    },
+    "0x2f1aBb81ed86Be95bcf8178bA62C8e72D6834775": {
+      "image": "https://cdn.morpho.org/v2/assets/images/pendle-wbtc-vault.svg",
+      "description": "The Pendle WBTC vault curated by MEV Capital is dedicated to providing capital to the BTC LSTs PT markets from Pendle. This vault serves correlated markets only and aims to optimize both liquidation risk management and APR from leverage loopers.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+      "curators": [
+        {
+          "name": "MEV Capital",
+          "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+          "url": "https://mevcapital.com/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1730974826 }]
+    },
+    "0x443df5eEE3196e9b2Dd77CaBd3eA76C3dee8f9b2": {
+      "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+      "description": "The WBTC Core Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1722941591 }]
+    },
+    "0xc554929a61d862F2741077F8aafa147479c0b308": {
+      "image": "https://cdn.morpho.org/v2/assets/images/index_coop_hyeth_vault.png",
+      "description": "The Index Coop High Yield ETH Index (hyETH) is a Gauntlet curated vault that optimizes risk-adjusted yield for ETH holders by allocating deposits across eth denominated, high-yield lending opportunities. Gauntlet uses its expertise to actively manage allocations, targeting diverse markets with stable yields above the Lido staking rate. Deposit into the vault via the Index Coop App Site for optimal performance.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [
+        { "action": "added", "timestamp": 1733740167 },
+        { "action": "removed", "timestamp": 1736761077 }
+      ]
+    },
+    "0x1B4cd53a1A8e5F50aB6320EF34E5fB4D3df7B6f6": {
+      "image": "https://cdn.morpho.org/assets/logos/ausd.svg",
+      "description": "The AUSD Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those collateral markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1724673384 }]
+    },
+    "0x4Ff4186188f8406917293A9e01A1ca16d3cf9E59": {
+      "image": "https://cdn.morpho.org/assets/logos/sbmorphousdc.svg",
+      "description": "The SwissBorg USDC vault focuses on optimizing risk-adjusted returns in high-liquidity collateral markets with dynamic asset allocation and strict adherence to Gauntlet’s risk management practices. Deposit into that vault via the SwissBorg App.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1725436028 }]
+    },
+    "0x0F359FD18BDa75e9c49bC027E7da59a4b01BF32a": {
+      "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "description": "The Relend Boosted USDC vault serves as a pre-deposit vault for Relend Network. Users who supply USDC will collect RELEND units and have the option to access Relend Network once live. Collateral markets are selected for competitive yield and long term partner alignment.",
+      "forumLink": "https://forum.morpho.org/c/vaults/b-protocol-relend-network/33",
+      "curators": [
+        {
+          "name": "B.Protocol",
+          "image": "https://cdn.morpho.org/v2/assets/images/bprotocol.png",
+          "url": "https://www.bprotocol.org/",
+          "verified": true
+        },
+        {
+          "name": "Relend Network",
+          "image": "https://cdn.morpho.org/v2/assets/images/relend.png",
+          "url": "https://relend.network/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1728631501 }]
+    },
+    "0x45c1875f1c48622b3d9740af2d7dc62bc9a72422": {
+      "image": "https://cdn.morpho.org/assets/logos/xaum.svg",
+      "description": "The Relend Gold vault serves as a pre-deposit vault for Relend Network. Users who supply XAUM will collect RELEND units and have the option to access Relend Network once live. Collateral markets are selected for competitive yield and long term partner alignment.",
+      "forumLink": "https://forum.morpho.org/c/vaults/b-protocol-relend-network/33",
+      "curators": [
+        {
+          "name": "B.Protocol",
+          "image": "https://cdn.morpho.org/v2/assets/images/bprotocol.png",
+          "url": "https://www.bprotocol.org/",
+          "verified": true
+        },
+        {
+          "name": "Relend Network",
+          "image": "https://cdn.morpho.org/v2/assets/images/relend.png",
+          "url": "https://relend.network/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1734413464 }]
+    },
+    "0xB9C9158aB81f90996cAD891fFbAdfBaad733c8C6": {
+      "image": "https://cdn.morpho.org/assets/logos/cbbtc.svg",
+      "description": "The Relend Boosted cbBTC vault serves as a pre-deposit vault for Relend Network. Users who supply cbBTC will collect RELEND units and have the option to access Relend Network once live. Collateral markets are selected for competitive yield and long term partner alignment.",
+      "forumLink": "https://forum.morpho.org/c/vaults/b-protocol-relend-network/33",
+      "curators": [
+        {
+          "name": "B.Protocol",
+          "image": "https://cdn.morpho.org/v2/assets/images/bprotocol.png",
+          "url": "https://www.bprotocol.org/",
+          "verified": true
+        },
+        {
+          "name": "Relend Network",
+          "image": "https://cdn.morpho.org/v2/assets/images/relend.png",
+          "url": "https://relend.network/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1730973869 }]
+    },
+    "0xBEeFFF209270748ddd194831b3fa287a5386f5bC": {
+      "image": "https://cdn.morpho.org/v2/assets/images/smokehouse_usdc.svg",
+      "description": "The Smokehouse USDC vault aims to optimize for yield on a wide range of collaterals.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1733839503 }]
+    },
+    "0xbeeFfF68CC520D68f82641EFF84330C631E2490E": {
+      "image": "https://cdn.morpho.org/v2/assets/images/smokehouse_dai.svg",
+      "description": "The Smokehouse DAI vault aims to optimize for yield on a wide range of collaterals.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1733839503 }]
+    },
+    "0x214B47C50057eFaa7adc1B1C2608C3751Cd77D78": {
+      "image": "https://cdn.morpho.org/v2/assets/images/resolv-vault.png",
+      "description": "Apostro Resolv USDC vault is optimized for Resolv point farming and supports carry trade for the market-neutral strategy.",
+      "forumLink": "https://forum.morpho.org/c/vaults/apostro/35",
+      "curators": [
+        {
+          "name": "Apostro",
+          "image": "https://cdn.morpho.org/v2/assets/images/apostro.svg",
+          "url": "https://apostro.xyz",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1736348517 }]
+    },
+    "0xd5ac156319f2491d4ad1ec4aa5ed0ed48c0fa173": {
+      "image": "https://cdn.morpho.org/v2/assets/images/9summits-usdc.svg",
+      "description": "The 9Summits USDC Core Vault will allocate to a range of liquid assets in order to provide the best risk adjusted yield to its users.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/9summits/34",
+      "curators": [
+        {
+          "name": "9Summits",
+          "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
+          "url": "https://9summits.io/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1736950085 }]
+    },
+    "0xE0C98605f279e4D7946d25B75869c69802823763": {
+      "image": "https://cdn.morpho.org/assets/logos/wbtc.svg",
+      "description": "The Re7 WBTC Morpho vault curated by Re7 Labs aims to provide an above-market WBTC yield by enabling leveraged-yield strategies and supporting high-yield WBTC markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+      "curators": [
+        {
+          "name": "RE7 Labs",
+          "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+          "url": "https://www.re7.capital",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1724763183 }]
+    }
+  },
+  "8453": {
+    "0x7BfA7C4f149E7415b73bdeDfe609237e29CBF34A": {
+      "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "description": "Spark Liquidity Layer USDC Automated Market Operations Vault. This vault is open to others. Rulesets are defined by SparkDAO.",
+      "forumLink": "",
+      "curators": [
+        {
+          "name": "SparkDAO",
+          "image": "https://cdn.morpho.org/v2/assets/images/spark.svg",
+          "url": "https://spark.fi/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1737032400 }]
+    },
+    "0xbeeF010f9cb27031ad51e3333f9aF9C6B1228183": {
+      "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+      "description": "The Steakhouse USDC vault aims to optimize yields by lending USDC against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1717444929 }]
+    },
+    "0xA2Cac0023a4797b4729Db94783405189a4203AFc": {
+      "image": "https://cdn.morpho.org/assets/logos/eth.svg",
+      "description": "The Re7 WETH Morpho vault curated by Re7 Labs aims to outperform staked ETH yields by lending WETH against a diverse set of Liquid Staking and Liquid Restaking Token collateral markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+      "curators": [
+        {
+          "name": "RE7 Labs",
+          "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+          "url": "https://www.re7.capital",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1718041891 }]
+    },
+    "0xBeEF086b8807Dc5E5A1740C5E3a7C4c366eA6ab5": {
+      "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+      "description": "The Steakhouse EURC vault aims to optimize yields by lending EURC against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine”.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1727440746 }]
+    },
+    "0xeE8F4eC5672F09119b96Ab6fB59C27E1b7e44b61": {
+      "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+      "description": "The Gauntlet USDC Prime vault aims to optimize for risk-adjusted yield across large market cap and high liquidity collateral markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1717444929 }]
+    },
+    "0x6770216aC60F634483Ec073cBABC4011c94307Cb": {
+      "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+      "description": "The cbBTC Core Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1732195607 }]
+    },
+    "0xbEEf050a7485865A7a8d8Ca0CC5f7536b7a3443e": {
+      "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+      "description": "The Steakhouse ETH vault aims to optimize yields by lending ETH against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1718116993 }]
+    },
+    "0xc0c5689e6f4D256E861F65465b691aeEcC0dEb12": {
+      "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+      "description": "The USDC Core Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1717450107 }]
+    },
+    "0x616a4E1db48e22028f6bbf20444Cd3b8e3273738": {
+      "image": "https://cdn.morpho.org/v2/assets/images/seamless-vault.png",
+      "description": "The Seamless USDC Flagship Vault curated by Gauntlet is intended to optimize risk-adjusted yield across high-demand collateral markets on Base.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1736761077 }]
+    },
+    "0x6b13c060F13Af1fdB319F52315BbbF3fb1D88844": {
+      "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+      "description": "The WETH Core Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1717453325 }]
+    },
+    "0x12AFDeFb2237a5963e7BAb3e2D46ad0eee70406e": {
+      "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "description": "The Re7 USDC vault curated by Re7 Labs is intended to seamlessly allocate USDC liquidity to various Morpho markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+      "curators": [
+        {
+          "name": "RE7 Labs",
+          "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+          "url": "https://www.re7.capital",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1718041891 }]
+    },
+    "0xf24608E0CCb972b0b0f4A6446a0BBf58c701a026": {
+      "image": "https://cdn.morpho.org/assets/logos/eurc.svg",
+      "description": "The Moonwell Flagship EURC Morpho vault curated by B.Protocol and Block Analitica is intended to optimize risk-adjusted interest earned from blue-chip collateral markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/blockanalitica-b-protocol/20",
+      "curators": [
+        {
+          "name": "Block Analitica",
+          "image": "https://cdn.morpho.org/v2/assets/images/block-analitica.png",
+          "url": "https://morpho.blockanalitica.com/",
+          "verified": true
+        },
+        {
+          "name": "B.Protocol",
+          "image": "https://cdn.morpho.org/v2/assets/images/bprotocol.png",
+          "url": "https://www.bprotocol.org/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1726556814 }]
+    },
+    "0xc1256Ae5FF1cf2719D4937adb3bbCCab2E00A2Ca": {
+      "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "description": "The Moonwell Flagship USDC Morpho vault curated by B.Protocol and Block Analitica is intended to optimize risk-adjusted interest earned from blue-chip collateral markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/blockanalitica-b-protocol/20",
+      "curators": [
+        {
+          "name": "Block Analitica",
+          "image": "https://cdn.morpho.org/v2/assets/images/block-analitica.png",
+          "url": "https://morpho.blockanalitica.com/",
+          "verified": true
+        },
+        {
+          "name": "B.Protocol",
+          "image": "https://cdn.morpho.org/v2/assets/images/bprotocol.png",
+          "url": "https://www.bprotocol.org/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1718030247 }]
+    },
+    "0xa0E430870c4604CcfC7B38Ca7845B1FF653D0ff1": {
+      "image": "https://cdn.morpho.org/assets/logos/eth.svg",
+      "description": "The Moonwell Flagship ETH Morpho vault curated by B.Protocol and Block Analitica is intended to optimize risk-adjusted interest earned from blue-chip collateral markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/blockanalitica-b-protocol/20",
+      "curators": [
+        {
+          "name": "Block Analitica",
+          "image": "https://cdn.morpho.org/v2/assets/images/block-analitica.png",
+          "url": "https://morpho.blockanalitica.com/",
+          "verified": true
+        },
+        {
+          "name": "B.Protocol",
+          "image": "https://cdn.morpho.org/v2/assets/images/bprotocol.png",
+          "url": "https://www.bprotocol.org/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1718030363 }]
+    },
+    "0x70F796946eD919E4Bc6cD506F8dACC45E4539771": {
+      "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "description": "The Relend Boosted ETH vault also serves as a pre-deposit vault for Relend Network. Users who supply ETH will collect RELEND units and have the option to access Relend Network once live. Collateral markets are selected for competitive yield and long term partner alignment.",
+      "forumLink": "https://forum.morpho.org/c/vaults/b-protocol-relend-network/33",
+      "curators": [
+        {
+          "name": "B.Protocol",
+          "image": "https://cdn.morpho.org/v2/assets/images/bprotocol.png",
+          "url": "https://www.bprotocol.org/",
+          "verified": true
+        },
+        {
+          "name": "Relend Network",
+          "image": "https://cdn.morpho.org/v2/assets/images/relend.png",
+          "url": "https://relend.network/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1728631501 }]
+    },
+    "0x543257ef2161176d7c8cd90ba65c2d4caef5a796": {
+      "image": "https://cdn.morpho.org/assets/logos/cbbtc.svg",
+      "description": "The Moonwell Frontier cbBTC Morpho vault curated by B.Protocol and Block Analitica is intended to optimize risk-adjusted interest earned from BTC liquid restaking tokens as collateral.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/blockanalitica-b-protocol/20",
+      "curators": [
+        {
+          "name": "Block Analitica",
+          "image": "https://cdn.morpho.org/v2/assets/images/block-analitica.png",
+          "url": "https://morpho.blockanalitica.com/",
+          "verified": true
+        },
+        {
+          "name": "B.Protocol",
+          "image": "https://cdn.morpho.org/v2/assets/images/bprotocol.png",
+          "url": "https://www.bprotocol.org/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1733757620 }]
+    },
+    "0xdB90A4e973B7663ce0Ccc32B6FbD37ffb19BfA83": {
+      "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "description": "The Degen USDC vault supplies in DEGEN collateral markets and other long tail coins in the Base ecosystem.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+      "curators": [
+        {
+          "name": "RE7 Labs",
+          "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+          "url": "https://www.re7.capital",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1718641389 }]
+    },
+    "0x8c3A6B12332a6354805Eb4b72ef619aEdd22BcdD": {
+      "image": "https://cdn.morpho.org/assets/logos/degen.svg",
+      "description": "The Morpho Degen vault supplies in DEGEN loan markets in the Base ecosystem.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+      "curators": [
+        {
+          "name": "RE7 Labs",
+          "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+          "url": "https://www.re7.capital",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1718959651 }]
+    },
+    "0x30B8A2c8E7Fa41e77b54b8FaF45c610e7aD909E3": {
+      "image": "https://cdn.morpho.org/assets/logos/mai.svg",
+      "description": "The Morpho MAI vault supplies MAI into various collateral markets in the Base ecosystem.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+      "curators": [
+        {
+          "name": "RE7 Labs",
+          "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+          "url": "https://www.re7.capital",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1718962479 }]
+    },
+    "0xBEef03f0BF3cb2e348393008a826538AaDD7d183": {
+      "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+      "description": "The Steakhouse USDM vault is built on top of Mountain Protocol USDM, a regulated yield-bearing stablecoin. The vault allows USDM holders to earn additional yield by lending against blue chip crypto and real world asset (RWA) collateral markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1718268841 }]
+    },
+    "0x6e37C95b43566E538D8C278eb69B00FC717a001b": {
+      "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "description": "The Re7 RWA vault supplies USDC against various real-world yield bearing assets. In collaboration with Centrifuge, this vault only accepts USDC from Coinbase Attested wallets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+      "curators": [
+        {
+          "name": "RE7 Labs",
+          "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+          "url": "https://www.re7.capital",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1724677433 }]
+    },
+    "0xbb819D845b573B5D7C538F5b85057160cfb5f313": {
+      "image": "https://cdn.morpho.org/assets/logos/eusd.svg",
+      "description": "The Morpho eUSD vault supplies eUSD to various collateral markets with a focus on the Reserve Protocol ecosystem.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+      "curators": [
+        {
+          "name": "RE7 Labs",
+          "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+          "url": "https://www.re7.capital",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1720288205 }]
+    },
+    "0xbEEfa1aBfEbE621DF50ceaEF9f54FdB73648c92C": {
+      "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+      "description": "The Steakhouse USDA vault aims to provide a cost effective way to borrow USDA against bluechip collaterals. Steakhouse is curating the vault for the Angle DAO (which is the guardian).",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1718268841 }]
+    },
+    "0xBEeFA28D5e56d41D35df760AB53B94D9FfD7051F": {
+      "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+      "description": "The Steakhouse EURA vault aims to provide a cost effective way to borrow EURA against bluechip collaterals. Steakhouse is curating the vault for the Angle DAO (which is the guardian).",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1718268841 }]
+    },
+    "0x80D9964fEb4A507dD697b4437Fc5b25b618CE446": {
+      "image": "https://cdn.morpho.org/assets/logos/eth.svg",
+      "description": "This vault curated by Re7 Labs exclusively uses Pyth oracles to secure various collateral markets in the Base ecosystem",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+      "curators": [
+        {
+          "name": "RE7 Labs",
+          "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+          "url": "https://www.re7.capital",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1722934863 }]
+    },
+    "0x0FaBfEAcedf47e890c50C8120177fff69C6a1d9B": {
+      "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "description": "This vault curated by Re7 Labs exclusively uses Pyth oracles to secure various collateral markets in the Base ecosystem",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+      "curators": [
+        {
+          "name": "RE7 Labs",
+          "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+          "url": "https://www.re7.capital",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1722934863 }]
+    },
+    "0xbEefc4aDBE58173FCa2C042097Fe33095E68C3D6": {
+      "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "description": "The Steakhouse USDC RWA vault supplies USDC against various real-world yield bearing assets. In collaboration with Centrifuge, this vault only accepts USDC from Coinbase Attested wallets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+      "curators": [
+        {
+          "name": "Steakhouse Financial",
+          "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+          "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1724743075 }]
+    },
+    "0x1c155be6bC51F2c37d472d4C2Eba7a637806e122": {
+      "image": "https://cdn.morpho.org/assets/logos/eurc.svg",
+      "description": "The EURC Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those collateral markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1726148043 }]
+    },
+    "0xB7890CEE6CF4792cdCC13489D36D9d42726ab863": {
+      "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
+      "description": "The Universal USDC vault supplies USDC against assets issued by Universal, a wrapped asset protocol designed to enable trading for any token, on any chain.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+      "curators": [
+        {
+          "name": "RE7 Labs",
+          "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+          "url": "https://www.re7.capital",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1727965754 }]
+    },
+    "0x43Cd00De63485618A5CEEBE0de364cD6cBeB26E7": {
+      "image": "https://cdn.morpho.org/v2/assets/images/metronome.svg",
+      "description": "The Metronome msETH vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those collateral markets.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1730111100 }]
+    },
+    "0x0D05e6ec0A10f9fFE9229EAA785c11606a1d13Fb": {
+      "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+      "description": "The LBTC Core Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1734599395 }]
+    },
+    "0x9aB2d181E4b87ba57D5eD564D3eF652C4E710707": {
+      "image": "https://cdn.morpho.org/v2/assets/images/ionic_vault.svg",
+      "description": "The Ionic Ecosystem WETH Vault curated by Gauntlet is intended to optimize risk-adjusted yield across high-demand collateral markets on Base.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1734079200 }]
+    },
+    "0xCd347c1e7d600a9A3e403497562eDd0A7Bc3Ef21": {
+      "image": "https://cdn.morpho.org/v2/assets/images/ionic_vault.svg",
+      "description": "The Ionic Ecosystem USDC Vault curated by Gauntlet is intended to optimize risk-adjusted yield across high-demand collateral markets on Base.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1734079200 }]
+    },
+    "0x23479229e52Ab6aaD312D0B03DF9F33B46753B5e": {
+      "image": "https://cdn.morpho.org/v2/assets/images/ionic_vault.svg",
+      "description": "The Ionic Ecosystem USDC Vault curated by Gauntlet is intended to optimize risk-adjusted yield across high-demand collateral markets on Base.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1735577412 }]
+    },
+    "0x5A32099837D89E3a794a44fb131CBbAD41f87a8C": {
+      "image": "https://cdn.morpho.org/v2/assets/images/ionic_vault.svg",
+      "description": "The Ionic Ecosystem WETH Vault curated by Gauntlet is intended to optimize risk-adjusted yield across high-demand collateral markets on Base.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+      "curators": [
+        {
+          "name": "Gauntlet",
+          "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+          "url": "https://www.gauntlet.xyz/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1735577412 }]
+    },
+    "0x74B6EA9BFee07C3756969b0139CFacBBa5845969": {
+      "image": "https://cdn.morpho.org/assets/logos/cdxusd.svg",
+      "description": "The Morpho Re7 cdxUSD vault supplies in cdxUSD loan markets in the Base ecosystem.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+      "curators": [
+        {
+          "name": "RE7 Labs",
+          "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+          "url": "https://www.re7.capital",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1735651789 }]
+    },
+    "0xF540D790413FCFAedAC93518Ae99EdDacE82cb78": {
+      "image": "https://cdn.morpho.org/v2/assets/images/9summits-eth.svg",
+      "description": "The 9Summits WETH Core Vault will allocate to a range of liquid assets in order to provide the best risk adjusted yield to its users.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/9summits/34",
+      "curators": [
+        {
+          "name": "9Summits",
+          "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
+          "url": "https://9summits.io/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1736149189 }]
+    },
+    "0x5496b42ad0decebfab0db944d83260e60d54f667": {
+      "image": "https://cdn.morpho.org/v2/assets/images/9summits-eth.svg",
+      "description": "The 9Summits WETH Core Vault 1.1 will allocate to a range of liquid assets in order to provide the best risk adjusted yield to its users.",
+      "forumLink": "https://forum.morpho.org/c/metamorpho/9summits/34",
+      "curators": [
+        {
+          "name": "9Summits",
+          "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
+          "url": "https://9summits.io/",
+          "verified": true
+        }
+      ],
+      "history": [{ "action": "added", "timestamp": 1736759522 }]
+    }
+  }
+}
