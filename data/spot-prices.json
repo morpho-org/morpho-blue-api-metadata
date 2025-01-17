@@ -1,0 +1,857 @@
+[
+  {
+    "assetAddress": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+    "contractAddress": "0xc8219b876753A85025156b22176c2eDEA17aAC53",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 21235584}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842",
+    "contractAddress": "0x2F42Df4aF5312B492E9d7F7b2110D9c7bf2D9e4F",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 1, \"first_block_number\": 22698786}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
+  },
+  {
+    "assetAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "contractAddress": "0xcbcdf9626bc03e24f779434178a73a0b4bad62ed",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x5fD13359Ba15A84B76f7F87568309040176167cd",
+    "contractAddress": "0xf3ae577b0ce3f7cfba28b5d07eccee54a959ef3c",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 21127771}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x5fD13359Ba15A84B76f7F87568309040176167cd",
+    "contractAddress": "0x109830a1aaad605bbf02a9dfa7b0b92ec2fb7daa",
+    "order": 1,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 21127771}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "contractAddress": "0xc63b0708e2f7e69cb8a1df0e1389a98c35a76d52",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "contractAddress": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+    "order": 1,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xae78736Cd615f374D3085123A210448E74Fc6393",
+    "contractAddress": "0x553e9c493678d8606d6a5ba284643db2110df823",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+    "contractAddress": "0x109830a1aaad605bbf02a9dfa7b0b92ec2fb7daa",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x808507121b80c02388fad14726482e061b8da827",
+    "contractAddress": "0x57af956d3e2cca3b86f3d8c6772c03ddca3eaacb",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 21172576}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+    "contractAddress": "0x63818bbdd21e69be108a23ac1e84cbf66399bd7d",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704",
+    "contractAddress": "0x840deeef2f115cf50da625f7368c24af6fe74410",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "contractAddress": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "contractAddress": "0xc2e9f25be6257c210d7adf0d4cd6e3e881ba25f8",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x0000000000085d4780B73119b644AE5ecd22b376",
+    "contractAddress": "0x714b8443d0ada18ece1fce5702567e313bfa8f29",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "contractAddress": "0x4e68ccd3e89f51c3074ca5072bbac773960dfa36",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 1, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919",
+    "contractAddress": "0x0dc9877f6024ccf16a470a74176c9260beb83ab6",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
+    "contractAddress": "0x13394005c1012e708fce1eb974f1130fdc73a5ce",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
+    "contractAddress": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+    "order": 1,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",
+    "contractAddress": "0x5c95d4b1c3321cf898d25949f41d50be2db5bc1d",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",
+    "contractAddress": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+    "order": 1,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6",
+    "contractAddress": "0x1c5c60bef00c820274d4938a5e6d04b124d4910b",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6",
+    "contractAddress": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+    "order": 1,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+    "contractAddress": "0xa6cc3c2531fdaa6ae1a3ca84c2855806728693e8",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+    "contractAddress": "0x1d42064fc4beb5f8aaf85f4617ae8b3b5b8bd801",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+    "contractAddress": "0xede8dd046586d22625ae7ff2708f879ef7bdb8cf",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+    "contractAddress": "0xe8c6c9227491c0a8156a0106a0204d881bb7e531",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+    "contractAddress": "0xea4ba4ce14fdd287f380b55419b1c5b6c3f22ab6",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+    "contractAddress": "0x9e7809c21ba130c1a51c112928ea6474d9a9ae3c",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+    "contractAddress": "0x5ab53ee1d50eef2c1dd3d5402789cd27bb52c1bb",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+    "contractAddress": "0x2e8daf55f212be91d3fa882cceab193a08fddeb2",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+    "contractAddress": "0x14424eeecbff345b38187d0b8b749e56faa68539",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 1, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+    "contractAddress": "0xcd8286b48936cdac20518247dbd310ab681a9fbf",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+    "contractAddress": "0x919fa96e88d67499339577fa202345436bcdaf79",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 1, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+    "contractAddress": "0x290a6a7460b308ee3f19023d2d00de604bcf5b42",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x111111111117dC0aa78b770fA6A738034120C302",
+    "contractAddress": "0xe931b03260b2854e77e8da8378a1bc017b13cb97",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+    "contractAddress": "0x73a6a761fe483ba19debb8f56ac5bbf14c0cdad1",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+    "contractAddress": "0xac4b3dacb91461209ae9d41ec517c2b9cb1b7daf",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x090185f2135308BaD17527004364eBcC2D37e5F6",
+    "contractAddress": "0x2138a12520c9b45bb4b2c742923b514d5f662fec",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
+    "contractAddress": "0xe42318ea3b998e8355a3da364eb9d48ec725eb45",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 1, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
+    "contractAddress": "0x8592064903ef23d34e4d5aaaed40abf6d96af186",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 1, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
+    "contractAddress": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+    "order": 1,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x437cc33344a0B27A429f795ff6B469C72698B291",
+    "contractAddress": "0x970a7749ecaa4394c8b2bf5f2471f41fd6b79288",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 20883607}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x437cc33344a0B27A429f795ff6B469C72698B291",
+    "contractAddress": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+    "order": 1,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 20883607}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B",
+    "contractAddress": "0x2e4784446a0a06df3d1a040b03e1680ee266c35a",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+    "contractAddress": "0xd9ed2b5f292a0e319a04e6c1aca15df97705821c",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+    "contractAddress": "0xae614a7a56cb79c04df2aeba6f5dab80a39ca78e",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
+    "contractAddress": "0xe16be1798f860bc1eb0feb64cd67ca00ae9b6e58",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 1, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+    "contractAddress": "0x0e2c4be9f3408e5b1ff631576d946eb8c224b5ed",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 1, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
+    "contractAddress": "0xcd83055557536eff25fd0eafbc56e74a1b4260b3",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+    "contractAddress": "0xa3f558aebaecaf0e11ca4b2199cc5ed341edfd74",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x3472A5A71965499acd81997a54BBA8D852C6E53d",
+    "contractAddress": "0xe15e6583425700993bd08f51bf6e7b73cd5da91b",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 1, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x3472A5A71965499acd81997a54BBA8D852C6E53d",
+    "contractAddress": "0xcbcdf9626bc03e24f779434178a73a0b4bad62ed",
+    "order": 1,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+    "contractAddress": "0x5b97b125cf8af96834f2d08c8f1291bd47724939",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+    "contractAddress": "0x92560c178ce069cc014138ed3c2f5221ba71f58a",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 1, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+    "contractAddress": "0x9902affdd3b8ef60304958c60377110c6d6ab1df",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+    "contractAddress": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+    "order": 1,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+    "contractAddress": "0x95dbb3c7546f22bce375900abfdd64a4e5bd73d6",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+    "contractAddress": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+    "order": 1,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+    "contractAddress": "0x9dff4b5ae4fd673213502ab8fbf6d36015efb3e1",
+    "order": 0,
+    "type": "aerodrome",
+    "data": "{ \"token_in\": \"0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42\", \"token_in_decimals\": 6, \"token_out_decimals\": 18, \"first_block_number\": 19077902}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
+  },
+  {
+    "assetAddress": "0x3ee5e23eee121094f1cfc0ccc79d6c809ebd22e5",
+    "contractAddress": "0x0FAc819628a7F612AbAc1CaD939768058cc0170c",
+    "order": 0,
+    "type": "aerodrome",
+    "data": "{ \"token_in\": \"0x3ee5e23eee121094f1cfc0ccc79d6c809ebd22e5\", \"token_in_decimals\": 18, \"token_out_decimals\": 18, \"first_block_number\": 23645050}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
+  },
+  {
+    "assetAddress": "0xC0D3700000987C99b3C9009069E4f8413fD22330",
+    "contractAddress": "0xbba4bca62dc6ac976b160f4f513e517d3326759f",
+    "order": 0,
+    "type": "aerodrome_slip_stream",
+    "data": "{\"in_token\": 1, \"first_block_number\": 23906649}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
+  },
+  {
+    "assetAddress": "0xC0D3700000987C99b3C9009069E4f8413fD22330",
+    "contractAddress": "0xb2cc224c1c9feE385f8ad6a55b4d94E92359DC59",
+    "order": 1,
+    "type": "aerodrome_slip_stream",
+    "data": "{\"in_token\": 1, \"first_block_number\": 23906649}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
+  },
+  {
+    "assetAddress": "0xf1C9acDc66974dFB6dEcB12aA385b9cD01190E38",
+    "contractAddress": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+    "order": 1,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xf1C9acDc66974dFB6dEcB12aA385b9cD01190E38",
+    "contractAddress": "0xc2a6798447bb70e5abcf1b0d6aeec90bc14fca55",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 1, \"first_block_number\": 18714644}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x48C3399719B582dD63eB5AADf12A40B4C3f52FA2",
+    "contractAddress": "0x2af41d838763e3c5cad6adc111af9c5da19b9afa",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xbf5495Efe5DB9ce00f80364C8B423567e58d2110",
+    "contractAddress": "0xBE80225f09645f172B079394312220637C440A63",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 19077880}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+    "contractAddress": "0x435664008F38B0650fBC1C9fc971D0A3Bc2f1e47",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+    "contractAddress": "0x4e68ccd3e89f51c3074ca5072bbac773960dfa36",
+    "order": 1,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 1, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xc55126051B22eBb829D00368f4B12Bde432de5Da",
+    "contractAddress": "0x3e6E23198679419cD73bB6376518dCc5168c8260",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 1, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
+    "contractAddress": "0x435664008F38B0650fBC1C9fc971D0A3Bc2f1e47",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
+    "contractAddress": "0x4e68ccd3e89f51c3074ca5072bbac773960dfa36",
+    "order": 1,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 1, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
+    "contractAddress": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
+    "order": 2,
+    "type": "ethena_staked_usde_exchange_rate",
+    "data": "{\"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x7FcD174E80f264448ebeE8c88a7C4476AAF58Ea6",
+    "contractAddress": "0x7FcD174E80f264448ebeE8c88a7C4476AAF58Ea6",
+    "order": 0,
+    "type": "erc4626_exchange_rate",
+    "data": "{\"decimals\": 18, \"first_block_number\": \"17829707\"}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
+  },
+  {
+    "assetAddress": "0x7FcD174E80f264448ebeE8c88a7C4476AAF58Ea6",
+    "contractAddress": "0x6446021f4e396da3df4235c62537431372195d38",
+    "order": 1,
+    "type": "aerodrome_slip_stream",
+    "data": "{\"in_token\": 1, \"first_block_number\": 18066601}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
+  },
+  {
+    "assetAddress": "0x31429d1856aD1377A8A0079410B297e1a9e214c2",
+    "contractAddress": "0x51C2841333fbBAb53B7c2c442CC265BF16430d6D",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x320623b8e4ff03373931769a31fc52a4e78b5d70",
+    "contractAddress": "0x32D9259e6792B2150FD50395D971864647FA27B2",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
+    "contractAddress": "0x70BB8E6844DFB681810FD557DD741bCaF027bF94",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xA88594D404727625A9437C3f886C7643872296AE",
+    "contractAddress": "0x89D0F320ac73dd7d9513FFC5bc58D1161452a657",
+    "order": 0,
+    "type": "aerodrome",
+    "data": "{\"token_in\": \"0xA88594D404727625A9437C3f886C7643872296AE\", \"token_in_decimals\": 18, \"first_block_number\": 12369465}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
+  },
+  {
+    "assetAddress": "0xCdF7028ceAB81fA0C6971208e83fa7872994beE5",
+    "contractAddress": "0x752ebeb79963cf0732e9c0fec72a49fd1defaeac",
+    "order": 0,
+    "type": "curve_pool",
+    "data": "{\"first_block_number\": 20200000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x365AccFCa291e7D3914637ABf1F7635dB165Bb09",
+    "contractAddress": "0xC15F285679a1Ef2d25F53D4CbD0265E1D02F2A92",
+    "order": 0,
+    "type": "curve_pool",
+    "data": "{\"first_block_number\": 20200000}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xbf1aeA8670D2528E08334083616dD9C5F3B087aE",
+    "contractAddress": "0x2a1463CeBE85315224c536AfD389b381B43F3206",
+    "order": 0,
+    "type": "aerodrome",
+    "data": "{\"token_in\": \"0xbf1aeA8670D2528E08334083616dD9C5F3B087aE\", \"token_in_decimals\": 18, \"token_out_decimals\": 6, \"first_block_number\": 13977148}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
+  },
+  {
+    "assetAddress": "0xbf1aeA8670D2528E08334083616dD9C5F3B087aE",
+    "contractAddress": "0xcDAC0d6c6C59727a65F871236188350531885C43",
+    "order": 1,
+    "type": "aerodrome",
+    "data": "{\"token_in\": \"0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913\", \"token_in_decimals\": 6, \"first_block_number\": 13977148}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
+  },
+  {
+    "assetAddress": "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396",
+    "contractAddress": "0x61366A4e6b1DB1b85DD701f2f4BFa275EF271197",
+    "order": 0,
+    "type": "aerodrome",
+    "data": "{\"token_in\": \"0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396\", \"token_in_decimals\": 18, \"token_out_decimals\": 6, \"first_block_number\": 13977148}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
+  },
+  {
+    "assetAddress": "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396",
+    "contractAddress": "0x08B935148AB10d3699Cb8d944519e8213abE6f1D",
+    "order": 1,
+    "type": "aerodrome",
+    "data": "{\"token_in\": \"0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376\", \"token_in_decimals\": 6, \"first_block_number\": 13977148}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
+  },
+  {
+    "assetAddress": "0xaB36452DbAC151bE02b16Ca17d8919826072f64a",
+    "contractAddress": "0x95F04B5594e2a944CA91d56933D119841eeF9a99",
+    "order": 0,
+    "type": "aerodrome",
+    "data": "{\"token_in\": \"0xaB36452DbAC151bE02b16Ca17d8919826072f64a\", \"token_in_decimals\": 18, \"first_block_number\": 13977148}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
+  },
+  {
+    "assetAddress": "0xaB36452DbAC151bE02b16Ca17d8919826072f64a",
+    "contractAddress": "0x6B87B8663eE63191887F18225F79D9eEb2DE0d34",
+    "order": 1,
+    "type": "aerodrome",
+    "data": "{\"token_in\": \"0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff\", \"token_in_decimals\": 18, \"first_block_number\": 13977148}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
+  },
+  {
+    "assetAddress": "0x6DF0E641FC9847c0c6Fde39bE6253045440c14d3",
+    "contractAddress": "0x7138eAe57e8a214F7297E5E67bB6e183dF3572D5",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 20362387}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x2b51E2Ec9551F9B87B321f63b805871f1c81ba97",
+    "contractAddress": "0x7270233cCAE676e776a659AFfc35219e6FCfbB10",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 1, \"first_block_number\": 18700000}",
+    "assetChainId": 8453,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x2b51E2Ec9551F9B87B321f63b805871f1c81ba97",
+    "contractAddress": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+    "order": 1,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 18700000}",
+    "assetChainId": 8453,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xD0097149AA4CC0d0e1fC99B8BD73fC17dC32C1E9",
+    "contractAddress": "0x0d89f4583a6b5eceb76551d573ad49cD435f6064",
+    "order": 0,
+    "type": "curve_pool",
+    "data": "{\"first_block_number\": 21615740}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xD0097149AA4CC0d0e1fC99B8BD73fC17dC32C1E9",
+    "contractAddress": "0x312b1f194fd5b37b4810ae4abdb602f687be646f",
+    "order": 1,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 0, \"first_block_number\": 21615740}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xD0097149AA4CC0d0e1fC99B8BD73fC17dC32C1E9",
+    "contractAddress": "0xc7bbec68d12a0d1830360f8ec58fa599ba1b0e9b",
+    "order": 2,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 1, \"first_block_number\": 21615740}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
+    "contractAddress": "0x948e80fbb383694b462f79557a3a44a25416dc72",
+    "order": 0,
+    "type": "aerodrome_slip_stream",
+    "data": "{\"in_token\": 0, \"first_block_number\": 25081141}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
+  },
+  {
+    "assetAddress": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
+    "contractAddress": "0xb2cc224c1c9fee385f8ad6a55b4d94e92359dc59",
+    "order": 1,
+    "type": "aerodrome_slip_stream",
+    "data": "{\"in_token\": 1, \"first_block_number\": 25081141}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
+  }
+]

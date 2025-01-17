@@ -1,0 +1,37 @@
+[
+  {
+    "assetAddress": "0x83F20F44975D03b1b09e64809B757c47f942BEeA",
+    "contractAddress": "0x83F20F44975D03b1b09e64809B757c47f942BEeA",
+    "data": "{\"abi\": \"function convertToAssets(uint256) view returns (uint256)\", \"decimals\": 18, \"function\": \"convertToAssets\", \"args\": [{\"type\": \"bigint\", \"value\": \"1000000000000000000\"}]}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
+    "contractAddress": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
+    "data": "{\"abi\": \"function convertToAssets(uint256) view returns (uint256)\", \"decimals\": 18, \"function\": \"convertToAssets\", \"args\": [{\"type\": \"bigint\", \"value\": \"1000000000000000000\"}]}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
+    "contractAddress": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
+    "data": "{\"abi\": \"function convertToAssets(uint256) view returns (uint256)\", \"decimals\": 18, \"function\": \"convertToAssets\", \"args\": [{\"type\": \"bigint\", \"value\": \"1000000000000000000\"}]}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
+  },
+  {
+    "assetAddress": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
+    "contractAddress": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
+    "data": "{\"abi\": \"function convertToAssets(uint256) view returns (uint256)\", \"decimals\": 18, \"function\": \"convertToAssets\", \"args\": [{\"type\": \"bigint\", \"value\": \"1000000000000000000\"}]}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xd95ca61CE9aAF2143E81Ef5462C0c2325172E028",
+    "contractAddress": "0xd95ca61CE9aAF2143E81Ef5462C0c2325172E028",
+    "data": "{\"abi\": \"function convertToAssets(uint256) view returns (uint256)\", \"decimals\": 6, \"function\": \"convertToAssets\", \"args\": [{\"type\": \"bigint\", \"value\": \"1000000\"}]}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
+  }
+]

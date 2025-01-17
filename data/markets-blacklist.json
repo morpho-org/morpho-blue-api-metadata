@@ -1,0 +1,27 @@
+[
+  {
+    "id": "0x495130878b7d2f1391e21589a8bcaef22cbc7e1fbbd6866127193b3cc239d8b1",
+    "chainId": 1,
+    "countryCodes": ["US", "GB"]
+  },
+  {
+    "id": "0xc576cddfd1ee8332d683417548801d6835fa15fb2332a647452248987a8eded3",
+    "chainId": 1,
+    "countryCodes": ["US", "GB"]
+  },
+  {
+    "id": "0xbe4c211adca4400078db69af91ea0df98401adb5959510ae99edd06fee5146f7",
+    "chainId": 1,
+    "countryCodes": ["US", "GB"]
+  },
+  {
+    "id": "0xab5423d55497b642df74011621b4c72a3c9b446e8800cf988644bcdbd747d58f",
+    "chainId": 1,
+    "countryCodes": ["US", "GB"]
+  },
+  {
+    "id": "0x102a18bd9ddc2183785f56826659f9f93cc99e8a51d0871eb0f141c6948b547f",
+    "chainId": 8453,
+    "countryCodes": ["US", "GB"]
+  }
+]
