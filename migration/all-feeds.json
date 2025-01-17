@@ -1,7 +1,7 @@
 [
   {
     "chainId": 8453,
-    "contractAddress": "0x4aaf2844c5420bf979d5bc2cf883ef02db07e590",
+    "address": "0x4aaf2844c5420bf979d5bc2cf883ef02db07e590",
     "vendor": "Redstone",
     "description": "pufETH/ETH (1%)",
     "pair": [
@@ -15,7 +15,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xC49F0Dd98F38C525A7ce15E73E60675456F3a161",
+    "address": "0xC49F0Dd98F38C525A7ce15E73E60675456F3a161",
     "vendor": "Redstone",
     "description": "bsdETH/ETH (0.5%)",
     "pair": [
@@ -33,7 +33,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xd9a66Ff1D660aD943F48e9c606D09eA672f312E8",
+    "address": "0xd9a66Ff1D660aD943F48e9c606D09eA672f312E8",
     "vendor": "Redstone",
     "description": "USD+/USD (0.2%)",
     "pair": [
@@ -47,7 +47,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x5C4c8d6f6Bf79B718F3e8399AaBdFEd01cB7e48f",
+    "address": "0x5C4c8d6f6Bf79B718F3e8399AaBdFEd01cB7e48f",
     "vendor": "Redstone",
     "description": "LBTC/BTC (1%)",
     "pair": [
@@ -61,7 +61,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xdDb6F90fFb4d3257dd666b69178e5B3c5Bf41136",
+    "address": "0xdDb6F90fFb4d3257dd666b69178e5B3c5Bf41136",
     "vendor": "Redstone",
     "description": "weETH/USD (1%)",
     "pair": [
@@ -79,7 +79,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x8751F736E94F6CD167e8C5B97E245680FbD9CC36",
+    "address": "0x8751F736E94F6CD167e8C5B97E245680FbD9CC36",
     "vendor": "Redstone",
     "description": "weETH/ETH (0.5%)",
     "pair": [
@@ -97,7 +97,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xFaBEb1474C2Ab34838081BFdDcE4132f640E7D2d",
+    "address": "0xFaBEb1474C2Ab34838081BFdDcE4132f640E7D2d",
     "vendor": "Redstone",
     "description": "ETHx/USD (1%)",
     "pair": [
@@ -111,7 +111,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xc799194cAa24E2874Efa89b4Bf5c92a530B047FF",
+    "address": "0xc799194cAa24E2874Efa89b4Bf5c92a530B047FF",
     "vendor": "Redstone",
     "description": "ETHx/ETH (0.5%)",
     "pair": [
@@ -125,7 +125,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x66ac817f997Efd114EDFcccdce99F3268557B32C",
+    "address": "0x66ac817f997Efd114EDFcccdce99F3268557B32C",
     "vendor": "Redstone",
     "description": "osETH/ETH (0.5%)",
     "pair": [
@@ -139,7 +139,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x061bB36F8b67bB922937C102092498dcF4619F86",
+    "address": "0x061bB36F8b67bB922937C102092498dcF4619F86",
     "vendor": "Redstone",
     "description": "swETH/ETH (0.5%)",
     "pair": [
@@ -153,7 +153,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xa2a8507DEb233ceE4F5594044C259DD0582339CC",
+    "address": "0xa2a8507DEb233ceE4F5594044C259DD0582339CC",
     "vendor": "Redstone",
     "description": "XVS/USD (1%)",
     "pair": [
@@ -167,7 +167,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x6E27A25999B3C665E44D903B2139F5a4Be2B6C26",
+    "address": "0x6E27A25999B3C665E44D903B2139F5a4Be2B6C26",
     "vendor": "Redstone",
     "description": "C3M/USD (-)",
     "pair": [
@@ -181,7 +181,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xb347d2e3524D0F9e2321D84A2E9b2e60CbC4A836",
+    "address": "0xb347d2e3524D0F9e2321D84A2E9b2e60CbC4A836",
     "vendor": "Redstone",
     "description": "eUSD/USD (1%)",
     "pair": [
@@ -199,7 +199,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x19219BC90F48DeE4d5cF202E09c438FAacFd8Bea",
+    "address": "0x19219BC90F48DeE4d5cF202E09c438FAacFd8Bea",
     "vendor": "Redstone",
     "description": "apxETH/ETH (1%)",
     "pair": [
@@ -213,7 +213,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xA736eAe8805dDeFFba40cAB8c99bCB309dEaBd9B",
+    "address": "0xA736eAe8805dDeFFba40cAB8c99bCB309dEaBd9B",
     "vendor": "Redstone",
     "description": "rsETH/ETH (1%)",
     "pair": [
@@ -227,7 +227,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xF4a3e183F59D2599ee3DF213ff78b1B3b1923696",
+    "address": "0xF4a3e183F59D2599ee3DF213ff78b1B3b1923696",
     "vendor": "Redstone",
     "description": "ezETH/ETH (1%)",
     "pair": [
@@ -245,7 +245,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x3A236F67Fce401D87D7215695235e201966576E4",
+    "address": "0x3A236F67Fce401D87D7215695235e201966576E4",
     "vendor": "Redstone",
     "description": "rswETH/ETH (1%)",
     "pair": [
@@ -259,7 +259,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xbC5FBcf58CeAEa19D523aBc76515b9AEFb5cfd58",
+    "address": "0xbC5FBcf58CeAEa19D523aBc76515b9AEFb5cfd58",
     "vendor": "Redstone",
     "description": "USDe/USD (0.2%)",
     "pair": [
@@ -273,7 +273,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xb99D174ED06c83588Af997c8859F93E83dD4733f",
+    "address": "0xb99D174ED06c83588Af997c8859F93E83dD4733f",
     "vendor": "Redstone",
     "description": "sUSDe/USD (0.2%)",
     "pair": [
@@ -287,7 +287,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x76A495b0bFfb53ef3F0E94ef0763e03cE410835C",
+    "address": "0x76A495b0bFfb53ef3F0E94ef0763e03cE410835C",
     "vendor": "Redstone",
     "description": "pufETH/ETH (1%)",
     "pair": [
@@ -301,7 +301,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x3B9c09bde7776C32C518e2E787412A9bBaA7685F",
+    "address": "0x3B9c09bde7776C32C518e2E787412A9bBaA7685F",
     "vendor": "Redstone",
     "description": "ETH+/ETH (0.5%)",
     "pair": [
@@ -315,7 +315,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x89F48f6671Ec1B1C4f6abE964EBdd21F4eb7076f",
+    "address": "0x89F48f6671Ec1B1C4f6abE964EBdd21F4eb7076f",
     "vendor": "Redstone",
     "description": "deUSD/USD (0.1%)",
     "pair": [
@@ -329,7 +329,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xB39339B82DdCF89d12d987d1D4Db33aFdd40B6AA",
+    "address": "0xB39339B82DdCF89d12d987d1D4Db33aFdd40B6AA",
     "vendor": "Redstone",
     "description": "USD3/USD (0.5%)",
     "pair": [
@@ -343,7 +343,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xdd60c54115C19e0c6360AD4762B88BB8076D50a8",
+    "address": "0xdd60c54115C19e0c6360AD4762B88BB8076D50a8",
     "vendor": "Redstone",
     "description": "sfrxETH/ETH (0.5%)",
     "pair": [
@@ -357,7 +357,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x24c8964338Deb5204B096039147B8e8C3AEa42Cc",
+    "address": "0x24c8964338Deb5204B096039147B8e8C3AEa42Cc",
     "vendor": "Redstone",
     "description": "SolvBTC/USD (0.5%)",
     "pair": [
@@ -371,7 +371,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x85C4F855Bc0609D2584405819EdAEa3aDAbfE97D",
+    "address": "0x85C4F855Bc0609D2584405819EdAEa3aDAbfE97D",
     "vendor": "Redstone",
     "description": "pumpBTC/BTC (0.5%)",
     "pair": [
@@ -381,7 +381,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x3fd49f2146FE0e10c4AE7E3fE04b3d5126385Ac4",
+    "address": "0x3fd49f2146FE0e10c4AE7E3fE04b3d5126385Ac4",
     "vendor": "Redstone",
     "description": "SolvBTC/BTC (0.5%)",
     "pair": [
@@ -391,7 +391,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xe5867B1d421f0b52697F16e2ac437e87d66D5fbF",
+    "address": "0xe5867B1d421f0b52697F16e2ac437e87d66D5fbF",
     "vendor": "Redstone",
     "description": "eBTC/WBTC (0.5%)",
     "pair": [
@@ -401,7 +401,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x4f67Fd74cff274Ef2942223c0f3166b856410AdD",
+    "address": "0x4f67Fd74cff274Ef2942223c0f3166b856410AdD",
     "vendor": "Redstone",
     "description": "beraSTONE/WETH (0.5%)",
     "pair": [
@@ -415,7 +415,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x960BDD1dFD20d7c98fa482D793C3dedD73A113a3",
+    "address": "0x960BDD1dFD20d7c98fa482D793C3dedD73A113a3",
     "vendor": "Chainlink",
     "description": "ezETH / ETH (0.5%)",
     "pair": [
@@ -434,7 +434,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x676C4C6C31D97A5581D3204C04A8125B350E2F9D",
+    "address": "0x676C4C6C31D97A5581D3204C04A8125B350E2F9D",
     "vendor": "Chainlink",
     "description": "AXL / USD (0.5%)",
     "pair": [
@@ -449,7 +449,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xB88BAc61a4Ca37C43a3725912B1f472c9A5bc061",
+    "address": "0xB88BAc61a4Ca37C43a3725912B1f472c9A5bc061",
     "vendor": "Chainlink",
     "description": "wstETH-stETH Exchange Rate (1e-7%)",
     "pair": [
@@ -464,7 +464,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xe96EB1EDa83d18cbac224233319FA5071464e1b9",
+    "address": "0xe96EB1EDa83d18cbac224233319FA5071464e1b9",
     "vendor": "Chainlink",
     "description": "wOETH / OETH Exchange Rate (0.5%)",
     "pair": [
@@ -475,7 +475,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x806b4Ac04501c29769051e42783cF04dCE41440b",
+    "address": "0x806b4Ac04501c29769051e42783cF04dCE41440b",
     "vendor": "Chainlink",
     "description": "CBETH / ETH (0.5%)",
     "pair": [
@@ -494,7 +494,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x0b0E64c05083FdF9ED7C5D3d8262c4216eFc9394",
+    "address": "0x0b0E64c05083FdF9ED7C5D3d8262c4216eFc9394",
     "vendor": "Chainlink",
     "description": "BRL / USD (0.5%)",
     "pair": [
@@ -509,7 +509,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x6D75BFB5A5885f841b132198C9f0bE8c872057BF",
+    "address": "0x6D75BFB5A5885f841b132198C9f0bE8c872057BF",
     "vendor": "Chainlink",
     "description": "TBTC / USD (0.5%)",
     "pair": [
@@ -528,7 +528,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x7e860098F58bBFC8648a4311b374B1D669a2bc6B",
+    "address": "0x7e860098F58bBFC8648a4311b374B1D669a2bc6B",
     "vendor": "Chainlink",
     "description": "USDC / USD (0.3%)",
     "pair": [
@@ -547,7 +547,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xEf2E24ba6def99B5e0b71F6CDeaF294b02163094",
+    "address": "0xEf2E24ba6def99B5e0b71F6CDeaF294b02163094",
     "vendor": "Chainlink",
     "description": "RDNT / USD (0.5%)",
     "pair": [
@@ -562,7 +562,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x83ac12dBb5Bd7Fa597ab2FFEc9F2F13DeDdFe163",
+    "address": "0x83ac12dBb5Bd7Fa597ab2FFEc9F2F13DeDdFe163",
     "vendor": "Chainlink",
     "description": "inETH / ETH Exchange Rate (0.5%)",
     "pair": [
@@ -577,7 +577,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x868a501e68F3D1E89CfC0D22F6b22E8dabce5F04",
+    "address": "0x868a501e68F3D1E89CfC0D22F6b22E8dabce5F04",
     "vendor": "Chainlink",
     "description": "cbETH-ETH Exchange Rate (0.5%)",
     "pair": [
@@ -596,7 +596,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x35e9D7001819Ea3B39Da906aE6b06A62cfe2c181",
+    "address": "0x35e9D7001819Ea3B39Da906aE6b06A62cfe2c181",
     "vendor": "Chainlink",
     "description": "weETH / eETH Exchange Rate (0.5%)",
     "pair": [
@@ -611,7 +611,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xb4482096e3cdE116C15fC0D700a73a58FEdeB8c0",
+    "address": "0xb4482096e3cdE116C15fC0D700a73a58FEdeB8c0",
     "vendor": "Chainlink",
     "description": "ynETH / ETH Exchange Rate (0.5%)",
     "pair": [
@@ -626,7 +626,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x591e79239a7d679378eC8c847e5038150364C78F",
+    "address": "0x591e79239a7d679378eC8c847e5038150364C78F",
     "vendor": "Chainlink",
     "description": "DAI / USD (0.3%)",
     "pair": [
@@ -645,7 +645,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xe8dD07CCf5BC4922424140E44Eb970F5950725ef",
+    "address": "0xe8dD07CCf5BC4922424140E44Eb970F5950725ef",
     "vendor": "Chainlink",
     "description": "wrsETH-ETH Exchange Rate (0.5%)",
     "pair": [
@@ -664,7 +664,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xC4300B7CF0646F0Fe4C5B2ACFCCC4dCA1346f5d8",
+    "address": "0xC4300B7CF0646F0Fe4C5B2ACFCCC4dCA1346f5d8",
     "vendor": "Chainlink",
     "description": "ezETH / ETH Exchange Rate (0.5%)",
     "pair": [
@@ -683,7 +683,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x3E3A6bD129A63564FE7abde85FA67c3950569060",
+    "address": "0x3E3A6bD129A63564FE7abde85FA67c3950569060",
     "vendor": "Chainlink",
     "description": "OP / USD (0.5%)",
     "pair": [
@@ -698,7 +698,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xc5E65227fe3385B88468F9A01600017cDC9F3A12",
+    "address": "0xc5E65227fe3385B88468F9A01600017cDC9F3A12",
     "vendor": "Chainlink",
     "description": "LINK / ETH (0.5%)",
     "pair": [
@@ -713,7 +713,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x790181e93e9F4Eedb5b864860C12e4d2CffFe73B",
+    "address": "0x790181e93e9F4Eedb5b864860C12e4d2CffFe73B",
     "vendor": "Chainlink",
     "description": "USDe / USD (0.5%)",
     "pair": [
@@ -728,7 +728,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xd7818272B9e248357d13057AAb0B417aF31E817d",
+    "address": "0xd7818272B9e248357d13057AAb0B417aF31E817d",
     "vendor": "Chainlink",
     "description": "CBETH / USD (0.15%)",
     "pair": [
@@ -747,7 +747,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xB366E8Efb9661323ff477CedF70f55F897D6cFeA",
+    "address": "0xB366E8Efb9661323ff477CedF70f55F897D6cFeA",
     "vendor": "Chainlink",
     "description": "ARKB Reserves (1e-7%)",
     "pair": null,
@@ -755,7 +755,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xF7742A6f36e9936CeA0E976bF6CD3930C1178775",
+    "address": "0xF7742A6f36e9936CeA0E976bF6CD3930C1178775",
     "vendor": "Chainlink",
     "description": "USDM / USD (0.5%)",
     "pair": [
@@ -774,7 +774,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xf397bF97280B488cA19ee3093E81C0a77F02e9a5",
+    "address": "0xf397bF97280B488cA19ee3093E81C0a77F02e9a5",
     "vendor": "Chainlink",
     "description": "RETH / ETH (0.5%)",
     "pair": [
@@ -793,7 +793,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xa669E5272E60f78299F4824495cE01a3923f4380",
+    "address": "0xa669E5272E60f78299F4824495cE01a3923f4380",
     "vendor": "Chainlink",
     "description": "wstETH-ETH Exchange Rate (0.5%)",
     "pair": [
@@ -812,7 +812,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xFC1415403EbB0c693f9a7844b92aD2Ff24775C65",
+    "address": "0xFC1415403EbB0c693f9a7844b92aD2Ff24775C65",
     "vendor": "Chainlink",
     "description": "weETH / ETH (0.5%)",
     "pair": [
@@ -831,7 +831,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xd7221b10FBBC1e1ba95Fd0B4D031C15f7F365296",
+    "address": "0xd7221b10FBBC1e1ba95Fd0B4D031C15f7F365296",
     "vendor": "Chainlink",
     "description": "RSETH / ETH (0.5%)",
     "pair": [
@@ -846,7 +846,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xc91D87E81faB8f93699ECf7Ee9B44D11e1D53F0F",
+    "address": "0xc91D87E81faB8f93699ECf7Ee9B44D11e1D53F0F",
     "vendor": "Chainlink",
     "description": "EUR / USD (0.3%)",
     "pair": [
@@ -861,7 +861,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x07DA0E54543a844a80ABE69c8A12F22B3aA59f9D",
+    "address": "0x07DA0E54543a844a80ABE69c8A12F22B3aA59f9D",
     "vendor": "Chainlink",
     "description": "cbBTC / USD (0.5%)",
     "pair": [
@@ -880,7 +880,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x30A76F4E688Cf52f4A06D7AAd987A7037f3Ae6f7",
+    "address": "0x30A76F4E688Cf52f4A06D7AAd987A7037f3Ae6f7",
     "vendor": "Chainlink",
     "description": "dlcBTC PoR (1e-7%)",
     "pair": null,
@@ -888,7 +888,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x91D7AEd72bF772A0DA30199B925aCB866ACD3D9e",
+    "address": "0x91D7AEd72bF772A0DA30199B925aCB866ACD3D9e",
     "vendor": "Chainlink",
     "description": "OGN / USD (0.5%)",
     "pair": [
@@ -903,7 +903,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x71041dddad3595F9CEd3DcCFBe3D1F4b0a16Bb70",
+    "address": "0x71041dddad3595F9CEd3DcCFBe3D1F4b0a16Bb70",
     "vendor": "Chainlink",
     "description": "ETH / USD (0.15%)",
     "pair": [
@@ -922,7 +922,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x1Eba1d6941088c8FCE2CbcaC80754C77871aD093",
+    "address": "0x1Eba1d6941088c8FCE2CbcaC80754C77871aD093",
     "vendor": "Chainlink",
     "description": "sfrxETH-frxETH Exchange Rate (0.5%)",
     "pair": [
@@ -933,7 +933,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xBCF85224fc0756B9Fa45aA7892530B47e10b6433",
+    "address": "0xBCF85224fc0756B9Fa45aA7892530B47e10b6433",
     "vendor": "Chainlink",
     "description": "L2 Sequencer Uptime Status Feed (0%)",
     "pair": null,
@@ -941,7 +941,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x9DDa783DE64A9d1A60c49ca761EbE528C35BA428",
+    "address": "0x9DDa783DE64A9d1A60c49ca761EbE528C35BA428",
     "vendor": "Chainlink",
     "description": "COMP / USD (0.5%)",
     "pair": [
@@ -960,7 +960,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x79cf4a31B29D69191f0b6E97916eB93FEB81E533",
+    "address": "0x79cf4a31B29D69191f0b6E97916eB93FEB81E533",
     "vendor": "Chainlink",
     "description": "sUSDe / USD (0.5%)",
     "pair": [
@@ -975,7 +975,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x674940e1dBf7FD841b33156DA9A88afbD95AaFBa",
+    "address": "0x674940e1dBf7FD841b33156DA9A88afbD95AaFBa",
     "vendor": "Chainlink",
     "description": "WIF / USD (0.5%)",
     "pair": [
@@ -990,7 +990,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x63Af8341b62E683B87bB540896bF283D96B4D385",
+    "address": "0x63Af8341b62E683B87bB540896bF283D96B4D385",
     "vendor": "Chainlink",
     "description": "STG / USD (2%)",
     "pair": [
@@ -1005,7 +1005,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x17CAb8FE31E32f08326e5E27412894e49B0f9D65",
+    "address": "0x17CAb8FE31E32f08326e5E27412894e49B0f9D65",
     "vendor": "Chainlink",
     "description": "LINK / USD (0.5%)",
     "pair": [
@@ -1020,7 +1020,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xe3971Ed6F1A5903321479Ef3148B5950c0612075",
+    "address": "0xe3971Ed6F1A5903321479Ef3148B5950c0612075",
     "vendor": "Chainlink",
     "description": "SNX / USD (0.5%)",
     "pair": [
@@ -1039,7 +1039,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x5E988c11a4f92155C30D9fb69Ed75597f712B113",
+    "address": "0x5E988c11a4f92155C30D9fb69Ed75597f712B113",
     "vendor": "Chainlink",
     "description": "POL / USD (0.5%)",
     "pair": [
@@ -1054,7 +1054,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xf586d0728a47229e747d824a939000Cf21dEF5A0",
+    "address": "0xf586d0728a47229e747d824a939000Cf21dEF5A0",
     "vendor": "Chainlink",
     "description": "STETH / ETH (0.5%)",
     "pair": [
@@ -1069,7 +1069,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xbb9786e37D54251477EbC1325b04ACdCA18C2254",
+    "address": "0xbb9786e37D54251477EbC1325b04ACdCA18C2254",
     "vendor": "Chainlink",
     "description": "ultraETHs / ETH Exchange Rate (0.5%)",
     "pair": [
@@ -1080,7 +1080,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xdEd37FC1400B8022968441356f771639ad1B23aA",
+    "address": "0xdEd37FC1400B8022968441356f771639ad1B23aA",
     "vendor": "Chainlink",
     "description": "sUSDe / USDe Exchange Rate (0.5%)",
     "pair": [
@@ -1091,7 +1091,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xB48ac6409C0c3718b956089b0fFE295A10ACDdad",
+    "address": "0xB48ac6409C0c3718b956089b0fFE295A10ACDdad",
     "vendor": "Chainlink",
     "description": "PEPE / USD (0.5%)",
     "pair": [
@@ -1110,7 +1110,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x9FB8b5A4b3FE655564f0c76616ae79DE90Cc7382",
+    "address": "0x9FB8b5A4b3FE655564f0c76616ae79DE90Cc7382",
     "vendor": "Chainlink",
     "description": "MEW / USD (0.5%)",
     "pair": [
@@ -1125,7 +1125,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xE70f2D34Fd04046aaEC26a198A35dD8F2dF5cd92",
+    "address": "0xE70f2D34Fd04046aaEC26a198A35dD8F2dF5cd92",
     "vendor": "Chainlink",
     "description": "AVAX / USD (0.5%)",
     "pair": [
@@ -1140,7 +1140,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x12129aAC52D6B0f0125677D4E1435633E61fD25f",
+    "address": "0x12129aAC52D6B0f0125677D4E1435633E61fD25f",
     "vendor": "Chainlink",
     "description": "MATIC / USD (0.5%)",
     "pair": [
@@ -1155,7 +1155,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x64c911996D3c6aC71f9b455B1E8E7266BcbD848F",
+    "address": "0x64c911996D3c6aC71f9b455B1E8E7266BcbD848F",
     "vendor": "Chainlink",
     "description": "BTC / USD (0.1%)",
     "pair": [
@@ -1170,7 +1170,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x9C6BF4884Ff0c7873652F7d5142FA3b9859a526D",
+    "address": "0x9C6BF4884Ff0c7873652F7d5142FA3b9859a526D",
     "vendor": "Chainlink",
     "description": "instETH / ETH Exchange Rate (0.5%)",
     "pair": [
@@ -1185,7 +1185,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x9452Ca03474C6B704B4e102339B451D640f57f07",
+    "address": "0x9452Ca03474C6B704B4e102339B451D640f57f07",
     "vendor": "Chainlink",
     "description": "pufETH / ETH (0.5%)",
     "pair": [
@@ -1200,7 +1200,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xd5Ec94430eF4170D819E0996BC53ed40d31638d8",
+    "address": "0xd5Ec94430eF4170D819E0996BC53ed40d31638d8",
     "vendor": "Chainlink",
     "description": "USD+ / USD (0.5%)",
     "pair": [
@@ -1215,7 +1215,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xC8D5D660bb585b68fa0263EeD7B4224a5FC99669",
+    "address": "0xC8D5D660bb585b68fa0263EeD7B4224a5FC99669",
     "vendor": "Chainlink",
     "description": "SHIB / USD (0.5%)",
     "pair": [
@@ -1230,7 +1230,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x979447581b39caCA33EF0CA8208592393D16cc13",
+    "address": "0x979447581b39caCA33EF0CA8208592393D16cc13",
     "vendor": "Chainlink",
     "description": "MAVIA / USD (0.5%)",
     "pair": [
@@ -1245,7 +1245,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x97b770B0200CCe161907a9cbe0C6B177679f8F7C",
+    "address": "0x97b770B0200CCe161907a9cbe0C6B177679f8F7C",
     "vendor": "Chainlink",
     "description": "rswETH / ETH Exchange Rate (0.5%)",
     "pair": [
@@ -1260,7 +1260,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xdc31a4CCfCA039BeC6222e20BE7770E12581bfEB",
+    "address": "0xdc31a4CCfCA039BeC6222e20BE7770E12581bfEB",
     "vendor": "Chainlink",
     "description": "ZRO / USD (0.5%)",
     "pair": [
@@ -1275,7 +1275,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x43a5C292A453A3bF3606fa856197f09D7B74251a",
+    "address": "0x43a5C292A453A3bF3606fa856197f09D7B74251a",
     "vendor": "Chainlink",
     "description": "WSTETH / ETH (0.5%)",
     "pair": [
@@ -1294,7 +1294,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x88a98431C25329AA422B21D147c1518b34dD36F4",
+    "address": "0x88a98431C25329AA422B21D147c1518b34dD36F4",
     "vendor": "Chainlink",
     "description": "APT / USD (0.5%)",
     "pair": [
@@ -1309,7 +1309,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x4EC5970fC728C5f65ba413992CD5fF6FD70fcfF0",
+    "address": "0x4EC5970fC728C5f65ba413992CD5fF6FD70fcfF0",
     "vendor": "Chainlink",
     "description": "AERO / USD (0.5%)",
     "pair": [
@@ -1328,7 +1328,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x0b68ac37a1668DAaab1882543368E076C38C40e9",
+    "address": "0x0b68ac37a1668DAaab1882543368E076C38C40e9",
     "vendor": "Chainlink",
     "description": "CETH Reserves (1e-7%)",
     "pair": null,
@@ -1336,7 +1336,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xe25969e2Fa633a0C027fAB8F30Fc9C6A90D60B48",
+    "address": "0xe25969e2Fa633a0C027fAB8F30Fc9C6A90D60B48",
     "vendor": "Chainlink",
     "description": "USDz / USD (0.5%)",
     "pair": [
@@ -1355,7 +1355,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xf19d560eB8d2ADf07BD6D13ed03e1D11215721F9",
+    "address": "0xf19d560eB8d2ADf07BD6D13ed03e1D11215721F9",
     "vendor": "Chainlink",
     "description": "USDT / USD (0.3%)",
     "pair": [
@@ -1370,7 +1370,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xCCADC697c55bbB68dc5bCdf8d3CBe83CdD4E071E",
+    "address": "0xCCADC697c55bbB68dc5bCdf8d3CBe83CdD4E071E",
     "vendor": "Chainlink",
     "description": "WBTC / USD (0.1%)",
     "pair": [
@@ -1385,7 +1385,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x975043adBb80fc32276CbF9Bbcfd4A601a12462D",
+    "address": "0x975043adBb80fc32276CbF9Bbcfd4A601a12462D",
     "vendor": "Chainlink",
     "description": "SOL / USD (0.5%)",
     "pair": [
@@ -1400,7 +1400,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x69a1d14a4e58e97EDE8337DE61eEB2e4a55886E0",
+    "address": "0x69a1d14a4e58e97EDE8337DE61eEB2e4a55886E0",
     "vendor": "Chainlink",
     "description": "pufETH / ETH Exchange Rate (0.5%)",
     "pair": [
@@ -1415,7 +1415,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x8422f3d3CAFf15Ca682939310d6A5e619AE08e57",
+    "address": "0x8422f3d3CAFf15Ca682939310d6A5e619AE08e57",
     "vendor": "Chainlink",
     "description": "DOGE / USD (0.5%)",
     "pair": [
@@ -1430,7 +1430,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xcCBb30DA24b5195D2Ee94C2B29cfA7108b4DFB1F",
+    "address": "0xcCBb30DA24b5195D2Ee94C2B29cfA7108b4DFB1F",
     "vendor": "Chainlink",
     "description": "rswETH / ETH (0.5%)",
     "pair": [
@@ -1445,7 +1445,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xE62BcE5D7CB9d16AB8b4D622538bc0A50A5799c2",
+    "address": "0xE62BcE5D7CB9d16AB8b4D622538bc0A50A5799c2",
     "vendor": "Chainlink",
     "description": "DEGEN / USD (0.5%)",
     "pair": [
@@ -1464,7 +1464,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x4b7836916781CAAfbb7Bd1E5FDd20ED544B453b1",
+    "address": "0x4b7836916781CAAfbb7Bd1E5FDd20ED544B453b1",
     "vendor": "Chainlink",
     "description": "BNB / USD (0.5%)",
     "pair": [
@@ -1479,7 +1479,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x99DAf760d2CFB770cc17e883dF45454FE421616b",
+    "address": "0x99DAf760d2CFB770cc17e883dF45454FE421616b",
     "vendor": "Chainlink",
     "description": "rsETH / ETH Exchange Rate (0.5%)",
     "pair": [
@@ -1494,7 +1494,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xDAe398520e2B67cd3f27aeF9Cf14D93D927f8250",
+    "address": "0xDAe398520e2B67cd3f27aeF9Cf14D93D927f8250",
     "vendor": "Chainlink",
     "description": "EURC / USD (0.3%)",
     "pair": [
@@ -1513,7 +1513,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xD40e758b5eC80820B68DFC302fc5Ce1239083548",
+    "address": "0xD40e758b5eC80820B68DFC302fc5Ce1239083548",
     "vendor": "Chainlink",
     "description": "YFI / USD (0.5%)",
     "pair": [
@@ -1532,7 +1532,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x4aeb6D15769EaD32D0c5Be2940F40c7CFf53801d",
+    "address": "0x4aeb6D15769EaD32D0c5Be2940F40c7CFf53801d",
     "vendor": "Chainlink",
     "description": "MOG / USD (0.5%)",
     "pair": [
@@ -1547,7 +1547,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xBD867487712ADeC5A59b9Ae475Ee942f652B4C91",
+    "address": "0xBD867487712ADeC5A59b9Ae475Ee942f652B4C91",
     "vendor": "Chainlink",
     "description": "swBTC / WBTC Exchange Rate (0.1%)",
     "pair": [
@@ -1558,7 +1558,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xAa98aE504658766Dfe11F31c5D95a0bdcABDe0b1",
+    "address": "0xAa98aE504658766Dfe11F31c5D95a0bdcABDe0b1",
     "vendor": "Chainlink",
     "description": "RSR / USD (2%)",
     "pair": [
@@ -1573,14 +1573,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x75A0d3264a949C2C920d7F25Df174af1FaF73399",
+    "address": "0x75A0d3264a949C2C920d7F25Df174af1FaF73399",
     "vendor": "Chainlink",
     "description": "FBTC PoR (0.5%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0x4ad7B025127e89263242aB68F0f9c4E5C033B489",
+    "address": "0x4ad7B025127e89263242aB68F0f9c4E5C033B489",
     "vendor": "Chainlink",
     "description": "RAI / ETH (2%)",
     "pair": [
@@ -1599,7 +1599,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xb613CfebD0b6e95abDDe02677d6bC42394FdB857",
+    "address": "0xb613CfebD0b6e95abDDe02677d6bC42394FdB857",
     "vendor": "Chainlink",
     "description": "rswETH / ETH (0.5%)",
     "pair": [
@@ -1618,7 +1618,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x0606Be69451B1C9861Ac6b3626b99093b713E801",
+    "address": "0x0606Be69451B1C9861Ac6b3626b99093b713E801",
     "vendor": "Chainlink",
     "description": "FIL / ETH (2%)",
     "pair": [
@@ -1633,7 +1633,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x19678515847d8DE85034dAD0390e09c3048d31cd",
+    "address": "0x19678515847d8DE85034dAD0390e09c3048d31cd",
     "vendor": "Chainlink",
     "description": "ETHFI / USD (2%)",
     "pair": [
@@ -1648,7 +1648,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xfAA9147190c2C2cc5B8387B4f49016bDB3380572",
+    "address": "0xfAA9147190c2C2cc5B8387B4f49016bDB3380572",
     "vendor": "Chainlink",
     "description": "FDUSD / USD (0.3%)",
     "pair": [
@@ -1663,7 +1663,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xD6aA3D25116d8dA79Ea0246c4826EB951872e02e",
+    "address": "0xD6aA3D25116d8dA79Ea0246c4826EB951872e02e",
     "vendor": "Chainlink",
     "description": "UNI / ETH (2%)",
     "pair": [
@@ -1682,7 +1682,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xEe9F2375b4bdF6387aa8265dD4FB8F16512A1d46",
+    "address": "0xEe9F2375b4bdF6387aa8265dD4FB8F16512A1d46",
     "vendor": "Chainlink",
     "description": "USDT / ETH (1%)",
     "pair": [
@@ -1701,7 +1701,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x636A000262F6aA9e1F094ABF0aD8f645C44f641C",
+    "address": "0x636A000262F6aA9e1F094ABF0aD8f645C44f641C",
     "vendor": "Chainlink",
     "description": "ezETH / ETH (0.5%)",
     "pair": [
@@ -1720,14 +1720,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x7fb9B4a05e7B4F0c1Ac0B0046784cc0aCE8CbBC5",
+    "address": "0x7fb9B4a05e7B4F0c1Ac0B0046784cc0aCE8CbBC5",
     "vendor": "Chainlink",
     "description": "Scroll Healthcheck (0.1%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0xF4E1B57FB228879D057ac5AE33973e8C53e4A0e0",
+    "address": "0xF4E1B57FB228879D057ac5AE33973e8C53e4A0e0",
     "vendor": "Chainlink",
     "description": "CSPX / USD (2%)",
     "pair": [
@@ -1742,7 +1742,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x5c9C449BbC9a6075A2c061dF312a35fd1E05fF22",
+    "address": "0x5c9C449BbC9a6075A2c061dF312a35fd1E05fF22",
     "vendor": "Chainlink",
     "description": "weETH / ETH (0.5%)",
     "pair": [
@@ -1761,7 +1761,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x0d16d4528239e9ee52fa531af613AcdB23D88c94",
+    "address": "0x0d16d4528239e9ee52fa531af613AcdB23D88c94",
     "vendor": "Chainlink",
     "description": "BAT / ETH (2%)",
     "pair": [
@@ -1780,14 +1780,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x0981af0C002345c9C5AD5efd26242D0cBe5aCA99",
+    "address": "0x0981af0C002345c9C5AD5efd26242D0cBe5aCA99",
     "vendor": "Chainlink",
     "description": "Synthetix Aggregator Debt Ratio (1%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0x3E7d1eAB13ad0104d2750B8863b489D65364e32D",
+    "address": "0x3E7d1eAB13ad0104d2750B8863b489D65364e32D",
     "vendor": "Chainlink",
     "description": "USDT / USD (0.25%)",
     "pair": [
@@ -1806,7 +1806,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x214eD9Da11D2fbe465a6fc601a91E62EbEc1a0D6",
+    "address": "0x214eD9Da11D2fbe465a6fc601a91E62EbEc1a0D6",
     "vendor": "Chainlink",
     "description": "XAU / USD (0.3%)",
     "pair": [
@@ -1821,7 +1821,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xe572CeF69f43c2E488b33924AF04BDacE19079cf",
+    "address": "0xe572CeF69f43c2E488b33924AF04BDacE19079cf",
     "vendor": "Chainlink",
     "description": "SUSHI / ETH (2%)",
     "pair": [
@@ -1840,7 +1840,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xf8fF43E991A81e6eC886a3D281A2C6cC19aE70Fc",
+    "address": "0xf8fF43E991A81e6eC886a3D281A2C6cC19aE70Fc",
     "vendor": "Chainlink",
     "description": "KNC / USD (1%)",
     "pair": [
@@ -1859,14 +1859,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xBE456fd14720C3aCCc30A2013Bffd782c9Cb75D5",
+    "address": "0xBE456fd14720C3aCCc30A2013Bffd782c9Cb75D5",
     "vendor": "Chainlink",
     "description": "TUSD Reserves (5%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0xFF3EEb22B5E3dE6e705b44749C2559d704923FD7",
+    "address": "0xFF3EEb22B5E3dE6e705b44749C2559d704923FD7",
     "vendor": "Chainlink",
     "description": "AVAX / USD (2%)",
     "pair": [
@@ -1881,7 +1881,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xD41390267Afec3fA5b4c0B3aA6c706556CCE75ec",
+    "address": "0xD41390267Afec3fA5b4c0B3aA6c706556CCE75ec",
     "vendor": "Chainlink",
     "description": "C3M / EUR (2%)",
     "pair": [
@@ -1892,7 +1892,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x3b41D5571468904D4e53b6a8d93A6BaC43f02dC9",
+    "address": "0x3b41D5571468904D4e53b6a8d93A6BaC43f02dC9",
     "vendor": "Chainlink",
     "description": "PERP / ETH (2%)",
     "pair": [
@@ -1911,7 +1911,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xF017fcB346A1885194689bA23Eff2fE6fA5C483b",
+    "address": "0xF017fcB346A1885194689bA23Eff2fE6fA5C483b",
     "vendor": "Chainlink",
     "description": "CBETH / ETH (1%)",
     "pair": [
@@ -1930,7 +1930,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x9441D7556e7820B5ca42082cfa99487D56AcA958",
+    "address": "0x9441D7556e7820B5ca42082cfa99487D56AcA958",
     "vendor": "Chainlink",
     "description": "BAT / USD (1%)",
     "pair": [
@@ -1949,7 +1949,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x1B39Ee86Ec5979ba5C322b826B3ECb8C79991699",
+    "address": "0x1B39Ee86Ec5979ba5C322b826B3ECb8C79991699",
     "vendor": "Chainlink",
     "description": "COMP / ETH (2%)",
     "pair": [
@@ -1968,21 +1968,21 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xbCF5792575bA3A875D8C406F4E7270f51a902539",
+    "address": "0xbCF5792575bA3A875D8C406F4E7270f51a902539",
     "vendor": "Chainlink",
     "description": "Synthetix Aggregator Issued Synths (1%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0x59c2287c8E848310c809C061a1Be0d1556eFF4e2",
+    "address": "0x59c2287c8E848310c809C061a1Be0d1556eFF4e2",
     "vendor": "Chainlink",
     "description": "Optimism Healthcheck (1%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0xdbd020CAeF83eFd542f4De03e3cF0C28A4428bd5",
+    "address": "0xdbd020CAeF83eFd542f4De03e3cF0C28A4428bd5",
     "vendor": "Chainlink",
     "description": "COMP / USD (1%)",
     "pair": [
@@ -2001,7 +2001,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x01435677FB11763550905594A16B645847C1d0F3",
+    "address": "0x01435677FB11763550905594A16B645847C1d0F3",
     "vendor": "Chainlink",
     "description": "KRW / USD (0.15%)",
     "pair": [
@@ -2016,7 +2016,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x986b5E1e1755e3C2440e960477f25201B0a8bbD4",
+    "address": "0x986b5E1e1755e3C2440e960477f25201B0a8bbD4",
     "vendor": "Chainlink",
     "description": "USDC / ETH (1%)",
     "pair": [
@@ -2035,7 +2035,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xCfE54B5cD566aB89272946F602D76Ea879CAb4a8",
+    "address": "0xCfE54B5cD566aB89272946F602D76Ea879CAb4a8",
     "vendor": "Chainlink",
     "description": "STETH / USD (1%)",
     "pair": [
@@ -2054,7 +2054,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xD2A593BF7594aCE1faD597adb697b5645d5edDB2",
+    "address": "0xD2A593BF7594aCE1faD597adb697b5645d5edDB2",
     "vendor": "Chainlink",
     "description": "DPI / USD (1%)",
     "pair": [
@@ -2073,7 +2073,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xdF2917806E30300537aEB49A7663062F4d1F2b5F",
+    "address": "0xdF2917806E30300537aEB49A7663062F4d1F2b5F",
     "vendor": "Chainlink",
     "description": "BAL / USD (2%)",
     "pair": [
@@ -2092,7 +2092,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x72AFAECF99C9d9C8215fF44C77B94B99C28741e8",
+    "address": "0x72AFAECF99C9d9C8215fF44C77B94B99C28741e8",
     "vendor": "Chainlink",
     "description": "1INCH / ETH (2%)",
     "pair": [
@@ -2111,7 +2111,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xF05D9B6C08757EAcb1fbec18e36A1B7566a13DEB",
+    "address": "0xF05D9B6C08757EAcb1fbec18e36A1B7566a13DEB",
     "vendor": "Chainlink",
     "description": "Calculated XSUSHI / ETH (2%)",
     "pair": [
@@ -2126,7 +2126,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x29d26C008e8f201eD0D864b1Fd9392D29d0C8e96",
+    "address": "0x29d26C008e8f201eD0D864b1Fd9392D29d0C8e96",
     "vendor": "Chainlink",
     "description": "MAVIA / USD (2%)",
     "pair": [
@@ -2141,7 +2141,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xDC530D9457755926550b59e8ECcdaE7624181557",
+    "address": "0xDC530D9457755926550b59e8ECcdaE7624181557",
     "vendor": "Chainlink",
     "description": "LINK / ETH (1%)",
     "pair": [
@@ -2160,7 +2160,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x6Df09E975c830ECae5bd4eD9d90f3A95a4f88012",
+    "address": "0x6Df09E975c830ECae5bd4eD9d90f3A95a4f88012",
     "vendor": "Chainlink",
     "description": "AAVE / ETH (2%)",
     "pair": [
@@ -2179,7 +2179,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x2Da4983a622a8498bb1a21FaE9D8F6C664939962",
+    "address": "0x2Da4983a622a8498bb1a21FaE9D8F6C664939962",
     "vendor": "Chainlink",
     "description": "ZRX / ETH (2%)",
     "pair": [
@@ -2198,7 +2198,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x3D7aE7E594f2f2091Ad8798313450130d0Aba3a0",
+    "address": "0x3D7aE7E594f2f2091Ad8798313450130d0Aba3a0",
     "vendor": "Chainlink",
     "description": "LUSD / USD (1%)",
     "pair": [
@@ -2217,7 +2217,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x1c88503c9A52aE6aaE1f9bb99b3b7e9b8Ab35459",
+    "address": "0x1c88503c9A52aE6aaE1f9bb99b3b7e9b8Ab35459",
     "vendor": "Chainlink",
     "description": "TAO / USD (2%)",
     "pair": [
@@ -2232,7 +2232,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x77F9710E7d0A19669A13c055F62cd80d313dF022",
+    "address": "0x77F9710E7d0A19669A13c055F62cd80d313dF022",
     "vendor": "Chainlink",
     "description": "AUD / USD (0.15%)",
     "pair": [
@@ -2247,7 +2247,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x8f1dF6D7F2db73eECE86a18b4381F4707b918FB1",
+    "address": "0x8f1dF6D7F2db73eECE86a18b4381F4707b918FB1",
     "vendor": "Chainlink",
     "description": "PYUSD / USD (0.3%)",
     "pair": [
@@ -2266,7 +2266,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xeb988B77b94C186053282BfcD8B7ED55142D3cAB",
+    "address": "0xeb988B77b94C186053282BfcD8B7ED55142D3cAB",
     "vendor": "Chainlink",
     "description": "XCN / USD (2%)",
     "pair": [
@@ -2285,7 +2285,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x936B31C428C29713343E05D631e69304f5cF5f49",
+    "address": "0x936B31C428C29713343E05D631e69304f5cF5f49",
     "vendor": "Chainlink",
     "description": "solvBTC / BTC (0.5%)",
     "pair": [
@@ -2304,7 +2304,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x759bBC1be8F90eE6457C44abc7d443842a976d02",
+    "address": "0x759bBC1be8F90eE6457C44abc7d443842a976d02",
     "vendor": "Chainlink",
     "description": "RSR / USD (2%)",
     "pair": [
@@ -2319,14 +2319,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x5586bF404C7A22A4a4077401272cE5945f80189C",
+    "address": "0x5586bF404C7A22A4a4077401272cE5945f80189C",
     "vendor": "Chainlink",
     "description": "CacheGold PoR USD (0.1%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0xEBca574f1cE4d17cd02c20F47Ef8210C08Cc4255",
+    "address": "0xEBca574f1cE4d17cd02c20F47Ef8210C08Cc4255",
     "vendor": "Chainlink",
     "description": "AVAIL / USD (2%)",
     "pair": [
@@ -2341,7 +2341,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x194a9AaF2e0b67c35915cD01101585A33Fe25CAa",
+    "address": "0x194a9AaF2e0b67c35915cD01101585A33Fe25CAa",
     "vendor": "Chainlink",
     "description": "ALCX / ETH (2%)",
     "pair": [
@@ -2360,7 +2360,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xF4030086522a5bEEa4988F8cA5B36dbC97BeE88c",
+    "address": "0xF4030086522a5bEEa4988F8cA5B36dbC97BeE88c",
     "vendor": "Chainlink",
     "description": "BTC / USD (0.5%)",
     "pair": [
@@ -2379,7 +2379,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xec21B3e882CE09928cb397DcfF31B15cBBD1e1C3",
+    "address": "0xec21B3e882CE09928cb397DcfF31B15cBBD1e1C3",
     "vendor": "Chainlink",
     "description": "SWETH / ETH (0.5%)",
     "pair": [
@@ -2394,7 +2394,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x17D054eCac33D91F7340645341eFB5DE9009F1C1",
+    "address": "0x17D054eCac33D91F7340645341eFB5DE9009F1C1",
     "vendor": "Chainlink",
     "description": "GRT / ETH (2%)",
     "pair": [
@@ -2413,7 +2413,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x160AC928A16C93eD4895C2De6f81ECcE9a7eB7b4",
+    "address": "0x160AC928A16C93eD4895C2De6f81ECcE9a7eB7b4",
     "vendor": "Chainlink",
     "description": "LRC / ETH (1%)",
     "pair": [
@@ -2432,7 +2432,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xEC8761a0A73c34329CA5B1D3Dc7eD07F30e836e2",
+    "address": "0xEC8761a0A73c34329CA5B1D3Dc7eD07F30e836e2",
     "vendor": "Chainlink",
     "description": "Total Marketcap / USD (2%)",
     "pair": [
@@ -2447,7 +2447,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xA027702dbb89fbd58938e4324ac03B58d812b0E1",
+    "address": "0xA027702dbb89fbd58938e4324ac03B58d812b0E1",
     "vendor": "Chainlink",
     "description": "YFI / USD (1%)",
     "pair": [
@@ -2466,7 +2466,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x7A364e8770418566e3eb2001A96116E6138Eb32F",
+    "address": "0x7A364e8770418566e3eb2001A96116E6138Eb32F",
     "vendor": "Chainlink",
     "description": "MIM / USD (0.5%)",
     "pair": [
@@ -2485,14 +2485,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x3425455fe737cdaE8564640df27bbF2eCD56E584",
+    "address": "0x3425455fe737cdaE8564640df27bbF2eCD56E584",
     "vendor": "Chainlink",
     "description": "Metis Healthcheck (1%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0x3886BA987236181D98F2401c507Fb8BeA7871dF2",
+    "address": "0x3886BA987236181D98F2401c507Fb8BeA7871dF2",
     "vendor": "Chainlink",
     "description": "TUSD / ETH (1%)",
     "pair": [
@@ -2507,7 +2507,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x5c0Ab2d9b5a7ed9f470386e82BB36A3613cDd4b5",
+    "address": "0x5c0Ab2d9b5a7ed9f470386e82BB36A3613cDd4b5",
     "vendor": "Chainlink",
     "description": "GBP / USD (0.15%)",
     "pair": [
@@ -2522,7 +2522,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x449d117117838fFA61263B61dA6301AA2a88B13A",
+    "address": "0x449d117117838fFA61263B61dA6301AA2a88B13A",
     "vendor": "Chainlink",
     "description": "CHF / USD (0.15%)",
     "pair": [
@@ -2537,14 +2537,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x80f8D7b4fB192De43Ed6aE0DD4A42A60f43641b0",
+    "address": "0x80f8D7b4fB192De43Ed6aE0DD4A42A60f43641b0",
     "vendor": "Chainlink",
     "description": "ARKB Reserves (1e-7%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0xfF30586cD0F29eD462364C7e81375FC0C71219b1",
+    "address": "0xfF30586cD0F29eD462364C7e81375FC0C71219b1",
     "vendor": "Chainlink",
     "description": "USDS / USD (0.3%)",
     "pair": [
@@ -2563,7 +2563,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xf2917e602C2dCa458937fad715bb1E465305A4A1",
+    "address": "0xf2917e602C2dCa458937fad715bb1E465305A4A1",
     "vendor": "Chainlink",
     "description": "EIGEN / USD (1%)",
     "pair": [
@@ -2582,14 +2582,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x9a51192e065ECC6BDEafE5e194ce54702DE4f1f5",
+    "address": "0x9a51192e065ECC6BDEafE5e194ce54702DE4f1f5",
     "vendor": "Chainlink",
     "description": "Consumer Price Index (1000%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0x2665701293fCbEB223D11A08D826563EDcCE423A",
+    "address": "0x2665701293fCbEB223D11A08D826563EDcCE423A",
     "vendor": "Chainlink",
     "description": "cbBTC / USD (2%)",
     "pair": [
@@ -2608,7 +2608,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x24D9aB51950F3d62E9144fdC2f3135DAA6Ce8D1B",
+    "address": "0x24D9aB51950F3d62E9144fdC2f3135DAA6Ce8D1B",
     "vendor": "Chainlink",
     "description": "ENJ / ETH (2%)",
     "pair": [
@@ -2627,7 +2627,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xa81FE04086865e63E12dD3776978E49DEEa2ea4e",
+    "address": "0xa81FE04086865e63E12dD3776978E49DEEa2ea4e",
     "vendor": "Chainlink",
     "description": "WBTC PoR (1e-7%)",
     "pair": [
@@ -2642,7 +2642,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xCc70F09A6CC17553b2E31954cD36E4A2d89501f7",
+    "address": "0xCc70F09A6CC17553b2E31954cD36E4A2d89501f7",
     "vendor": "Chainlink",
     "description": "SUSHI / USD (1%)",
     "pair": [
@@ -2661,7 +2661,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xb4d5289C58CE36080b0748B47F859D8F50dFAACb",
+    "address": "0xb4d5289C58CE36080b0748B47F859D8F50dFAACb",
     "vendor": "Chainlink",
     "description": "AGEUR / EUR (1%)",
     "pair": [
@@ -2672,7 +2672,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xc929ad75B72593967DE83E7F7Cda0493458261D9",
+    "address": "0xc929ad75B72593967DE83E7F7Cda0493458261D9",
     "vendor": "Chainlink",
     "description": "1INCH / USD (1%)",
     "pair": [
@@ -2691,7 +2691,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x35E3f7E558C04cE7eEE1629258EcbbA03B36Ec56",
+    "address": "0x35E3f7E558C04cE7eEE1629258EcbbA03B36Ec56",
     "vendor": "Chainlink",
     "description": "SAND / USD (2%)",
     "pair": [
@@ -2710,7 +2710,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x5C00128d4d1c2F4f652C267d7bcdD7aC99C16E16",
+    "address": "0x5C00128d4d1c2F4f652C267d7bcdD7aC99C16E16",
     "vendor": "Chainlink",
     "description": "ENS / USD (2%)",
     "pair": [
@@ -2729,7 +2729,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x24551a8Fb2A7211A25a17B1481f043A8a8adC7f2",
+    "address": "0x24551a8Fb2A7211A25a17B1481f043A8a8adC7f2",
     "vendor": "Chainlink",
     "description": "MKR / ETH (1%)",
     "pair": [
@@ -2748,7 +2748,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x03c68933f7a3F76875C0bc670a58e69294cDFD01",
+    "address": "0x03c68933f7a3F76875C0bc670a58e69294cDFD01",
     "vendor": "Chainlink",
     "description": "RSETH / ETH (0.5%)",
     "pair": [
@@ -2767,7 +2767,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xAed0c38402a5d19df6E4c03F4E2DceD6e29c1ee9",
+    "address": "0xAed0c38402a5d19df6E4c03F4E2DceD6e29c1ee9",
     "vendor": "Chainlink",
     "description": "DAI / USD (0.25%)",
     "pair": [
@@ -2786,7 +2786,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x656c0544eF4C98A6a98491833A89204Abb045d6b",
+    "address": "0x656c0544eF4C98A6a98491833A89204Abb045d6b",
     "vendor": "Chainlink",
     "description": "KNC / ETH (2%)",
     "pair": [
@@ -2805,7 +2805,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x925B831EB4c9fFA7e384254fb2cd508c65FAe3FE",
+    "address": "0x925B831EB4c9fFA7e384254fb2cd508c65FAe3FE",
     "vendor": "Chainlink",
     "description": "USDV / USD (1%)",
     "pair": [
@@ -2820,7 +2820,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x833D8Eb16D306ed1FbB5D7A2E019e106B960965A",
+    "address": "0x833D8Eb16D306ed1FbB5D7A2E019e106B960965A",
     "vendor": "Chainlink",
     "description": "BUSD / USD (0.5%)",
     "pair": [
@@ -2839,7 +2839,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xAc559F25B1619171CbC396a50854A3240b6A4e99",
+    "address": "0xAc559F25B1619171CbC396a50854A3240b6A4e99",
     "vendor": "Chainlink",
     "description": "ETH / BTC (0.5%)",
     "pair": [
@@ -2858,7 +2858,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419",
+    "address": "0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419",
     "vendor": "Chainlink",
     "description": "ETH / USD (0.5%)",
     "pair": [
@@ -2877,7 +2877,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x2DE7E4a9488488e0058B95854CC2f7955B35dC9b",
+    "address": "0x2DE7E4a9488488e0058B95854CC2f7955B35dC9b",
     "vendor": "Chainlink",
     "description": "FTM / ETH (3%)",
     "pair": [
@@ -2896,7 +2896,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xeD9960f685C3c4d6aa937E56169a41C19D0aC9c6",
+    "address": "0xeD9960f685C3c4d6aa937E56169a41C19D0aC9c6",
     "vendor": "Chainlink",
     "description": "sUSDe / USD Calculated (0.5%)",
     "pair": [
@@ -2911,7 +2911,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x079674468Fee6ab45aBfE986737A440701c49BdB",
+    "address": "0x079674468Fee6ab45aBfE986737A440701c49BdB",
     "vendor": "Chainlink",
     "description": "USDM / USD (0.5%)",
     "pair": [
@@ -2930,7 +2930,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x029849bbc0b1d93b85a8b6190e979fd38F5760E2",
+    "address": "0x029849bbc0b1d93b85a8b6190e979fd38F5760E2",
     "vendor": "Chainlink",
     "description": "DPI / ETH (2%)",
     "pair": [
@@ -2949,14 +2949,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x43921Ca0eca1EA69722c048A6afbc2CAd0BB80e9",
+    "address": "0x43921Ca0eca1EA69722c048A6afbc2CAd0BB80e9",
     "vendor": "Chainlink",
     "description": "21BTC PoR (1e-7%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0xc04611C43842220fd941515F86d1DDdB15F04e46",
+    "address": "0xc04611C43842220fd941515F86d1DDdB15F04e46",
     "vendor": "Chainlink",
     "description": "SHV / USD (0.3%)",
     "pair": [
@@ -2971,7 +2971,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xeF8A4aF35cd47424672E3C590aBD37FBB7A7759a",
+    "address": "0xeF8A4aF35cd47424672E3C590aBD37FBB7A7759a",
     "vendor": "Chainlink",
     "description": "CNY / USD (0.3%)",
     "pair": [
@@ -2986,7 +2986,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xC1438AA3823A6Ba0C159CfA8D98dF5A994bA120b",
+    "address": "0xC1438AA3823A6Ba0C159CfA8D98dF5A994bA120b",
     "vendor": "Chainlink",
     "description": "BAL / ETH (2%)",
     "pair": [
@@ -3005,7 +3005,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x79291A9d692Df95334B1a0B3B4AE6bC606782f8c",
+    "address": "0x79291A9d692Df95334B1a0B3B4AE6bC606782f8c",
     "vendor": "Chainlink",
     "description": "SNX / ETH (2%)",
     "pair": [
@@ -3024,7 +3024,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x773616E4d11A78F511299002da57A0a94577F1f4",
+    "address": "0x773616E4d11A78F511299002da57A0a94577F1f4",
     "vendor": "Chainlink",
     "description": "DAI / ETH (1%)",
     "pair": [
@@ -3043,14 +3043,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xf3Ab3e54DE3b4BCaEbef6C66Cec0a3a88f262757",
+    "address": "0xf3Ab3e54DE3b4BCaEbef6C66Cec0a3a88f262757",
     "vendor": "Chainlink",
     "description": "USTB AUM (1e-7%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0xD10aBbC76679a20055E167BB80A24ac851b37056",
+    "address": "0xD10aBbC76679a20055E167BB80A24ac851b37056",
     "vendor": "Chainlink",
     "description": "APE / USD (2%)",
     "pair": [
@@ -3069,7 +3069,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xB9E1E3A9feFf48998E45Fa90847ed4D467E8BcfD",
+    "address": "0xB9E1E3A9feFf48998E45Fa90847ed4D467E8BcfD",
     "vendor": "Chainlink",
     "description": "FRAX / USD (1%)",
     "pair": [
@@ -3088,14 +3088,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xAd410E655C0fE4741F573152592eeb766e686CE7",
+    "address": "0xAd410E655C0fE4741F573152592eeb766e686CE7",
     "vendor": "Chainlink",
     "description": "stETH PoR (0.2%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0x5C8D8AaB4ffa4652753Df94f299330Bb4479bF85",
+    "address": "0x5C8D8AaB4ffa4652753Df94f299330Bb4479bF85",
     "vendor": "Chainlink",
     "description": "HIGH / USD (2%)",
     "pair": [
@@ -3114,7 +3114,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x7c5d4F8345e66f68099581Db340cd65B078C41f4",
+    "address": "0x7c5d4F8345e66f68099581Db340cd65B078C41f4",
     "vendor": "Chainlink",
     "description": "YFI / ETH (1%)",
     "pair": [
@@ -3133,7 +3133,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x82A44D92D6c329826dc557c5E1Be6ebeC5D5FeB9",
+    "address": "0x82A44D92D6c329826dc557c5E1Be6ebeC5D5FeB9",
     "vendor": "Chainlink",
     "description": "MANA / ETH (2%)",
     "pair": [
@@ -3152,7 +3152,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x393CC05baD439c9B36489384F11487d9C8410471",
+    "address": "0x393CC05baD439c9B36489384F11487d9C8410471",
     "vendor": "Chainlink",
     "description": "RDNT / USD (2%)",
     "pair": [
@@ -3167,7 +3167,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x7e891DEbD8FA0A4Cf6BE58Ddff5a8ca174FebDCB",
+    "address": "0x7e891DEbD8FA0A4Cf6BE58Ddff5a8ca174FebDCB",
     "vendor": "Chainlink",
     "description": "USD0 / USD (0.5%)",
     "pair": [
@@ -3186,7 +3186,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x6CE4Ef3689F26edD40ed3ccbE3Cc29dab62C915f",
+    "address": "0x6CE4Ef3689F26edD40ed3ccbE3Cc29dab62C915f",
     "vendor": "Chainlink",
     "description": "PumpBTC / BTC Exchange Rate (1e-7%)",
     "pair": [
@@ -3201,7 +3201,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x4E155eD98aFE9034b7A5962f6C84c86d869daA9d",
+    "address": "0x4E155eD98aFE9034b7A5962f6C84c86d869daA9d",
     "vendor": "Chainlink",
     "description": "RPL / USD (2%)",
     "pair": [
@@ -3216,7 +3216,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x1f34794A16D644b9810477EbF3f0b3870141E2e3",
+    "address": "0x1f34794A16D644b9810477EbF3f0b3870141E2e3",
     "vendor": "Chainlink",
     "description": "SolvBTC.BBN / SolvBTC Exchange Rate (0.01%)",
     "pair": [
@@ -3227,7 +3227,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x86cF33a451dE9dc61a2862FD94FF4ad4Bd65A5d2",
+    "address": "0x86cF33a451dE9dc61a2862FD94FF4ad4Bd65A5d2",
     "vendor": "Chainlink",
     "description": "GRT / USD (2%)",
     "pair": [
@@ -3246,7 +3246,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xa20623070413d42a5C01Db2c8111640DD7A5A03a",
+    "address": "0xa20623070413d42a5C01Db2c8111640DD7A5A03a",
     "vendor": "Chainlink",
     "description": "UST / ETH (3%)",
     "pair": [
@@ -3261,7 +3261,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xb49f677943BC038e9857d61E7d053CaA2C1734C1",
+    "address": "0xb49f677943BC038e9857d61E7d053CaA2C1734C1",
     "vendor": "Chainlink",
     "description": "EUR / USD (0.15%)",
     "pair": [
@@ -3276,14 +3276,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x987517b50230De2042750570D8fE3783ee115975",
+    "address": "0x987517b50230De2042750570D8fE3783ee115975",
     "vendor": "Chainlink",
     "description": "ZKsync Healthcheck (0.5%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0x2c1d072e956AFFC0D435Cb7AC38EF18d24d9127c",
+    "address": "0x2c1d072e956AFFC0D435Cb7AC38EF18d24d9127c",
     "vendor": "Chainlink",
     "description": "LINK / USD (1%)",
     "pair": [
@@ -3302,7 +3302,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xDaeA8386611A157B08829ED4997A8A62B557014C",
+    "address": "0xDaeA8386611A157B08829ED4997A8A62B557014C",
     "vendor": "Chainlink",
     "description": "MLN / ETH (2%)",
     "pair": [
@@ -3321,7 +3321,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x8e0b7e6062272B5eF4524250bFFF8e5Bd3497757",
+    "address": "0x8e0b7e6062272B5eF4524250bFFF8e5Bd3497757",
     "vendor": "Chainlink",
     "description": "SUSD / ETH (1%)",
     "pair": [
@@ -3340,7 +3340,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x703118C4CbccCBF2AB31913e0f8075fbbb15f563",
+    "address": "0x703118C4CbccCBF2AB31913e0f8075fbbb15f563",
     "vendor": "Chainlink",
     "description": "OETH / ETH (1%)",
     "pair": [
@@ -3355,7 +3355,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x8c110B94C5f1d347fAcF5E1E938AB2db60E3c9a8",
+    "address": "0x8c110B94C5f1d347fAcF5E1E938AB2db60E3c9a8",
     "vendor": "Chainlink",
     "description": "SPELL / USD (1%)",
     "pair": [
@@ -3374,14 +3374,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xad4A9bED9a5E2c1c9a6E43D35Db53c83873dd901",
+    "address": "0xad4A9bED9a5E2c1c9a6E43D35Db53c83873dd901",
     "vendor": "Chainlink",
     "description": "STBT PoR (0.001%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0xF0985f7E2CaBFf22CecC5a71282a89582c382EFE",
+    "address": "0xF0985f7E2CaBFf22CecC5a71282a89582c382EFE",
     "vendor": "Chainlink",
     "description": "FTT / ETH (2%)",
     "pair": [
@@ -3396,7 +3396,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x58921Ac140522867bf50b9E009599Da0CA4A2379",
+    "address": "0x58921Ac140522867bf50b9E009599Da0CA4A2379",
     "vendor": "Chainlink",
     "description": "BADGER / ETH (2%)",
     "pair": [
@@ -3415,7 +3415,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xBcE206caE7f0ec07b545EddE332A47C2F75bbeb3",
+    "address": "0xBcE206caE7f0ec07b545EddE332A47C2F75bbeb3",
     "vendor": "Chainlink",
     "description": "JPY / USD (0.15%)",
     "pair": [
@@ -3430,7 +3430,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xC9CbF687f43176B302F03f5e58470b77D07c61c6",
+    "address": "0xC9CbF687f43176B302F03f5e58470b77D07c61c6",
     "vendor": "Chainlink",
     "description": "CVX / ETH (2%)",
     "pair": [
@@ -3449,7 +3449,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xfdFD9C85aD200c506Cf9e21F1FD8dd01932FBB23",
+    "address": "0xfdFD9C85aD200c506Cf9e21F1FD8dd01932FBB23",
     "vendor": "Chainlink",
     "description": "WBTC / BTC (2%)",
     "pair": [
@@ -3468,7 +3468,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x14e613AC84a31f709eadbdF89C6CC390fDc9540A",
+    "address": "0x14e613AC84a31f709eadbdF89C6CC390fDc9540A",
     "vendor": "Chainlink",
     "description": "BNB / USD (1%)",
     "pair": [
@@ -3483,14 +3483,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x32EaFC72772821936BCc9b8A32dC394fEFcDBfD9",
+    "address": "0x32EaFC72772821936BCc9b8A32dC394fEFcDBfD9",
     "vendor": "Chainlink",
     "description": "Arbitrum Healthcheck (1%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0x379589227b15F1a12195D3f2d90bBc9F31f95235",
+    "address": "0x379589227b15F1a12195D3f2d90bBc9F31f95235",
     "vendor": "Chainlink",
     "description": "XAG / USD (0.3%)",
     "pair": [
@@ -3505,14 +3505,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x48D9DA600EC48DDd6ce7FC1D47D683818e511c81",
+    "address": "0x48D9DA600EC48DDd6ce7FC1D47D683818e511c81",
     "vendor": "Chainlink",
     "description": "Base Healthcheck (0.1%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0xB09fC5fD3f11Cf9eb5E1C5Dba43114e3C9f477b5",
+    "address": "0xB09fC5fD3f11Cf9eb5E1C5Dba43114e3C9f477b5",
     "vendor": "Chainlink",
     "description": "TRY / USD (0.5%)",
     "pair": [
@@ -3527,14 +3527,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x652Ac4468688f277fB84b26940e736a20A87Ac2d",
+    "address": "0x652Ac4468688f277fB84b26940e736a20A87Ac2d",
     "vendor": "Chainlink",
     "description": "EURR Reserves (1%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0x91b99C9b75aF469a71eE1AB528e8da994A5D7030",
+    "address": "0x91b99C9b75aF469a71eE1AB528e8da994A5D7030",
     "vendor": "Chainlink",
     "description": "IDR / USD (0.5%)",
     "pair": [
@@ -3549,7 +3549,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x7bAC85A8a13A4BcD8abb3eB7d6b4d632c5a57676",
+    "address": "0x7bAC85A8a13A4BcD8abb3eB7d6b4d632c5a57676",
     "vendor": "Chainlink",
     "description": "MATIC / USD (1%)",
     "pair": [
@@ -3568,7 +3568,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xd962fC30A72A84cE50161031391756Bf2876Af5D",
+    "address": "0xd962fC30A72A84cE50161031391756Bf2876Af5D",
     "vendor": "Chainlink",
     "description": "CVX / USD (2%)",
     "pair": [
@@ -3587,7 +3587,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xC5f8c4aB091Be1A899214c0C3636ca33DcA0C547",
+    "address": "0xC5f8c4aB091Be1A899214c0C3636ca33DcA0C547",
     "vendor": "Chainlink",
     "description": "ETHx / ETH (0.5%)",
     "pair": [
@@ -3602,7 +3602,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x86392dC19c0b719886221c78AB11eb8Cf5c52812",
+    "address": "0x86392dC19c0b719886221c78AB11eb8Cf5c52812",
     "vendor": "Chainlink",
     "description": "STETH / ETH (0.5%)",
     "pair": [
@@ -3621,7 +3621,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xa34317DB73e77d453b1B8d04550c44D10e981C8e",
+    "address": "0xa34317DB73e77d453b1B8d04550c44D10e981C8e",
     "vendor": "Chainlink",
     "description": "CAD / USD (0.15%)",
     "pair": [
@@ -3636,7 +3636,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x164b276057258d81941e97B0a900D4C7B358bCe0",
+    "address": "0x164b276057258d81941e97B0a900D4C7B358bCe0",
     "vendor": "Chainlink",
     "description": "wstETH / USD Calculated (0.5%)",
     "pair": [
@@ -3651,7 +3651,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x8350b7De6a6a2C1368E7D4Bd968190e13E354297",
+    "address": "0x8350b7De6a6a2C1368E7D4Bd968190e13E354297",
     "vendor": "Chainlink",
     "description": "TBTC / USD (2%)",
     "pair": [
@@ -3670,14 +3670,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x60cbE8D88EF519cF3C62414D76f50818D211fea1",
+    "address": "0x60cbE8D88EF519cF3C62414D76f50818D211fea1",
     "vendor": "Chainlink",
     "description": "Swell ETH PoR (2%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0x32d1463EB53b73C095625719Afa544D5426354cB",
+    "address": "0x32d1463EB53b73C095625719Afa544D5426354cB",
     "vendor": "Chainlink",
     "description": "IB01 / USD (2%)",
     "pair": [
@@ -3692,7 +3692,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x861d15F8a4059cb918bD6F3670adAEB1220B298f",
+    "address": "0x861d15F8a4059cb918bD6F3670adAEB1220B298f",
     "vendor": "Chainlink",
     "description": "uniBTC / BTC Exchange Rate (0.01%)",
     "pair": [
@@ -3707,14 +3707,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xCc72039A141c6e34a779eF93AEF5eB4C82A893c7",
+    "address": "0xCc72039A141c6e34a779eF93AEF5eB4C82A893c7",
     "vendor": "Chainlink",
     "description": "Nexus wETH Reserves (0.3%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0x9a72298ae3886221820B1c878d12D872087D3a23",
+    "address": "0x9a72298ae3886221820B1c878d12D872087D3a23",
     "vendor": "Chainlink",
     "description": "OHMv2 / ETH (2%)",
     "pair": [
@@ -3729,7 +3729,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x7A9f34a0Aa917D438e9b6E630067062B7F8f6f3d",
+    "address": "0x7A9f34a0Aa917D438e9b6E630067062B7F8f6f3d",
     "vendor": "Chainlink",
     "description": "STG / USD (5%)",
     "pair": [
@@ -3748,7 +3748,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x3147D7203354Dc06D9fd350c7a2437bcA92387a4",
+    "address": "0x3147D7203354Dc06D9fd350c7a2437bcA92387a4",
     "vendor": "Chainlink",
     "description": "REN / ETH (2%)",
     "pair": [
@@ -3767,7 +3767,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xd27e6D02b72eB6FCe04Ad5690C419196B4EF2885",
+    "address": "0xd27e6D02b72eB6FCe04Ad5690C419196B4EF2885",
     "vendor": "Chainlink",
     "description": "IBTA / USD (2%)",
     "pair": [
@@ -3782,14 +3782,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x0c89c488e763AC2d69cB058CCAC7A8B283EE3DbA",
+    "address": "0x0c89c488e763AC2d69cB058CCAC7A8B283EE3DbA",
     "vendor": "Chainlink",
     "description": "Swell Restaked ETH PoR (0.5%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0x169E633A2D1E6c10dD91238Ba11c4A708dfEF37C",
+    "address": "0x169E633A2D1E6c10dD91238Ba11c4A708dfEF37C",
     "vendor": "Chainlink",
     "description": "Fast Gas / Gwei (25%)",
     "pair": [
@@ -3800,7 +3800,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x4ffC43a60e009B551865A93d232E33Fce9f01507",
+    "address": "0x4ffC43a60e009B551865A93d232E33Fce9f01507",
     "vendor": "Chainlink",
     "description": "SOL / USD (2%)",
     "pair": [
@@ -3819,7 +3819,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xdeb288F737066589598e9214E782fa5A8eD689e8",
+    "address": "0xdeb288F737066589598e9214E782fa5A8eD689e8",
     "vendor": "Chainlink",
     "description": "BTC / ETH (2%)",
     "pair": [
@@ -3838,7 +3838,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x8a12Be339B0cD1829b91Adc01977caa5E9ac121e",
+    "address": "0x8a12Be339B0cD1829b91Adc01977caa5E9ac121e",
     "vendor": "Chainlink",
     "description": "CRV / ETH (2%)",
     "pair": [
@@ -3857,14 +3857,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x0A8cD0115B1EE87EbA5b8E06A9a15ED93e230f7a",
+    "address": "0x0A8cD0115B1EE87EbA5b8E06A9a15ED93e230f7a",
     "vendor": "Chainlink",
     "description": "HBTC PoR (1e-7%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0x09023c0DA49Aaf8fc3fA3ADF34C6A7016D38D5e3",
+    "address": "0x09023c0DA49Aaf8fc3fA3ADF34C6A7016D38D5e3",
     "vendor": "Chainlink",
     "description": "USDP / USD (1%)",
     "pair": [
@@ -3879,14 +3879,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xfe2db7771676c5436c1bebA2956B097f8C5b5aC6",
+    "address": "0xfe2db7771676c5436c1bebA2956B097f8C5b5aC6",
     "vendor": "Chainlink",
     "description": "ARK 21SHARES ETHEREUM ETF Reserves (1%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0x3977CFc9e4f29C184D4675f4EB8e0013236e5f3e",
+    "address": "0x3977CFc9e4f29C184D4675f4EB8e0013236e5f3e",
     "vendor": "Chainlink",
     "description": "NZD / USD (0.3%)",
     "pair": [
@@ -3901,14 +3901,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xa7d76167900493Acf2650Dc001fb2Bc5256579B0",
+    "address": "0xa7d76167900493Acf2650Dc001fb2Bc5256579B0",
     "vendor": "Chainlink",
     "description": "CETH Reserves (1e-7%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0x6Ebc52C8C1089be9eB3945C4350B68B8E4C2233f",
+    "address": "0x6Ebc52C8C1089be9eB3945C4350B68B8E4C2233f",
     "vendor": "Chainlink",
     "description": "FXS / USD (2%)",
     "pair": [
@@ -3927,7 +3927,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xBAEbEFc1D023c0feCcc047Bff42E75F15Ff213E6",
+    "address": "0xBAEbEFc1D023c0feCcc047Bff42E75F15Ff213E6",
     "vendor": "Chainlink",
     "description": "IMX / USD (2%)",
     "pair": [
@@ -3946,7 +3946,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x14d04Fff8D21bd62987a5cE9ce543d2F1edF5D3E",
+    "address": "0x14d04Fff8D21bd62987a5cE9ce543d2F1edF5D3E",
     "vendor": "Chainlink",
     "description": "FRAX / ETH (2%)",
     "pair": [
@@ -3965,7 +3965,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xDC3EA94CD0AC27d9A86C180091e7f78C683d3699",
+    "address": "0xDC3EA94CD0AC27d9A86C180091e7f78C683d3699",
     "vendor": "Chainlink",
     "description": "SNX / USD (1%)",
     "pair": [
@@ -3984,7 +3984,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x536218f9E9Eb48863970252233c8F271f554C2d0",
+    "address": "0x536218f9E9Eb48863970252233c8F271f554C2d0",
     "vendor": "Chainlink",
     "description": "RETH / ETH (2%)",
     "pair": [
@@ -4003,7 +4003,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x8fFfFfd4AfB6115b954Bd326cbe7B4BA576818f6",
+    "address": "0x8fFfFfd4AfB6115b954Bd326cbe7B4BA576818f6",
     "vendor": "Chainlink",
     "description": "USDC / USD (0.25%)",
     "pair": [
@@ -4022,7 +4022,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xc7de7f4d4C9c991fF62a07D18b3E31e349833A18",
+    "address": "0xc7de7f4d4C9c991fF62a07D18b3E31e349833A18",
     "vendor": "Chainlink",
     "description": "APE / ETH (2%)",
     "pair": [
@@ -4041,7 +4041,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xa569d910839Ae8865Da8F8e70FfFb0cBA869F961",
+    "address": "0xa569d910839Ae8865Da8F8e70FfFb0cBA869F961",
     "vendor": "Chainlink",
     "description": "USDe / USD (0.5%)",
     "pair": [
@@ -4060,7 +4060,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x492575FDD11a0fCf2C6C719867890a7648d526eB",
+    "address": "0x492575FDD11a0fCf2C6C719867890a7648d526eB",
     "vendor": "Chainlink",
     "description": "AMPL / ETH (2%)",
     "pair": [
@@ -4075,7 +4075,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x8dD1CD88F43aF196ae478e91b9F5E4Ac69A97C61",
+    "address": "0x8dD1CD88F43aF196ae478e91b9F5E4Ac69A97C61",
     "vendor": "Chainlink",
     "description": "SHIB / ETH (2%)",
     "pair": [
@@ -4094,7 +4094,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xe20CA8D7546932360e37E9D72c1a47334af57706",
+    "address": "0xe20CA8D7546932360e37E9D72c1a47334af57706",
     "vendor": "Chainlink",
     "description": "AMPL / USD (1000%)",
     "pair": [
@@ -4109,14 +4109,14 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x289B5036cd942e619E1Ee48670F98d214E745AAC",
+    "address": "0x289B5036cd942e619E1Ee48670F98d214E745AAC",
     "vendor": "Chainlink",
     "description": "USTB NAV per Share (0.0001%)",
     "decimals": 8
   },
   {
     "chainId": 1,
-    "contractAddress": "0x547a514d5e3769680Ce22B2361c10Ea13619e8a9",
+    "address": "0x547a514d5e3769680Ce22B2361c10Ea13619e8a9",
     "vendor": "Chainlink",
     "description": "AAVE / USD (1%)",
     "pair": [
@@ -4135,7 +4135,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xCd627aA160A6fA45Eb793D19Ef54f5062F20f33f",
+    "address": "0xCd627aA160A6fA45Eb793D19Ef54f5062F20f33f",
     "vendor": "Chainlink",
     "description": "CRV / USD (1%)",
     "pair": [
@@ -4154,7 +4154,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x553303d460EE0afB37EdFf9bE42922D8FF63220e",
+    "address": "0x553303d460EE0afB37EdFf9bE42922D8FF63220e",
     "vendor": "Chainlink",
     "description": "UNI / USD (1%)",
     "pair": [
@@ -4173,7 +4173,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xFF3BC18cCBd5999CE63E788A1c250a88626aD099",
+    "address": "0xFF3BC18cCBd5999CE63E788A1c250a88626aD099",
     "vendor": "Chainlink",
     "description": "sUSDe / USD (0.5%)",
     "pair": [
@@ -4192,7 +4192,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x2885d15b8Af22648b98B122b22FDF4D2a56c6023",
+    "address": "0x2885d15b8Af22648b98B122b22FDF4D2a56c6023",
     "vendor": "Chainlink",
     "description": "ZRX / USD (1%)",
     "pair": [
@@ -4211,7 +4211,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xec1D1B3b0443256cc3860e24a46F108e699484Aa",
+    "address": "0xec1D1B3b0443256cc3860e24a46F108e699484Aa",
     "vendor": "Chainlink",
     "description": "MKR / USD (1%)",
     "pair": [
@@ -4230,7 +4230,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xEEf0C605546958c1f899b6fB336C20671f9cD49F",
+    "address": "0xEEf0C605546958c1f899b6fB336C20671f9cD49F",
     "vendor": "Chainlink",
     "description": "CRVUSD / USD (0.5%)",
     "pair": [
@@ -4249,7 +4249,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x5b563107C8666d2142C216114228443B94152362",
+    "address": "0x5b563107C8666d2142C216114228443B94152362",
     "vendor": "Chainlink",
     "description": "mETH / ETH (0.5%)",
     "pair": [
@@ -4264,7 +4264,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x31697852a68433DbCc2Ff612c516d69E3D9bd08F",
+    "address": "0x31697852a68433DbCc2Ff612c516d69E3D9bd08F",
     "vendor": "Chainlink",
     "description": "ARB / USD (2%)",
     "pair": [
@@ -4283,7 +4283,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x4e844125952D32AcdF339BE976c98E22F6F318dB",
+    "address": "0x4e844125952D32AcdF339BE976c98E22F6F318dB",
     "vendor": "Chainlink",
     "description": "LDO / ETH (2%)",
     "pair": [
@@ -4302,7 +4302,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xe25277fF4bbF9081C75Ab0EB13B4A13a721f3E13",
+    "address": "0xe25277fF4bbF9081C75Ab0EB13B4A13a721f3E13",
     "vendor": "Chainlink",
     "description": "SGD / USD (0.15%)",
     "pair": [
@@ -4317,7 +4317,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x3f12643D3f6f874d39C2a4c9f2Cd6f2DbAC877FC",
+    "address": "0x3f12643D3f6f874d39C2a4c9f2Cd6f2DbAC877FC",
     "vendor": "Chainlink",
     "description": "GHO / USD (0.5%)",
     "pair": [
@@ -4328,7 +4328,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xec746eCF986E2927Abd291a2A1716c940100f8Ba",
+    "address": "0xec746eCF986E2927Abd291a2A1716c940100f8Ba",
     "vendor": "Chainlink",
     "description": "TUSD / USD (0.3%)",
     "pair": [
@@ -4343,7 +4343,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xFC9e30Cf89f8A00dba3D34edf8b65BCDAdeCC1cB",
+    "address": "0xFC9e30Cf89f8A00dba3D34edf8b65BCDAdeCC1cB",
     "vendor": "Chainlink",
     "description": "USD0++ / USD (0.5%)",
     "pair": [
@@ -4362,7 +4362,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x905b7dAbCD3Ce6B792D874e303D336424Cdb1421",
+    "address": "0x905b7dAbCD3Ce6B792D874e303D336424Cdb1421",
     "vendor": "Lido",
     "description": "wstETH/stETH exchange rate",
     "pair": [
@@ -4380,7 +4380,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x754D9Cda5EF7084216e180078C7C343b147dF13A",
+    "address": "0x754D9Cda5EF7084216e180078C7C343b147dF13A",
     "vendor": "Usual",
     "description": "PT-USD0++/USD0++ exchange rate adapter ",
     "pair": [
@@ -4398,7 +4398,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x4F67e4d9BD67eFa28236013288737D39AeF48e79",
+    "address": "0x4F67e4d9BD67eFa28236013288737D39AeF48e79",
     "vendor": "Compound",
     "description": "Custom price feed for wstETH / ETH",
     "pair": [
@@ -4416,7 +4416,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x0A2b94F6871c1D7A32Fe58E1ab5e6deA2f114E56",
+    "address": "0x0A2b94F6871c1D7A32Fe58E1ab5e6deA2f114E56",
     "vendor": "Tokemak",
     "description": "autoETH / ETH exchange rate",
     "pair": [
@@ -4434,7 +4434,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x7D57e514a187f5596F10385A9D42eD5780111d94",
+    "address": "0x7D57e514a187f5596F10385A9D42eD5780111d94",
     "vendor": "Ojo",
     "description": "amphrETH/wstETH exchange rate",
     "pair": [
@@ -4452,7 +4452,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x0F0072fdDB300f9375C999cBcf9BDec07E7227d3",
+    "address": "0x0F0072fdDB300f9375C999cBcf9BDec07E7227d3",
     "vendor": "Oval",
     "description": "Oval price feed for Chainlink Lido USDT / ETH price feed",
     "pair": [
@@ -4470,7 +4470,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xc47641ed51f73A82C62Ba439d90096bccC376fe8",
+    "address": "0xc47641ed51f73A82C62Ba439d90096bccC376fe8",
     "vendor": "Oval",
     "description": "Oval price feed for Chainlink Lido stETH / ETH price feed",
     "pair": [
@@ -4488,7 +4488,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xb21d661fd6a3769ADB03e373dc00265f3c78cBfD",
+    "address": "0xb21d661fd6a3769ADB03e373dc00265f3c78cBfD",
     "vendor": "Oval",
     "description": "Oval price feed for Chainlink ezETH / ETH price feed",
     "pair": [
@@ -4506,7 +4506,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xE8f0CA2d311a9B669f525BFA306eBf59d4b64297",
+    "address": "0xE8f0CA2d311a9B669f525BFA306eBf59d4b64297",
     "vendor": "Oval",
     "description": "Oval price feed for Chainlink USDC / ETH price feed",
     "pair": [
@@ -4524,7 +4524,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x07D1718fF05a8C53C8F05aDAEd57C0d672945f9a",
+    "address": "0x07D1718fF05a8C53C8F05aDAEd57C0d672945f9a",
     "vendor": "AladdinDAO",
     "description": "arUSD / rUSD exchange rate",
     "pair": [
@@ -4542,7 +4542,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x4Aab19DC2f4951c1024c48C6976270bd4D08A12F",
+    "address": "0x4Aab19DC2f4951c1024c48C6976270bd4D08A12F",
     "vendor": "Reservoir",
     "description": "srUSD / rUSD exchange rate",
     "pair": [
@@ -4560,7 +4560,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x4F78027C9e9B8E11dEc8139e248D74b9dDE05ceb",
+    "address": "0x4F78027C9e9B8E11dEc8139e248D74b9dDE05ceb",
     "vendor": "Oval",
     "description": "Oval price feed for Chainlink weETH / ETH price feed",
     "pair": [
@@ -4578,7 +4578,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x4270E1817576bbA4b640466bE79A408Ef128F828",
+    "address": "0x4270E1817576bbA4b640466bE79A408Ef128F828",
     "vendor": "Origami Finance",
     "description": "weETH / ETH exchange rate",
     "pair": [
@@ -4596,7 +4596,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xAd73fF895dC265b5229e61f45226319471C4685e",
+    "address": "0xAd73fF895dC265b5229e61f45226319471C4685e",
     "vendor": "Oval",
     "description": "Oval price feed for Chainlink USDC / ETH price feed",
     "pair": [
@@ -4614,7 +4614,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x4c48bcb2160F8e0aDbf9D4F3B034f1e36d1f8b3e",
+    "address": "0x4c48bcb2160F8e0aDbf9D4F3B034f1e36d1f8b3e",
     "vendor": "Hashnote",
     "description": "USYC / USD Hashnote price feed",
     "pair": [
@@ -4632,7 +4632,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x6a5a24455e5c9C288632944A88ceA923e0496024",
+    "address": "0x6a5a24455e5c9C288632944A88ceA923e0496024",
     "vendor": "Oval",
     "description": "Oval price feed for Chainlink USDC / USD price feed",
     "pair": [
@@ -4650,7 +4650,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xCf17f459F4D1D9e6fb5aa5013Bd2D7EB6083bd45",
+    "address": "0xCf17f459F4D1D9e6fb5aa5013Bd2D7EB6083bd45",
     "vendor": "Oval",
     "description": "Oval price feed for Chainlink TBTC / USD price feed",
     "pair": [
@@ -4668,7 +4668,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
+    "address": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
     "vendor": "Ethena",
     "description": "sUSDe / USDe exchange rate",
     "pair": [
@@ -4686,7 +4686,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD",
+    "address": "0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD",
     "vendor": "Sky",
     "description": "sUSDS / USDS exchange rate",
     "pair": [
@@ -4704,7 +4704,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x83F20F44975D03b1b09e64809B757c47f942BEeA",
+    "address": "0x83F20F44975D03b1b09e64809B757c47f942BEeA",
     "vendor": "Maker",
     "description": "sDAI / DAI exchange rate",
     "pair": [
@@ -4722,7 +4722,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xDcEe70654261AF21C44c093C300eD3Bb97b78192",
+    "address": "0xDcEe70654261AF21C44c093C300eD3Bb97b78192",
     "vendor": "Origin Protocol",
     "description": "WOETH / OETH exchange rate",
     "pair": [
@@ -4736,7 +4736,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x7FcD174E80f264448ebeE8c88a7C4476AAF58Ea6",
+    "address": "0x7FcD174E80f264448ebeE8c88a7C4476AAF58Ea6",
     "vendor": "Origin Protocol",
     "description": "wsuperOETHb / superOETHb exchange rate",
     "pair": [
@@ -4750,7 +4750,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x7751E2F4b8ae93EF6B79d86419d42FE3295A4559",
+    "address": "0x7751E2F4b8ae93EF6B79d86419d42FE3295A4559",
     "vendor": "Lift Dollar",
     "description": "wUSDL / USDL exchange rate",
     "pair": [
@@ -4768,7 +4768,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xF2d7B0F5cB09928DB0f0686F4e64b4aD96E04562",
+    "address": "0xF2d7B0F5cB09928DB0f0686F4e64b4aD96E04562",
     "vendor": "Pyth Network",
     "description": "UNI / USD Pyth price feed",
     "pair": [
@@ -4786,7 +4786,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xC5774412Dbd3734A5925936f320EE91a2940488D",
+    "address": "0xC5774412Dbd3734A5925936f320EE91a2940488D",
     "vendor": "Pyth Network",
     "description": "USDC / USD Pyth price feed",
     "pair": [
@@ -4804,7 +4804,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x7C4561Bb0F2d6947BeDA10F667191f6026E7Ac0c",
+    "address": "0x7C4561Bb0F2d6947BeDA10F667191f6026E7Ac0c",
     "vendor": "Pyth Network",
     "description": "PAXG / USD Pyth price feed",
     "pair": [
@@ -4822,7 +4822,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x6a403Cd3c976ad684f3C4e30Ab162341c93355bC",
+    "address": "0x6a403Cd3c976ad684f3C4e30Ab162341c93355bC",
     "vendor": "Hinkal",
     "description": "hETH/ETH exchange rate",
     "pair": [
@@ -4840,7 +4840,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
+    "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
     "vendor": "Angle",
     "description": "stEUR / EURA exchange rate",
     "pair": [
@@ -4858,7 +4858,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
+    "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
     "vendor": "Angle",
     "description": "stEUR / EURA exchange rate",
     "pair": [
@@ -4876,7 +4876,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x4fC22E5f89891B6bd00d554B6250503d38EE5E4D",
+    "address": "0x4fC22E5f89891B6bd00d554B6250503d38EE5E4D",
     "vendor": "Oval",
     "description": "Oval price feed for pufETH / ETH price feed",
     "pair": [
@@ -4894,7 +4894,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x12A52946cFB6761c3cA69389C5FEFfe9CF3Ef4e3",
+    "address": "0x12A52946cFB6761c3cA69389C5FEFfe9CF3Ef4e3",
     "vendor": "Oval",
     "description": "Oval price feed for USDC / ETH price feed",
     "pair": [
@@ -4912,7 +4912,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xd95ca61CE9aAF2143E81Ef5462C0c2325172E028",
+    "address": "0xd95ca61CE9aAF2143E81Ef5462C0c2325172E028",
     "vendor": "Overnight",
     "description": "Exchange rate for wUSD+/USD+",
     "pair": [
@@ -4926,7 +4926,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x02a0eA9F5000472D764293bC77622be6C6Cbc2f0",
+    "address": "0x02a0eA9F5000472D764293bC77622be6C6Cbc2f0",
     "vendor": "Chronicle",
     "description": "wstETH / USD Chronicle price feed",
     "pair": [
@@ -4944,7 +4944,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x371A53bB4203Ad5D7e60e220BaC1876FF3Ddda5B",
+    "address": "0x371A53bB4203Ad5D7e60e220BaC1876FF3Ddda5B",
     "vendor": "Chronicle",
     "description": "cbETH / USD Chronicle price feed",
     "pair": [
@@ -4962,7 +4962,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x152598809FB59db55cA76f89a192Fb23555531D8",
+    "address": "0x152598809FB59db55cA76f89a192Fb23555531D8",
     "vendor": "Chronicle",
     "description": "ETH / USD Chronicle price feed",
     "pair": [
@@ -4980,7 +4980,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x903ab5fae9ba089b1d4fce55bbb40e1a07acef59",
+    "address": "0x903ab5fae9ba089b1d4fce55bbb40e1a07acef59",
     "vendor": "Pyth Network",
     "description": "pufETH / USD Pyth price feed",
     "pair": [
@@ -4994,7 +4994,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x4429B7c2a044DD41fb8CA64d64398e8eF37814e4",
+    "address": "0x4429B7c2a044DD41fb8CA64d64398e8eF37814e4",
     "vendor": "Pyth Network",
     "description": "weETH / USD Pyth price feed",
     "pair": [
@@ -5012,7 +5012,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xB9A063eC10abFE6C03D974a82E7A6429F88602bF",
+    "address": "0xB9A063eC10abFE6C03D974a82E7A6429F88602bF",
     "vendor": "Pyth Network",
     "description": "ezETH / USD Pyth price feed",
     "pair": [
@@ -5030,7 +5030,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x75c5034e268Df404A839Ed89D507F26309217548",
+    "address": "0x75c5034e268Df404A839Ed89D507F26309217548",
     "vendor": "Pyth Network",
     "description": "cbETH / USD Pyth price feed",
     "pair": [
@@ -5048,7 +5048,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xb2c122567229A413bd8fe2aBADedaD2ED97436dB",
+    "address": "0xb2c122567229A413bd8fe2aBADedaD2ED97436dB",
     "vendor": "Pyth Network",
     "description": "wstETH / USD Pyth price feed",
     "pair": [
@@ -5066,7 +5066,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x4af3E0d3A45Ac89234F5dEAc723d5eE6C0224De3",
+    "address": "0x4af3E0d3A45Ac89234F5dEAc723d5eE6C0224De3",
     "vendor": "Pyth Network",
     "description": "USDC / USD Pyth price feed",
     "pair": [
@@ -5084,7 +5084,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x1b4671313DfA19B2F9B20eC2410712BC7CE6A89F",
+    "address": "0x1b4671313DfA19B2F9B20eC2410712BC7CE6A89F",
     "vendor": "Pyth Network",
     "description": "SUI / USD Pyth price feed",
     "pair": [
@@ -5098,7 +5098,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x59F78DE21a0b05d96Ae00c547BA951a3B905602f",
+    "address": "0x59F78DE21a0b05d96Ae00c547BA951a3B905602f",
     "vendor": "Pyth Network",
     "description": "ETH / USD Pyth price feed",
     "pair": [
@@ -5116,7 +5116,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x834c4f996B8a6411AEC0f8a0cF6fAfd4423dBEe2",
+    "address": "0x834c4f996B8a6411AEC0f8a0cF6fAfd4423dBEe2",
     "vendor": "Chronicle",
     "description": "HYUSD / USD Chronicle price feed",
     "pair": [
@@ -5134,7 +5134,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x4ca5403e23d5c71DDE4e4fe60fBE73b0ea0802F4",
+    "address": "0x4ca5403e23d5c71DDE4e4fe60fBE73b0ea0802F4",
     "vendor": "Mountain",
     "description": "WUSDM / USDM custom exchange rate",
     "pair": [
@@ -5152,7 +5152,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x363FFfe9e293Df351feC24bDE69954C472C52321",
+    "address": "0x363FFfe9e293Df351feC24bDE69954C472C52321",
     "vendor": "Mountain",
     "description": "WUSDM / USDM custom exchange rate",
     "pair": [
@@ -5170,7 +5170,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xb2Ca3C47b1BeA4AD7Cfd187A522be0F1bfc8652B",
+    "address": "0xb2Ca3C47b1BeA4AD7Cfd187A522be0F1bfc8652B",
     "vendor": "Origami",
     "description": "ezETH/ETH exchange rate",
     "pair": [
@@ -5188,7 +5188,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xBAc9fC6917c067F763eDa63f569e0C6A7dBbCD80",
+    "address": "0xBAc9fC6917c067F763eDa63f569e0C6A7dBbCD80",
     "vendor": "Origami",
     "description": "rsETH/ETH exchange rate",
     "pair": [
@@ -5206,7 +5206,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
+    "address": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
     "vendor": "Mountain",
     "description": "WUSDM / USDM exchange rate",
     "pair": [
@@ -5224,7 +5224,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x8DB2350D78aBc13f5673A411D4700BCF87864dDE",
+    "address": "0x8DB2350D78aBc13f5673A411D4700BCF87864dDE",
     "vendor": "Swell",
     "description": "swBTC / WBTC exchange rate",
     "pair": [
@@ -5242,7 +5242,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x270Ee1564eC483DD83f284E4D7bDFbfaa2feA76E",
+    "address": "0x270Ee1564eC483DD83f284E4D7bDFbfaa2feA76E",
     "vendor": "Centrifuge",
     "description": "LTF/USDC exchange rate",
     "pair": [
@@ -5260,7 +5260,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xE2380c199F07e78012c6D0b076A4137E6D1Ba022",
+    "address": "0xE2380c199F07e78012c6D0b076A4137E6D1Ba022",
     "vendor": "Oval",
     "description": "Oval price feed for SAND / USD price feed",
     "pair": [
@@ -5278,7 +5278,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x09717Bb4EE122Bb5dBf2457F727FfE8Ed3097F48",
+    "address": "0x09717Bb4EE122Bb5dBf2457F727FfE8Ed3097F48",
     "vendor": "Oval",
     "description": "Oval price feed for USDC / USD price feed",
     "pair": [
@@ -5296,7 +5296,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x171b10e16223F86500D558D426Bf4fa5EF280087",
+    "address": "0x171b10e16223F86500D558D426Bf4fa5EF280087",
     "vendor": "Oval",
     "description": "Oval price feed for cbBTC / USD price feed",
     "pair": [
@@ -5314,7 +5314,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x206B4846F1257252a64781f442626ce82FD3C6Cc",
+    "address": "0x206B4846F1257252a64781f442626ce82FD3C6Cc",
     "vendor": "Oval",
     "description": "Oval price feed for ETH / USD price feed",
     "pair": [
@@ -5332,7 +5332,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x6BC34c19AEbf6049e5AD42969EF0EfF3db665b0c",
+    "address": "0x6BC34c19AEbf6049e5AD42969EF0EfF3db665b0c",
     "vendor": "Oval",
     "description": "Oval price feed for cbBTC / USD price feed",
     "pair": [
@@ -5350,7 +5350,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xf11125B453dA3283ab0F520972Fd8DF857Fd61ef",
+    "address": "0xf11125B453dA3283ab0F520972Fd8DF857Fd61ef",
     "vendor": "Oval",
     "description": "Oval price feed for USDT / USD price feed",
     "pair": [
@@ -5368,7 +5368,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x82b26825D02deB266466f563F03ef2B87f8f37B9",
+    "address": "0x82b26825D02deB266466f563F03ef2B87f8f37B9",
     "vendor": "Oval",
     "description": "Oval price feed for cbBTC / USD price feed",
     "pair": [
@@ -5386,7 +5386,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xDF7f88EAd7832D2efCf7c874174538e9EAAf6930",
+    "address": "0xDF7f88EAd7832D2efCf7c874174538e9EAAf6930",
     "vendor": "Oval",
     "description": "Oval price feed for USDC / USD price feed",
     "pair": [
@@ -5404,7 +5404,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xb2b18E668CE6326760e3B063f72684fdF2a2D582",
+    "address": "0xb2b18E668CE6326760e3B063f72684fdF2a2D582",
     "vendor": "Origami",
     "description": "rswETH/ETH exchange rate",
     "pair": [
@@ -5422,7 +5422,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x057f30e63A69175C69A4Af5656b8C9EE647De3D0",
+    "address": "0x057f30e63A69175C69A4Af5656b8C9EE647De3D0",
     "vendor": "Chronicle",
     "description": "STONE / ETH Chronicle price feed",
     "pair": [
@@ -5440,7 +5440,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x83bC9a0611497A3160CA4e37F7641Bc4CD191a31",
+    "address": "0x83bC9a0611497A3160CA4e37F7641Bc4CD191a31",
     "vendor": "Backed",
     "description": "bC3M / EUR Backed price Feed",
     "pair": [
@@ -5454,7 +5454,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xb415eAA355D8440ac7eCB602D3fb67ccC1f0bc81",
+    "address": "0xb415eAA355D8440ac7eCB602D3fb67ccC1f0bc81",
     "vendor": "Redstone",
     "description": "LBTC / BTC Redstone redemption price feed",
     "pair": [
@@ -5472,7 +5472,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x1157A553Dc5b75Ea71745dC257B07eb2c165c654",
+    "address": "0x1157A553Dc5b75Ea71745dC257B07eb2c165c654",
     "vendor": "Pendle",
     "description": "PT-LBTC-29MAY2025 / LBTC PtToAssetRate adapter",
     "pair": [
@@ -5490,7 +5490,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x5926Cf8Fb055904007f962193a085Ade01bd456f",
+    "address": "0x5926Cf8Fb055904007f962193a085Ade01bd456f",
     "vendor": "Pendle",
     "description": "PT-rsETH-26JUN2025 / rsETH PtToAssetRate adapter",
     "pair": [
@@ -5508,7 +5508,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xC61fd175608dfE792574D5D008B236D7BE6f2110",
+    "address": "0xC61fd175608dfE792574D5D008B236D7BE6f2110",
     "vendor": "Pendle",
     "description": "PT-corn-eBTC-27MAR2025 / eBTC PtToAssetRate adapter",
     "pair": [
@@ -5526,7 +5526,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xD0F672d0db24f451E92242A24A96759df17dfF2E",
+    "address": "0xD0F672d0db24f451E92242A24A96759df17dfF2E",
     "vendor": "Pendle",
     "description": "PT Lombard LBTC 27MAR2025 / LBTC PtToAssetRate adapter",
     "pair": [
@@ -5544,7 +5544,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xf799E4c029d14f41Dc1918C9A4C67242F565710e",
+    "address": "0xf799E4c029d14f41Dc1918C9A4C67242F565710e",
     "vendor": "Pendle",
     "description": "PT Lombard LBTC 29MAY2025 / LBTC linear discount adapter",
     "pair": [
@@ -5562,7 +5562,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0xE96e954541Fc17d84c6D6C79F7DB9C6a52c0012c",
+    "address": "0xE96e954541Fc17d84c6D6C79F7DB9C6a52c0012c",
     "vendor": "Reserve",
     "description": "bsdETH / ETH exchange rate",
     "pair": [
@@ -5580,7 +5580,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xe1B4d34E8754600962Cd944B535180Bd758E6c2e",
+    "address": "0xe1B4d34E8754600962Cd944B535180Bd758E6c2e",
     "vendor": "Kelp Gain",
     "description": "agETH / rsETH exchange rate",
     "pair": [
@@ -5598,7 +5598,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
+    "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
     "vendor": "Angle",
     "description": "stUSD / USDA exchange rate",
     "pair": [
@@ -5616,7 +5616,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xf87d2F4d42856f0B6Eae140Aaf78bF0F777e9936",
+    "address": "0xf87d2F4d42856f0B6Eae140Aaf78bF0F777e9936",
     "vendor": "MEV Capital",
     "description": "ETH+ / USD exchange rate adapter",
     "pair": [
@@ -5634,7 +5634,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x270B7748CdF8243bFe68FaCE7230ef0fCE695389",
+    "address": "0x270B7748CdF8243bFe68FaCE7230ef0fCE695389",
     "vendor": "Hinkal",
     "description": "hETH / WETH exchange rate adapter",
     "pair": [
@@ -5652,7 +5652,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x056339C044055819E8Db84E71f5f2E1F536b2E5b",
+    "address": "0x056339C044055819E8Db84E71f5f2E1F536b2E5b",
     "vendor": "Ankura Trust - Midas",
     "description": "mTBILL / USD exchange rate adapter",
     "pair": [
@@ -5670,7 +5670,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x6d62D3C3C8f9912890788b50299bF4D2C64823b6",
+    "address": "0x6d62D3C3C8f9912890788b50299bF4D2C64823b6",
     "vendor": "Midas",
     "description": "mBASIS / USD price feed",
     "pair": [
@@ -5688,7 +5688,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xA663B02CF0a4b149d2aD41910CB81e23e1c41c32",
+    "address": "0xA663B02CF0a4b149d2aD41910CB81e23e1c41c32",
     "vendor": "Frax",
     "description": "sFRAX / FRAX exchange rate",
     "pair": [
@@ -5706,7 +5706,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x1202F5C7b4B9E47a1A484E8B270be34dbbC75055",
+    "address": "0x1202F5C7b4B9E47a1A484E8B270be34dbbC75055",
     "vendor": "Resolv",
     "description": "wstUSR / USR exchange rate",
     "pair": [
@@ -5724,7 +5724,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x94C2DfA8917F1657a55D1d604fd31C930A10Bca3",
+    "address": "0x94C2DfA8917F1657a55D1d604fd31C930A10Bca3",
     "vendor": "Pendle",
     "description": "PT Corn SolvBTC Babylon 26DEC2024 PtToAssetRate adapter",
     "pair": [
@@ -5738,7 +5738,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x1c2375B4dA8ac4DF9ed05b73b4224123E5C6F237",
+    "address": "0x1c2375B4dA8ac4DF9ed05b73b4224123E5C6F237",
     "vendor": "Pendle - Spark",
     "description": "PT-sUSDE-26DEC2024 / USD linear discount adapter",
     "pair": [
@@ -5756,7 +5756,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x51EFC18301789beaF5F0e5D4C72e4FACE72E3658",
+    "address": "0x51EFC18301789beaF5F0e5D4C72e4FACE72E3658",
     "vendor": "Pendle - Spark",
     "description": "PT-sUSDE-29MAY2025 / USD linear discount adapter",
     "pair": [
@@ -5774,7 +5774,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x73a3387768306bE3994c57445Eec893bB5B64b0f",
+    "address": "0x73a3387768306bE3994c57445Eec893bB5B64b0f",
     "vendor": "Pendle - Spark",
     "description": "PT-sUSDE-27FEB2025 / USD linear discount adapter",
     "pair": [
@@ -5792,7 +5792,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x5A3FD361956405db8aA85eC794E96E1F42d0a769",
+    "address": "0x5A3FD361956405db8aA85eC794E96E1F42d0a769",
     "vendor": "Pendle - Spark",
     "description": "PT-USDe-27MAR2025 / USD linear discount adapter",
     "pair": [
@@ -5810,7 +5810,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x3fa71e3F2788f85d8c4F9c3a05B038EAf29e7D35",
+    "address": "0x3fa71e3F2788f85d8c4F9c3a05B038EAf29e7D35",
     "vendor": "Pendle - Spark",
     "description": "PT-sUSDE-27MAR2025 / USD linear discount adapter",
     "pair": [
@@ -5828,7 +5828,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xd071e40879BFBC3362642fF3e9F45f510C280a01",
+    "address": "0xd071e40879BFBC3362642fF3e9F45f510C280a01",
     "vendor": "Pendle",
     "description": "PT-USD0++ 27Mars2025/USD0++ PtToAssetRate adapter",
     "pair": [
@@ -5846,7 +5846,7 @@
   },
   {
     "chainId": 8453,
-    "contractAddress": "0x70E58b7A1c884fFFE7dbce5249337603a28b8422",
+    "address": "0x70E58b7A1c884fFFE7dbce5249337603a28b8422",
     "vendor": "Chronicle",
     "description": "mTBILL / USD Chronicle price feed",
     "pair": [
@@ -5864,7 +5864,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xd285A4F0Ad1BB6b1Db8cD3dD839E9f423938ef9E",
+    "address": "0xd285A4F0Ad1BB6b1Db8cD3dD839E9f423938ef9E",
     "vendor": "Ojo",
     "description": "PT-USD0++ 26Jun2025/USD0++ PtToAssetRate adapter",
     "pair": [
@@ -5882,7 +5882,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xD9a232ec7b93e5fFF19389f6f5883189CbC542EB",
+    "address": "0xD9a232ec7b93e5fFF19389f6f5883189CbC542EB",
     "vendor": "Ojo",
     "description": "PT Corn SolvBTC Babylon 27MAR2025 PtToAssetRate adapter",
     "pair": [
@@ -5896,7 +5896,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xda0002859B2d05F66a753d8241fCDE8623f26F4f",
+    "address": "0xda0002859B2d05F66a753d8241fCDE8623f26F4f",
     "vendor": "Gearbox",
     "description": "dWETHV3 / WETH exchange rate",
     "pair": [
@@ -5914,7 +5914,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x4BbfbDDcb11c122A682D744A7429a70aFCC678C6",
+    "address": "0x4BbfbDDcb11c122A682D744A7429a70aFCC678C6",
     "vendor": "eOracle",
     "description": "PT-corn-eBTC-27MAR2025 / eBTC PtToAssetRate adapter",
     "pair": [
@@ -5932,7 +5932,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x56c08bF6Ab8e08A7eADeb4E053DA653334E8E549",
+    "address": "0x56c08bF6Ab8e08A7eADeb4E053DA653334E8E549",
     "vendor": "eOracle",
     "description": "eBTC/BTC",
     "pair": [
@@ -5950,7 +5950,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xd4C0e77Ed0019525D96BF4E25F39A1EaC6BcbbDa",
+    "address": "0xd4C0e77Ed0019525D96BF4E25F39A1EaC6BcbbDa",
     "vendor": "Pendle",
     "description": "PT Wrapped stUSR 27MAR2025 - wstUSR PtToSyRate adapter",
     "pair": [
@@ -5968,7 +5968,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xe0D44d8E04e7A446BD35C7D08a45Fe966f982a5C",
+    "address": "0xe0D44d8E04e7A446BD35C7D08a45Fe966f982a5C",
     "vendor": "Resolv",
     "description": "wstUSR/USDC via exchange rate wstUSR/USR and USR/USDC Resolv oracle",
     "pair": [
@@ -5986,7 +5986,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x027A9CFcBB53cbB1721B495c2dcaF54d4cF33106",
+    "address": "0x027A9CFcBB53cbB1721B495c2dcaF54d4cF33106",
     "vendor": "Hinkal",
     "description": "hETH / WETH exchange rate",
     "pair": [
@@ -6004,7 +6004,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xf9C7c25FE58AAA494EE7ff1f6Cf0b70d7C7ce88c",
+    "address": "0xf9C7c25FE58AAA494EE7ff1f6Cf0b70d7C7ce88c",
     "vendor": "Resolv",
     "description": "USR / USD",
     "pair": [
@@ -6022,7 +6022,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xAdb2c15Fde49D1A4294740aCb650de94184E66b2",
+    "address": "0xAdb2c15Fde49D1A4294740aCb650de94184E66b2",
     "vendor": "Resolv",
     "description": "RLP / USD",
     "pair": [
@@ -6040,7 +6040,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0xAfFd8F5578E8590665de561bdE9E7BAdb99300d9",
+    "address": "0xAfFd8F5578E8590665de561bdE9E7BAdb99300d9",
     "vendor": "Chainlink",
     "description": "USCC / USD NAV",
     "pair": [
@@ -6058,7 +6058,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x36d70e02e96897CE2002313CB7ea55FffDf074FC",
+    "address": "0x36d70e02e96897CE2002313CB7ea55FffDf074FC",
     "vendor": "MEV Capital",
     "description": "Naked USD0++ price feed adapter",
     "pair": [
@@ -6076,7 +6076,7 @@
   },
   {
     "chainId": 1,
-    "contractAddress": "0x0ba73080A12f5F0b0b37C5518BdE99b99067D259",
+    "address": "0x0ba73080A12f5F0b0b37C5518BdE99b99067D259",
     "vendor": "MEV Capital - Spectra",
     "description": "Spectra pt-wstUSR to usr linear price adapter",
     "pair": [

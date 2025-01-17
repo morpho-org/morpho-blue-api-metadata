@@ -76,7 +76,7 @@ const run = async () => {
 
     return {
       chainId: 8453,
-      contractAddress: (feed.proxyAddress
+      address: (feed.proxyAddress
           ? feed.proxyAddress
           : feed.contractAddress) as Address,
       vendor: VendorType.CHAINLINK,
@@ -127,7 +127,7 @@ const run = async () => {
 
     return {
       chainId: 1,
-      contractAddress: (feed.proxyAddress
+      address: (feed.proxyAddress
           ? feed.proxyAddress
           : feed.contractAddress) as Address,
       vendor: VendorType.CHAINLINK,
@@ -154,7 +154,7 @@ const run = async () => {
 
     return {
       chainId: 8453,
-      contractAddress: feed.contractAddress as Address,
+      address: feed.contractAddress as Address,
       vendor: VendorType.REDSTONE,
       description: `${feed.symbol}/${feed.denomination} (${feed.deviationThreshold})`,
       pair: [feed.symbol, feed.denomination],
@@ -176,7 +176,7 @@ const run = async () => {
 
     return {
       chainId: 1,
-      contractAddress: feed.contractAddress as Address,
+      address: feed.contractAddress as Address,
       vendor: VendorType.REDSTONE,
       description: `${feed.symbol}/${feed.denomination} (${feed.deviationThreshold})`,
       pair: [feed.symbol, feed.denomination],
@@ -199,7 +199,7 @@ const run = async () => {
     const tokenOut = findTokenFromSymbol(feed.pair[1]!, feed.chainId);
     return {
       chainId: feed.chainId,
-      contractAddress: feed.contractAddress as Address,
+      address: feed.contractAddress as Address,
       vendor: feed.vendor,
       description: feed.description,
       pair: feed.pair as [string, string],
