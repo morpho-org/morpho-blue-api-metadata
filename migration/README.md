@@ -1,5 +1,9 @@
 # migration
 
+This small project aims to migrate the legady configuration into the new format. 
+- it merges all the files related to ont topic (whitelist, vaults, oracles, etc)
+- it flattens into arrays when data was nested objects
+
 To install dependencies:
 
 ```bash
