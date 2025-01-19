@@ -9,7 +9,7 @@ It includes:
 - markets blacklisting
 - tokens whitelisting.
 
-> ** Note **
+> [!NOTE]
 > The format of the data folder should not be modified, in order to let the api read the data.
 
 
