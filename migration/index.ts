@@ -17,7 +17,10 @@ export enum VendorType{
 const usdToken = "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE";
 
 const allTokens = [
-    ...MorphoLabsTokens.tokens,
+    ...MorphoLabsTokens.tokens.map((t) => ({
+      ...t,
+      isWhitelisted: true
+    })),
     ...UniswapDefaultWhitelist.tokens.map((token) => ({
       chainId: token.chainId,
       address: token.address,
@@ -25,6 +28,7 @@ const allTokens = [
       decimals: token.decimals,
       name: token.name,
       metadata: token.metadata,
+      isWhitelisted: true
     })),
 ]
 
