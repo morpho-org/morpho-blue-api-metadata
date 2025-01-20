@@ -6091,5 +6091,19 @@
       "address": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
       "chainId": 1
     }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x31d099C106cd73E731972Fdf1390Cab77F59DaDe",
+    "vendor": "Moonwell",
+    "description": "LBTC/BTC Moonwell Bounded Composite Oracle",
+    "pair": [
+      "LBTC",
+      "BTC"
+    ],
+    "tokenIn": {
+      "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+      "chainId": 8453
+    }
   }
 ]
