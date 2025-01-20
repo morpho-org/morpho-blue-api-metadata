@@ -4980,7 +4980,7 @@
   },
   {
     "chainId": 8453,
-    "address": "0x903ab5fae9ba089b1d4fce55bbb40e1a07acef59",
+    "address": "0x903ab5FAE9ba089B1D4fCe55BBb40e1a07Acef59",
     "vendor": "Pyth Network",
     "description": "pufETH / USD Pyth price feed",
     "pair": [

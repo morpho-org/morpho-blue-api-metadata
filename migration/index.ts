@@ -1,6 +1,6 @@
 import ChainlinkFeedsBase from "./old-data/chainlink-feeds-base.json";
 import ChainlinkFeedsMainnet from "./old-data/chainlink-feeds-mainnet.json";
-import type {Address} from "viem";
+import {type Address, getAddress} from "viem";
 import MorphoLabsTokens from "./old-data/morpho-labs-tokens-whitelist.json";
 import UniswapDefaultWhitelist from "./old-data/uniswap-labs-default-list.json";
 import RedstoneFeedsMainnet from "./old-data/redstone-feeds-mainnet.json";
@@ -81,9 +81,9 @@ const run = async () => {
 
     return {
       chainId: 8453,
-      address: (feed.proxyAddress
+      address: getAddress(feed.proxyAddress
           ? feed.proxyAddress
-          : feed.contractAddress) as Address,
+          : feed.contractAddress),
       vendor: VendorType.CHAINLINK,
       description: `${feed.name} (${feed.threshold}%)`,
       pair,
@@ -204,7 +204,7 @@ const run = async () => {
     const tokenOut = findTokenFromSymbol(feed.pair[1]!, feed.chainId);
     return {
       chainId: feed.chainId,
-      address: feed.contractAddress as Address,
+      address: getAddress(feed.contractAddress),
       vendor: feed.vendor,
       description: feed.description,
       pair: feed.pair as [string, string],
@@ -220,7 +220,7 @@ const run = async () => {
   })
 
   const whitelist = Object.entries(VaultsWhitelist).flatMap(([chainIdStr, data]) => Object.entries(data).flatMap(([address, metadata]) => ({
-    address,
+    address: getAddress(address),
     chainId: parseInt(chainIdStr),
     ...metadata
   })))
