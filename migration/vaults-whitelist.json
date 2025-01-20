@@ -111,7 +111,7 @@
     ]
   },
   {
-    "address": "0x1e6ffa4e9f63d10b8820a3ab52566af881dab53c",
+    "address": "0x1e6ffa4e9F63d10B8820A3ab52566Af881Dab53c",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
     "description": "The Gauntlet WETH Ecosystem Vault is designed to optimize risk-adjusted yields by leveraging liquid staking recursive yield markets while enabling a broader range of integrations through the v1.1 upgrade. For further insights into Gauntlet's curated strategies, visit the forum.",
@@ -237,7 +237,7 @@
     ]
   },
   {
-    "address": "0x833adaef212c5cd3f78906b44bbfb18258f238f0",
+    "address": "0x833AdaeF212c5cD3f78906B44bBfb18258F238F0",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/bbqwsteth.svg",
     "description": "The Smokehouse wstETH vault aims to optimize for yield on LRT collateral through wstETH as the primary liquidity buffer. This is a vault for Lido stETH enjoyers.",
@@ -342,7 +342,7 @@
     ]
   },
   {
-    "address": "0xbeef07e929f84466a591de130e4154667214f491",
+    "address": "0xbeEF07E929F84466a591De130e4154667214F491",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
     "description": "The Steakhouse EURCV vault aims to optimize yields by lending EURCV against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine”.",
@@ -1372,7 +1372,7 @@
     ]
   },
   {
-    "address": "0x45c1875f1c48622b3d9740af2d7dc62bc9a72422",
+    "address": "0x45c1875F1C48622b3D9740Af2D7dc62Bc9a72422",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/xaum.svg",
     "description": "The Relend Gold vault serves as a pre-deposit vault for Relend Network. Users who supply XAUM will collect RELEND units and have the option to access Relend Network once live. Collateral markets are selected for competitive yield and long term partner alignment.",
@@ -1489,7 +1489,7 @@
     ]
   },
   {
-    "address": "0xd5ac156319f2491d4ad1ec4aa5ed0ed48c0fa173",
+    "address": "0xD5Ac156319f2491d4ad1Ec4aA5ed0ED48C0fa173",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/9summits-usdc.svg",
     "description": "The 9Summits USDC Core Vault will allocate to a range of liquid assets in order to provide the best risk adjusted yield to its users.",
@@ -1531,7 +1531,7 @@
     ]
   },
   {
-    "address": "0xe87ed29896b91421ff43f69257abf78300e40c7a",
+    "address": "0xE87ed29896B91421ff43f69257ABF78300e40c7a",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/wsteth.svg",
     "description": "The Re7 wstETH Morpho vault curated by Re7 Labs aims to outperform staked ETH yields by lending wstETH against a diverse set of Liquid Staking and Liquid Restaking Token collateral markets.",
@@ -1891,7 +1891,7 @@
     ]
   },
   {
-    "address": "0x543257ef2161176d7c8cd90ba65c2d4caef5a796",
+    "address": "0x543257eF2161176D7C8cD90BA65C2d4CaEF5a796",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/cbbtc.svg",
     "description": "The Moonwell Frontier cbBTC Morpho vault curated by B.Protocol and Block Analitica is intended to optimize risk-adjusted interest earned from BTC liquid restaking tokens as collateral.",
@@ -2359,7 +2359,7 @@
     ]
   },
   {
-    "address": "0x5496b42ad0decebfab0db944d83260e60d54f667",
+    "address": "0x5496b42ad0deCebFab0db944D83260e60D54f667",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/9summits-eth.svg",
     "description": "The 9Summits WETH Core Vault 1.1 will allocate to a range of liquid assets in order to provide the best risk adjusted yield to its users.",
