@@ -783,6 +783,14 @@
       "description": "Spectra pt-wstUSR to usr linear price adapter",
       "pair": ["PT-wstUSR-1740182579", "USR"],
       "vendor": "MEV Capital - Spectra"
+    },
+    {
+      "chainId": 8453,
+      "contractName": "ChainlinkBoundedCompositeOracle",
+      "contractAddress": "0x31d099C106cd73E731972Fdf1390Cab77F59DaDe",
+      "description": "LBTC/BTC Moonwell Bounded Composite Oracle",
+      "pair": ["LBTC", "BTC"],
+      "vendor": "Moonwell"
     }
   ]
 }

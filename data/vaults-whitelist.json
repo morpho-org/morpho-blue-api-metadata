@@ -1531,6 +1531,27 @@
     ]
   },
   {
+    "address": "0xe87ed29896b91421ff43f69257abf78300e40c7a",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/assets/logos/wsteth.svg",
+    "description": "The Re7 wstETH Morpho vault curated by Re7 Labs aims to outperform staked ETH yields by lending wstETH against a diverse set of Liquid Staking and Liquid Restaking Token collateral markets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+    "curators": [
+      {
+        "name": "RE7 Labs",
+        "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+        "url": "https://www.re7.capital",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1737378148
+      }
+    ]
+  },
+  {
     "address": "0x7BfA7C4f149E7415b73bdeDfe609237e29CBF34A",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
@@ -1702,7 +1723,7 @@
     "address": "0x616a4E1db48e22028f6bbf20444Cd3b8e3273738",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/seamless-vault.png",
-    "description": "The Seamless USDC Flagship Vault curated by Gauntlet is intended to optimize risk-adjusted yield across high-demand collateral markets on Base.",
+    "description": "The Seamless USDC Vault curated by Gauntlet is intended to optimize risk-adjusted yield across high-demand collateral markets on Base.",
     "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
     "curators": [
       {
