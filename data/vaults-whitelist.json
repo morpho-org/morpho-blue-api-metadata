@@ -90,6 +90,27 @@
     ]
   },
   {
+    "address": "0x059Fc6723b9bF77DbF4283C8d7C90eA8Af44EF10",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/sbmorphotbtc.svg",
+    "description": "The SwissBorg tBTC vault optimizes risk-adjusted returns in BTC derivative collateral markets through dynamic asset allocation and adherence to Gauntlet's risk management protocols. Access the vault via the SwissBorg App.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1737734620
+      }
+    ]
+  },
+  {
     "address": "0x701907283a57FF77E255C3f1aAD790466B8CE4ef",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/index_coop_hyeth_vault.png",
