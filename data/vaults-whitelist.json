@@ -1531,6 +1531,27 @@
     ]
   },
   {
+    "address": "0x5085Dd6FAd07c12e38fae01bc2a4938d2C08B1Bc",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/resolv-vault.png",
+    "description": "The Apostro USR vault supports carry trade for the Resolv products and promotes the use of USR as a major stablecoin.",
+    "forumLink": "https://forum.morpho.org/c/vaults/apostro/35",
+    "curators": [
+      {
+        "name": "Apostro",
+        "image": "https://cdn.morpho.org/v2/assets/images/apostro.svg",
+        "url": "https://apostro.xyz",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1738072868
+      }
+    ]
+  },
+  {
     "address": "0xD5Ac156319f2491d4ad1Ec4aA5ed0ED48C0fa173",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/9summits-usdc.svg",
