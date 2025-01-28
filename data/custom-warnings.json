@@ -1,7 +1,6 @@
 [
     {
-        "metaMorphoId": "00314405-3a38-403b-86d8-a33439c1bbc5",
-        "type": "custom",
+        "metaMorphoAddress": "00314405-3a38-403b-86d8-a33439c1bbc5",
         "level": "yellow",
         "metadata": {
             "content": "This is a custom warning"
