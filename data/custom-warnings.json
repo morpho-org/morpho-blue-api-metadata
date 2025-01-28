@@ -1,0 +1,10 @@
+[
+    {
+        "metaMorphoAddress": "0x35f49B9443862d667c39673258a7F026F511C5f5",
+        "chainId": 8453,
+        "level": "yellow",
+        "metadata": {
+            "content": "This is a custom warning"
+        }
+    }
+]
