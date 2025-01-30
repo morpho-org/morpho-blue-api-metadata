@@ -1,0 +1,27 @@
+{
+  "name": "@morpho-blue-api-metad/tests",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:json": "jest json/",
+    "start": "NODE_OPTIONS='--loader ts-node/esm' ts-node --esm checksum.ts"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.7.3"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@morpho-org/morpho-ts": "^2.0.0",
+    "ts-node": "^10.9.2",
+    "viem": "^2.22.16"
+  }
+}
