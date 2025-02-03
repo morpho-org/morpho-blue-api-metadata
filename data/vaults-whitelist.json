@@ -2441,5 +2441,26 @@
         "timestamp": 1736759522
       }
     ]
+  },
+  {
+    "address": "0x5a47C803488FE2BB0A0EAaf346b420e4dF22F3C7",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/seamless-vault.png",
+    "description": "The Seamless cbBTC Vault curated by Gauntlet is intended to optimize risk-adjusted yield across high-demand collateral markets on Base.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1738164276
+      }
+    ]
   }
 ]
