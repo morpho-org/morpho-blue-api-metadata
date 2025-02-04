@@ -205,8 +205,8 @@ Each token entry must include:
 
     &
 
-  - (Optional) `alternativeOracles`: List of oracle symbols considered perfectly matching the token.
-  - (Optional) `alternativeHardcodedOracles`: List of oracle symbols considered as hardcoded oracles for the token.
+  - (Optional) `alternativeOracles`: List of other token symbols considered perfectly matching the token (e.g: WETH -> ETH).
+  - (Optional) `alternativeHardcodedOracles`: List of other token symbols considered as hardcoded oracles for the token (e.g: msETH -> ETH, containing the information that pricing msETH 1:1 with ETH will be considered as a hardcoded oracle).
 
 ### Validation Rules
 
