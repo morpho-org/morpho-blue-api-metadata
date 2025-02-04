@@ -963,6 +963,27 @@
     ]
   },
   {
+    "address": "0xA8875aaeBc4f830524e35d57F9772FfAcbdD6C45",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet-midas.svg",
+    "description": "The Midas USDC Vault curated by Gauntlet is designed to optimize risk-adjusted returns by lending USDC to Midas collateral markets, ensuring robust risk management and sustainable yield strategies.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1738692133
+      }
+    ]
+  },
+  {
     "address": "0x125D41A6e5dbf455cD9Df8F80BCC6fd172D52Cc6",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
