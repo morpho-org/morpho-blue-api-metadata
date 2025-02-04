@@ -661,7 +661,7 @@
     "contractAddress": "0x7FcD174E80f264448ebeE8c88a7C4476AAF58Ea6",
     "order": 0,
     "type": "erc4626_exchange_rate",
-    "data": "{\"decimals\": 18, \"first_block_number\": 17829707}",
+    "data": "{\"decimals\": 18, \"first_block_number\": \"17829707\"}",
     "assetChainId": 8453,
     "contractChainId": 8453
   },

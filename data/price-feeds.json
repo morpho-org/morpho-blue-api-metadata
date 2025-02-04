@@ -1,7 +1,7 @@
 [
   {
     "chainId": 8453,
-    "address": "0x4aaf2844c5420bf979d5bc2cf883ef02db07e590",
+    "address": "0x4aaf2844c5420BF979d5bC2Cf883EF02Db07e590",
     "vendor": "Redstone",
     "description": "pufETH/ETH (1%)",
     "pair": ["pufETH", "ETH"],
@@ -1423,7 +1423,7 @@
     "description": "weETH / ETH (0.5%)",
     "pair": ["weETH", "USD"],
     "tokenIn": {
-      "address": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee",
+      "address": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
       "chainId": 1
     },
     "tokenOut": {
@@ -1671,7 +1671,7 @@
     "description": "STETH / USD (1%)",
     "pair": ["STETH", "USD"],
     "tokenIn": {
-      "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+      "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
       "chainId": 1
     },
     "tokenOut": {
@@ -2983,7 +2983,7 @@
     "description": "STETH / ETH (0.5%)",
     "pair": ["STETH", "ETH"],
     "tokenIn": {
-      "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+      "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
       "chainId": 1
     },
     "tokenOut": {
@@ -3011,7 +3011,7 @@
     "description": "wstETH / USD Calculated (0.5%)",
     "pair": ["wstETH", "USD Calculated"],
     "tokenIn": {
-      "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
       "chainId": 1
     },
     "decimals": 8
@@ -3305,7 +3305,7 @@
     "description": "RETH / ETH (2%)",
     "pair": ["RETH", "ETH"],
     "tokenIn": {
-      "address": "0xae78736cd615f374d3085123a210448e74fc6393",
+      "address": "0xae78736Cd615f374D3085123A210448E74Fc6393",
       "chainId": 1
     },
     "tokenOut": {
@@ -3353,7 +3353,7 @@
     "description": "USDe / USD (0.5%)",
     "pair": ["USDE", "USD"],
     "tokenIn": {
-      "address": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+      "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
       "chainId": 1
     },
     "tokenOut": {
@@ -3620,11 +3620,11 @@
     "description": "wstETH/stETH exchange rate",
     "pair": ["wstETH", "stETH"],
     "tokenIn": {
-      "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
       "chainId": 1
     },
     "tokenOut": {
-      "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+      "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
       "chainId": 1
     }
   },
@@ -3650,7 +3650,7 @@
     "description": "Custom price feed for wstETH / ETH",
     "pair": ["wstETH", "ETH"],
     "tokenIn": {
-      "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
       "chainId": 1
     },
     "tokenOut": {
@@ -3684,7 +3684,7 @@
       "chainId": 1
     },
     "tokenOut": {
-      "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
       "chainId": 1
     }
   },
@@ -3710,7 +3710,7 @@
     "description": "Oval price feed for Chainlink Lido stETH / ETH price feed",
     "pair": ["STETH", "ETH"],
     "tokenIn": {
-      "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+      "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
       "chainId": 1
     },
     "tokenOut": {
@@ -3785,7 +3785,7 @@
     "description": "Oval price feed for Chainlink weETH / ETH price feed",
     "pair": ["weETH", "ETH"],
     "tokenIn": {
-      "address": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee",
+      "address": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
       "chainId": 1
     },
     "tokenOut": {
@@ -3800,7 +3800,7 @@
     "description": "weETH / ETH exchange rate",
     "pair": ["weETH", "ETH"],
     "tokenIn": {
-      "address": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee",
+      "address": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
       "chainId": 1
     },
     "tokenOut": {
@@ -3879,7 +3879,7 @@
       "chainId": 1
     },
     "tokenOut": {
-      "address": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+      "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
       "chainId": 1
     }
   },
@@ -4515,7 +4515,7 @@
     "description": "bC3M / EUR Backed price Feed",
     "pair": ["wbC3M", "EUR"],
     "tokenIn": {
-      "address": "0x95d7337d43340e2721960dc402d9b9117f0d81a2",
+      "address": "0x95D7337d43340E2721960Dc402D9b9117f0d81a2",
       "chainId": 1
     }
   },
