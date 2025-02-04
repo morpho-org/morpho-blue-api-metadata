@@ -270,6 +270,15 @@
     "contractChainId": 1
   },
   {
+    "assetAddress": "0x68749665FF8D2d112Fa859AA293F07A622782F38",
+    "contractAddress": "0x214eD9Da11D2fbe465a6fc601a91E62EbEc1a0D6",
+    "order": 0,
+    "type": "chainlink_aggregator",
+    "data": "{\"decimals\": 8, \"first_block_number\": 21772551}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
     "assetAddress": "0xE00bd3Df25fb187d6ABBB620b3dfd19839947b81",
     "contractAddress": "0xcDd26Eb5EB2Ce0f203a84553853667aE69Ca29Ce",
     "order": 0,
