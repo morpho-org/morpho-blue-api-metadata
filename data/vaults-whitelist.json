@@ -1489,6 +1489,48 @@
     ]
   },
   {
+    "address": "0x30881Baa943777f92DC934d53D3bFdF33382cab3",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steak-r.svg",
+    "description": "The Steakhouse USDR vault aims to optimize yields by lending USDR against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1738683644
+      }
+    ]
+  },
+  {
+    "address": "0xA1b60d96e5C50dA627095B9381dc5a46AF1a9a42",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steak-usdq.svg",
+    "description": "The Steakhouse USDQ vault aims to optimize yields by lending USDQ against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1738683644
+      }
+    ]
+  },
+  {
     "address": "0xbeeFfF68CC520D68f82641EFF84330C631E2490E",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/smokehouse_dai.svg",
