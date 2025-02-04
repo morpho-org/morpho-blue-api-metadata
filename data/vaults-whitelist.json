@@ -984,6 +984,27 @@
     ]
   },
   {
+    "address": "0xdBB316375B4dC992B2c8827D120c09dFB1d3455D",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet-solvbtc-babylon.svg",
+    "description": "The SolvBTC Babylon vault optimizes risk-adjusted returns within Solv protocol collateral markets through dynamic asset allocation and adherence to Gauntlet's risk management protocols.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1738667347
+      }
+    ]
+  },
+  {
     "address": "0x67315dd969B8Cd3a3520C245837Bf71f54579C75",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/crvusd.svg",

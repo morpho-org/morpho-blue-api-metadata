@@ -666,6 +666,24 @@
     "contractChainId": 1
   },
   {
+    "assetAddress": "0xd9D920AA40f578ab794426F5C90F6C731D159DEf",
+    "contractAddress": "0x1f34794A16D644b9810477EbF3f0b3870141E2e3",
+    "order": 0,
+    "type": "chainlink_aggregator",
+    "data": "{\"decimals\": 18, \"first_block_number\": 21773187}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xd9D920AA40f578ab794426F5C90F6C731D159DEf",
+    "contractAddress": "0x24c8964338Deb5204B096039147B8e8C3AEa42Cc",
+    "order": 1,
+    "type": "redstone_without_logs",
+    "data": "{\"decimals\": 8, \"first_block_number\": 21773187}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
     "assetAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "contractAddress": "0x3E7d1eAB13ad0104d2750B8863b489D65364e32D",
     "order": 0,
