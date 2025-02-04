@@ -2462,5 +2462,68 @@
         "timestamp": 1738164276
       }
     ]
+  },
+  {
+    "address": "0x097FFEDb80d4b2Ca6105a07a4D90eB739C45A666",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steak-usdt.svg",
+    "description": "The Steakhouse USDT Lite vault aims to optimize yields by lending USDT against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions but keeping a low amount of collaterals and high amount of liquidity.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1738661763
+      }
+    ]
+  },
+  {
+    "address": "0x75741A12B36D181f44F389E0c6B1E0210311e3Ff",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steak-eurcv.svg",
+    "description": "The Steakhouse EURCV vault aims to optimize yields by lending EURCV against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1738661763
+      }
+    ]
+  },
+  {
+    "address": "0xa5aA40F27DAeDE9748822ef836170f202e196B5A",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steak-m.svg",
+    "description": "The Steakhouse M vault aims to optimize yields by lending wM against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1738661763
+      }
+    ]
   }
 ]
