@@ -4214,6 +4214,21 @@
   },
   {
     "chainId": 8453,
+    "address": "0xC0F566304A44d27c40d4F81D629520Ac4eD1850E",
+    "vendor": "Pyth Network",
+    "description": "uXRP / USD Pyth price feed",
+    "pair": ["uXRP", "USD"],
+    "tokenIn": {
+      "address": "0x2615a94df961278DcbC41Fb0a54fEc5f10a693aE",
+      "chainId": 8453
+    },
+    "tokenOut": {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 8453
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x1b4671313DfA19B2F9B20eC2410712BC7CE6A89F",
     "vendor": "Pyth Network",
     "description": "SUI / USD Pyth price feed",

@@ -306,6 +306,15 @@
     "contractChainId": 1
   },
   {
+    "assetAddress": "0x2615a94df961278DcbC41Fb0a54fEc5f10a693aE",
+    "contractAddress": "0xC0F566304A44d27c40d4F81D629520Ac4eD1850E",
+    "order": 0,
+    "type": "pyth_network",
+    "data": "{\"decimals\": 8, \"first_block_number\": 25942916}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
+  },
+  {
     "assetAddress": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
     "contractAddress": "0xc95cd3490be4af06F0A25435e21C2c91B988C482",
     "order": 0,
