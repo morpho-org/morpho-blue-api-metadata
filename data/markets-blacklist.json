@@ -23,5 +23,15 @@
     "id": "0x102a18bd9ddc2183785f56826659f9f93cc99e8a51d0871eb0f141c6948b547f",
     "chainId": 8453,
     "countryCodes": ["US", "GB"]
+  },
+  {
+    "id": "0x864c9b82eb066ae2c038ba763dfc0221001e62fc40925530056349633eb0a259",
+    "chainId": 1,
+    "countryCodes": ["*"]
+  },
+  {
+    "id": "0xb48bb53f0f2690c71e8813f2dc7ed6fca9ac4b0ace3faa37b4a8e5ece38fa1a2",
+    "chainId": 1,
+    "countryCodes": ["*"]
   }
 ]
