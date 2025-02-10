@@ -2609,5 +2609,26 @@
         "timestamp": 1738661763
       }
     ]
+  },
+  {
+    "address": "0x0404fD1a77756EB029F06b5CDea88B2B2ddC2fEE",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The Elixir USDC Vault curated by Gauntlet is designed to optimize risk-adjusted returns by lending USDC to Elixir collateral markets, ensuring robust risk management and sustainable yield strategies.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1739175738
+      }
+    ]
   }
 ]
