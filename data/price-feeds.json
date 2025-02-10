@@ -3926,6 +3926,21 @@
   },
   {
     "chainId": 1,
+    "address": "0x5C5b196aBE0d54485975D1Ec29617D42D9198326",
+    "vendor": "Elixir",
+    "description": "sdeUSD / deUSD exchange rate",
+    "pair": ["sdeUSD", "deUSD"],
+    "tokenIn": {
+      "address": "0x5C5b196aBE0d54485975D1Ec29617D42D9198326",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0x15700B564Ca08D9439C58cA5053166E8317aa138",
+      "chainId": 1
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xDcEe70654261AF21C44c093C300eD3Bb97b78192",
     "vendor": "Origin Protocol",
     "description": "WOETH / OETH exchange rate",
