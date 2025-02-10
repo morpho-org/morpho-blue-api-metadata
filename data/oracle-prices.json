@@ -2476,6 +2476,24 @@
     "contractChainId": 1
   },
   {
+    "assetAddress": "0x5C5b196aBE0d54485975D1Ec29617D42D9198326",
+    "contractAddress": "0x5C5b196aBE0d54485975D1Ec29617D42D9198326",
+    "order": 0,
+    "type": "exchange_rate",
+    "data": "{\"abi\": \"function convertToAssets(uint256) view returns (uint256)\", \"decimals\": 18, \"function\": \"convertToAssets\", \"args\": [{\"type\": \"bigint\", \"value\": \"1000000000000000000\"}], \"first_block_number\": 21814927}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x5C5b196aBE0d54485975D1Ec29617D42D9198326",
+    "contractAddress": "0x89F48f6671Ec1B1C4f6abE964EBdd21F4eb7076f",
+    "order": 1,
+    "type": "redstone_without_logs",
+    "data": "{\"decimals\": 8, \"first_block_number\": 21814927}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
     "assetAddress": "0x004E9C3EF86bc1ca1f0bB5C7662861Ee93350568",
     "contractAddress": "0xF4030086522a5bEEa4988F8cA5B36dbC97BeE88c",
     "order": 0,

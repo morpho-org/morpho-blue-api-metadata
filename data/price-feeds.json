@@ -327,6 +327,17 @@
     }
   },
   {
+    "chainId": 1,
+    "address": "0xcA727511c9d542AAb9eF406d24E5bbbE4567c22d",
+    "vendor": "Redstone",
+    "description": "deUSD/USD (0.2%)",
+    "pair": ["deUSD", "USD"],
+    "tokenOut": {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1
+    }
+  },
+  {
     "chainId": 8453,
     "address": "0x960BDD1dFD20d7c98fa482D793C3dedD73A113a3",
     "vendor": "Chainlink",
