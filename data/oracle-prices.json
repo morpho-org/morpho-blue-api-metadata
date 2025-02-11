@@ -2552,7 +2552,16 @@
     "contractAddress": "0x0A2b94F6871c1D7A32Fe58E1ab5e6deA2f114E56",
     "order": 0,
     "type": "exchange_rate",
-    "data": "{\"abi\": \"function convertToAssets(uint256) view returns (uint256)\", \"decimals\": 18, \"function\": \"convertToAssets\", \"args\": [{\"type\": \"bigint\", \"value\": \"1000000000000000000\"}], \"first_block_number\": 20942209}",
+    "data": "{\"abi\": \"function convertToAssets(uint256) view returns (uint256)\", \"decimals\": 18, \"function\": \"convertToAssets\", \"args\": [{\"type\": \"bigint\", \"value\": \"1000000000000000000\"}], \"first_block_number\": 21822441}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x0A2b94F6871c1D7A32Fe58E1ab5e6deA2f114E56",
+    "contractAddress": "0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419",
+    "order": 1,
+    "type": "chainlink_aggregator",
+    "data": "{\"decimals\": 8, \"first_block_number\": 21822441}",
     "assetChainId": 1,
     "contractChainId": 1
   },
