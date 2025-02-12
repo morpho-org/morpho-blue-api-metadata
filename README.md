@@ -10,6 +10,7 @@ It includes:
 5. [Tokens whitelisting](#5-tokens-whitelisting)
 6. [Exchange rate](#6-exchange-rate)
 7. [Custom warnings](#7-custom-warnings)
+8. [Curator whitelisting](#8-curator-whitelisting)
 
 > The format of the data folder SHOULD NOT be modified, in order to let the api read the data.
 
@@ -374,3 +375,56 @@ Each exchange rate entry must include:
 In case of emergency, or particular situation, Morpho Labs team is able to add custom warnings to some vaults or markets displayed on the Morpho Interface.
 
 [custom-warnings.json](./data/custom-warnings.json)
+
+## 8. Curator whitelisting
+
+Controls the known curators and the addresses they manage.
+
+> [!Note]
+> Any vault that have an `owner` or a `curator` address referenced as managed by a curator will automatically be flagged as curated by this curator
+
+### Required Fields
+
+Each curator entry must include the following fields:
+
+- `name`: Name of the curator organization
+- `image`: URL to the curator's logo/image (optional)
+- `url`: Website URL of the curator (optional)
+- `verified`: Boolean indicating curator verification status
+- `addresses`: List of addresses managed by this curator, on each chain (optional)
+
+> [!Note]
+> An address can be managed by different curators
+
+### Validation Rules
+
+1. Addresses must be in checksum format
+2. All required fields must be present and of the correct type
+
+### Example Entry
+
+```json
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "name": "Gauntlet",
+    "url": "https://www.gauntlet.xyz/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x9E33faAE38ff641094fa68c65c2cE600b3410585",
+        "0xC684c6587712e5E7BDf9fD64415F23Bd2b05fAec",
+        "0xAC15982Ca8A8e8BAc738FE492b84D8761B4384a3",
+        "0x259c444b50e3Ab173c4f850BB40d85A9EA0230F3"
+      ],
+      "8453": [
+        "0x9E33faAE38ff641094fa68c65c2cE600b3410585",
+        "0x5a4E19842e09000a582c20A4f524C26Fb48Dd4D0",
+        "0x639d2dD24304aC2e6A691d8c1cFf4a2665925fee"
+      ]
+    }
+  },
+```
+
+### Files
+
+[curators-whitelist.json](./data/curators-whitelist.json)

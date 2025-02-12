@@ -1,0 +1,160 @@
+[
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "name": "MEV Capital",
+    "url": "https://mevcapital.com/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x38afC3aA2c76b4cA1F8e1DabA68e998e1F4782DB",
+        "0x06590Fef209Ebc1f8eEF83dA05984cD4eFf0d0E3"
+      ]
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "name": "Gauntlet",
+    "url": "https://www.gauntlet.xyz/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x9E33faAE38ff641094fa68c65c2cE600b3410585",
+        "0xC684c6587712e5E7BDf9fD64415F23Bd2b05fAec",
+        "0xAC15982Ca8A8e8BAc738FE492b84D8761B4384a3",
+        "0x259c444b50e3Ab173c4f850BB40d85A9EA0230F3"
+      ],
+      "8453": [
+        "0x9E33faAE38ff641094fa68c65c2cE600b3410585",
+        "0x5a4E19842e09000a582c20A4f524C26Fb48Dd4D0",
+        "0x639d2dD24304aC2e6A691d8c1cFf4a2665925fee"
+      ]
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
+    "name": "9Summits",
+    "url": "https://9summits.io/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x59e608E4842162480591032f3c8b0aE55C98d104",
+        "0x23E6aecB76675462Ad8f2B31eC7C492060c2fAEF"
+      ],
+      "8453": [
+        "0x59e608E4842162480591032f3c8b0aE55C98d104",
+        "0x23E6aecB76675462Ad8f2B31eC7C492060c2fAEF"
+      ]
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/block-analitica.png",
+    "name": "Block Analitica",
+    "url": "https://morpho.blockanalitica.com/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x2a933dbd0D9e32593e62702028Edcab437CE3cBA",
+        "0x2566f66f68ed438726AD904524FB306A03FdB80B"
+      ],
+      "8453": [
+        "0x4b8f6CADb8A2B222e8840E8aDDc32E031794A4D6",
+        "0x8b621804a7637b781e2BbD58e256a591F2dF7d51"
+      ]
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/bprotocol.png",
+    "name": "B.Protocol",
+    "url": "https://www.bprotocol.org/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0xD6D14E60c0DAFcB3B77B296fe718623Ec84e5eb3",
+        "0x2a933dbd0D9e32593e62702028Edcab437CE3cBA",
+        "0x2566f66f68ed438726AD904524FB306A03FdB80B"
+      ],
+      "8453": [
+        "0x4b8f6CADb8A2B222e8840E8aDDc32E031794A4D6",
+        "0x8b621804a7637b781e2BbD58e256a591F2dF7d51",
+        "0x32f75c3ee6aD872Eb3138020885E94E2842b8433"
+      ]
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "name": "RE7 Labs",
+    "url": "https://www.re7.capital",
+    "verified": true,
+    "addresses": {
+      "1": ["0xE86399fE6d7007FdEcb08A2ee1434Ee677a04433"],
+      "8453": ["0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"]
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/fence.svg",
+    "name": "Fence",
+    "url": "https://www.fence.finance/",
+    "verified": true,
+    "addresses": { "1": ["0xF92971B4D9e6257CF562400ed81d2986F28a8c26"] }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "name": "Steakhouse Financial",
+    "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x0A0e559bc3b0950a7e448F0d4894db195b9cf8DD",
+        "0x255c7705e8BB334DfCae438197f7C4297988085a",
+        "0xc01Ba42d4Bd241892B813FA8bD4589EAA4C60672"
+      ],
+      "8453": ["0x0A0e559bc3b0950a7e448F0d4894db195b9cf8DD"]
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/relend.png",
+    "name": "Relend Network",
+    "url": "https://relend.network/",
+    "verified": true,
+    "addresses": {
+      "1": ["0xD6D14E60c0DAFcB3B77B296fe718623Ec84e5eb3"],
+      "8453": ["0x32f75c3ee6aD872Eb3138020885E94E2842b8433"]
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/spark.svg",
+    "name": "SparkDAO",
+    "url": "https://spark.fi/",
+    "verified": true,
+    "addresses": {
+      "1": ["0x3300f198988e4C9C63F75dF86De36421f06af8c4"],
+      "8453": ["0xF93B7122450A50AF3e5A76E1d546e95Ac1d0F579"]
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/assets/logos/crvusd.svg",
+    "name": "LlamaRisk",
+    "url": "https://www.llamarisk.com/",
+    "verified": true,
+    "addresses": { "1": ["0x7e246fAce452AC43F5dC60c41EE14C88c37951c6"] }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/apostro.svg",
+    "name": "Apostro",
+    "url": "https://apostro.xyz",
+    "verified": true,
+    "addresses": { "1": ["0xf726311F85D45a7fECfFbC94bD8508a0A39958c6"] }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/leadblock.png",
+    "name": "LeadBlock",
+    "url": "https://leadblockpartners.com/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x825214AFa86f1F192F2FbA98FCB530EAdb473a5D",
+        "0x54f90Cbed0ba50fE7eE6113d8651eBdbF35938e2"
+      ]
+    }
+  }
+]
