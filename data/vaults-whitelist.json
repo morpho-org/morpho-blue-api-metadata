@@ -401,6 +401,10 @@
       {
         "action": "added",
         "timestamp": 1727710501
+      },
+      {
+        "action": "removed",
+        "timestamp": 1739434897
       }
     ]
   },
@@ -749,6 +753,10 @@
       {
         "action": "added",
         "timestamp": 1727440746
+      },
+      {
+        "action": "removed",
+        "timestamp": 1739434897
       }
     ]
   },
@@ -756,7 +764,7 @@
     "address": "0xBeEf796ae50ba5423857CAc27DD36369cfc8241b",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
-    "description": "The Steakhouse PAXG vault aims to optimize yields by lending PAXG against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine”.",
+    "description": "OLD - This vault is getting deprecated, please use the new SteakPAXG - 0xBeeF7959aE71D4e45e1863dae0B94C35244AF816",
     "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
     "curators": [
       {
@@ -791,6 +799,10 @@
       {
         "action": "added",
         "timestamp": 1727440746
+      },
+      {
+        "action": "removed",
+        "timestamp": 1739434897
       }
     ]
   },
@@ -812,6 +824,10 @@
       {
         "action": "added",
         "timestamp": 1727440746
+      },
+      {
+        "action": "removed",
+        "timestamp": 1739434897
       }
     ]
   },
@@ -875,6 +891,10 @@
       {
         "action": "added",
         "timestamp": 1727711659
+      },
+      {
+        "action": "removed",
+        "timestamp": 1739434897
       }
     ]
   },
@@ -903,7 +923,7 @@
     "address": "0xbEEFC01767ed5086f35deCb6C00e6C12bc7476C1",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/coinshift-usdl-vault.svg",
-    "description": "Coinshift's USDL provides users with exposure to the yield-bearing stablecoin Paxos USDL, while offering an higher yield on the borrowed part. Using a yield-bearing stablecoin as base asset enhances efficiency (\"optimal dual-engine\"). The vault is curated by Steakhouse on behalf of Coinshift.",
+    "description": "OLD - This vault is getting deprecated, please use the new csUSDL vault - 0xbEeFc011e94f43b8B7b455eBaB290C7Ab4E216f1",
     "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
     "curators": [
       {
