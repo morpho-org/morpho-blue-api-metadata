@@ -381,7 +381,9 @@ In case of emergency, or particular situation, Morpho Labs team is able to add c
 Controls the known curators and the addresses they manage.
 
 > [!Note]
-> Any vault that have an `owner` or a `curator` address referenced as managed by a curator will automatically be flagged as curated by this curator
+> Any vault that have an `owner` or a `curator` address referenced as managed by a curator will automatically be flagged as curated by this curator, unless the `owner` is unknown [*].
+
+_[*] This is to prevent anyone from having their vault flagged as "curated by X" just by setting any whitelisted address as `curator`_
 
 ### Required Fields
 
