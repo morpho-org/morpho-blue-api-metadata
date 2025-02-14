@@ -147,4 +147,43 @@ describe("tokens.json validation", () => {
       );
     }
   });
+
+  test("each logoURI has properly encoded special characters", () => {
+    const errors: string[] = [];
+    const CDN_PREFIX = "https://cdn.morpho.org/assets/logos/";
+
+    tokens.forEach((token, index) => {
+      if (token.metadata?.logoURI) {
+        // Skip if not using Morpho CDN
+        if (!token.metadata.logoURI.startsWith(CDN_PREFIX)) {
+          return;
+        }
+
+        const symbol = token.metadata.logoURI.replace(CDN_PREFIX, "");
+        const decodedSymbol = decodeURIComponent(symbol);
+        const properlyEncodedUri = `${CDN_PREFIX}${encodeURIComponent(
+          decodedSymbol
+        )}`;
+
+        try {
+          expect(token.metadata.logoURI).toBe(properlyEncodedUri);
+        } catch (error) {
+          errors.push(
+            `Token at index ${index} (address: ${token.address}, chainId: ${token.chainId}) has improperly encoded logoURI:
+            Current:  ${token.metadata.logoURI}
+            Expected: ${properlyEncodedUri}`
+          );
+        }
+      }
+    });
+
+    // If we collected any errors, fail the test with all error messages
+    if (errors.length > 0) {
+      throw new Error(
+        `Found ${errors.length} logoURI encoding errors:\n\n${errors.join(
+          "\n\n"
+        )}`
+      );
+    }
+  });
 });

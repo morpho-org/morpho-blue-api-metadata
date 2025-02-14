@@ -5,7 +5,7 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "test:json": "jest json/",
-    "start": "NODE_OPTIONS='--loader ts-node/esm' ts-node --esm checksum.ts"
+    "start": "NODE_OPTIONS='--loader ts-node/esm' ts-node --esm filterTokens.ts"
   },
   "devDependencies": {
     "@types/jest": "^29.5.14",
