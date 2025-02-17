@@ -2671,5 +2671,26 @@
         "timestamp": 1739266970
       }
     ]
+  },
+  {
+    "address": "0xc582F04d8a82795aa2Ff9c8bb4c1c889fe7b754e",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The Gauntlet USDC Frontier Vault targets maximum yield by allocating to potentially higher volatility markets that may face liquidity risks in exchange for greater supplier returns.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1739807668
+      }
+    ]
   }
 ]
