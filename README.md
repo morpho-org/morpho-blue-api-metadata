@@ -394,14 +394,21 @@ Each curator entry must include the following fields:
 - `url`: Website URL of the curator (optional)
 - `verified`: Boolean indicating curator verification status
 - `addresses`: List of addresses managed by this curator, on each chain (optional)
+- `hidden`: Optional boolean indicating if the blockchain `owner` address should be attach to a specific curator in the UI (their verification will still be active)
 
 > [!Note]
-> An address can be managed by different curators
+>
+> - All curators must be verified (`verified: true`) to be included in the whitelist
+> - Hidden curators (`hidden: true`) must have empty `image` and `url` fields as they won't be displayed in the UI
+> - An address can be managed by different curators
 
 ### Validation Rules
 
 1. Addresses must be in checksum format
 2. All required fields must be present and of the correct type
+3. Curator names must be unique
+4. Image URLs must start with "https://cdn.morpho.org/v2/assets/images"
+5. Hidden verified addresses must have empty image and URL fields
 
 ### Example Entry
 
@@ -413,15 +420,10 @@ Each curator entry must include the following fields:
     "verified": true,
     "addresses": {
       "1": [
-        "0x9E33faAE38ff641094fa68c65c2cE600b3410585",
-        "0xC684c6587712e5E7BDf9fD64415F23Bd2b05fAec",
-        "0xAC15982Ca8A8e8BAc738FE492b84D8761B4384a3",
-        "0x259c444b50e3Ab173c4f850BB40d85A9EA0230F3"
+        "0x123",
       ],
       "8453": [
-        "0x9E33faAE38ff641094fa68c65c2cE600b3410585",
-        "0x5a4E19842e09000a582c20A4f524C26Fb48Dd4D0",
-        "0x639d2dD24304aC2e6A691d8c1cFf4a2665925fee"
+        "0x456",
       ]
     }
   },
