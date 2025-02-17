@@ -19,14 +19,11 @@
     "addresses": {
       "1": [
         "0x9E33faAE38ff641094fa68c65c2cE600b3410585",
-        "0xC684c6587712e5E7BDf9fD64415F23Bd2b05fAec",
-        "0xAC15982Ca8A8e8BAc738FE492b84D8761B4384a3",
-        "0x259c444b50e3Ab173c4f850BB40d85A9EA0230F3"
+        "0xC684c6587712e5E7BDf9fD64415F23Bd2b05fAec"
       ],
       "8453": [
         "0x9E33faAE38ff641094fa68c65c2cE600b3410585",
-        "0x5a4E19842e09000a582c20A4f524C26Fb48Dd4D0",
-        "0x639d2dD24304aC2e6A691d8c1cFf4a2665925fee"
+        "0x5a4E19842e09000a582c20A4f524C26Fb48Dd4D0"
       ]
     }
   },
@@ -49,22 +46,18 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/block-analitica.png",
     "name": "Block Analitica",
-    "url": "https://morpho.blockanalitica.com/",
+    "url": "https://blockanalitica.com/",
     "verified": true,
     "addresses": {
       "1": [
         "0x2a933dbd0D9e32593e62702028Edcab437CE3cBA",
         "0x2566f66f68ed438726AD904524FB306A03FdB80B"
       ],
-      "8453": [
-        "0x4b8f6CADb8A2B222e8840E8aDDc32E031794A4D6",
-        "0x8b621804a7637b781e2BbD58e256a591F2dF7d51"
-      ]
+      "8453": ["0x4b8f6CADb8A2B222e8840E8aDDc32E031794A4D6"]
     }
   },
   {
     "image": "https://cdn.morpho.org/v2/assets/images/bprotocol.png",
-    "name": "B.Protocol",
     "url": "https://www.bprotocol.org/",
     "verified": true,
     "addresses": {
@@ -75,15 +68,13 @@
       ],
       "8453": [
         "0x4b8f6CADb8A2B222e8840E8aDDc32E031794A4D6",
-        "0x8b621804a7637b781e2BbD58e256a591F2dF7d51",
         "0x32f75c3ee6aD872Eb3138020885E94E2842b8433"
       ]
     }
   },
   {
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
-    "name": "RE7 Labs",
-    "url": "https://www.re7.capital",
+    "url": "https://www.re7labs.xyz/",
     "verified": true,
     "addresses": {
       "1": ["0xE86399fE6d7007FdEcb08A2ee1434Ee677a04433"],
@@ -100,7 +91,7 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
     "name": "Steakhouse Financial",
-    "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+    "url": "https://www.steakhouse.financial",
     "verified": true,
     "addresses": {
       "1": [
