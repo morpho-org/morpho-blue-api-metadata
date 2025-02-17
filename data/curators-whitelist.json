@@ -149,5 +149,32 @@
         "0x54f90Cbed0ba50fE7eE6113d8651eBdbF35938e2"
       ]
     }
+  },
+  {
+    "name": "Swissborg",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x259c444b50e3Ab173c4f850BB40d85A9EA0230F3",
+        "0xAC15982Ca8A8e8BAc738FE492b84D8761B4384a3"
+      ]
+    },
+    "hidden": true
+  },
+  {
+    "name": "Seamless",
+    "verified": true,
+    "addresses": {
+      "8453": ["0x639d2dD24304aC2e6A691d8c1cFf4a2665925fee"]
+    },
+    "hidden": true
+  },
+  {
+    "name": "Moonwell",
+    "verified": true,
+    "addresses": {
+      "8453": ["0x8b621804a7637b781e2BbD58e256a591F2dF7d51"]
+    },
+    "hidden": true
   }
 ]

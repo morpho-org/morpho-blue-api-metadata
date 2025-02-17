@@ -7,11 +7,12 @@ interface CuratorAddresses {
 }
 
 interface Curator {
-  image: string;
+  image?: string;
   name: string;
-  url: string;
+  url?: string;
   verified: boolean;
   addresses: CuratorAddresses;
+  hidden?: boolean;
 }
 
 describe("curators-whitelist.json validation", () => {
@@ -40,6 +41,15 @@ describe("curators-whitelist.json validation", () => {
     const baseUrl = "https://cdn.morpho.org/v2/assets/images";
 
     curators.forEach((curator) => {
+      if (curator.hidden) {
+        if ("image" in curator || "url" in curator) {
+          errors.push(
+            `Hidden curator ${curator.name} should not have image or URL fields`
+          );
+        }
+        return;
+      }
+
       if (!curator.image || curator.image === "") {
         errors.push(`Empty image URL for curator: ${curator.name}`);
       } else if (!curator.image.startsWith(baseUrl)) {
@@ -51,6 +61,29 @@ describe("curators-whitelist.json validation", () => {
 
     if (errors.length > 0) {
       throw new Error(`Found image URL errors:\n${errors.join("\n")}`);
+    }
+  });
+
+  test("URLs are valid", () => {
+    const errors: string[] = [];
+
+    curators.forEach((curator) => {
+      if (curator.hidden) {
+        if ("url" in curator) {
+          errors.push(
+            `Hidden curator ${curator.name} should not have URL field`
+          );
+        }
+        return;
+      }
+
+      if (!curator.url || curator.url === "") {
+        errors.push(`Empty URL for curator: ${curator.name}`);
+      }
+    });
+
+    if (errors.length > 0) {
+      throw new Error(`Found URL errors:\n${errors.join("\n")}`);
     }
   });
 
