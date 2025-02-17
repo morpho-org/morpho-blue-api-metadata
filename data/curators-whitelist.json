@@ -59,6 +59,7 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/bprotocol.png",
     "url": "https://www.bprotocol.org/",
+    "name": "B.Protocol",
     "verified": true,
     "addresses": {
       "1": [
@@ -74,6 +75,7 @@
   },
   {
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "name": "RE7 Labs",
     "url": "https://www.re7labs.xyz/",
     "verified": true,
     "addresses": {
@@ -123,7 +125,7 @@
     }
   },
   {
-    "image": "https://cdn.morpho.org/assets/logos/crvusd.svg",
+    "image": "https://cdn.morpho.org/v2/assets/images/llamarisk.svg",
     "name": "LlamaRisk",
     "url": "https://www.llamarisk.com/",
     "verified": true,
