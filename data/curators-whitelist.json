@@ -151,9 +151,7 @@
     }
   },
   {
-    "image": "",
     "name": "Swissborg",
-    "url": "",
     "verified": true,
     "addresses": {
       "1": [
@@ -164,9 +162,7 @@
     "hidden": true
   },
   {
-    "image": "",
     "name": "Seamless",
-    "url": "",
     "verified": true,
     "addresses": {
       "8453": ["0x639d2dD24304aC2e6A691d8c1cFf4a2665925fee"]
@@ -174,9 +170,7 @@
     "hidden": true
   },
   {
-    "image": "",
     "name": "Moonwell",
-    "url": "",
     "verified": true,
     "addresses": {
       "8453": ["0x8b621804a7637b781e2BbD58e256a591F2dF7d51"]

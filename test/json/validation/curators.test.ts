@@ -7,9 +7,9 @@ interface CuratorAddresses {
 }
 
 interface Curator {
-  image: string;
+  image?: string;
   name: string;
-  url: string;
+  url?: string;
   verified: boolean;
   addresses: CuratorAddresses;
   hidden?: boolean;
@@ -42,9 +42,9 @@ describe("curators-whitelist.json validation", () => {
 
     curators.forEach((curator) => {
       if (curator.hidden) {
-        if (curator.image !== "" || curator.url !== "") {
+        if ("image" in curator || "url" in curator) {
           errors.push(
-            `Hidden curator ${curator.name} must have empty image and URL`
+            `Hidden curator ${curator.name} should not have image or URL fields`
           );
         }
         return;
@@ -69,8 +69,10 @@ describe("curators-whitelist.json validation", () => {
 
     curators.forEach((curator) => {
       if (curator.hidden) {
-        if (curator.url !== "") {
-          errors.push(`Hidden curator ${curator.name} must have empty URL`);
+        if ("url" in curator) {
+          errors.push(
+            `Hidden curator ${curator.name} should not have URL field`
+          );
         }
         return;
       }
