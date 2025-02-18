@@ -1,6 +1,6 @@
-import { describe, expect, test } from "@jest/globals";
-import { loadJsonFile } from "../../utils/jsonValidators";
+import { describe, test } from "@jest/globals";
 import { getAddress } from "viem";
+import { loadJsonFile } from "../../utils/jsonValidators";
 
 interface CuratorAddresses {
   [chainId: string]: string[];
@@ -12,7 +12,7 @@ interface Curator {
   url?: string;
   verified: boolean;
   addresses: CuratorAddresses;
-  hidden?: boolean;
+  ownerOnly?: boolean;
 }
 
 describe("curators-whitelist.json validation", () => {
@@ -41,10 +41,10 @@ describe("curators-whitelist.json validation", () => {
     const baseUrl = "https://cdn.morpho.org/v2/assets/images";
 
     curators.forEach((curator) => {
-      if (curator.hidden) {
+      if (curator.ownerOnly) {
         if ("image" in curator || "url" in curator) {
           errors.push(
-            `Hidden curator ${curator.name} should not have image or URL fields`
+            `Pure owner ${curator.name} should not have image or URL fields`
           );
         }
         return;
@@ -68,11 +68,9 @@ describe("curators-whitelist.json validation", () => {
     const errors: string[] = [];
 
     curators.forEach((curator) => {
-      if (curator.hidden) {
+      if (curator.ownerOnly) {
         if ("url" in curator) {
-          errors.push(
-            `Hidden curator ${curator.name} should not have URL field`
-          );
+          errors.push(`Owner only ${curator.name} should not have URL field`);
         }
         return;
       }
