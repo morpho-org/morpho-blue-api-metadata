@@ -3521,13 +3521,13 @@
     "address": "0xEEf0C605546958c1f899b6fB336C20671f9cD49F",
     "vendor": "Chainlink",
     "description": "CRVUSD / USD (0.5%)",
-    "pair": ["CRVUSD", "ETH"],
+    "pair": ["CRVUSD", "USD"],
     "tokenIn": {
       "address": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
       "chainId": 1
     },
     "tokenOut": {
-      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
     },
     "decimals": 8
