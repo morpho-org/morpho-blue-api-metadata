@@ -3,149 +3,149 @@
     "address": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
     "chainId": 1,
     "vendor": "Ethena",
-    "pair": ["sUSDE", "USDE"],
+    "pair": ["sUSDE", "USDE"]
   },
   {
     "address": "0x4cE9c93513DfF543Bc392870d57dF8C04e89Ba0a",
     "chainId": 1,
     "vendor": "Sky",
-    "pair": ["ysUSDS", "USDS"],
+    "pair": ["ysUSDS", "USDS"]
   },
   {
     "address": "0x7751E2F4b8ae93EF6B79d86419d42FE3295A4559",
     "chainId": 1,
     "vendor": "Lift",
-    "pair": ["wUSDL", "USDL"],
+    "pair": ["wUSDL", "USDL"]
   },
   {
     "address": "0x1202F5C7b4B9E47a1A484E8B270be34dbbC75055",
     "chainId": 1,
     "vendor": "Resolv",
-    "pair": ["wstUSR", "stUSR"],
+    "pair": ["wstUSR", "stUSR"]
   },
   {
     "address": "0xDcEe70654261AF21C44c093C300eD3Bb97b78192",
     "chainId": 1,
     "vendor": "Origin",
-    "pair": ["WOETH", "OETH"],
+    "pair": ["WOETH", "OETH"]
   },
   {
     "address": "0x83F20F44975D03b1b09e64809B757c47f942BEeA",
     "chainId": 1,
     "vendor": "Maker",
-    "pair": ["sDAI", "DAI"],
+    "pair": ["sDAI", "DAI"]
   },
   {
     "address": "0xA663B02CF0a4b149d2aD41910CB81e23e1c41c32",
     "chainId": 1,
     "vendor": "Frax Finance",
-    "pair": ["sFRAX", "FRAX"],
+    "pair": ["sFRAX", "FRAX"]
   },
   {
     "address": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
     "chainId": 8453,
     "vendor": "Mountain Protocol",
-    "pair": ["wUSDM", "USDM"],
+    "pair": ["wUSDM", "USDM"]
   },
   {
     "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
     "chainId": 8453,
     "vendor": "Angle",
-    "pair": ["stEUR", "agEUR"],
+    "pair": ["stEUR", "agEUR"]
   },
   {
     "address": "0x4ca5403e23d5c71DDE4e4fe60fBE73b0ea0802F4",
     "chainId": 8453,
     "vendor": "Delayed wUSDM",
-    "pair": ["wUSDM", "USDM"],
+    "pair": ["wUSDM", "USDM"]
   },
   {
     "address": "0x5C5b196aBE0d54485975D1Ec29617D42D9198326",
     "chainId": 1,
     "vendor": "Elixir",
-    "pair": ["sdeUSD", "deUSD"],
+    "pair": ["sdeUSD", "deUSD"]
   },
   {
     "address": "0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD",
     "chainId": 1,
     "vendor": "Sky",
-    "pair": ["sUSDS", "USDS"],
+    "pair": ["sUSDS", "USDS"]
   },
   {
     "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
     "chainId": 1,
     "vendor": "Angle",
-    "pair": ["stUSD", "USDA"],
+    "pair": ["stUSD", "USDA"]
   },
   {
     "address": "0x4Aab19DC2f4951c1024c48C6976270bd4D08A12F",
     "chainId": 1,
     "vendor": "Reservoir",
-    "pair": ["srUSD", "rUSD"],
+    "pair": ["srUSD", "rUSD"]
   },
   {
     "address": "0xe1B4d34E8754600962Cd944B535180Bd758E6c2e",
     "chainId": 1,
     "vendor": "Kelp",
-    "pair": ["agETH", "rsETH"],
+    "pair": ["agETH", "rsETH"]
   },
   {
     "address": "0x0A2b94F6871c1D7A32Fe58E1ab5e6deA2f114E56",
     "chainId": 1,
     "vendor": "Tokemak",
-    "pair": ["autoETH", "WETH"],
+    "pair": ["autoETH", "WETH"]
   },
   {
     "address": "0x270Ee1564eC483DD83f284E4D7bDFbfaa2feA76E",
     "chainId": 8453,
-    "vendor": "Centrifuge", /// TBC
-    "pair": ["USDC", "USDC"],
+    "vendor": "Centrifuge",
+    "pair": ["USDC", "USDC"]
   },
   {
     "address": "0x270Ee1564eC483DD83f284E4D7bDFbfaa2feA76E",
     "chainId": 1,
     "vendor": "f(x)",
-    "pair": ["arUSD", "rUSD"],
+    "pair": ["arUSD", "rUSD"]
   },
   {
     "address": "0x547213367cfB08ab418E7b54d7883b2C2AA27Fd7",
     "chainId": 1,
     "vendor": "Anzen",
-    "pair": ["sUSDz", "USDz"],
+    "pair": ["sUSDz", "USDz"]
   },
   {
     "address": "0x7FcD174E80f264448ebeE8c88a7C4476AAF58Ea6",
     "chainId": 8453,
     "vendor": "Origin",
-    "pair": ["wsuperOETH", "superOETHb"],
+    "pair": ["wsuperOETH", "superOETHb"]
   },
   {
     "address": "0xD9A442856C234a39a81a089C06451EBAa4306a72",
     "chainId": 1,
     "vendor": "Puffer",
-    "pair": ["pufETH", "WETH"],
+    "pair": ["pufETH", "WETH"]
   },
   {
     "address": "0x4cE9c93513DfF543Bc392870d57dF8C04e89Ba0a",
     "chainId": 1,
     "vendor": "Sky",
-    "pair": ["ysUSDS", "USDS"],
+    "pair": ["ysUSDS", "USDS"]
   },
   {
     "address": "0x8DB2350D78aBc13f5673A411D4700BCF87864dDE",
     "chainId": 1,
     "vendor": "Swell",
-    "pair": ["swBTC", "WBTC"],
+    "pair": ["swBTC", "WBTC"]
   },
   {
     "address": "0xda0002859B2d05F66a753d8241fCDE8623f26F4f",
     "chainId": 1,
-    "pair": ["dWETHV3", "WETH"],
+    "pair": ["dWETHV3", "WETH"]
   },
   {
     "address": "0x5085Dd6FAd07c12e38fae01bc2a4938d2C08B1Bc",
     "chainId": 1,
     "vendor": "Apostro",
-    "pair": ["aprUSR", "USR"],
-  },
+    "pair": ["aprUSR", "USR"]
+  }
 ]
