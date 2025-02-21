@@ -5048,6 +5048,36 @@
     }
   },
   {
+    "chainId": 8453,
+    "address": "0x19feFdd35B67C2694F3532a8e0Be75dFf0f8bFBb",
+    "vendor": "Pyth Network",
+    "description": "USR / USD",
+    "pair": ["USR", "USD"],
+    "tokenIn": {
+      "address": "0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9",
+      "chainId": 8453
+    },
+    "tokenOut": {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 8453
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xCd76c50c3210C5AaA9c39D53A4f95BFd8b1a3a19",
+    "vendor": "Pyth Network",
+    "description": "USR / USD",
+    "pair": ["USR", "USD"],
+    "tokenIn": {
+      "address": "0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9",
+      "chainId": 8453
+    },
+    "tokenOut": {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 8453
+    }
+  },
+  {
     "chainId": 1,
     "address": "0xAdb2c15Fde49D1A4294740aCb650de94184E66b2",
     "vendor": "Resolv",
@@ -5060,6 +5090,21 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9924a529d15067518Bf5182202BfAd71E4B64a74",
+    "vendor": "Pyth Network",
+    "description": "RLP / USD",
+    "pair": ["RLP", "USD"],
+    "tokenIn": {
+      "address": "0xC31389794Ffac23331E0D9F611b7953f90AA5fDC",
+      "chainId": 8453
+    },
+    "tokenOut": {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 8453
     }
   },
   {
