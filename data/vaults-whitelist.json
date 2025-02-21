@@ -2692,5 +2692,47 @@
         "timestamp": 1739807668
       }
     ]
+  },
+  {
+    "address": "0xC484D83F667b779cc9907248101214235642258B",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/apostro.svg",
+    "description": "The Apostro USR vault supports carry trade for the Resolv products and promotes the use of USR as a major stablecoin.",
+    "forumLink": "https://forum.morpho.org/c/vaults/apostro/35",
+    "curators": [
+      {
+        "name": "Apostro",
+        "image": "https://cdn.morpho.org/v2/assets/images/apostro.svg",
+        "url": "https://apostro.xyz",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1740129482
+      }
+    ]
+  },
+  {
+    "address": "0xcdDCDd18A16ED441F6CB10c3909e5e7ec2B9e8f3",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/apostro.svg",
+    "description": "Apostro Resolv USDC vault is optimized for Resolv point farming and supports carry trade for the market-neutral strategy.",
+    "forumLink": "https://forum.morpho.org/c/vaults/apostro/35",
+    "curators": [
+      {
+        "name": "Apostro",
+        "image": "https://cdn.morpho.org/v2/assets/images/apostro.svg",
+        "url": "https://apostro.xyz",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1740129537
+      }
+    ]
   }
 ]
