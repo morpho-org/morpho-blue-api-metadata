@@ -136,7 +136,10 @@
     "name": "Apostro",
     "url": "https://apostro.xyz",
     "verified": true,
-    "addresses": { "1": ["0xf726311F85D45a7fECfFbC94bD8508a0A39958c6"] }
+    "addresses": {
+      "1": ["0xf726311F85D45a7fECfFbC94bD8508a0A39958c6"],
+      "8453": ["0xf726311F85D45a7fECfFbC94bD8508a0A39958c6"]
+    }
   },
   {
     "image": "https://cdn.morpho.org/v2/assets/images/leadblock.png",

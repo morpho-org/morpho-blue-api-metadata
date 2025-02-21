@@ -4591,6 +4591,21 @@
     }
   },
   {
+    "chainId": 8453,
+    "address": "0x75d0c87D6da8C6eA07888b41504c15A5B216d8B1",
+    "vendor": "Pendle",
+    "description": "PT-USR-24APR2025 / USR PtToAssetRate adapter",
+    "pair": ["PT-USR-24APR2025", "USR"],
+    "tokenIn": {
+      "address": "0xec443e7E0e745348E500084892C89218B3ba4683",
+      "chainId": 8453
+    },
+    "tokenOut": {
+      "address": "0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9",
+      "chainId": 8453
+    }
+  },
+  {
     "chainId": 1,
     "address": "0x5926Cf8Fb055904007f962193a085Ade01bd456f",
     "vendor": "Pendle",
