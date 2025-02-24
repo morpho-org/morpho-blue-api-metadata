@@ -4124,6 +4124,36 @@
   },
   {
     "chainId": 8453,
+    "address": "0x5a631155dF276F0c02d19953BC8B67fbbCb35e01",
+    "vendor": "Chronicle",
+    "description": "cbBTC / USD Chronicle price feed",
+    "pair": ["cbBTC", "USD"],
+    "tokenIn": {
+      "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+      "chainId": 8453
+    },
+    "tokenOut": {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 8453
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x026a5B6114431d8F3eF2fA0E1B2EDdDccA9c540E",
+    "vendor": "Maker",
+    "description": "sUSDS / USDS Maker SSRChainlinkRateProviderAdapter price feed",
+    "pair": ["sUSDS", "USDS"],
+    "tokenIn": {
+      "address": "0x5875eEE11Cf8398102FdAd704C9E96607675467a",
+      "chainId": 8453
+    },
+    "tokenOut": {
+      "address": "0x820C137fa70C8691f0e44Dc420a5e53c168921Dc",
+      "chainId": 8453
+    }
+  },
+  {
+    "chainId": 8453,
     "address": "0x371A53bB4203Ad5D7e60e220BaC1876FF3Ddda5B",
     "vendor": "Chronicle",
     "description": "cbETH / USD Chronicle price feed",
