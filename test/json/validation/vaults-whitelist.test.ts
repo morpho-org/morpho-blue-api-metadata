@@ -13,7 +13,6 @@ interface Curator {
 interface Vault {
   address: string;
   chainId: number;
-  image: string;
   description: string;
   forumLink: string;
   curators: Curator[];
@@ -73,7 +72,6 @@ describe("vaults-whitelist.json validation", () => {
       const requiredVaultFields = {
         address: expect.any(String),
         chainId: expect.any(Number),
-        image: expect.any(String),
         description: expect.any(String),
         forumLink: expect.any(String),
         curators: expect.any(Array),
