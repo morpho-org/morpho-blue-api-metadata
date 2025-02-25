@@ -5222,5 +5222,20 @@
       "address": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
       "chainId": 1
     }
+  },
+  {
+    "chainId": 1,
+    "address": "0x427b2AFe58615043D460110d1a86D41446530352",
+    "vendor": "Pendle",
+    "description": "PT-tETH 29 MAY 2025 PtToSyRate adapter x tETH/wstETH oracle",
+    "pair": ["PT-tETH-29MAY2025", "wstETH"],
+    "tokenIn": {
+      "address": "0x84D17Ef6BeC165484c320B852eEB294203e191be",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+      "chainId": 1
+    }
   }
 ]

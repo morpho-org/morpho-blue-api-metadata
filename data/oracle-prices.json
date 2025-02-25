@@ -117,6 +117,24 @@
     "contractChainId": 1
   },
   {
+    "assetAddress": "0x84D17Ef6BeC165484c320B852eEB294203e191be",
+    "contractAddress": "0xBDb8F9729d3194f75fD1A3D9bc4FFe0DDe3A404c",
+    "order": 0,
+    "type": "pendle_asset_rate",
+    "data": "{\"decimals\": 18, \"first_block_number\": 21922406}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x84D17Ef6BeC165484c320B852eEB294203e191be",
+    "contractAddress": "0xCfE54B5cD566aB89272946F602D76Ea879CAb4a8",
+    "order": 1,
+    "type": "chainlink_aggregator",
+    "data": "{\"decimals\": 8, \"first_block_number\": 21922406}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
     "assetAddress": "0xE08C45F3cfE70f4e03668Dc6E84Af842bEE95A68",
     "contractAddress": "0xfD482179DdEe989C45eaB19991852F80fF31457a",
     "order": 0,
