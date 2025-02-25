@@ -29,4 +29,6 @@ jobs:
 
       - name: Run validation tests
         working-directory: ./test
+        env:
+          CHAINALYSIS_API_TOKEN: ${{ secrets.CHAINALYSIS_API_TOKEN }}
         run: yarn test
