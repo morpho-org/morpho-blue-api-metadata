@@ -5,7 +5,7 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "test:json": "jest json/",
-    "start": "NODE_OPTIONS='--loader ts-node/esm' ts-node --esm filterTokens.ts"
+    "start": "NODE_OPTIONS='--loader ts-node/esm' ts-node --esm chainalysisTest.ts"
   },
   "devDependencies": {
     "@types/jest": "^29.5.14",
@@ -21,6 +21,7 @@
   "description": "",
   "dependencies": {
     "@morpho-org/morpho-ts": "^2.0.0",
+    "dotenv": "^16.4.7",
     "ts-node": "^10.9.2",
     "viem": "^2.22.16"
   }

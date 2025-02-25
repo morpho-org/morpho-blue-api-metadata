@@ -48,6 +48,12 @@
     "pair": ["wUSDM", "USDM"]
   },
   {
+    "address": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
+    "chainId": 1,
+    "vendor": "Mountain Protocol",
+    "pair": ["wUSDM", "USDM"]
+  },
+  {
     "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
     "chainId": 8453,
     "vendor": "Angle",
@@ -102,12 +108,6 @@
     "pair": ["USDC", "USDC"]
   },
   {
-    "address": "0x270Ee1564eC483DD83f284E4D7bDFbfaa2feA76E",
-    "chainId": 1,
-    "vendor": "f(x)",
-    "pair": ["arUSD", "rUSD"]
-  },
-  {
     "address": "0x547213367cfB08ab418E7b54d7883b2C2AA27Fd7",
     "chainId": 1,
     "vendor": "Anzen",
@@ -126,12 +126,6 @@
     "pair": ["pufETH", "WETH"]
   },
   {
-    "address": "0x4cE9c93513DfF543Bc392870d57dF8C04e89Ba0a",
-    "chainId": 1,
-    "vendor": "Sky",
-    "pair": ["ysUSDS", "USDS"]
-  },
-  {
     "address": "0x8DB2350D78aBc13f5673A411D4700BCF87864dDE",
     "chainId": 1,
     "vendor": "Swell",
@@ -139,13 +133,8 @@
   },
   {
     "address": "0xda0002859B2d05F66a753d8241fCDE8623f26F4f",
+    "vendor": "Gearbox",
     "chainId": 1,
     "pair": ["dWETHV3", "WETH"]
-  },
-  {
-    "address": "0x5085Dd6FAd07c12e38fae01bc2a4938d2C08B1Bc",
-    "chainId": 1,
-    "vendor": "Apostro",
-    "pair": ["aprUSR", "USR"]
   }
 ]

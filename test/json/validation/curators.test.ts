@@ -1,6 +1,7 @@
 import { describe, test } from "@jest/globals";
 import { getAddress } from "viem";
 import { loadJsonFile } from "../../utils/jsonValidators";
+import "dotenv/config";
 
 interface CuratorAddresses {
   [chainId: string]: string[];
@@ -13,6 +14,12 @@ interface Curator {
   verified: boolean;
   addresses: CuratorAddresses;
   ownerOnly?: boolean;
+}
+
+interface ChainalysisResponse {
+  risk: string;
+  riskReason: string | null;
+  status: string;
 }
 
 describe("curators-whitelist.json validation", () => {
@@ -146,4 +153,109 @@ describe("curators-whitelist.json validation", () => {
       throw new Error(`Found address validation errors:\n${errors.join("\n")}`);
     }
   });
+
+  test("addresses have low risk according to Chainalysis", async () => {
+    // Increase timeout to 30 seconds since we're making multiple API calls
+    jest.setTimeout(30000);
+
+    const CHAINALYSIS_API_TOKEN = process.env.CHAINALYSIS_API_TOKEN;
+    if (!CHAINALYSIS_API_TOKEN) {
+      console.warn("Skipping external risk check - missing configuration");
+      return;
+    }
+
+    const riskyAddresses: {
+      address: string;
+      curator: string;
+      chainId: string;
+      risk: string;
+      riskReason?: string;
+    }[] = [];
+
+    const errors: string[] = [];
+    let totalAddressesChecked = 0;
+
+    await Promise.all(
+      curators.flatMap((curator) =>
+        Object.entries(curator.addresses).flatMap(([chainId, addresses]) =>
+          addresses.map(async (address) => {
+            try {
+              totalAddressesChecked++;
+
+              const response = await fetch(
+                `https://api.chainalysis.com/api/risk/v2/entities/${address}`,
+                {
+                  headers: {
+                    Token: CHAINALYSIS_API_TOKEN,
+                    "Content-Type": "application/json",
+                  },
+                }
+              );
+
+              if (!response.ok) {
+                throw new Error("External API request failed");
+              }
+
+              const data = (await response.json()) as ChainalysisResponse;
+
+              if (data.status !== "COMPLETE") {
+                errors.push(
+                  `Risk check incomplete for address ${address} (curator: ${curator.name}, chain: ${chainId})`
+                );
+                return;
+              }
+
+              if (data.risk.toLowerCase() !== "low") {
+                riskyAddresses.push({
+                  address,
+                  curator: curator.name,
+                  chainId,
+                  risk: data.risk,
+                  riskReason: data.riskReason || undefined,
+                });
+              }
+            } catch (error) {
+              errors.push(
+                `Failed to check address ${address} (curator: ${curator.name}, chain: ${chainId})`
+              );
+            }
+          })
+        )
+      )
+    );
+
+    // Print summary results
+    console.log("\n==== SUMMARY RESULTS ====");
+    console.log(`Total addresses checked: ${totalAddressesChecked}`);
+
+    if (riskyAddresses.length > 0) {
+      console.log(
+        `\n🚨 Found ${riskyAddresses.length} addresses with risk level other than LOW:`
+      );
+      riskyAddresses.forEach(
+        ({ address, curator, chainId, risk, riskReason }) => {
+          console.log(`\nAddress: ${address}`);
+          console.log(`Curator: ${curator}`);
+          console.log(`Chain ID: ${chainId}`);
+          console.log(`Risk Level: ${risk}`);
+          if (riskReason) console.log(`Risk Reason: ${riskReason}`);
+        }
+      );
+      throw new Error(
+        `Found ${riskyAddresses.length} addresses with risk level other than LOW`
+      );
+    } else {
+      console.log("\n✅ All addresses have LOW risk level!");
+    }
+
+    if (errors.length > 0) {
+      console.log(`\n⚠️ Encountered ${errors.length} errors during checks:`);
+      errors.forEach((error, index) => {
+        console.log(`${index + 1}. ${error}`);
+      });
+      throw new Error(
+        `Encountered ${errors.length} errors during Chainalysis checks`
+      );
+    }
+  }, 30000); // Add timeout here as well
 });
