@@ -21,6 +21,7 @@
   "description": "",
   "dependencies": {
     "@morpho-org/morpho-ts": "^2.0.0",
+    "dotenv": "^16.4.7",
     "ts-node": "^10.9.2",
     "viem": "^2.22.16"
   }
