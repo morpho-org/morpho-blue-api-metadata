@@ -533,6 +533,11 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
+"@morpho-org/blue-sdk-viem@^2.2.2":
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/@morpho-org/blue-sdk-viem/-/blue-sdk-viem-2.2.2.tgz#80fba5739dc92f0864d8597772890a3f3a5f0780"
+  integrity sha512-KgQN33mUp6RH/bzEw0VJ5gHhSKxVBY/H6MDhd0iS4OAhHreeR6sMMVIOchkNzvV0nMeOvOM7k30ZDesRNb0edw==
+
 "@morpho-org/morpho-ts@^2.0.0":
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/@morpho-org/morpho-ts/-/morpho-ts-2.0.0.tgz#188b6555c390537362fc65e71b816218610bfcac"
