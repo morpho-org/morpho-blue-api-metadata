@@ -284,5 +284,7 @@ Some asset are not supported by the current oracle types. By defualt the type Re
 
 Exhaustive list of assets that are not supported:
 
-1. 0xb4B8925c4CBce692F37C9D946883f2E330a042a9 // PT-sdeUSD-1753142406 - Spectra
-2.
+1. 0xb4B8925c4CBce692F37C9D946883f2E330a042a9 // PT-sdeUSD-1753142406 - Spectra - Mainnet
+2. 0x2a8c22E3b10036f3AEF5875d04f8441d4188b656 // mBASIS - Midas - Mainnet
+3. 0x1C2757c1FeF1038428b5bEF062495ce94BBe92b2 // mBASIS - Midas - Base
+4. 0xbB51E2a15A9158EBE2b0Ceb8678511e063AB7a55 // mEDGE - Midas - Mainnet
