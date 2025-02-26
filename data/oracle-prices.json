@@ -2813,7 +2813,7 @@
     "contractAddress": "0x6d62D3C3C8f9912890788b50299bF4D2C64823b6",
     "order": 0,
     "type": "redstone_without_logs",
-    "data": "{\"decimals\": 8, \"first_block_number\": 21929124}",
+    "data": "{\"decimals\": 8, \"first_block_number\": 26897434}",
     "assetChainId": 8453,
     "contractChainId": 8453
   },
