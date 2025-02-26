@@ -277,3 +277,12 @@ Here are the entries required to add an oracle price for `wstETH` on ETH mainnet
   }
 ]
 ```
+
+## Technical Debt:
+
+Some asset are not supported by the current oracle types. By defualt the type Redstone_without_logs stilla llow the pricing of them, as it simply query the `latestRoundData` method.
+
+Exhaustive list of assets that are not supported:
+
+1. 0xb4B8925c4CBce692F37C9D946883f2E330a042a9 // PT-sdeUSD-1753142406 - Spectra
+2.

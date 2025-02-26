@@ -328,6 +328,28 @@
   },
   {
     "chainId": 1,
+    "address": "0x54AedFe96cB7724fA59Ba7666679C2002E10B8bc",
+    "vendor": "Spectra",
+    "description": "SpectraPriceOracle ",
+    "pair": ["PT-sdeUSD-1753142406", "deUSD"],
+    "tokenOut": {
+      "address": "0x15700B564Ca08D9439C58cA5053166E8317aa138",
+      "chainId": 1
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x72caFFcdE0cf1813596f7DF7B50217E1753c5872",
+    "vendor": "Spectra",
+    "description": "Spectra 22JULY2025 PT-sdeUSD/USD ",
+    "pair": ["PT-sdeUSD-1753142406", "USD"],
+    "tokenOut": {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xcA727511c9d542AAb9eF406d24E5bbbE4567c22d",
     "vendor": "Redstone",
     "description": "deUSD/USD (0.2%)",
