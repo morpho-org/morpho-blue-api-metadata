@@ -328,6 +328,28 @@
   },
   {
     "chainId": 1,
+    "address": "0x54AedFe96cB7724fA59Ba7666679C2002E10B8bc",
+    "vendor": "Spectra",
+    "description": "SpectraPriceOracle ",
+    "pair": ["PT-sdeUSD-1753142406", "deUSD"],
+    "tokenOut": {
+      "address": "0x15700B564Ca08D9439C58cA5053166E8317aa138",
+      "chainId": 1
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x72caFFcdE0cf1813596f7DF7B50217E1753c5872",
+    "vendor": "Spectra",
+    "description": "Spectra 22JULY2025 PT-sdeUSD/USD ",
+    "pair": ["PT-sdeUSD-1753142406", "USD"],
+    "tokenOut": {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xcA727511c9d542AAb9eF406d24E5bbbE4567c22d",
     "vendor": "Redstone",
     "description": "deUSD/USD (0.2%)",
@@ -4808,6 +4830,21 @@
     "pair": ["mBASIS", "USD"],
     "tokenIn": {
       "address": "0x2a8c22E3b10036f3AEF5875d04f8441d4188b656",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x698dA5D987a71b68EbF30C1555cfd38F190406b7",
+    "vendor": "Midas",
+    "description": "mEDGE / USD price feed",
+    "pair": ["mEDGE", "USD"],
+    "tokenIn": {
+      "address": "0xbB51E2a15A9158EBE2b0Ceb8678511e063AB7a55",
       "chainId": 1
     },
     "tokenOut": {
