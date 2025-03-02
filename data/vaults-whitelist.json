@@ -2113,7 +2113,7 @@
     "address": "0x8c3A6B12332a6354805Eb4b72ef619aEdd22BcdD",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/degen.svg",
-    "description": "The Morpho Degen vault supplies in DEGEN loan markets in the Base ecosystem.",
+    "description": "The Re7 Degen vault supplies in DEGEN loan markets in the Base ecosystem.",
     "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
     "curators": [
       {
@@ -2134,7 +2134,7 @@
     "address": "0x30B8A2c8E7Fa41e77b54b8FaF45c610e7aD909E3",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/mai.svg",
-    "description": "The Morpho MAI vault supplies MAI into various collateral markets in the Base ecosystem.",
+    "description": "The Re7 MAI vault supplies MAI into various collateral markets in the Base ecosystem.",
     "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
     "curators": [
       {
