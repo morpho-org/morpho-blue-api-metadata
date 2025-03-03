@@ -2759,5 +2759,47 @@
         "timestamp": 1740403321
       }
     ]
+  },
+  {
+    "address": "0xD50B9Bbf136D1BD5CD5AC6ed9b3F26c458a6d4A6",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "description": "The Alpha USDC Vault invests in blue-chip, yield-bearing DeFi assets with a proven track record and revenue derived from real protocol earnings. Our strategy prioritizes long-term value for depositors while maintaining the highest standards of safety and informed decision-making.",
+    "forumLink": "https://forum.morpho.org/c/vaults/alphaping/37",
+    "curators": [
+      {
+        "name": "Alphaping",
+        "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+        "url": "https://alphaping.ch/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1741014137
+      }
+    ]
+  },
+  {
+    "address": "0x47fe8Ab9eE47DD65c24df52324181790b9F47EfC",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "description": "The Alpha WETH Vault invests in blue-chip, yield-bearing DeFi assets with a proven track record and revenue derived from real protocol earnings. Our strategy prioritizes long-term value for depositors while maintaining the highest standards of safety and informed decision-making.",
+    "forumLink": "https://forum.morpho.org/c/vaults/alphaping/37",
+    "curators": [
+      {
+        "name": "Alphaping",
+        "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+        "url": "https://alphaping.ch/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1741014137
+      }
+    ]
   }
 ]
