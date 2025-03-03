@@ -159,7 +159,11 @@
     "url": "https://alphaping.ch/",
     "verified": true,
     "addresses": {
-      "1": ["0xEB4Af6fA3AFA08B10d593EC8fF87efB03BC04645"]
+      "1": [
+        "0xEB4Af6fA3AFA08B10d593EC8fF87efB03BC04645",
+        "0x6788c8ad65E85CCa7224a0B46D061EF7D81F9Da5",
+        "0xD50B9Bbf136D1BD5CD5AC6ed9b3F26c458a6d4A6"
+      ]
     }
   },
   {
