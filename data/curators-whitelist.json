@@ -115,6 +115,15 @@
     }
   },
   {
+    "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
+    "name": "Hyperithm",
+    "url": "https://www.hyperithm.com/",
+    "verified": true,
+    "addresses": {
+      "1": ["0x16fa314141C76D4a0675f5e8e3CCBE4E0fA22C7c"]
+    }
+  },
+  {
     "image": "https://cdn.morpho.org/v2/assets/images/spark.svg",
     "name": "SparkDAO",
     "url": "https://spark.fi/",
