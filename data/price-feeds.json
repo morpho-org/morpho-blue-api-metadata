@@ -4894,6 +4894,21 @@
     }
   },
   {
+    "chainId": 8453,
+    "address": "0xf3708eA29bBF2A346174394936d8c8FBB21b13Cc",
+    "vendor": "Pendle",
+    "description": "LP-USR-24APR2025/USR LpToAssetRate adapter",
+    "pair": ["LP-USR-24APR2025", "USR"],
+    "tokenIn": {
+      "address": "0xE15578523937ed7F08E8F7a1Fa8a021E07025a08",
+      "chainId": 8453
+    },
+    "tokenOut": {
+      "address": "0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9",
+      "chainId": 8453
+    }
+  },
+  {
     "chainId": 1,
     "address": "0x1c2375B4dA8ac4DF9ed05b73b4224123E5C6F237",
     "vendor": "Pendle - Spark",
