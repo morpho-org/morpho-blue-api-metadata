@@ -48,6 +48,27 @@
     ]
   },
   {
+    "address": "0x00dfDb8C7295a03DCf1ADfF4D21eB5D9D19FB330",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The Re7 Resolv USR vault supplies USR to various collateral markets with a focus on the Resolv Protocol ecosystem.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+    "curators": [
+      {
+        "name": "RE7 Labs",
+        "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+        "url": "https://www.re7.capital",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1741189724
+      }
+    ]
+  },
+  {
     "address": "0xfbDEE8670b273E12b019210426E70091464b02Ab",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/m0-vault-mev.png",
