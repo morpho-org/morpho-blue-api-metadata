@@ -21,7 +21,7 @@
     "address": "0x1202F5C7b4B9E47a1A484E8B270be34dbbC75055",
     "chainId": 1,
     "vendor": "Resolv",
-    "pair": ["wstUSR", "stUSR"]
+    "pair": ["wstUSR", "USR"]
   },
   {
     "address": "0xDcEe70654261AF21C44c093C300eD3Bb97b78192",
@@ -136,5 +136,11 @@
     "vendor": "Gearbox",
     "chainId": 1,
     "pair": ["dWETHV3", "WETH"]
+  },
+  {
+    "address": "0x90D2af7d622ca3141efA4d8f1F24d86E5974Cc8F",
+    "vendor": "Ethena",
+    "chainId": 1,
+    "pair": ["eUSDe", "USDe"]
   }
 ]
