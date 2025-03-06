@@ -2843,5 +2843,47 @@
         "timestamp": 1741014137
       }
     ]
+  },
+  {
+    "address": "0x749794E985Af5a9A384B9cEe6D88DaB4CE1576A1",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "The MEV Capital USD0 vault provides a set of USD0 markets with an optimized risk-adjusted return through an active rebalancing strategy",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+    "curators": [
+      {
+        "name": "MEV Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+        "url": "https://mevcapital.com/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1741251789
+      }
+    ]
+  },
+  {
+    "address": "0x59D9571A54593a5EC47d6A20837D96745ECF5C37",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "The Spectra USDC vault provides a set of Spectra collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+    "curators": [
+      {
+        "name": "MEV Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+        "url": "https://mevcapital.com/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1741251789
+      }
+    ]
   }
 ]
