@@ -4906,7 +4906,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xE3cB916d03f567f49E513F037C7E5980330c6c00",
+    "address": "0xf8e2b15753e64Ef3fe1f8D9259633C75c17EDFb1",
     "vendor": "MEV Capital - Pendle",
     "description": "PT eUSDe 29MAY2025 PtToSyRate adapter",
     "pair": ["PT-eUSDE-29MAY2025", "eUSDE"],
