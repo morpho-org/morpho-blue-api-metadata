@@ -142,5 +142,11 @@
     "vendor": "Ethena",
     "chainId": 1,
     "pair": ["eUSDe", "USDe"]
+  },
+  {
+    "address": "0x657d9ABA1DBb59e53f9F3eCAA878447dCfC96dCb",
+    "vendor": "YieldNest",
+    "chainId": 1,
+    "pair": ["ynETHx", "WETH"]
   }
 ]
