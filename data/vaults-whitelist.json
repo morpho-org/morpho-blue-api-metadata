@@ -1702,6 +1702,48 @@
     ]
   },
   {
+    "address": "0x1E2aAaDcF528b9cC08F43d4fd7db488cE89F5741",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
+    "description": "The 9Summits Mount Denali USDC Core will allocate to a range of liquid assets in order to provide the best risk adjusted yield to its users.",
+    "forumLink": "https://forum.morpho.org/c/vaults/9summits/34",
+    "curators": [
+      {
+        "name": "9Summits",
+        "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
+        "url": "https://9summits.io/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1741272183
+      }
+    ]
+  },
+  {
+    "address": "0x00B6f2C15E4439749f192D10c70f65354848Cf4b",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
+    "description": "The 9Summits Mount Kosciuszko USR will allocate to a range of liquid assets in order to provide the best risk adjusted yield to its users.",
+    "forumLink": "https://forum.morpho.org/c/vaults/9summits/34",
+    "curators": [
+      {
+        "name": "9Summits",
+        "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
+        "url": "https://9summits.io/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1741272253
+      }
+    ]
+  },
+  {
     "address": "0xE0C98605f279e4D7946d25B75869c69802823763",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/wbtc.svg",
