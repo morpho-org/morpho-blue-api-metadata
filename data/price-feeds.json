@@ -3678,6 +3678,21 @@
   },
   {
     "chainId": 1,
+    "address": "0x553b07E07ebb880E4F55ac36B2D9dB0ab987a64D",
+    "vendor": "PendleChainlinkOracle",
+    "description": "Pendle Chainlink-compatible PT Lombard LBTC 26JUN2025/ LBTC",
+    "pair": ["PT-LBTC-26JUN2025", "LBTC"],
+    "tokenIn": {
+      "address": "0x6cA4d5d2eCb72E3Bbf17543B3367746B80D22694",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0x8236a87084f8B84306f72007F36F2618A5634494",
+      "chainId": 1
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x4F67e4d9BD67eFa28236013288737D39AeF48e79",
     "vendor": "Compound",
     "description": "Custom price feed for wstETH / ETH",
