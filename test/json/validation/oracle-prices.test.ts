@@ -191,4 +191,49 @@ describe("oracle-prices.json validation", () => {
       throw new Error(`Found type validation errors:\n${errors.join("\n")}`);
     }
   });
+
+  test("exchange_rate type has required fields", () => {
+    const errors: string[] = [];
+
+    oraclePrices.forEach((price, index) => {
+      if (price.type === "exchange_rate") {
+        try {
+          const parsedData = JSON.parse(price.data) as OraclePriceData;
+
+          if (!parsedData.abi) {
+            errors.push(
+              `Missing abi field for exchange_rate at index ${index} for asset ${price.assetAddress}`
+            );
+          }
+
+          if (!parsedData.function) {
+            errors.push(
+              `Missing function field for exchange_rate at index ${index} for asset ${price.assetAddress}`
+            );
+          }
+
+          // Only require args if function is convertToAssets
+          if (parsedData.function === "convertToAssets") {
+            if (!parsedData.args || !Array.isArray(parsedData.args)) {
+              errors.push(
+                `Missing or invalid args field for convertToAssets at index ${index} for asset ${price.assetAddress}`
+              );
+            }
+          }
+        } catch (error) {
+          errors.push(
+            `Failed to parse data field at index ${index} for asset ${price.assetAddress}: ${error}`
+          );
+        }
+      }
+    });
+
+    if (errors.length > 0) {
+      throw new Error(
+        `Found ${errors.length} exchange_rate validation errors:\n${errors.join(
+          "\n"
+        )}`
+      );
+    }
+  });
 });
