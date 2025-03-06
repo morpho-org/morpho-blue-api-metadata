@@ -279,6 +279,78 @@
     "contractChainId": 1
   },
   {
+    "assetAddress": "0x40b7B4aB1E95e28DF06971581276966FDF95688E",
+    "contractAddress": "0xE3cB916d03f567f49E513F037C7E5980330c6c00",
+    "order": 0,
+    "type": "redstone_without_logs",
+    "data": "{\"decimals\": 18, \"first_block_number\": 21981691}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x40b7B4aB1E95e28DF06971581276966FDF95688E",
+    "contractAddress": "0x4f67Fd74cff274Ef2942223c0f3166b856410AdD",
+    "order": 1,
+    "type": "redstone_without_logs",
+    "data": "{\"decimals\": 8, \"first_block_number\": 21981691}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x40b7B4aB1E95e28DF06971581276966FDF95688E",
+    "contractAddress": "0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419",
+    "order": 2,
+    "type": "chainlink_aggregator",
+    "data": "{\"decimals\": 8, \"first_block_number\": 21981691}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x50D2C7992b802Eef16c04FeADAB310f31866a545",
+    "contractAddress": "0xf8e2b15753e64Ef3fe1f8D9259633C75c17EDFb1",
+    "order": 0,
+    "type": "redstone_without_logs",
+    "data": "{\"decimals\": 18, \"first_block_number\": 21981691}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x50D2C7992b802Eef16c04FeADAB310f31866a545",
+    "contractAddress": "0x90D2af7d622ca3141efA4d8f1F24d86E5974Cc8F",
+    "order": 1,
+    "type": "exchange_rate",
+    "data": "{\"decimals\": 18, \"first_block_number\": 21981691}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x50D2C7992b802Eef16c04FeADAB310f31866a545",
+    "contractAddress": "0xbC5FBcf58CeAEa19D523aBc76515b9AEFb5cfd58",
+    "order": 2,
+    "type": "redstone_without_logs",
+    "data": "{\"decimals\": 8, \"first_block_number\": 21981691}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x90D2af7d622ca3141efA4d8f1F24d86E5974Cc8F",
+    "contractAddress": "0x90D2af7d622ca3141efA4d8f1F24d86E5974Cc8F",
+    "order": 0,
+    "type": "exchange_rate",
+    "data": "{\"decimals\": 18, \"first_block_number\": 21981691}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x90D2af7d622ca3141efA4d8f1F24d86E5974Cc8F",
+    "contractAddress": "0xbC5FBcf58CeAEa19D523aBc76515b9AEFb5cfd58",
+    "order": 1,
+    "type": "redstone_without_logs",
+    "data": "{\"decimals\": 8, \"first_block_number\": 21981691}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
     "assetAddress": "0xEe9085fC268F6727d5D4293dBABccF901ffDCC29",
     "contractAddress": "0xa0ab94DeBB3cC9A7eA77f3205ba4AB23276feD08",
     "order": 0,
