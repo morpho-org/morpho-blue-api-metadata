@@ -1080,6 +1080,33 @@
     "contractChainId": 1
   },
   {
+    "assetAddress": "0x6cA4d5d2eCb72E3Bbf17543B3367746B80D22694",
+    "contractAddress": "0x931F7eA0c31c14914a452d341bc5Cb5d996BE71d",
+    "order": 0,
+    "type": "pendle_asset_rate",
+    "data": "{\"decimals\": 18, \"first_block_number\": 21988251}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x6cA4d5d2eCb72E3Bbf17543B3367746B80D22694",
+    "contractAddress": "0xb415eAA355D8440ac7eCB602D3fb67ccC1f0bc81",
+    "order": 1,
+    "type": "redstone_without_logs",
+    "data": "{\"decimals\": 8, \"first_block_number\": 21988251}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x6cA4d5d2eCb72E3Bbf17543B3367746B80D22694",
+    "contractAddress": "0xF4030086522a5bEEa4988F8cA5B36dbC97BeE88c",
+    "order": 2,
+    "type": "chainlink_aggregator",
+    "data": "{\"decimals\": 8, \"first_block_number\": 21988251}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
     "assetAddress": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
     "contractAddress": "0x0d16d4528239e9ee52fa531af613AcdB23D88c94",
     "order": 0,
