@@ -176,6 +176,15 @@
     }
   },
   {
+    "image": "https://cdn.morpho.org/v2/assets/images/hakutora.png",
+    "name": "Hakutora",
+    "url": "https://hakutora.xyz/",
+    "verified": true,
+    "addresses": {
+      "1": ["0x974c8FBf4fd795F66B85B73ebC988A51F1A040a9"]
+    }
+  },
+  {
     "name": "Swissborg",
     "verified": true,
     "addresses": {

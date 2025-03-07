@@ -2927,5 +2927,26 @@
         "timestamp": 1741251789
       }
     ]
+  },
+  {
+    "address": "0x974c8FBf4fd795F66B85B73ebC988A51F1A040a9",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/hakutora.png",
+    "description": "The Hakutora USDC vault dynamically adjusts asset allocation, closely monitoring underlying asset risks to balance safety, flexibility, and yield.",
+    "forumLink": "https://forum.morpho.org/c/vaults/hakutora/39",
+    "curators": [
+      {
+        "name": "Hakutora",
+        "image": "https://cdn.morpho.org/v2/assets/images/hakutora.png",
+        "url": "https://hakutora.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1741363783
+      }
+    ]
   }
 ]
