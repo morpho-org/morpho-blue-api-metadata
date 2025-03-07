@@ -181,7 +181,10 @@
     "url": "https://hakutora.xyz/",
     "verified": true,
     "addresses": {
-      "1": ["0x974c8FBf4fd795F66B85B73ebC988A51F1A040a9"]
+      "1": [
+        "0x2413A57FBD695f6B13C1D8d7D30EE10fa61b1b02",
+        "0x345023d92f3051bB2B68DF79dFf760EccFEE80ED"
+      ]
     }
   },
   {
