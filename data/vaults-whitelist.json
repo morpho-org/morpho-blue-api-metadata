@@ -2948,5 +2948,26 @@
         "timestamp": 1741363783
       }
     ]
+  },
+  {
+    "address": "0x3365184e87d2Bd75961780454A5810BEc956F0dD",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The Olympus DAO sUSDS Vault curated by Gauntlet is designed to optimize risk-adjusted returns by lending sUSDS to DAO approved collateral markets, ensuring robust risk management and sustainable yield strategies for the DAO.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1741594198
+      }
+    ]
   }
 ]
