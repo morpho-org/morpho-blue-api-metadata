@@ -4869,6 +4869,21 @@
   },
   {
     "chainId": 1,
+    "address": "0x5f09Aff8B9b1f488B7d1bbaD4D89648579e55d61",
+    "vendor": "Midas",
+    "description": "mMEV / USD price feed",
+    "pair": ["mMEV", "USD"],
+    "tokenIn": {
+      "address": "0x030b69280892c888670EDCDCD8B69Fd8026A0BF3",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xA663B02CF0a4b149d2aD41910CB81e23e1c41c32",
     "vendor": "Frax",
     "description": "sFRAX / FRAX exchange rate",
