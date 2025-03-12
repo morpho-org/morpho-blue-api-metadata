@@ -2950,6 +2950,27 @@
     ]
   },
   {
+    "address": "0x0FE5b4aF0337Fd5b2E1675D5f5E8c9101E4D3c7e",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The Gauntlet sUSDS Core Vault is intended to optimize risk-adjusted yield across high-demand collateral markets on Base.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1741767171
+      }
+    ]
+  },
+  {
     "address": "0x3365184e87d2Bd75961780454A5810BEc956F0dD",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
