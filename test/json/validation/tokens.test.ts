@@ -5,6 +5,10 @@ import { getAddress } from "viem";
 
 interface TokenMetadata {
   logoURI: string;
+  alternativeOracle?: string;
+  alternativeOracles?: any[];
+  alternativeHardcodedOracle?: string;
+  alternativeHardcodedOracles?: any[];
 }
 
 interface Token {
@@ -129,6 +133,36 @@ describe("tokens.json validation", () => {
           `Token at index ${index} (address: ${token.address}) has invalid metadata structure: ${error}`
         );
       }
+
+      // Add validation for oracle arrays in metadata
+      try {
+        if (token.metadata?.alternativeOracles !== undefined) {
+          expect(Array.isArray(token.metadata.alternativeOracles)).toBe(true);
+        }
+
+        if (token.metadata?.alternativeHardcodedOracles !== undefined) {
+          expect(
+            Array.isArray(token.metadata.alternativeHardcodedOracles)
+          ).toBe(true);
+        }
+
+        // Check for incorrect singular forms and suggest the plural version
+        if (token.metadata?.alternativeOracle !== undefined) {
+          errors.push(
+            `Token at index ${index} (address: ${token.address}) has incorrect 'metadata.alternativeOracle' field. Use 'alternativeOracles' (plural) instead.`
+          );
+        }
+
+        if (token.metadata?.alternativeHardcodedOracle !== undefined) {
+          errors.push(
+            `Token at index ${index} (address: ${token.address}) has incorrect 'metadata.alternativeHardcodedOracle' field. Use 'alternativeHardcodedOracles' (plural) instead.`
+          );
+        }
+      } catch (error) {
+        errors.push(
+          `Token at index ${index} (address: ${token.address}) has invalid oracle fields in metadata: ${error}`
+        );
+      }
     });
 
     // Additional validation for decimal values
@@ -181,6 +215,74 @@ describe("tokens.json validation", () => {
     if (errors.length > 0) {
       throw new Error(
         `Found ${errors.length} logoURI encoding errors:\n\n${errors.join(
+          "\n\n"
+        )}`
+      );
+    }
+  });
+
+  // Add this new test to explicitly check for singular/plural naming issues
+  test("token fields use correct plural naming conventions", () => {
+    const singularFields = ["alternativeOracle", "alternativeHardcodedOracle"];
+    const correctPluralFields = [
+      "alternativeOracles",
+      "alternativeHardcodedOracles",
+    ];
+    const errors: string[] = [];
+
+    tokens.forEach((token, index) => {
+      // Check for incorrect singular forms in the token object
+      for (const singularField of singularFields) {
+        if (Object.prototype.hasOwnProperty.call(token, singularField)) {
+          errors.push(
+            `Token at index ${index} (address: ${token.address}, chainId: ${token.chainId}) uses incorrect singular field name "${singularField}". Use the plural form instead.`
+          );
+        }
+
+        // Also check inside metadata object
+        if (
+          token.metadata &&
+          Object.prototype.hasOwnProperty.call(token.metadata, singularField)
+        ) {
+          errors.push(
+            `Token at index ${index} (address: ${token.address}, chainId: ${token.chainId}) has metadata with incorrect singular field name "${singularField}". Use the plural form instead.`
+          );
+        }
+      }
+
+      // Verify the correct plural fields when present
+      for (const pluralField of correctPluralFields) {
+        // Check in token object
+        if (Object.prototype.hasOwnProperty.call(token, pluralField)) {
+          if (!Array.isArray(token[pluralField as keyof Token])) {
+            errors.push(
+              `Token at index ${index} (address: ${token.address}, chainId: ${token.chainId}) has ${pluralField} that is not an array.`
+            );
+          }
+        }
+
+        // Also check inside metadata object
+        if (
+          token.metadata &&
+          Object.prototype.hasOwnProperty.call(token.metadata, pluralField)
+        ) {
+          if (
+            !Array.isArray(
+              token.metadata[pluralField as keyof typeof token.metadata]
+            )
+          ) {
+            errors.push(
+              `Token at index ${index} (address: ${token.address}, chainId: ${token.chainId}) has metadata.${pluralField} that is not an array.`
+            );
+          }
+        }
+      }
+    });
+
+    // If we collected any errors, fail the test with all error messages
+    if (errors.length > 0) {
+      throw new Error(
+        `Found ${errors.length} naming convention errors:\n\n${errors.join(
           "\n\n"
         )}`
       );
