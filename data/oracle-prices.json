@@ -2917,6 +2917,24 @@
     "contractChainId": 1
   },
   {
+    "assetAddress": "0x1F7Aa7104db822987E1F44A66dF709A8C4Fb301a",
+    "contractAddress": "0x4D117D5cF0A438DFeB1f927F01ae64c135439363",
+    "order": 0,
+    "type": "redstone_without_logs",
+    "data": "{\"decimals\": 6, \"first_block_number\": 22032207}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x1F7Aa7104db822987E1F44A66dF709A8C4Fb301a",
+    "contractAddress": "0xf9C7c25FE58AAA494EE7ff1f6Cf0b70d7C7ce88c",
+    "order": 1,
+    "type": "api3",
+    "data": "{\"decimals\": 8, \"first_block_number\": 22032207}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
     "assetAddress": "0x2a8c22E3b10036f3AEF5875d04f8441d4188b656",
     "contractAddress": "0xE4f2AE539442e1D3Fb40F03ceEbF4A372a390d24",
     "order": 0,

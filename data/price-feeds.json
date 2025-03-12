@@ -350,6 +350,17 @@
   },
   {
     "chainId": 1,
+    "address": "0x4D117D5cF0A438DFeB1f927F01ae64c135439363",
+    "vendor": "Spectra",
+    "description": "Spectra PT-sw-RLP-1750896023/USR ",
+    "pair": ["PT-sw-RLP-1750896023", "USR"],
+    "tokenOut": {
+      "address": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
+      "chainId": 1
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xcA727511c9d542AAb9eF406d24E5bbbE4567c22d",
     "vendor": "Redstone",
     "description": "deUSD/USD (0.2%)",
