@@ -5048,6 +5048,36 @@
   },
   {
     "chainId": 1,
+    "address": "0x8e6c4fC0dd3aACF4b359fFd0B45A5F38d72841e0",
+    "vendor": "Pendle - Spark",
+    "description": "PT-eUSDE-29MAY2025 / USD linear discount adapter",
+    "pair": ["PT-eUSDE-29MAY2025", "USD"],
+    "tokenIn": {
+      "address": "0x50D2C7992b802Eef16c04FeADAB310f31866a545",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xd59b907B5CC2Ca17BDa83ccBf7F636536Be9c866",
+    "vendor": "Pendle - Spark",
+    "description": "PT-USDe-31JUL2025 / USD linear discount adapter",
+    "pair": ["PT-USDe-31JUL2025", "USD"],
+    "tokenIn": {
+      "address": "0x917459337CaAC939D41d7493B3999f571D20D667",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0xd071e40879BFBC3362642fF3e9F45f510C280a01",
     "vendor": "Pendle",
     "description": "PT-USD0++ 27Mars2025/USD0++ PtToAssetRate adapter",
