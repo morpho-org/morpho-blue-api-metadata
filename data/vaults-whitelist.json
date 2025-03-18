@@ -283,6 +283,27 @@
     ]
   },
   {
+    "address": "0xbEEF8DF2Ce4BaB5420123F9BF80dea4c65673257",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/smokehouse-cbbtc.png",
+    "description": "The Smokehouse cbBTC vault aims to optimize for yield on a wide range of collaterals.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1742299116
+      }
+    ]
+  },
+  {
     "address": "0xA0804346780b4c2e3bE118ac957D1DB82F9d7484",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/bbqusdt.svg",
