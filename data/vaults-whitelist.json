@@ -503,6 +503,27 @@
     ]
   },
   {
+    "address": "0x64964E162Aa18d32f91eA5B24a09529f811AEB8e",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The Re7 USDC Prime vault curated by Re7 Labs is intended to seamlessly allocate USDC liquidity to a selection of blue-chip Morpho markets targeting risk-adjusted yield primarily.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+    "curators": [
+      {
+        "name": "RE7 Labs",
+        "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+        "url": "https://www.re7.capital",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1742312040
+      }
+    ]
+  },
+  {
     "address": "0x2C25f6C25770fFEC5959D34B94Bf898865e5D6b1",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/usdt.svg",
