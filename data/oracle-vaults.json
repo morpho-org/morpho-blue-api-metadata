@@ -148,5 +148,11 @@
     "vendor": "YieldNest",
     "chainId": 1,
     "pair": ["ynETHx", "WETH"]
+  },
+  {
+    "address": "0x83dB73EF5192de4B6a4c92bD0141Ba1a0Dc87c65",
+    "vendor": "OpenEden",
+    "chainId": 8453,
+    "pair": ["cUSDO", "USDO"]
   }
 ]

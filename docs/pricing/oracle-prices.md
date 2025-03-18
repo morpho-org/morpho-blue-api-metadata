@@ -292,3 +292,4 @@ Exhaustive list of assets that are not supported:
 6. 0xbB51E2a15A9158EBE2b0Ceb8678511e063AB7a55 // mEDGE - Midas - Mainnet
 7. 0xE15578523937ed7F08E8F7a1Fa8a021E07025a08 // LP-USR-24APR2025 - Base
 8. 0x1F7Aa7104db822987E1F44A66dF709A8C4Fb301a // PT-sw-RLP-1750896023 - Spectra - Mainnet
+9. 0x5feDe9d65714907381A76AA9bF949219dD1c5023 // Stable AMM - USDC/cUSDO - Aerodrome - Clearstar - Base

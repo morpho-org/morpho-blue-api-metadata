@@ -853,5 +853,23 @@
     "data": "{\"in_token\": 1, \"first_block_number\": 25081141}",
     "assetChainId": 8453,
     "contractChainId": 8453
+  },
+  {
+    "assetAddress": "0x83dB73EF5192de4B6a4c92bD0141Ba1a0Dc87c65",
+    "contractAddress": "0x5feDe9d65714907381A76AA9bF949219dD1c5023",
+    "order": 0,
+    "type": "aerodrome",
+    "data": "{\"token_in\": \"0x83dB73EF5192de4B6a4c92bD0141Ba1a0Dc87c65\", \"token_in_decimals\": 18, \"token_out_decimals\": 6, \"first_block_number\": 27749113}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
+  },
+  {
+    "assetAddress": "0x83dB73EF5192de4B6a4c92bD0141Ba1a0Dc87c65",
+    "contractAddress": "0xcDAC0d6c6C59727a65F871236188350531885C43",
+    "order": 1,
+    "type": "aerodrome",
+    "data": "{\"token_in\": \"0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913\", \"token_in_decimals\": 6, \"first_block_number\": 27749113}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
   }
 ]
