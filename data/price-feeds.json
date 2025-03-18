@@ -4750,7 +4750,7 @@
     "description": "PT-sUSDE-29MAY2025 / USD linear discount adapter",
     "pair": ["PT-sUSDE-29MAY2025", "USD"],
     "tokenIn": {
-      "address": "0x5d746848005507DA0b1717C137A10C30AD9ee307",
+      "address": "0xb7de5dFCb74d25c2f21841fbd6230355C50d9308",
       "chainId": 1
     }
   },
