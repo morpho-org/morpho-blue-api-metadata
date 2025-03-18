@@ -171,6 +171,15 @@
     "contractChainId": 1
   },
   {
+    "assetAddress": "0x5feDe9d65714907381A76AA9bF949219dD1c5023",
+    "contractAddress": "0x7b56DA56E6D0cd2679Be24BABe44d622bd6139E4",
+    "order": 0,
+    "type": "redstone_without_logs",
+    "data": "{\"decimals\": 18, \"first_block_number\": 27748451}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
+  },
+  {
     "assetAddress": "0xE08C45F3cfE70f4e03668Dc6E84Af842bEE95A68",
     "contractAddress": "0xfD482179DdEe989C45eaB19991852F80fF31457a",
     "order": 0,

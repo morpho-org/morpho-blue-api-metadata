@@ -5369,6 +5369,21 @@
     }
   },
   {
+    "chainId": 8453,
+    "address": "0x7b56DA56E6D0cd2679Be24BABe44d622bd6139E4",
+    "vendor": "Aerodrome",
+    "description": "sAMM-USDC/cUSDO/USD",
+    "pair": ["sAMM-USDC/cUSDO", "USD"],
+    "tokenIn": {
+      "address": "0x5feDe9d65714907381A76AA9bF949219dD1c5023",
+      "chainId": 8453
+    },
+    "tokenOut": {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 8453
+    }
+  },
+  {
     "chainId": 1,
     "address": "0x427b2AFe58615043D460110d1a86D41446530352",
     "vendor": "Pendle",
