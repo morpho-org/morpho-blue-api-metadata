@@ -147,7 +147,10 @@
     "url": "https://apostro.xyz",
     "verified": true,
     "addresses": {
-      "1": ["0xf726311F85D45a7fECfFbC94bD8508a0A39958c6"],
+      "1": [
+        "0xf726311F85D45a7fECfFbC94bD8508a0A39958c6",
+        "0xC91578e51BCE35844E345CC7F733b4bBf6721734"
+      ],
       "8453": ["0xf726311F85D45a7fECfFbC94bD8508a0A39958c6"]
     }
   },
