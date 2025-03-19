@@ -2908,6 +2908,48 @@
     ]
   },
   {
+    "address": "0xFa7ED49Eb24A6117D8a3168EEE69D26b45C40C63",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "description": "The Alpha ZCHF Vault offers a suite of liquid collateral markets tailored for DeFi, providing optimized risk-adjusted returns through an active rebalancing strategy.",
+    "forumLink": "https://forum.morpho.org/c/vaults/alphaping/37",
+    "curators": [
+      {
+        "name": "Alphaping",
+        "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+        "url": "https://alphaping.ch/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1742374295
+      }
+    ]
+  },
+  {
+    "address": "0x6619F92861C760AD11BA0D56E8ED63A33EccE22B",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "description": "The Alpha ZCHF Safe Vault provides a secure, Bitcoin-only lending and borrowing environment with the decentralized Swiss Franc stablecoin, zCHF.",
+    "forumLink": "https://forum.morpho.org/c/vaults/alphaping/37",
+    "curators": [
+      {
+        "name": "Alphaping",
+        "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+        "url": "https://alphaping.ch/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1742374295
+      }
+    ]
+  },
+  {
     "address": "0x47fe8Ab9eE47DD65c24df52324181790b9F47EfC",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
