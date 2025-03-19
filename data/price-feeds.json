@@ -5453,5 +5453,42 @@
       "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
       "chainId": 1
     }
+  },
+  {
+    "chainId": 1,
+    "address": "0x19A5D0bb1200948ADBb6C991494e7292dD8628Cb",
+    "vendor": "Frankencoin",
+    "description": "xCVX/USD price oracle",
+    "pair": ["xCVX", "USD"],
+    "tokenIn": {
+      "address": "0xB90D347e10a085B591955Cbd0603aC7866fCADC8",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x929b42739fEd4d6Ca44EDA0f4020e2A428f8AB86",
+    "vendor": "Alphaping",
+    "description": "CHF/USD price oracle",
+    "pair": ["CHF", "USD"],
+    "tokenOut": {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x6165946250DD04740aB1409217E95a4f38374fE9",
+    "vendor": "Alphaping",
+    "description": "xETH/USD price oracle",
+    "pair": ["xETH", "USD"],
+    "tokenOut": {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1
+    }
   }
 ]
