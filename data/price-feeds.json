@@ -5473,9 +5473,9 @@
     "chainId": 1,
     "address": "0x929b42739fEd4d6Ca44EDA0f4020e2A428f8AB86",
     "vendor": "Alphaping",
-    "description": "CHF/USD price oracle",
-    "pair": ["CHF", "USD"],
-    "tokenOut": {
+    "description": "USD/CHF price oracle",
+    "pair": ["USD", "CHF"],
+    "tokenIn": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
     }
