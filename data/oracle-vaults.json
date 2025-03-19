@@ -154,5 +154,11 @@
     "vendor": "OpenEden",
     "chainId": 8453,
     "pair": ["cUSDO", "USDO"]
+  },
+  {
+    "address": "0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b",
+    "vendor": "Syrup",
+    "chainId": 1,
+    "pair": ["syrupUSDC", "USDC"]
   }
 ]
