@@ -3053,5 +3053,26 @@
         "timestamp": 1742290974
       }
     ]
+  },
+  {
+    "address": "0x4EDfaB296F8Eb15aC0907CF9eCb7079b1679Da57",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/apostro.svg",
+    "description": "The Apostro Ethena USDe vault accepts USDe deposits, directing them towards Ethena ecosystem assets, with an emphasis on Ethereal DEX. Benefit from 20x Ethena sats per USDe, while leveraging the security of Apostro-verified smart contracts. Apostro actively manages asset allocation to maximize returns while mitigating risk.",
+    "forumLink": "https://forum.morpho.org/c/vaults/apostro/35",
+    "curators": [
+      {
+        "name": "Apostro",
+        "image": "https://cdn.morpho.org/v2/assets/images/apostro.svg",
+        "url": "https://apostro.xyz",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1742370799
+      }
+    ]
   }
 ]
