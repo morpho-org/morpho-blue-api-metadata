@@ -5408,5 +5408,50 @@
       "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
       "chainId": 1
     }
+  },
+  {
+    "chainId": 1,
+    "address": "0x5Aa30684f5B1d5E258F1eFC69d40fc9AB2d1e216",
+    "vendor": "Pendle",
+    "description": "PT-sUSDE-29MAY2025 / USDe Pendle price adapter",
+    "pair": ["PT-sUSDE-29MAY2025", "USDe"],
+    "tokenIn": {
+      "address": "0xb7de5dFCb74d25c2f21841fbd6230355C50d9308",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+      "chainId": 1
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xdD964A8235BA150a18644C379937B73b032E4dF0",
+    "vendor": "Pendle",
+    "description": "PT-eUSDE-29MAY2025 / USDe Pendle price adapter",
+    "pair": ["PT-eUSDE-29MAY2025", "USDe"],
+    "tokenIn": {
+      "address": "0x50D2C7992b802Eef16c04FeADAB310f31866a545",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+      "chainId": 1
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x8164254EdF1840315aba691D97756EE358B7Cb2d",
+    "vendor": "Pendle",
+    "description": "PT-USDe-31JUL2025 / USDe Pendle price adapter",
+    "pair": ["PT-USDe-31JUL2025", "USDe"],
+    "tokenIn": {
+      "address": "0x917459337CaAC939D41d7493B3999f571D20D667",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+      "chainId": 1
+    }
   }
 ]
