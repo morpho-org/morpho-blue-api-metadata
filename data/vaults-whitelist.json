@@ -3037,7 +3037,7 @@
     "address": "0x1D3b1Cd0a0f242d598834b3F2d126dC6bd774657",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/clearstar.png",
-    "description": "The Clearstar OpenEden USDC vault aims to optimize yields on USDO markets, backed by the first Moody’s rated tokenized US Treasury product.",
+    "description": "The Clearstar OpenEden USDC Vault optimizes yields in USDO markets. OpenEden's USDO is a fully regulated, yield-bearing stablecoin backed by Moody's-rated tokenized U.S. Treasuries.",
     "forumLink": "https://forum.morpho.org/c/vaults/clearstar-labs/40",
     "curators": [
       {
