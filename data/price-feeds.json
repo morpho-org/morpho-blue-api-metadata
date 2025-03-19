@@ -5340,6 +5340,36 @@
   },
   {
     "chainId": 1,
+    "address": "0xf206aCEd6D300c73d496F6d74158617AdC928519",
+    "vendor": "Midas",
+    "description": "mMEV/USD - price adapter",
+    "pair": ["mMEV", "USD"],
+    "tokenIn": {
+      "address": "0x030b69280892c888670EDCDCD8B69Fd8026A0BF3",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xBB0f9ab163894385BB5ab908D5660A4E58C6c719",
+    "vendor": "MEV Capital",
+    "description": "eOracle MC-USR/USD - price adapter",
+    "pair": ["MC-USR", "USD"],
+    "tokenIn": {
+      "address": "0xD50DA5F859811A91fD1876C9461fD39c23C747Ad",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x0ba73080A12f5F0b0b37C5518BdE99b99067D259",
     "vendor": "MEV Capital - Spectra",
     "description": "Spectra pt-wstUSR to usr linear price adapter",
