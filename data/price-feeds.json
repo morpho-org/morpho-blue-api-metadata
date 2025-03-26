@@ -4202,6 +4202,13 @@
   },
   {
     "chainId": 8453,
+    "address": "0x026a5B6114431d8F3eF2fA0E1B2EDdDccA9c540E",
+    "vendor": "Steakhouse",
+    "description": "Dummy feed with 27 decimals",
+    "pair": ["USD", "USD"]
+  },
+  {
+    "chainId": 8453,
     "address": "0x371A53bB4203Ad5D7e60e220BaC1876FF3Ddda5B",
     "vendor": "Chronicle",
     "description": "cbETH / USD Chronicle price feed",
