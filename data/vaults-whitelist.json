@@ -3116,5 +3116,26 @@
         "timestamp": 1742370799
       }
     ]
+  },
+  {
+    "address": "0xBeeFa74640a5f7c28966cbA82466EED5609444E0",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/smokehouse-usdc.svg",
+    "description": "The Smokehouse USDC vault aims to optimize for yield on a wide range of collaterals.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1742978125
+      }
+    ]
   }
 ]
