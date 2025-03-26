@@ -1519,7 +1519,7 @@
     "address": "0x0F359FD18BDa75e9c49bC027E7da59a4b01BF32a",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
-    "description": "The Relend Boosted USDC vault serves as a pre-deposit vault for Relend Network. Users who supply USDC will collect RELEND units and have the option to access Relend Network once live. Collateral markets are selected for competitive yield and long term partner alignment.",
+    "description": "The Relend Boosted USDC vault serves as a Global Liquidity Vault for Relend Network. Users who supply USDC will collect RELEND units and receive additional relending yield. Collateral markets are selected for competitive yield and long term partner alignment.",
     "forumLink": "https://forum.morpho.org/c/vaults/b-protocol-relend-network/33",
     "curators": [
       {
