@@ -63,6 +63,42 @@
     "contractChainId": 8453
   },
   {
+    "assetAddress": "0xae4bE3acD95B6a4Ac5A0524ab95dA90c721f6C83",
+    "contractAddress": "0x35a18CD59a214c9e797e14b1191b700EEa251f6A",
+    "order": 0,
+    "type": "pendle_asset_rate",
+    "data": "{\"decimals\": 18, \"first_block_number\": 22136993}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xae4bE3acD95B6a4Ac5A0524ab95dA90c721f6C83",
+    "contractAddress": "0xf9C7c25FE58AAA494EE7ff1f6Cf0b70d7C7ce88c",
+    "order": 1,
+    "type": "api3",
+    "data": "{\"decimals\": 8, \"first_block_number\": 22136993}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x23E60d1488525bf4685f53b3aa8E676c30321066",
+    "contractAddress": "0x09fA04Aac9c6d1c6131352EE950CD67ecC6d4fB9",
+    "order": 0,
+    "type": "pendle_asset_rate",
+    "data": "{\"decimals\": 18, \"first_block_number\": 22136993}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x23E60d1488525bf4685f53b3aa8E676c30321066",
+    "contractAddress": "0xf9C7c25FE58AAA494EE7ff1f6Cf0b70d7C7ce88c",
+    "order": 1,
+    "type": "api3",
+    "data": "{\"decimals\": 8, \"first_block_number\": 22136993}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
     "assetAddress": "0x386AE941D4262B0Ee96354499dF2ab8442734EC0",
     "contractAddress": "0xd3c29550D12A5234e6AEb5aea7c841134cd6ddd5",
     "order": 0,

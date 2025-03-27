@@ -4676,6 +4676,36 @@
     }
   },
   {
+    "chainId": 1,
+    "address": "0x75d0c87D6da8C6eA07888b41504c15A5B216d8B1",
+    "vendor": "Pendle",
+    "description": "PT-USR-29MAY2025 / USR PtToAssetRate adapter",
+    "pair": ["PT-USR-29MAY2025", "USR"],
+    "tokenIn": {
+      "address": "0xae4bE3acD95B6a4Ac5A0524ab95dA90c721f6C83",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
+      "chainId": 1
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xEb19da535617aCBAA05F1C1eaF6018BDF3519952",
+    "vendor": "Pendle",
+    "description": "PT-wstUSR-25SEP2025 / USR PtToAssetRate adapter",
+    "pair": ["PT-wstUSR-25SEP2025", "USR"],
+    "tokenIn": {
+      "address": "0x23E60d1488525bf4685f53b3aa8E676c30321066",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
+      "chainId": 1
+    }
+  },
+  {
     "chainId": 8453,
     "address": "0x75d0c87D6da8C6eA07888b41504c15A5B216d8B1",
     "vendor": "Pendle",
