@@ -21,7 +21,7 @@
     "assetAddress": "0xA8c8861b5ccF8CCe0ade6811CD2A7A7d3222B0B8",
     "contractAddress": "0xf9C7c25FE58AAA494EE7ff1f6Cf0b70d7C7ce88c",
     "order": 1,
-    "type": "api3",
+    "type": "redstone_without_logs",
     "data": "{\"decimals\": 8, \"first_block_number\": 21587766}",
     "assetChainId": 1,
     "contractChainId": 1
@@ -75,7 +75,7 @@
     "assetAddress": "0xae4bE3acD95B6a4Ac5A0524ab95dA90c721f6C83",
     "contractAddress": "0xf9C7c25FE58AAA494EE7ff1f6Cf0b70d7C7ce88c",
     "order": 1,
-    "type": "api3",
+    "type": "redstone_without_logs",
     "data": "{\"decimals\": 8, \"first_block_number\": 22136993}",
     "assetChainId": 1,
     "contractChainId": 1
@@ -93,7 +93,7 @@
     "assetAddress": "0x23E60d1488525bf4685f53b3aa8E676c30321066",
     "contractAddress": "0xf9C7c25FE58AAA494EE7ff1f6Cf0b70d7C7ce88c",
     "order": 1,
-    "type": "api3",
+    "type": "redstone_without_logs",
     "data": "{\"decimals\": 8, \"first_block_number\": 22136993}",
     "assetChainId": 1,
     "contractChainId": 1
@@ -2902,7 +2902,7 @@
     "assetAddress": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
     "contractAddress": "0xf9C7c25FE58AAA494EE7ff1f6Cf0b70d7C7ce88c",
     "order": 0,
-    "type": "api3",
+    "type": "redstone_without_logs",
     "data": "{\"decimals\": 8, \"first_block_number\": 21564013}",
     "assetChainId": 1,
     "contractChainId": 1
@@ -2929,7 +2929,7 @@
     "assetAddress": "0x1202F5C7b4B9E47a1A484E8B270be34dbbC75055",
     "contractAddress": "0xf9C7c25FE58AAA494EE7ff1f6Cf0b70d7C7ce88c",
     "order": 1,
-    "type": "api3",
+    "type": "redstone_without_logs",
     "data": "{\"decimals\": 8, \"first_block_number\": 21564013}",
     "assetChainId": 1,
     "contractChainId": 1
@@ -2992,7 +2992,7 @@
     "assetAddress": "0x1F7Aa7104db822987E1F44A66dF709A8C4Fb301a",
     "contractAddress": "0xf9C7c25FE58AAA494EE7ff1f6Cf0b70d7C7ce88c",
     "order": 1,
-    "type": "api3",
+    "type": "redstone_without_logs",
     "data": "{\"decimals\": 8, \"first_block_number\": 22032207}",
     "assetChainId": 1,
     "contractChainId": 1
