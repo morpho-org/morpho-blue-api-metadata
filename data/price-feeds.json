@@ -4792,6 +4792,17 @@
     }
   },
   {
+    "chainId": 1,
+    "address": "0xE89328002B9AD76007267E609980c21cC02b55fe",
+    "vendor": "Pendle",
+    "description": "PT-sUSDE-29MAY2025 / USD linear discount adapter",
+    "pair": ["PT-sUSDE-29MAY2025", "USD"],
+    "tokenIn": {
+      "address": "0xb7de5dFCb74d25c2f21841fbd6230355C50d9308",
+      "chainId": 1
+    }
+  },
+  {
     "chainId": 8453,
     "address": "0xE96e954541Fc17d84c6D6C79F7DB9C6a52c0012c",
     "vendor": "Reserve",
