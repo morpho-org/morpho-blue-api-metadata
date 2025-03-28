@@ -3023,5 +3023,15 @@
     "data": "{\"decimals\": 8, \"first_block_number\": 21929124}",
     "assetChainId": 1,
     "contractChainId": 1
+  },
+
+  {
+    "assetAddress": "0x4A977653c58CFD82d42fd706cf68A0c1B6d0ca56",
+    "contractAddress": "0x4973fD4d97a64797f2F51434515971632B070413",
+    "order": 0,
+    "type": "redstone_without_logs",
+    "data": "{\"decimals\": 18, \"first_block_number\": 22144413}",
+    "assetChainId": 1,
+    "contractChainId": 1
   }
 ]
