@@ -4706,6 +4706,21 @@
     }
   },
   {
+    "chainId": 1,
+    "address": "0x4973fD4d97a64797f2F51434515971632B070413",
+    "vendor": "Spectra",
+    "description": "PT-wstUSR (Spectra)/USD",
+    "pair": ["PT-wstUSR-1750896030", "USD"],
+    "tokenIn": {
+      "address": "0x4A977653c58CFD82d42fd706cf68A0c1B6d0ca56",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1
+    }
+  },
+  {
     "chainId": 8453,
     "address": "0x75d0c87D6da8C6eA07888b41504c15A5B216d8B1",
     "vendor": "Pendle",
