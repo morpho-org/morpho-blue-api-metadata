@@ -5268,6 +5268,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xB2b3524A0a7145b59E4146a4BaE35A5dB2842508",
+    "vendor": "Pendle",
+    "description": "eOracle PT-wstUSR-25SEP2025/USR (PtToSyRate TWAP)",
+    "pair": ["PT-wstUSR-25SEP2025", "USR"]
+  },
+  {
+    "chainId": 1,
     "address": "0xe0D44d8E04e7A446BD35C7D08a45Fe966f982a5C",
     "vendor": "Resolv",
     "description": "wstUSR/USDC via exchange rate wstUSR/USR and USR/USDC Resolv oracle",
