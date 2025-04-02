@@ -156,6 +156,12 @@
     "pair": ["cUSDO", "USDO"]
   },
   {
+    "address": "0xaD55aebc9b8c03FC43cd9f62260391c13c23e7c0",
+    "vendor": "OpenEden",
+    "chainId": 1,
+    "pair": ["cUSDO", "USDO"]
+  },
+  {
     "address": "0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b",
     "vendor": "Syrup",
     "chainId": 1,
