@@ -3040,8 +3040,8 @@
     "order": 0,
     "type": "chainlink_aggregator",
     "data": "{\"decimals\": 18, \"first_block_number\": 28443225}",
-    "assetChainId": 1,
-    "contractChainId": 1
+    "assetChainId": 8453,
+    "contractChainId": 8453
   },
   {
     "assetAddress": "0xB29749498954A3A821ec37BdE86e386dF3cE30B6",
@@ -3049,6 +3049,15 @@
     "order": 1,
     "type": "chainlink_aggregator",
     "data": "{\"decimals\": 8, \"first_block_number\": 28443225}",
+    "assetChainId": 8453,
+    "contractChainId": 8453
+  },
+  {
+    "assetAddress": "0x90455bd11Ce8a67C57d467e634Dc142b8e4105Aa",
+    "contractAddress": "0x90455bd11Ce8a67C57d467e634Dc142b8e4105Aa",
+    "order": 0,
+    "type": "hardcoded",
+    "data": "{\"decimals\": 18, \"usd_value\": 1000000000000000000, \"first_block_number\": 22181834}",
     "assetChainId": 1,
     "contractChainId": 1
   }
