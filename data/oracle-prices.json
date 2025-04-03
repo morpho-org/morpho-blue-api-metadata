@@ -3033,5 +3033,14 @@
     "data": "{\"decimals\": 18, \"first_block_number\": 22144413}",
     "assetChainId": 1,
     "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x90455bd11Ce8a67C57d467e634Dc142b8e4105Aa",
+    "contractAddress": "0x90455bd11Ce8a67C57d467e634Dc142b8e4105Aa",
+    "order": 0,
+    "type": "hardcoded",
+    "data": "{\"decimals\": 18, \"usd_value\": 1000000000000000000, \"first_block_number\": 22181834}",
+    "assetChainId": 1,
+    "contractChainId": 1
   }
 ]
