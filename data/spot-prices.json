@@ -880,23 +880,5 @@
     "data": "{\"token_in\": \"0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913\", \"token_in_decimals\": 6, \"first_block_number\": 27749113}",
     "assetChainId": 8453,
     "contractChainId": 8453
-  },
-  {
-    "assetAddress": "0xaD55aebc9b8c03FC43cd9f62260391c13c23e7c0",
-    "contractAddress": "0x90455bd11Ce8a67C57d467e634Dc142b8e4105Aa",
-    "order": 0,
-    "type": "curve_pool",
-    "data": "{\"first_block_number\": 22180424}",
-    "assetChainId": 1,
-    "contractChainId": 1
-  },
-  {
-    "assetAddress": "0xaD55aebc9b8c03FC43cd9f62260391c13c23e7c0",
-    "contractAddress": "0x88e6A0c2dDD26FEEb64F039a2c41296FcB3f5640",
-    "order": 1,
-    "type": "uniswap_v3_twap",
-    "data": "{\"in_token\": 0, \"first_block_number\": 22180424}",
-    "assetChainId": 1,
-    "contractChainId": 1
   }
 ]
