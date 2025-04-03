@@ -5590,5 +5590,35 @@
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
     }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x000256e734e2C754b64808BFF5E5d2C07FB322B6",
+    "vendor": "BMX",
+    "description": "wBLT/USD price oracle",
+    "pair": ["wBLT", "USD"],
+    "tokenIn": {
+      "address": "0x4E74D4Db6c0726ccded4656d0BCE448876BB4C7A",
+      "chainId": 8453
+    },
+    "tokenOut": {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 8453
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2621897C993fdE08873Ef58dA1453aEE49a70144",
+    "vendor": "Chainlink",
+    "description": "LsETH / ETH Exchange Rate",
+    "pair": ["LsETH", "ETH"],
+    "tokenIn": {
+      "address": "0xB29749498954A3A821ec37BdE86e386dF3cE30B6",
+      "chainId": 8453
+    },
+    "tokenOut": {
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 8453
+    }
   }
 ]
