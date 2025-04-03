@@ -5480,6 +5480,13 @@
     }
   },
   {
+    "chainId": 1,
+    "address": "0x84e51A0c8DAc953F37bc72A43Fd3a008345efCB8",
+    "vendor": "Steakhouse",
+    "description": "wUSDL / USDL feed",
+    "pair": ["wUSDL", "USDL"]
+  },
+  {
     "chainId": 8453,
     "address": "0x7b56DA56E6D0cd2679Be24BABe44d622bd6139E4",
     "vendor": "Aerodrome",
