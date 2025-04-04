@@ -3162,5 +3162,26 @@
         "timestamp": 1743086604
       }
     ]
+  },
+  {
+    "address": "0xb0f05E4De970A1aaf77f8C2F823953a367504BA9",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "description": "The Falcon USDC Core vault targets high risk-adjusted returns by lending USDC against USDf, an overcollateralized synthetic dollar, and sUSDf, a yield-bearing token backed by Falcon's institutional-grade strategies — both issued by Falcon Finance.",
+    "forumLink": "https://forum.morpho.org/c/vaults/alphaping/37",
+    "curators": [
+      {
+        "name": "Alphaping",
+        "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+        "url": "https://alphaping.ch/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1743752818
+      }
+    ]
   }
 ]
