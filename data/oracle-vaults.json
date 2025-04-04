@@ -166,5 +166,11 @@
     "vendor": "Syrup",
     "chainId": 1,
     "pair": ["syrupUSDC", "USDC"]
+  },
+  {
+    "address": "0xc8CF6D7991f15525488b2A83Df53468D682Ba4B0",
+    "vendor": "Falcon Finance",
+    "chainId": 1,
+    "pair": ["sUSDf", "USDf"]
   }
 ]
