@@ -889,5 +889,50 @@
     "data": "{\"in_token\": 1, \"first_block_number\": 28443225}",
     "assetChainId": 8453,
     "contractChainId": 8453
+  },
+  {
+    "assetAddress": "0xFa2B947eEc368f42195f24F36d2aF29f7c24CeC2",
+    "contractAddress": "0xC275a7390966E4bcbf331B837cD7316C4A3EFa83",
+    "order": 0,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 1, \"first_block_number\": 22193747}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xFa2B947eEc368f42195f24F36d2aF29f7c24CeC2",
+    "contractAddress": "0x4e68Ccd3E89f51C3074ca5072bbAC773960dFa36",
+    "order": 1,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 1, \"first_block_number\": 22193747}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xc8CF6D7991f15525488b2A83Df53468D682Ba4B0",
+    "contractAddress": "0xc8CF6D7991f15525488b2A83Df53468D682Ba4B0",
+    "order": 0,
+    "type": "erc4626_exchange_rate",
+    "data": "{\"decimals\": 18, \"first_block_number\": 22193747}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xc8CF6D7991f15525488b2A83Df53468D682Ba4B0",
+    "contractAddress": "0xC275a7390966E4bcbf331B837cD7316C4A3EFa83",
+    "order": 1,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 1, \"first_block_number\": 22193747}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xc8CF6D7991f15525488b2A83Df53468D682Ba4B0",
+    "contractAddress": "0x4e68Ccd3E89f51C3074ca5072bbAC773960dFa36",
+    "order": 2,
+    "type": "uniswap_v3_twap",
+    "data": "{\"in_token\": 1, \"first_block_number\": 22193747}",
+    "assetChainId": 1,
+    "contractChainId": 1
   }
 ]
