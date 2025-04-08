@@ -5484,7 +5484,15 @@
     "address": "0x84e51A0c8DAc953F37bc72A43Fd3a008345efCB8",
     "vendor": "Steakhouse",
     "description": "wUSDL / USDL feed",
-    "pair": ["wUSDL", "USDL"]
+    "pair": ["wUSDL", "USDL"],
+    "tokenIn": {
+      "address": "0x7751E2F4b8ae93EF6B79d86419d42FE3295A4559",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0xbdC7c08592Ee4aa51D06C27Ee23D5087D65aDbcD",
+      "chainId": 1
+    }
   },
   {
     "chainId": 8453,
