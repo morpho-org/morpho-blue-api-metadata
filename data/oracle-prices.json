@@ -3060,5 +3060,23 @@
     "data": "{\"decimals\": 18, \"usd_value\": 1000000000000000000, \"first_block_number\": 22181834}",
     "assetChainId": 1,
     "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x4ae0154F83427A5864e5de6513a47dAC9E5D5a69",
+    "contractAddress": "0x0271e2d3529314837B84407148bEE5cFbf37689D",
+    "order": 0,
+    "type": "redstone_without_logs",
+    "data": "{\"decimals\": 18, \"first_block_number\": 22223117}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x4ae0154F83427A5864e5de6513a47dAC9E5D5a69",
+    "contractAddress": "0xCfE54B5cD566aB89272946F602D76Ea879CAb4a8",
+    "order": 1,
+    "type": "chainlink_aggregator",
+    "data": "{\"decimals\": 8, \"first_block_number\": 22223117}",
+    "assetChainId": 1,
+    "contractChainId": 1
   }
 ]
