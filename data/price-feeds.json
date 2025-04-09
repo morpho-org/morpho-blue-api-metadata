@@ -5077,6 +5077,21 @@
   },
   {
     "chainId": 1,
+    "address": "0xB608A1584322e68C401129E1E8775777c43cb6F7",
+    "vendor": "Pendle - Spark",
+    "description": "PT-sUSDE-31JUL2025 / USD linear discount adapter",
+    "pair": ["PT-sUSDE-31JUL2025", "USD"],
+    "tokenIn": {
+      "address": "0x3b3fB9C57858EF816833dC91565EFcd85D96f634",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1
+    }
+  },
+  {
+    "chainId": 1,
     "address": "0x73a3387768306bE3994c57445Eec893bB5B64b0f",
     "vendor": "Pendle - Spark",
     "description": "PT-sUSDE-27FEB2025 / USD linear discount adapter",
