@@ -3183,5 +3183,26 @@
         "timestamp": 1743752818
       }
     ]
+  },
+  {
+    "address": "0xbEEF36A5C1372F8D7d211527FCE9f83FE02d8A73",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/smokehouse-eth.svg",
+    "description": "The Smokehouse ETH vault aims to optimize for yield on a wide range of collaterals.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial/projects/risk-management-framework-for-defi-protocols",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1744187642
+      }
+    ]
   }
 ]
