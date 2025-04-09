@@ -299,3 +299,4 @@ Exhaustive list of assets that are not supported:
 13. 0xae4bE3acD95B6a4Ac5A0524ab95dA90c721f6C83 // PT-USR-29MAY2025 - mainnet
 14. 0x23E60d1488525bf4685f53b3aa8E676c30321066 // PT-wstUSR-25SEP2025 - mainnet
 15. 0x4A977653c58CFD82d42fd706cf68A0c1B6d0ca56 // PT-wstUSR-1750896030 - Spectra - Mainnet
+16. 0x4ae0154F83427A5864e5de6513a47dAC9E5D5a69 // PT-sw-inwstETHs-1752969615 - Spectra - Mainnet

@@ -5484,7 +5484,15 @@
     "address": "0x84e51A0c8DAc953F37bc72A43Fd3a008345efCB8",
     "vendor": "Steakhouse",
     "description": "wUSDL / USDL feed",
-    "pair": ["wUSDL", "USDL"]
+    "pair": ["wUSDL", "USDL"],
+    "tokenIn": {
+      "address": "0x7751E2F4b8ae93EF6B79d86419d42FE3295A4559",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0xbdC7c08592Ee4aa51D06C27Ee23D5087D65aDbcD",
+      "chainId": 1
+    }
   },
   {
     "chainId": 8453,
@@ -5626,6 +5634,36 @@
     "tokenOut": {
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 8453
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x0271e2d3529314837B84407148bEE5cFbf37689D",
+    "vendor": "eOracle",
+    "description": "PT-inwstETHs/stETH",
+    "pair": ["PT-sw-inwstETHs-1752969615", "stETH"],
+    "tokenIn": {
+      "address": "0x4ae0154F83427A5864e5de6513a47dAC9E5D5a69",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+      "chainId": 1
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0xBb54D319D989296E3bC8f5373c89a2C943aeC41B",
+    "vendor": "eOracle",
+    "description": "mMEV/USD Adapter",
+    "pair": ["mMEV", "USD"],
+    "tokenIn": {
+      "address": "0x030b69280892c888670EDCDCD8B69Fd8026A0BF3",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1
     }
   }
 ]
