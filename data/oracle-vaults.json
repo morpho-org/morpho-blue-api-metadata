@@ -144,6 +144,12 @@
     "pair": ["eUSDe", "USDe"]
   },
   {
+    "address": "0x7743e50F534a7f9F1791DdE7dCD89F7783Eefc39",
+    "vendor": "f(x)",
+    "chainId": 1,
+    "pair": ["fxSAVE", "fxSP"]
+  },
+  {
     "address": "0x657d9ABA1DBb59e53f9F3eCAA878447dCfC96dCb",
     "vendor": "YieldNest",
     "chainId": 1,
