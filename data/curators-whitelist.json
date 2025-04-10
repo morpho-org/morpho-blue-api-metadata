@@ -209,6 +209,18 @@
     }
   },
   {
+    "image": "https://cdn.morpho.org/v2/assets/images/m11c.png",
+    "name": "M11C",
+    "url": "https://www.m11credit.com/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x274F294670b67a5ACd4cfEa280F75B842e6e9B99",
+        "0xc9E1C0E63ff44D8b4061E44374419a072B831F4e"
+      ]
+    }
+  },
+  {
     "name": "Swissborg",
     "verified": true,
     "addresses": {
