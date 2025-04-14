@@ -5695,5 +5695,20 @@
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
     }
+  },
+  {
+    "chainId": 1,
+    "address": "0x2F0762513F220fb2A24B4c7Da2749b5ce851Ba6F",
+    "vendor": "Pendle",
+    "description": "PendleChainlinkOracle - PT-lvlUSD-29MAY2025/lvlUSD",
+    "pair": ["PT-lvlUSD-29MAY2025", "lvlUSD"],
+    "tokenIn": {
+      "address": "0x9BcA74F805AB0a22DDD0886dB0942199a0feBa71",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0x7C1156E515aA1A2E851674120074968C905aAF37",
+      "chainId": 1
+    }
   }
 ]
