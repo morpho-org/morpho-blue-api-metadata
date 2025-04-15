@@ -5320,6 +5320,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x559d4Ab011541a3Cc0ca893bfcFA1df40C6531D7",
+    "vendor": "Pendle",
+    "description": "PT-sUSDE-31JUL2025 - USDe pendle price adapter",
+    "pair": ["PT-sUSDE-31JUL2025", "USDe"]
+  },
+  {
+    "chainId": 1,
     "address": "0xB2b3524A0a7145b59E4146a4BaE35A5dB2842508",
     "vendor": "Pendle",
     "description": "eOracle PT-wstUSR-25SEP2025/USR (PtToSyRate TWAP)",
