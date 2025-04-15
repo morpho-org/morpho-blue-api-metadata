@@ -5313,6 +5313,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xC0f7CF02022faea87b18C77425D9ab14c20C6DB9",
+    "vendor": "Pendle",
+    "description": "PT-syrupUSDC-28AUG2025 - USDC pendle price adapter",
+    "pair": ["PT-syrupUSDC-28AUG2025", "USDC"]
+  },
+  {
+    "chainId": 1,
     "address": "0xB2b3524A0a7145b59E4146a4BaE35A5dB2842508",
     "vendor": "Pendle",
     "description": "eOracle PT-wstUSR-25SEP2025/USR (PtToSyRate TWAP)",
