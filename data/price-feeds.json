@@ -5578,6 +5578,20 @@
   },
   {
     "chainId": 1,
+    "address": "0x3818C88e19a0EBF25105a2fDcf4493BD4fCC5e8e",
+    "vendor": "MEV Capital",
+    "description": "eOracle - PT-LBTC-26JUN2025 / LBTC Pendle price adapter",
+    "pair": ["PT-LBTC-26JUN2025", "LBTC"]
+  },
+  {
+    "chainId": 1,
+    "address": "0xde0AD0ab2D30776d9C082bad654295B421542E76",
+    "vendor": "MEV Capital",
+    "description": "eOracle - PT-eBTC-26JUN2025 / eBTC Pendle price adapter",
+    "pair": ["PT-eBTC-26JUN2025", "eBTC"]
+  },
+  {
+    "chainId": 1,
     "address": "0x5Aa30684f5B1d5E258F1eFC69d40fc9AB2d1e216",
     "vendor": "Pendle",
     "description": "PT-sUSDE-29MAY2025 / USDe Pendle price adapter",
