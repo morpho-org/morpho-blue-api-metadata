@@ -5753,5 +5753,12 @@
       "address": "0x7C1156E515aA1A2E851674120074968C905aAF37",
       "chainId": 1
     }
+  },
+  {
+    "chainId": 1,
+    "address": "0x9dD65b6d956E31F4dc093372D975275986695827",
+    "vendor": "f(x) Protocol",
+    "description": "Stability Pool Token NAV",
+    "pair": ["fxSAVE", "USD"]
   }
 ]
