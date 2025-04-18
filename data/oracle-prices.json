@@ -3135,7 +3135,7 @@
   },
   {
     "assetAddress": "0xa6F0A4D18B6f6DdD408936e81b7b3A8BEFA18e77",
-    "contractAddress": "0x715509bde846104cf2ccebf6fdf7ef1bb874bc45",
+    "contractAddress": "0x715509Bde846104cF2cCeBF6fdF7eF1BB874Bc45",
     "order": 0,
     "type": "pendle_asset_rate",
     "data": "{\"decimals\": 18, \"first_block_number\": 29099423}",
