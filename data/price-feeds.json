@@ -5755,6 +5755,20 @@
     }
   },
   {
+    "chainId": 8453,
+    "address": "0xdD964A8235BA150a18644C379937B73b032E4dF0",
+    "vendor": "Pendle",
+    "description": "PendleChainlinkOracle - PT-USR-25SEP2025/USR",
+    "pair": ["PT-USR-25SEP2025", "USR"]
+  },
+  {
+    "chainId": 8453,
+    "address": "0xAA112c556F7ccaF817143D1002A7CE80a49248bB",
+    "vendor": "Pendle",
+    "description": "LP-USR-25SEP2025/USR LpToAssetRate adapter",
+    "pair": ["LP-USR-24APR2025", "USR"]
+  },
+  {
     "chainId": 1,
     "address": "0x9dD65b6d956E31F4dc093372D975275986695827",
     "vendor": "f(x) Protocol",
