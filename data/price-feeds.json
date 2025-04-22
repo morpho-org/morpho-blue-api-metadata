@@ -5766,7 +5766,7 @@
     "address": "0xAA112c556F7ccaF817143D1002A7CE80a49248bB",
     "vendor": "Pendle",
     "description": "LP-USR-25SEP2025/USR LpToAssetRate adapter",
-    "pair": ["LP-USR-24APR2025", "USR"]
+    "pair": ["LP-USR-25SEP2025", "USR"]
   },
   {
     "chainId": 1,
