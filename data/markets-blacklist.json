@@ -38,5 +38,10 @@
     "id": "0x8411eeb07c8e32de0b3784b6b967346a45593bfd8baeb291cc209dc195c7b3ad",
     "chainId": 1,
     "countryCodes": ["*"]
+  },
+  {
+    "id": "0x1dca6989b0d2b0a546530b3a739e91402eee2e1536a2d3ded4f5ce589a9cd1c2",
+    "chainId": 1,
+    "countryCodes": ["*"]
   }
 ]
