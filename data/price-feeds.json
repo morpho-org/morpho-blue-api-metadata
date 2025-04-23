@@ -5227,6 +5227,13 @@
   },
   {
     "chainId": 1,
+    "address": "0xE12B0707d390a04dbEf942c1017927b76DE0078E",
+    "vendor": "Ojo",
+    "description": "PT-RUSD-31JUL2025/RUSD Dual Oracle adapter",
+    "pair": ["PT-RUSD-31JUL2025", "RUSD"]
+  },
+  {
+    "chainId": 1,
     "address": "0xD9a232ec7b93e5fFF19389f6f5883189CbC542EB",
     "vendor": "Ojo",
     "description": "PT Corn SolvBTC Babylon 27MAR2025 PtToAssetRate adapter",
