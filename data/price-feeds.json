@@ -8,7 +8,8 @@
     "tokenOut": {
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 8453
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 8453,
@@ -23,7 +24,8 @@
     "tokenOut": {
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 8453
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 8453,
@@ -34,7 +36,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 8453
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 8453,
@@ -45,7 +48,8 @@
     "tokenIn": {
       "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
       "chainId": 8453
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -60,7 +64,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -75,7 +80,8 @@
     "tokenOut": {
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -86,7 +92,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -97,7 +104,8 @@
     "tokenOut": {
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -108,7 +116,8 @@
     "tokenOut": {
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -119,7 +128,8 @@
     "tokenOut": {
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -130,7 +140,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -141,7 +152,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -156,7 +168,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -167,7 +180,8 @@
     "tokenOut": {
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -178,7 +192,8 @@
     "tokenOut": {
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -193,7 +208,8 @@
     "tokenOut": {
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -204,7 +220,8 @@
     "tokenOut": {
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -215,7 +232,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -226,7 +244,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -237,7 +256,8 @@
     "tokenOut": {
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -248,7 +268,8 @@
     "tokenOut": {
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -259,7 +280,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -270,7 +292,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -281,7 +304,8 @@
     "tokenOut": {
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -292,28 +316,32 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
     "address": "0x85C4F855Bc0609D2584405819EdAEa3aDAbfE97D",
     "vendor": "Redstone",
     "description": "pumpBTC/BTC (0.5%)",
-    "pair": ["pumpBTC", "BTC"]
+    "pair": ["pumpBTC", "BTC"],
+    "decimals": 8
   },
   {
     "chainId": 1,
     "address": "0x3fd49f2146FE0e10c4AE7E3fE04b3d5126385Ac4",
     "vendor": "Redstone",
     "description": "SolvBTC/BTC (0.5%)",
-    "pair": ["SolvBTC", "BTC"]
+    "pair": ["SolvBTC", "BTC"],
+    "decimals": 8
   },
   {
     "chainId": 1,
     "address": "0xe5867B1d421f0b52697F16e2ac437e87d66D5fbF",
     "vendor": "Redstone",
     "description": "eBTC/WBTC (0.5%)",
-    "pair": ["eBTC", "WBTC"]
+    "pair": ["eBTC", "WBTC"],
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -324,7 +352,8 @@
     "tokenOut": {
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -335,7 +364,8 @@
     "tokenOut": {
       "address": "0x15700B564Ca08D9439C58cA5053166E8317aa138",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -346,7 +376,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -357,7 +388,8 @@
     "tokenOut": {
       "address": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
       "chainId": 1
-    }
+    },
+    "decimals": 6
   },
   {
     "chainId": 1,
@@ -368,7 +400,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 8453,
@@ -1339,7 +1372,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -1355,7 +1388,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -1367,7 +1400,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -1407,7 +1440,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -1423,7 +1456,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -1439,14 +1472,14 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
     "address": "0x7fb9B4a05e7B4F0c1Ac0B0046784cc0aCE8CbBC5",
     "vendor": "Chainlink",
     "description": "Scroll Healthcheck (0.1%)",
-    "decimals": 8
+    "decimals": 0
   },
   {
     "chainId": 1,
@@ -1474,7 +1507,7 @@
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -1490,14 +1523,14 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
     "address": "0x0981af0C002345c9C5AD5efd26242D0cBe5aCA99",
     "vendor": "Chainlink",
     "description": "Synthetix Aggregator Debt Ratio (1%)",
-    "decimals": 8
+    "decimals": 27
   },
   {
     "chainId": 1,
@@ -1541,7 +1574,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -1564,7 +1597,7 @@
     "address": "0xBE456fd14720C3aCCc30A2013Bffd782c9Cb75D5",
     "vendor": "Chainlink",
     "description": "TUSD Reserves (5%)",
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -1600,7 +1633,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -1616,7 +1649,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -1648,14 +1681,14 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
     "address": "0xbCF5792575bA3A875D8C406F4E7270f51a902539",
     "vendor": "Chainlink",
     "description": "Synthetix Aggregator Issued Synths (1%)",
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -1770,7 +1803,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -1782,7 +1815,7 @@
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -1810,7 +1843,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -1826,7 +1859,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -1842,7 +1875,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -1977,7 +2010,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2005,7 +2038,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2021,7 +2054,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2037,7 +2070,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2100,7 +2133,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2170,7 +2203,7 @@
     "address": "0x9a51192e065ECC6BDEafE5e194ce54702DE4f1f5",
     "vendor": "Chainlink",
     "description": "Consumer Price Index (1000%)",
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2202,7 +2235,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2238,7 +2271,7 @@
     "vendor": "Chainlink",
     "description": "AGEUR / EUR (1%)",
     "pair": ["AGEUR", "EUR"],
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2302,7 +2335,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2318,7 +2351,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2350,7 +2383,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2426,7 +2459,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2470,7 +2503,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2517,7 +2550,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2533,7 +2566,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2549,7 +2582,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2595,7 +2628,7 @@
     "address": "0xAd410E655C0fE4741F573152592eeb766e686CE7",
     "vendor": "Chainlink",
     "description": "stETH PoR (0.2%)",
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2627,7 +2660,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2643,7 +2676,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2683,7 +2716,7 @@
       "address": "0xF469fBD2abcd6B9de8E169d128226C0Fc90a012e",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2703,7 +2736,7 @@
     "vendor": "Chainlink",
     "description": "SolvBTC.BBN / SolvBTC Exchange Rate (0.01%)",
     "pair": ["SolvBTC.BBN", "SolvBTC Exchange Rate"],
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2731,7 +2764,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2750,7 +2783,7 @@
     "address": "0x987517b50230De2042750570D8fE3783ee115975",
     "vendor": "Chainlink",
     "description": "ZKsync Healthcheck (0.5%)",
-    "decimals": 8
+    "decimals": 0
   },
   {
     "chainId": 1,
@@ -2782,7 +2815,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2798,7 +2831,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2810,7 +2843,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2833,7 +2866,7 @@
     "address": "0xad4A9bED9a5E2c1c9a6E43D35Db53c83873dd901",
     "vendor": "Chainlink",
     "description": "STBT PoR (0.001%)",
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2845,7 +2878,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2861,7 +2894,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2889,7 +2922,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -2924,7 +2957,7 @@
     "address": "0x32EaFC72772821936BCc9b8A32dC394fEFcDBfD9",
     "vendor": "Chainlink",
     "description": "Arbitrum Healthcheck (1%)",
-    "decimals": 8
+    "decimals": 0
   },
   {
     "chainId": 1,
@@ -2943,7 +2976,7 @@
     "address": "0x48D9DA600EC48DDd6ce7FC1D47D683818e511c81",
     "vendor": "Chainlink",
     "description": "Base Healthcheck (0.1%)",
-    "decimals": 8
+    "decimals": 0
   },
   {
     "chainId": 1,
@@ -3018,7 +3051,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3034,7 +3067,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3081,7 +3114,7 @@
     "address": "0x60cbE8D88EF519cF3C62414D76f50818D211fea1",
     "vendor": "Chainlink",
     "description": "Swell ETH PoR (2%)",
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3105,14 +3138,14 @@
       "address": "0x004E9C3EF86bc1ca1f0bB5C7662861Ee93350568",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
     "address": "0xCc72039A141c6e34a779eF93AEF5eB4C82A893c7",
     "vendor": "Chainlink",
     "description": "Nexus wETH Reserves (0.3%)",
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3124,7 +3157,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3156,7 +3189,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3175,7 +3208,7 @@
     "address": "0x0c89c488e763AC2d69cB058CCAC7A8B283EE3DbA",
     "vendor": "Chainlink",
     "description": "Swell Restaked ETH PoR (0.5%)",
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3183,7 +3216,7 @@
     "vendor": "Chainlink",
     "description": "Fast Gas / Gwei (25%)",
     "pair": ["Fast Gas", "Gwei"],
-    "decimals": 8
+    "decimals": 0
   },
   {
     "chainId": 1,
@@ -3231,14 +3264,14 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
     "address": "0x0A8cD0115B1EE87EbA5b8E06A9a15ED93e230f7a",
     "vendor": "Chainlink",
     "description": "HBTC PoR (1e-7%)",
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3276,7 +3309,7 @@
     "address": "0xa7d76167900493Acf2650Dc001fb2Bc5256579B0",
     "vendor": "Chainlink",
     "description": "CETH Reserves (1e-7%)",
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3324,7 +3357,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3356,7 +3389,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3388,7 +3421,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3416,7 +3449,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3432,7 +3465,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3444,14 +3477,14 @@
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
     "address": "0x289B5036cd942e619E1Ee48670F98d214E745AAC",
     "vendor": "Chainlink",
     "description": "USTB NAV per Share (0.0001%)",
-    "decimals": 8
+    "decimals": 6
   },
   {
     "chainId": 1,
@@ -3575,7 +3608,7 @@
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3607,7 +3640,7 @@
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
     },
-    "decimals": 8
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3670,7 +3703,8 @@
     "tokenOut": {
       "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3685,7 +3719,8 @@
     "tokenOut": {
       "address": "0x35D8949372D46B7a3D5A56006AE77B215fc69bC0",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3700,7 +3735,8 @@
     "tokenOut": {
       "address": "0x8236a87084f8B84306f72007F36F2618A5634494",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3715,7 +3751,8 @@
     "tokenOut": {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -3730,7 +3767,8 @@
     "tokenOut": {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3745,7 +3783,8 @@
     "tokenOut": {
       "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3760,7 +3799,8 @@
     "tokenOut": {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3775,7 +3815,8 @@
     "tokenOut": {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3790,7 +3831,8 @@
     "tokenOut": {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3805,7 +3847,8 @@
     "tokenOut": {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3820,7 +3863,8 @@
     "tokenOut": {
       "address": "0x65D72AA8DA931F047169112fcf34f52DbaAE7D18",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3850,7 +3894,8 @@
     "tokenOut": {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3865,7 +3910,8 @@
     "tokenOut": {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3880,7 +3926,8 @@
     "tokenOut": {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3895,7 +3942,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -3910,7 +3958,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -3925,7 +3974,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -3940,7 +3990,8 @@
     "tokenOut": {
       "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3955,7 +4006,8 @@
     "tokenOut": {
       "address": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3970,7 +4022,8 @@
     "tokenOut": {
       "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3985,7 +4038,8 @@
     "tokenOut": {
       "address": "0x15700B564Ca08D9439C58cA5053166E8317aa138",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -3996,7 +4050,8 @@
     "tokenIn": {
       "address": "0xDcEe70654261AF21C44c093C300eD3Bb97b78192",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 8453,
@@ -4007,7 +4062,8 @@
     "tokenIn": {
       "address": "0x7FcD174E80f264448ebeE8c88a7C4476AAF58Ea6",
       "chainId": 8453
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4022,7 +4078,8 @@
     "tokenOut": {
       "address": "0xbdC7c08592Ee4aa51D06C27Ee23D5087D65aDbcD",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4037,7 +4094,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -4052,7 +4110,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -4067,7 +4126,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -4082,7 +4142,8 @@
     "tokenOut": {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4097,7 +4158,8 @@
     "tokenOut": {
       "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 8453,
@@ -4112,7 +4174,8 @@
     "tokenOut": {
       "address": "0xA61BeB4A3d02decb01039e378237032B351125B4",
       "chainId": 8453
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4127,7 +4190,8 @@
     "tokenOut": {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -4142,7 +4206,8 @@
     "tokenOut": {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 8453,
@@ -4153,7 +4218,8 @@
     "tokenIn": {
       "address": "0xd95ca61CE9aAF2143E81Ef5462C0c2325172E028",
       "chainId": 8453
-    }
+    },
+    "decimals": 6
   },
   {
     "chainId": 8453,
@@ -4168,7 +4234,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 8453
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 8453,
@@ -4183,7 +4250,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 8453
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 8453,
@@ -4198,14 +4266,16 @@
     "tokenOut": {
       "address": "0x820C137fa70C8691f0e44Dc420a5e53c168921Dc",
       "chainId": 8453
-    }
+    },
+    "decimals": 27
   },
   {
     "chainId": 8453,
     "address": "0xf0cF2ce3529b0030577B4E64F553efAcE90aaF98",
     "vendor": "Steakhouse",
     "description": "Dummy feed with 27 decimals",
-    "pair": ["USD", "USD"]
+    "pair": ["USD", "USD"],
+    "decimals": 27
   },
   {
     "chainId": 8453,
@@ -4276,7 +4346,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 8453
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 8453,
@@ -4291,7 +4362,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 8453
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 8453,
@@ -4306,7 +4378,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 8453
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 8453,
@@ -4321,7 +4394,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 8453
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 8453,
@@ -4336,7 +4410,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 8453
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 8453,
@@ -4422,7 +4497,8 @@
     "tokenOut": {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4437,7 +4513,8 @@
     "tokenOut": {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4452,7 +4529,8 @@
     "tokenOut": {
       "address": "0x59D9356E565Ab3A36dD77763Fc0d87fEaf85508C",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4467,7 +4545,8 @@
     "tokenOut": {
       "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 8453,
@@ -4497,7 +4576,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -4512,7 +4592,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -4527,7 +4608,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4542,7 +4624,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4557,7 +4640,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4572,7 +4656,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4587,7 +4672,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4602,7 +4688,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4617,7 +4704,8 @@
     "tokenOut": {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4632,7 +4720,8 @@
     "tokenOut": {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4643,7 +4732,8 @@
     "tokenIn": {
       "address": "0x95D7337d43340E2721960Dc402D9b9117f0d81a2",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -4658,7 +4748,8 @@
     "tokenOut": {
       "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 8453,
@@ -4673,7 +4764,8 @@
     "tokenOut": {
       "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
       "chainId": 8453
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4688,7 +4780,8 @@
     "tokenOut": {
       "address": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4703,7 +4796,8 @@
     "tokenOut": {
       "address": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4718,7 +4812,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 8453,
@@ -4733,7 +4828,8 @@
     "tokenOut": {
       "address": "0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9",
       "chainId": 8453
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4748,7 +4844,8 @@
     "tokenOut": {
       "address": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4763,7 +4860,8 @@
     "tokenOut": {
       "address": "0x657e8C867D8B37dCC18fA4Caead9C45EB088C642",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4778,7 +4876,8 @@
     "tokenOut": {
       "address": "0x8236a87084f8B84306f72007F36F2618A5634494",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 8453,
@@ -4793,7 +4892,8 @@
     "tokenOut": {
       "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
       "chainId": 8453
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4804,7 +4904,8 @@
     "tokenIn": {
       "address": "0xb7de5dFCb74d25c2f21841fbd6230355C50d9308",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4815,7 +4916,8 @@
     "tokenIn": {
       "address": "0xb7de5dFCb74d25c2f21841fbd6230355C50d9308",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 8453,
@@ -4830,7 +4932,8 @@
     "tokenOut": {
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 8453
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4845,7 +4948,8 @@
     "tokenOut": {
       "address": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4860,7 +4964,8 @@
     "tokenOut": {
       "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4875,7 +4980,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4890,7 +4996,8 @@
     "tokenOut": {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4905,7 +5012,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 8453,
@@ -4920,7 +5028,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 8453
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -4935,7 +5044,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -4950,7 +5060,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -4965,7 +5076,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -4980,7 +5092,8 @@
     "tokenOut": {
       "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -4995,7 +5108,8 @@
     "tokenOut": {
       "address": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5006,7 +5120,8 @@
     "tokenIn": {
       "address": "0x23e479ddcda990E8523494895759bD98cD2fDBF6",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 8453,
@@ -5021,7 +5136,8 @@
     "tokenOut": {
       "address": "0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9",
       "chainId": 8453
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5032,7 +5148,8 @@
     "tokenIn": {
       "address": "0x40b7B4aB1E95e28DF06971581276966FDF95688E",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5043,7 +5160,8 @@
     "tokenIn": {
       "address": "0x50D2C7992b802Eef16c04FeADAB310f31866a545",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5058,7 +5176,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5073,7 +5192,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5088,7 +5208,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5103,7 +5224,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5118,7 +5240,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5133,7 +5256,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5148,7 +5272,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5163,7 +5288,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5178,7 +5304,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5193,7 +5320,8 @@
     "tokenOut": {
       "address": "0x35D8949372D46B7a3D5A56006AE77B215fc69bC0",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 8453,
@@ -5208,7 +5336,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 8453
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5223,14 +5352,16 @@
     "tokenOut": {
       "address": "0x35D8949372D46B7a3D5A56006AE77B215fc69bC0",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
     "address": "0xE12B0707d390a04dbEf942c1017927b76DE0078E",
     "vendor": "Ojo",
     "description": "PT-RUSD-31JUL2025/RUSD Dual Oracle adapter",
-    "pair": ["PT-RUSD-31JUL2025", "RUSD"]
+    "pair": ["PT-RUSD-31JUL2025", "RUSD"],
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5241,7 +5372,8 @@
     "tokenIn": {
       "address": "0xd1A1984cc5CAcbd36F6a511877d13662C950fd62",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5256,7 +5388,8 @@
     "tokenOut": {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5271,7 +5404,8 @@
     "tokenOut": {
       "address": "0x657e8C867D8B37dCC18fA4Caead9C45EB088C642",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5286,7 +5420,8 @@
     "tokenOut": {
       "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -5301,7 +5436,8 @@
     "tokenOut": {
       "address": "0x657e8C867D8B37dCC18fA4Caead9C45EB088C642",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5316,28 +5452,32 @@
     "tokenOut": {
       "address": "0x1202F5C7b4B9E47a1A484E8B270be34dbbC75055",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
     "address": "0xC0f7CF02022faea87b18C77425D9ab14c20C6DB9",
     "vendor": "Pendle",
     "description": "PT-syrupUSDC-28AUG2025 - USDC pendle price adapter",
-    "pair": ["PT-syrupUSDC-28AUG2025", "USDC"]
+    "pair": ["PT-syrupUSDC-28AUG2025", "USDC"],
+    "decimals": 18
   },
   {
     "chainId": 1,
     "address": "0x559d4Ab011541a3Cc0ca893bfcFA1df40C6531D7",
     "vendor": "Pendle",
     "description": "PT-sUSDE-31JUL2025 - USDe pendle price adapter",
-    "pair": ["PT-sUSDE-31JUL2025", "USDe"]
+    "pair": ["PT-sUSDE-31JUL2025", "USDe"],
+    "decimals": 18
   },
   {
     "chainId": 1,
     "address": "0xB2b3524A0a7145b59E4146a4BaE35A5dB2842508",
     "vendor": "Pendle",
     "description": "eOracle PT-wstUSR-25SEP2025/USR (PtToSyRate TWAP)",
-    "pair": ["PT-wstUSR-25SEP2025", "USR"]
+    "pair": ["PT-wstUSR-25SEP2025", "USR"],
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5352,7 +5492,8 @@
     "tokenOut": {
       "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
       "chainId": 1
-    }
+    },
+    "decimals": 6
   },
   {
     "chainId": 1,
@@ -5367,7 +5508,8 @@
     "tokenOut": {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5382,7 +5524,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 8453,
@@ -5397,7 +5540,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 8453
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 8453,
@@ -5412,7 +5556,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 8453
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -5427,7 +5572,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 8453,
@@ -5442,7 +5588,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 8453
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -5457,7 +5604,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 6
   },
   {
     "chainId": 1,
@@ -5472,7 +5620,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 6
   },
   {
     "chainId": 1,
@@ -5487,7 +5636,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5502,7 +5652,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5517,7 +5668,8 @@
     "tokenOut": {
       "address": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 8453,
@@ -5528,7 +5680,8 @@
     "tokenIn": {
       "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
       "chainId": 8453
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -5543,7 +5696,8 @@
     "tokenOut": {
       "address": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5558,7 +5712,8 @@
     "tokenOut": {
       "address": "0xbdC7c08592Ee4aa51D06C27Ee23D5087D65aDbcD",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 8453,
@@ -5573,7 +5728,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 8453
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5588,21 +5744,24 @@
     "tokenOut": {
       "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
     "address": "0x3818C88e19a0EBF25105a2fDcf4493BD4fCC5e8e",
     "vendor": "MEV Capital",
     "description": "eOracle - PT-LBTC-26JUN2025 / LBTC Pendle price adapter",
-    "pair": ["PT-LBTC-26JUN2025", "LBTC"]
+    "pair": ["PT-LBTC-26JUN2025", "LBTC"],
+    "decimals": 18
   },
   {
     "chainId": 1,
     "address": "0xde0AD0ab2D30776d9C082bad654295B421542E76",
     "vendor": "MEV Capital",
     "description": "eOracle - PT-eBTC-26JUN2025 / eBTC Pendle price adapter",
-    "pair": ["PT-eBTC-26JUN2025", "eBTC"]
+    "pair": ["PT-eBTC-26JUN2025", "eBTC"],
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5617,7 +5776,8 @@
     "tokenOut": {
       "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5632,7 +5792,8 @@
     "tokenOut": {
       "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5647,7 +5808,8 @@
     "tokenOut": {
       "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5662,7 +5824,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5673,7 +5836,8 @@
     "tokenIn": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 8
   },
   {
     "chainId": 1,
@@ -5684,7 +5848,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 8453,
@@ -5699,7 +5864,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 8453
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 8453,
@@ -5714,7 +5880,8 @@
     "tokenOut": {
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 8453
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5729,7 +5896,8 @@
     "tokenOut": {
       "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5744,7 +5912,8 @@
     "tokenOut": {
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 1,
@@ -5759,27 +5928,31 @@
     "tokenOut": {
       "address": "0x7C1156E515aA1A2E851674120074968C905aAF37",
       "chainId": 1
-    }
+    },
+    "decimals": 18
   },
   {
     "chainId": 8453,
     "address": "0xdD964A8235BA150a18644C379937B73b032E4dF0",
     "vendor": "Pendle",
     "description": "PendleChainlinkOracle - PT-USR-25SEP2025/USR",
-    "pair": ["PT-USR-25SEP2025", "USR"]
+    "pair": ["PT-USR-25SEP2025", "USR"],
+    "decimals": 18
   },
   {
     "chainId": 8453,
     "address": "0xAA112c556F7ccaF817143D1002A7CE80a49248bB",
     "vendor": "Pendle",
     "description": "LP-USR-25SEP2025/USR LpToAssetRate adapter",
-    "pair": ["LP-USR-25SEP2025", "USR"]
+    "pair": ["LP-USR-25SEP2025", "USR"],
+    "decimals": 18
   },
   {
     "chainId": 1,
     "address": "0x9dD65b6d956E31F4dc093372D975275986695827",
     "vendor": "f(x) Protocol",
     "description": "Stability Pool Token NAV",
-    "pair": ["fxSAVE", "USD"]
+    "pair": ["fxSAVE", "USD"],
+    "decimals": 18
   }
 ]
