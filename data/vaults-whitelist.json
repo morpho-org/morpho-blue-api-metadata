@@ -701,7 +701,7 @@
     "address": "0x2F21c6499fa53a680120e654a27640Fc8Aa40BeD",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/oe-usdc.svg",
-    "description": "The OpenEden USDC Vault allocates to Resolv collateral markets, optimizing risk-adjusted yields. Curated by Ouroboros Capital.",
+    "description": "The OpenEden USDC Vault allocates to OpenEden collateral markets, optimizing risk-adjusted yields. Curated by Ouroboros Capital.",
     "forumLink": "https://forum.morpho.org/c/vaults/ouroboros/36",
     "curators": [
       {
