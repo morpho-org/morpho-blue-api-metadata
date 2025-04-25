@@ -3230,7 +3230,7 @@
     "address": "0x2C3Cc1C02856894345797Cf6ee76aE76AC0f4031",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/m11c-lvlusd.svg",
-    "description": "The M11C Level Vault accepts LvlUSD deposits collateralized by assets from the Level ecosystem. It features a 10x Level XP boost, and is actively managed by M11C to optimize capital efficiency while minimizing risk.",
+    "description": "The M11C Level Vault accepts lvlUSD deposits and lists assets from the Level ecosystem as collateral. The vault is actively managed by M11C to optimize capital efficiency and minimize risks associated with any lvlUSD lending / borrowing strategy.",
     "forumLink": "https://forum.morpho.org/c/vaults/m11c/41",
     "curators": [
       {
