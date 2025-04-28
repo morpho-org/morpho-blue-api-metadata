@@ -2595,8 +2595,8 @@
   {
     "address": "0x23479229e52Ab6aaD312D0B03DF9F33B46753B5e",
     "chainId": 8453,
-    "image": "https://cdn.morpho.org/v2/assets/images/ionic_vault.svg",
-    "description": "The Ionic Ecosystem USDC Vault curated by Gauntlet is intended to optimize risk-adjusted yield across high-demand collateral markets on Base.",
+    "image": "https://cdn.morpho.org/v2/assets/images/extrafi.svg",
+    "description": "The Extrafi USDC Vault curated by Gauntlet is intended to optimize risk-adjusted yield across high-demand collateral markets on Base.",
     "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
     "curators": [
       {
@@ -2616,8 +2616,8 @@
   {
     "address": "0x5A32099837D89E3a794a44fb131CBbAD41f87a8C",
     "chainId": 8453,
-    "image": "https://cdn.morpho.org/v2/assets/images/ionic_vault.svg",
-    "description": "The Ionic Ecosystem WETH Vault curated by Gauntlet is intended to optimize risk-adjusted yield across high-demand collateral markets on Base.",
+    "image": "https://cdn.morpho.org/v2/assets/images/extrafi.svg",
+    "description": "The Extrafi WETH Vault curated by Gauntlet is intended to optimize risk-adjusted yield across high-demand collateral markets on Base.",
     "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
     "curators": [
       {
