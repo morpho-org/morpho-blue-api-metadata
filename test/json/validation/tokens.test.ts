@@ -5,6 +5,7 @@ import { getAddress } from "viem";
 
 interface TokenMetadata {
   logoURI: string;
+  tags?: string[];
   alternativeOracle?: string;
   alternativeOracles?: any[];
   alternativeHardcodedOracle?: string;
@@ -283,6 +284,58 @@ describe("tokens.json validation", () => {
     if (errors.length > 0) {
       throw new Error(
         `Found ${errors.length} naming convention errors:\n\n${errors.join(
+          "\n\n"
+        )}`
+      );
+    }
+  });
+
+  // New test to validate metadata structure, especially for 'tags'
+  test("metadata structure is correct (no nested metadata and tags is array of strings)", () => {
+    const errors: string[] = [];
+
+    tokens.forEach((token, index) => {
+      if (token.metadata) {
+        // Check for nested 'metadata' object using hasOwnProperty to avoid TS errors
+        if (
+          Object.prototype.hasOwnProperty.call(token.metadata, "metadata") &&
+          typeof (token.metadata as any).metadata === "object" && // Cast needed here after hasOwnProperty check
+          (token.metadata as any).metadata !== null
+        ) {
+          errors.push(
+            `Token at index ${index} (address: ${token.address}, chainId: ${token.chainId}) has incorrect nested 'metadata.metadata' structure. Properties like 'tags' should be directly under 'metadata'.`
+          );
+        }
+
+        // Check if 'tags' exists and is an array
+        if (
+          Object.prototype.hasOwnProperty.call(token.metadata, "tags") &&
+          !Array.isArray(token.metadata.tags) // TS knows 'tags' can be string[] | undefined now
+        ) {
+          errors.push(
+            `Token at index ${index} (address: ${token.address}, chainId: ${token.chainId}) has 'metadata.tags' which is not an array.`
+          );
+        }
+
+        // Check if all elements in 'tags' array are strings
+        if (Array.isArray(token.metadata.tags)) {
+          // Add explicit types for tag and tagIndex
+          token.metadata.tags.forEach((tag: string, tagIndex: number) => {
+            if (typeof tag !== "string") {
+              // This check might seem redundant due to TS types, but verifies runtime data
+              errors.push(
+                `Token at index ${index} (address: ${token.address}, chainId: ${token.chainId}) has a non-string tag at tags[${tagIndex}]: ${tag}`
+              );
+            }
+          });
+        }
+      }
+    });
+
+    // If we collected any errors, fail the test with all error messages
+    if (errors.length > 0) {
+      throw new Error(
+        `Found ${errors.length} metadata structure errors:\n\n${errors.join(
           "\n\n"
         )}`
       );
