@@ -5377,6 +5377,30 @@
   },
   {
     "chainId": 1,
+    "address": "0xBEE4e3AFee3979a7E1e5F437cb03427cAEB622cB",
+    "vendor": "eOracle",
+    "description": "PT-xSolvBTC/BTC feed adapter leveraging: 1. PTtoSY, 2. xSolvBTC/solvBTC, 3. solvBTC/BTC",
+    "pair": ["PT-SolvBTC.BBN-26JUN2025", "SolvBTC.BBN"],
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x9d65C59C3Ab0Ee7bCd0c3d53cFeef37aFB1e4795",
+    "vendor": "Pendle",
+    "description": "PT-cUSDO-19JUN2025 PtToSyRate adapter",
+    "pair": ["PT-cUSDO-19JUN2025", "cUSDO"],
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xb9B69e0A2aDD1839cc19e71c5cCa0C01D0721165",
+    "vendor": "MEV Capital",
+    "description": "cUSDO x USDO convertToAsset adapter",
+    "pair": ["cUSDO", "USDO"],
+    "decimals": 6
+  },
+  {
+    "chainId": 1,
     "address": "0xda0002859B2d05F66a753d8241fCDE8623f26F4f",
     "vendor": "Gearbox",
     "description": "dWETHV3 / WETH exchange rate",
