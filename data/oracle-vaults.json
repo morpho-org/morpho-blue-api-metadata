@@ -190,5 +190,11 @@
     "vendor": "Level",
     "chainId": 1,
     "pair": ["slvlUSD", "lvlUSD"]
+  },
+  {
+    "address": "0x06B964d96f5dCF7Eae9d7C559B09EDCe244d4B8E",
+    "vendor": "USUALX",
+    "chainId": 1,
+    "pair": ["USUALX", "USUAL"]
   }
 ]
