@@ -29,6 +29,26 @@ describe("tokens.json validation", () => {
     (token) => token.chainId === 1 || token.chainId === 8453
   );
 
+  // Helper function to check for unknown keys in an object
+  const checkUnknownKeys = (
+    obj: Record<string, any> | null | undefined,
+    allowedKeys: Set<string>,
+    identifier: string,
+    objectName: string,
+    errors: string[],
+    ignoreKeys: Set<string> = new Set() // Optional set of keys to ignore
+  ) => {
+    if (!obj) return;
+
+    Object.keys(obj).forEach((key) => {
+      if (ignoreKeys.has(key)) return; // Skip ignored keys
+
+      if (!allowedKeys.has(key)) {
+        errors.push(`${identifier} has unknown key in ${objectName}: '${key}'`);
+      }
+    });
+  };
+
   test("each token address is checksummed", () => {
     tokens.forEach((token, index) => {
       try {
@@ -338,6 +358,55 @@ describe("tokens.json validation", () => {
         `Found ${errors.length} metadata structure errors:\n\n${errors.join(
           "\n\n"
         )}`
+      );
+    }
+  });
+
+  // Test using the helper function
+  test("no unknown keys are present in token objects", () => {
+    const allowedTokenKeys = new Set([
+      "chainId",
+      "address",
+      "name",
+      "symbol",
+      "decimals",
+      "metadata",
+      "isWhitelisted",
+    ]);
+
+    const allowedMetadataKeys = new Set([
+      "logoURI",
+      "tags",
+      "alternativeOracle",
+      "alternativeOracles",
+      "alternativeHardcodedOracle",
+      "alternativeHardcodedOracles",
+    ]);
+
+    const errors: string[] = [];
+    const metadataIgnoreKeys = new Set(["metadata"]); // Temporarily ignore nested 'metadata'
+
+    tokens.forEach((token, index) => {
+      const identifier = `Token at index ${index} (address: ${token.address}, chainId: ${token.chainId})`;
+
+      // Check token keys
+      checkUnknownKeys(token, allowedTokenKeys, identifier, "token", errors);
+
+      // Check metadata keys
+      checkUnknownKeys(
+        token.metadata,
+        allowedMetadataKeys,
+        identifier,
+        "metadata",
+        errors,
+        metadataIgnoreKeys // Pass the set of keys to ignore in metadata
+      );
+    });
+
+    // If we collected any errors, fail the test with all error messages
+    if (errors.length > 0) {
+      throw new Error(
+        `Found ${errors.length} unknown key errors:\n\n${errors.join("\n\n")}`
       );
     }
   });
