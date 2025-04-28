@@ -310,9 +310,30 @@ describe("tokens.json validation", () => {
     }
   });
 
-  // New test to validate metadata structure, especially for 'tags'
-  test("metadata structure is correct (no nested metadata and tags is array of strings)", () => {
+  // Updated test to validate metadata structure AND tag values
+  test("metadata structure is correct and tags are known values", () => {
     const errors: string[] = [];
+    // Define the set of allowed tags - expand this list as needed
+    const allowedTags = new Set([
+      "EUR",
+      "btc",
+      "convex-wrapper",
+      "dai-specific-permit",
+      "erc4626",
+      "eth",
+      "eur-pegged",
+      "governance-token",
+      "hardcoded",
+      "lrt",
+      "lst",
+      "permissioned",
+      "rwa",
+      "simple-permit",
+      "stablecoin",
+      "usd",
+      "usd-pegged",
+      "yield",
+    ]);
 
     tokens.forEach((token, index) => {
       if (token.metadata) {
@@ -337,15 +358,26 @@ describe("tokens.json validation", () => {
           );
         }
 
-        // Check if all elements in 'tags' array are strings
+        // Check if all elements in 'tags' array are strings and known
         if (Array.isArray(token.metadata.tags)) {
-          // Add explicit types for tag and tagIndex
           token.metadata.tags.forEach((tag: string, tagIndex: number) => {
             if (typeof tag !== "string") {
-              // This check might seem redundant due to TS types, but verifies runtime data
               errors.push(
                 `Token at index ${index} (address: ${token.address}, chainId: ${token.chainId}) has a non-string tag at tags[${tagIndex}]: ${tag}`
               );
+            } else {
+              // Check if the tag is in the allowed list
+              if (!allowedTags.has(tag)) {
+                errors.push(
+                  `Token at index ${index} (address: ${
+                    token.address
+                  }, chainId: ${
+                    token.chainId
+                  }) has unknown tag '${tag}' at tags[${tagIndex}]. Allowed tags are: [${Array.from(
+                    allowedTags
+                  ).join(", ")}]`
+                );
+              }
             }
           });
         }
@@ -355,7 +387,7 @@ describe("tokens.json validation", () => {
     // If we collected any errors, fail the test with all error messages
     if (errors.length > 0) {
       throw new Error(
-        `Found ${errors.length} metadata structure errors:\n\n${errors.join(
+        `Found ${errors.length} metadata structure/tag errors:\n\n${errors.join(
           "\n\n"
         )}`
       );
