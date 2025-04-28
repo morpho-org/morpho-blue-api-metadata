@@ -5954,5 +5954,12 @@
     "description": "Stability Pool Token NAV",
     "pair": ["fxSAVE", "USD"],
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x3f40FF4a05203900A9644826125De30dc8eD19Bf",
+    "vendor": "MEV Capital",
+    "description": "USUALX/USUAL Usual X preview redeem adapter",
+    "pair": ["USUALX", "USUAL"]
   }
 ]
