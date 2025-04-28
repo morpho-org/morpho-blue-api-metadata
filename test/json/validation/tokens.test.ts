@@ -5,6 +5,7 @@ import { getAddress } from "viem";
 
 interface TokenMetadata {
   logoURI: string;
+  tags?: string[];
   alternativeOracle?: string;
   alternativeOracles?: any[];
   alternativeHardcodedOracle?: string;
@@ -27,6 +28,29 @@ describe("tokens.json validation", () => {
   const tokens = allTokens.filter(
     (token) => token.chainId === 1 || token.chainId === 8453
   );
+
+  // Helper function to check for unknown keys in an object.
+  // It ensures that the object only contains keys from the `allowedKeys` set.
+  // `ignoreKeys` can be used to temporarily bypass checks for specific keys,
+  // often because another test handles that specific validation.
+  const checkUnknownKeys = (
+    obj: Record<string, any> | null | undefined,
+    allowedKeys: Set<string>,
+    identifier: string,
+    objectName: string,
+    errors: string[],
+    ignoreKeys: Set<string> = new Set() // Optional: Keys to skip during this check
+  ) => {
+    if (!obj) return;
+
+    Object.keys(obj).forEach((key) => {
+      if (ignoreKeys.has(key)) return; // Skip ignored keys
+
+      if (!allowedKeys.has(key)) {
+        errors.push(`${identifier} has unknown key in ${objectName}: '${key}'`);
+      }
+    });
+  };
 
   test("each token address is checksummed", () => {
     tokens.forEach((token, index) => {
@@ -285,6 +309,127 @@ describe("tokens.json validation", () => {
         `Found ${errors.length} naming convention errors:\n\n${errors.join(
           "\n\n"
         )}`
+      );
+    }
+  });
+
+  // Renamed test focusing on tag validation
+  test("tags array is valid (if present)", () => {
+    const errors: string[] = [];
+    // Define the set of allowed tags
+    const allowedTags = new Set([
+      "EUR",
+      "btc",
+      "convex-wrapper",
+      "dai-specific-permit",
+      "erc4626",
+      "eth",
+      "eur-pegged",
+      "governance-token",
+      "hardcoded",
+      "lrt",
+      "lst",
+      "permissioned",
+      "rwa",
+      "simple-permit",
+      "stablecoin",
+      "usd",
+      "usd-pegged",
+      "yield",
+    ]);
+
+    tokens.forEach((token, index) => {
+      if (token.metadata) {
+        // Check if 'tags' exists and is an array
+        if (
+          Object.prototype.hasOwnProperty.call(token.metadata, "tags") &&
+          !Array.isArray(token.metadata.tags)
+        ) {
+          errors.push(
+            `Token at index ${index} (address: ${token.address}, chainId: ${token.chainId}) has 'metadata.tags' which is not an array.`
+          );
+        }
+
+        // Check if all elements in 'tags' array are strings and known
+        if (Array.isArray(token.metadata.tags)) {
+          token.metadata.tags.forEach((tag: string, tagIndex: number) => {
+            if (typeof tag !== "string") {
+              errors.push(
+                `Token at index ${index} (address: ${token.address}, chainId: ${token.chainId}) has a non-string tag at tags[${tagIndex}]: ${tag}`
+              );
+            } else {
+              // Check if the tag is in the allowed list
+              if (!allowedTags.has(tag)) {
+                errors.push(
+                  `Token at index ${index} (address: ${
+                    token.address
+                  }, chainId: ${
+                    token.chainId
+                  }) has unknown tag '${tag}' at tags[${tagIndex}]. Allowed tags are: [${Array.from(
+                    allowedTags
+                  ).join(", ")}]`
+                );
+              }
+            }
+          });
+        }
+      }
+    });
+
+    // If we collected any errors, fail the test with all error messages
+    if (errors.length > 0) {
+      throw new Error(
+        `Found ${errors.length} tag validation errors:\n\n${errors.join(
+          "\n\n"
+        )}`
+      );
+    }
+  });
+
+  // Renamed test for clarity
+  test("token and metadata objects contain only known keys", () => {
+    const allowedTokenKeys = new Set([
+      "chainId",
+      "address",
+      "name",
+      "symbol",
+      "decimals",
+      "metadata",
+      "isWhitelisted",
+    ]);
+
+    const allowedMetadataKeys = new Set([
+      "logoURI",
+      "tags",
+      "alternativeOracle",
+      "alternativeOracles",
+      "alternativeHardcodedOracle",
+      "alternativeHardcodedOracles",
+    ]);
+
+    const errors: string[] = [];
+
+    tokens.forEach((token, index) => {
+      const identifier = `Token at index ${index} (address: ${token.address}, chainId: ${token.chainId})`;
+
+      // Check token keys
+      checkUnknownKeys(token, allowedTokenKeys, identifier, "token", errors);
+
+      // Check metadata keys - This will now correctly flag the nested 'metadata' if present
+      checkUnknownKeys(
+        token.metadata,
+        allowedMetadataKeys,
+        identifier,
+        "metadata",
+        errors
+        // No longer ignoring any keys here
+      );
+    });
+
+    // If we collected any errors, fail the test with all error messages
+    if (errors.length > 0) {
+      throw new Error(
+        `Found ${errors.length} unknown key errors:\n\n${errors.join("\n\n")}`
       );
     }
   });
