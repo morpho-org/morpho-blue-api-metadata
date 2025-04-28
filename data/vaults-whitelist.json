@@ -90,6 +90,27 @@
     ]
   },
   {
+    "address": "0x28d24D4380B26A1Ef305Ad8D8DB258159E472F33",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/mev-usual-vault.png",
+    "description": "The Usual Vault provides a set of USUAL collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+    "curators": [
+      {
+        "name": "MEV Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+        "url": "https://mevcapital.com/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1745847527
+      }
+    ]
+  },
+  {
     "address": "0xF587f2e8AfF7D76618d3B6B4626621860FbD54e3",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/cbbtc.svg",
