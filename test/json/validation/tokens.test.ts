@@ -29,14 +29,17 @@ describe("tokens.json validation", () => {
     (token) => token.chainId === 1 || token.chainId === 8453
   );
 
-  // Helper function to check for unknown keys in an object
+  // Helper function to check for unknown keys in an object.
+  // It ensures that the object only contains keys from the `allowedKeys` set.
+  // `ignoreKeys` can be used to temporarily bypass checks for specific keys,
+  // often because another test handles that specific validation.
   const checkUnknownKeys = (
     obj: Record<string, any> | null | undefined,
     allowedKeys: Set<string>,
     identifier: string,
     objectName: string,
     errors: string[],
-    ignoreKeys: Set<string> = new Set() // Optional set of keys to ignore
+    ignoreKeys: Set<string> = new Set() // Optional: Keys to skip during this check
   ) => {
     if (!obj) return;
 
@@ -310,10 +313,10 @@ describe("tokens.json validation", () => {
     }
   });
 
-  // Updated test to validate metadata structure AND tag values
-  test("metadata structure is correct and tags are known values", () => {
+  // Renamed test focusing on tag validation
+  test("tags array is valid (if present)", () => {
     const errors: string[] = [];
-    // Define the set of allowed tags - expand this list as needed
+    // Define the set of allowed tags
     const allowedTags = new Set([
       "EUR",
       "btc",
@@ -337,21 +340,10 @@ describe("tokens.json validation", () => {
 
     tokens.forEach((token, index) => {
       if (token.metadata) {
-        // Check for nested 'metadata' object using hasOwnProperty to avoid TS errors
-        if (
-          Object.prototype.hasOwnProperty.call(token.metadata, "metadata") &&
-          typeof (token.metadata as any).metadata === "object" && // Cast needed here after hasOwnProperty check
-          (token.metadata as any).metadata !== null
-        ) {
-          errors.push(
-            `Token at index ${index} (address: ${token.address}, chainId: ${token.chainId}) has incorrect nested 'metadata.metadata' structure. Properties like 'tags' should be directly under 'metadata'.`
-          );
-        }
-
         // Check if 'tags' exists and is an array
         if (
           Object.prototype.hasOwnProperty.call(token.metadata, "tags") &&
-          !Array.isArray(token.metadata.tags) // TS knows 'tags' can be string[] | undefined now
+          !Array.isArray(token.metadata.tags)
         ) {
           errors.push(
             `Token at index ${index} (address: ${token.address}, chainId: ${token.chainId}) has 'metadata.tags' which is not an array.`
@@ -387,15 +379,15 @@ describe("tokens.json validation", () => {
     // If we collected any errors, fail the test with all error messages
     if (errors.length > 0) {
       throw new Error(
-        `Found ${errors.length} metadata structure/tag errors:\n\n${errors.join(
+        `Found ${errors.length} tag validation errors:\n\n${errors.join(
           "\n\n"
         )}`
       );
     }
   });
 
-  // Test using the helper function
-  test("no unknown keys are present in token objects", () => {
+  // Renamed test for clarity
+  test("token and metadata objects contain only known keys", () => {
     const allowedTokenKeys = new Set([
       "chainId",
       "address",
@@ -416,7 +408,6 @@ describe("tokens.json validation", () => {
     ]);
 
     const errors: string[] = [];
-    const metadataIgnoreKeys = new Set(["metadata"]); // Temporarily ignore nested 'metadata'
 
     tokens.forEach((token, index) => {
       const identifier = `Token at index ${index} (address: ${token.address}, chainId: ${token.chainId})`;
@@ -424,14 +415,14 @@ describe("tokens.json validation", () => {
       // Check token keys
       checkUnknownKeys(token, allowedTokenKeys, identifier, "token", errors);
 
-      // Check metadata keys
+      // Check metadata keys - This will now correctly flag the nested 'metadata' if present
       checkUnknownKeys(
         token.metadata,
         allowedMetadataKeys,
         identifier,
         "metadata",
-        errors,
-        metadataIgnoreKeys // Pass the set of keys to ignore in metadata
+        errors
+        // No longer ignoring any keys here
       );
     });
 
