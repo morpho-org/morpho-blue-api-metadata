@@ -31,21 +31,16 @@ describe("tokens.json validation", () => {
 
   // Helper function to check for unknown keys in an object.
   // It ensures that the object only contains keys from the `allowedKeys` set.
-  // `ignoreKeys` can be used to temporarily bypass checks for specific keys,
-  // often because another test handles that specific validation.
   const checkUnknownKeys = (
     obj: Record<string, any> | null | undefined,
     allowedKeys: Set<string>,
     identifier: string,
     objectName: string,
-    errors: string[],
-    ignoreKeys: Set<string> = new Set() // Optional: Keys to skip during this check
+    errors: string[]
   ) => {
     if (!obj) return;
 
     Object.keys(obj).forEach((key) => {
-      if (ignoreKeys.has(key)) return; // Skip ignored keys
-
       if (!allowedKeys.has(key)) {
         errors.push(`${identifier} has unknown key in ${objectName}: '${key}'`);
       }
@@ -415,14 +410,13 @@ describe("tokens.json validation", () => {
       // Check token keys
       checkUnknownKeys(token, allowedTokenKeys, identifier, "token", errors);
 
-      // Check metadata keys - This will now correctly flag the nested 'metadata' if present
+      // Check metadata keys
       checkUnknownKeys(
         token.metadata,
         allowedMetadataKeys,
         identifier,
         "metadata",
         errors
-        // No longer ignoring any keys here
       );
     });
 
