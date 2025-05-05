@@ -6010,5 +6010,13 @@
     "description": "PT-sUSDf-25SEP2025-TWAP/USDf",
     "pair": ["PT-sUSDf-25SEP2025", "USDf"],
     "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfb2487Ee6E6a1F51D31E64d969C9F437235633f0",
+    "vendor": "Backed",
+    "description": "bCOIN/USD",
+    "pair": ["bCOIN", "USD"],
+    "decimals": 8
   }
 ]
