@@ -5994,5 +5994,13 @@
     "description": "USDF / USD",
     "pair": ["USDf", "USD"],
     "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xab824b2A1d6ccEd3f97791321dda5338861B49E4",
+    "vendor": "Spectra",
+    "description": "SpectraPriceOracle - PT-cUSDO-1752537609/USDO",
+    "pair": ["PT-cUSDO-1752537609", "USDO"],
+    "decimals": 18
   }
 ]
