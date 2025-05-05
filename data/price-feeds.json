@@ -5837,6 +5837,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xfFA3443Dd520A34692D1b6FEb1D814232f95d914",
+    "vendor": "Pendle",
+    "description": "PT-csUSDL-31JUL2025 / USDL - Pendle Chainlink-compatible Oracle",
+    "pair": ["PT-csUSDL-31JUL2025", "USDL"],
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0x19A5D0bb1200948ADBb6C991494e7292dD8628Cb",
     "vendor": "Frankencoin",
     "description": "xCVX/USD price oracle",
@@ -5999,8 +6007,8 @@
     "chainId": 8453,
     "address": "0xab824b2A1d6ccEd3f97791321dda5338861B49E4",
     "vendor": "Spectra",
-    "description": "SpectraPriceOracle - PT-cUSDO-1752537609/USDO",
-    "pair": ["PT-cUSDO-1752537609", "USDO"],
+    "description": "SpectraPriceOracle - PT-cUSDO-15JUL2025/USDO",
+    "pair": ["PT-cUSDO-15JUL2025", "USDO"],
     "decimals": 18
   },
   {
