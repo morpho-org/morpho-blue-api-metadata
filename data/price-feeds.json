@@ -6002,5 +6002,13 @@
     "description": "SpectraPriceOracle - PT-cUSDO-1752537609/USDO",
     "pair": ["PT-cUSDO-1752537609", "USDO"],
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x6219dABc33cb0C1d340c735c005C4ADc19E21906",
+    "vendor": "Pendle",
+    "description": "PT-sUSDf-25SEP2025-TWAP/USDf",
+    "pair": ["PT-sUSDf-25SEP2025", "USDf"],
+    "decimals": 18
   }
 ]
