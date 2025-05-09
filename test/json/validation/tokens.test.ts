@@ -23,10 +23,11 @@ interface Token {
 }
 
 describe("tokens.json validation", () => {
-  // Load and filter tokens for only chain IDs 1 and 8453
+  // Load and filter tokens for only chain IDs 1 and 8453 or 137
   const allTokens = loadJsonFile("tokens.json") as Token[];
   const tokens = allTokens.filter(
-    (token) => token.chainId === 1 || token.chainId === 8453
+    (token) =>
+      token.chainId === 1 || token.chainId === 8453 || token.chainId === 137
   );
 
   // Helper function to check for unknown keys in an object.
