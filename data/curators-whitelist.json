@@ -25,7 +25,8 @@
       "8453": [
         "0x9E33faAE38ff641094fa68c65c2cE600b3410585",
         "0x5a4E19842e09000a582c20A4f524C26Fb48Dd4D0"
-      ]
+      ],
+      "137": ["0x9E33faAE38ff641094fa68c65c2cE600b3410585"]
     }
   },
   {
@@ -266,6 +267,14 @@
     "verified": true,
     "addresses": {
       "8453": ["0x8b621804a7637b781e2BbD58e256a591F2dF7d51"]
+    },
+    "ownerOnly": true
+  },
+  {
+    "name": "Compound DAO",
+    "verified": true,
+    "addresses": {
+      "137": ["0xCC3E7c85Bb0EE4f09380e041fee95a0caeDD4a02"]
     },
     "ownerOnly": true
   }
