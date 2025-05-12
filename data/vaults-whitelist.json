@@ -48,6 +48,27 @@
     ]
   },
   {
+    "address": "0x341193ED21711472e71aECa4A942123452bd0ddA",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
+    "description": "The Re7 USDC Core vault curated by Re7 Labs is intended to seamlessly allocate USDC liquidity to a selection of high-yield Morpho markets, targeting a higher risk-return profile than Re7 USDC Prime vault.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+    "curators": [
+      {
+        "name": "RE7 Labs",
+        "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+        "url": "https://www.re7.capital",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1747056007
+      }
+    ]
+  },
+  {
     "address": "0x00dfDb8C7295a03DCf1ADfF4D21eB5D9D19FB330",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
