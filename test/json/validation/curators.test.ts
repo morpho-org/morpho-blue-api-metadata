@@ -22,9 +22,6 @@ interface ChainalysisResponse {
   status: string;
 }
 
-// Address to ignore during risk validation
-const IGNORED_ADDRESS = "";
-
 describe("curators-whitelist.json validation", () => {
   const curators = loadJsonFile("curators-whitelist.json") as Curator[];
 
@@ -184,11 +181,6 @@ describe("curators-whitelist.json validation", () => {
           addresses.map(async (address) => {
             try {
               totalAddressesChecked++;
-
-              // Skip risk check for ignored address
-              // if (address === IGNORED_ADDRESS) {
-              //   return;
-              // }
 
               const response = await fetch(
                 `https://api.chainalysis.com/api/risk/v2/entities/${address}`,
