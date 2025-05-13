@@ -3353,6 +3353,27 @@
     ]
   },
   {
+    "address": "0xF91D80E43272DBC610551E8c872E0438d62C1c69",
+    "chainId": 137,
+    "image": "https://cdn.morpho.org/assets/logos/pol.svg",
+    "description": "The Re7 WPOL vault curated by Re7 Labs aims to provide an above-market WPOL yield by supporting high-yield POL markets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+    "curators": [
+      {
+        "name": "RE7 Labs",
+        "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+        "url": "https://www.re7.capital",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1747121370
+      }
+    ]
+  },
+  {
     "address": "0x781FB7F6d845E3bE129289833b04d43Aa8558c42",
     "chainId": 137,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
