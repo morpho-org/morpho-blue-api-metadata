@@ -7167,8 +7167,8 @@
     "chainId": 1,
     "address": "0x6d32736220291D20E927b891ABA976c6FC89891f",
     "vendor": "Steakhouse",
-    "description": "wUSDL / USD exchange rate",
-    "pair": ["wUSDL", "USD"],
+    "description": "wUSDL / USDL exchange rate",
+    "pair": ["wUSDL", "USDL"],
     "decimals": 8
   }
 ]
