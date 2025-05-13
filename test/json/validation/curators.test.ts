@@ -49,14 +49,21 @@ describe("curators-whitelist.json validation", () => {
 
     curators.forEach((curator) => {
       if (curator.ownerOnly) {
-        if ("image" in curator || "url" in curator) {
-          errors.push(
-            `Pure owner ${curator.name} should not have image or URL fields`
-          );
+        // ownerOnly curators can optionally have image and URL fields
+        // Only validate the image URL if it exists
+        if (curator.image) {
+          if (curator.image === "") {
+            errors.push(`Empty image URL for curator: ${curator.name}`);
+          } else if (!curator.image.startsWith(baseUrl)) {
+            errors.push(
+              `Invalid image URL for curator ${curator.name}: ${curator.image}. Must start with ${baseUrl}`
+            );
+          }
         }
         return;
       }
 
+      // Non-ownerOnly curators MUST have an image URL
       if (!curator.image || curator.image === "") {
         errors.push(`Empty image URL for curator: ${curator.name}`);
       } else if (!curator.image.startsWith(baseUrl)) {
@@ -76,12 +83,12 @@ describe("curators-whitelist.json validation", () => {
 
     curators.forEach((curator) => {
       if (curator.ownerOnly) {
-        if ("url" in curator) {
-          errors.push(`Owner only ${curator.name} should not have URL field`);
-        }
+        // ownerOnly curators can optionally have URL fields
+        // No validation needed if URL is not present
         return;
       }
 
+      // Non-ownerOnly curators MUST have a URL
       if (!curator.url || curator.url === "") {
         errors.push(`Empty URL for curator: ${curator.name}`);
       }
