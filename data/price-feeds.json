@@ -6189,14 +6189,6 @@
   },
   {
     "chainId": 137,
-    "address": "0x67935f65D1577ced9f4929D3679A157E95C1c02c",
-    "vendor": "Chainlink",
-    "description": "ETH-USD Total Marketcap",
-    "pair": ["ETH-USD Total Marketcap", ""],
-    "decimals": 8
-  },
-  {
-    "chainId": 137,
     "address": "0xf9184b8E5da48C19fA4E06f83f77742e748cca96",
     "vendor": "Chainlink",
     "description": "AMZN / USD",
@@ -6266,14 +6258,6 @@
     "description": "SOL / USD",
     "pair": ["SOL", "USD"],
     "decimals": 8
-  },
-  {
-    "chainId": 137,
-    "address": "0x1d22c334621364F16f050076eE15Acd5eb8225Ce",
-    "vendor": "Chainlink",
-    "description": "COPW Reserves",
-    "pair": ["COPW Reserves", ""],
-    "decimals": 6
   },
   {
     "chainId": 137,
@@ -6349,14 +6333,6 @@
   },
   {
     "chainId": 137,
-    "address": "0x4517002fCD31062Ea38680dF9Ee37f29528C2707",
-    "vendor": "Chainlink",
-    "description": "bIBTA Reserves",
-    "pair": ["bIBTA Reserves", ""],
-    "decimals": 8
-  },
-  {
-    "chainId": 137,
     "address": "0xd1d85Bf11c28F878EE75BdC39387a2a15E0390b7",
     "vendor": "Chainlink",
     "description": "sUSDe / USDe Exchange Rate",
@@ -6405,14 +6381,6 @@
   },
   {
     "chainId": 137,
-    "address": "0x648E0fF6A36D58F6FCE5927cB77601b73cAdc2Af",
-    "vendor": "Chainlink",
-    "description": "bC3M Reserves",
-    "pair": ["bC3M Reserves", ""],
-    "decimals": 8
-  },
-  {
-    "chainId": 137,
     "address": "0x8d5eB34C509261533235b91350d359EdcB969D33",
     "vendor": "Chainlink",
     "description": "ILS / USD",
@@ -6441,14 +6409,6 @@
     "vendor": "Chainlink",
     "description": "GHST / USD",
     "pair": ["GHST", "USD"],
-    "decimals": 8
-  },
-  {
-    "chainId": 137,
-    "address": "0x187c42f6C0e7395AeA00B1B30CB0fF807ef86d5d",
-    "vendor": "Chainlink",
-    "description": "SPY.US",
-    "pair": ["SPY.US", ""],
     "decimals": 8
   },
   {
@@ -6482,14 +6442,6 @@
     "description": "ILV / ETH",
     "pair": ["ILV", "ETH"],
     "decimals": 18
-  },
-  {
-    "chainId": 137,
-    "address": "0xad4395fc414Fc1575A7a38C20B0Bfdbdb09ee41A",
-    "vendor": "Chainlink",
-    "description": "bIB01 Reserves",
-    "pair": ["bIB01 Reserves", ""],
-    "decimals": 8
   },
   {
     "chainId": 137,
@@ -6538,14 +6490,6 @@
     "description": "ETH / USD",
     "pair": ["ETH", "USD"],
     "decimals": 8
-  },
-  {
-    "chainId": 137,
-    "address": "0xc3E676E68dB28c9Fb2199f25B60560723237cc76",
-    "vendor": "Chainlink",
-    "description": "ibBTC PricePerShare",
-    "pair": ["ibBTC PricePerShare", ""],
-    "decimals": 18
   },
   {
     "chainId": 137,
@@ -6696,16 +6640,8 @@
     "address": "0x3Ea1eC855fBda8bA0396975eC260AD2e9B2Bc01c",
     "vendor": "Chainlink",
     "description": "wstETH-stETH Exchange Rate",
-    "pair": ["wstETH-stETH Exchange Rate", ""],
+    "pair": ["wstETH", "stETH"],
     "decimals": 18
-  },
-  {
-    "chainId": 137,
-    "address": "0xDAFA1989A504c48Ee20a582f2891eeB25E2fA23F",
-    "vendor": "Chainlink",
-    "description": "AAVE Network Emergency Count (Polygon)",
-    "pair": ["AAVE Network Emergency Count (Polygon)", ""],
-    "decimals": 0
   },
   {
     "chainId": 137,
@@ -6729,14 +6665,6 @@
     "vendor": "Chainlink",
     "description": "sUSDe / USD",
     "pair": ["sUSDe", "USD"],
-    "decimals": 8
-  },
-  {
-    "chainId": 137,
-    "address": "0xbd238a35Fb47aE22F0cC551f14ffB8E8f04FCA21",
-    "vendor": "Chainlink",
-    "description": "DOGE-USD Total Marketcap",
-    "pair": ["DOGE-USD Total Marketcap", ""],
     "decimals": 8
   },
   {
@@ -6813,14 +6741,6 @@
   },
   {
     "chainId": 137,
-    "address": "0x18E4058491C3F58bC2f747A9E64cA256Ed6B318d",
-    "vendor": "Chainlink",
-    "description": "BTC-USD Total Marketcap",
-    "pair": ["BTC-USD Total Marketcap", ""],
-    "decimals": 8
-  },
-  {
-    "chainId": 137,
     "address": "0xf9d5AAC6E5572AEFa6bd64108ff86a222F69B64d",
     "vendor": "Chainlink",
     "description": "USDT / ETH",
@@ -6882,14 +6802,6 @@
     "description": "CBETH / ETH",
     "pair": ["CBETH", "ETH"],
     "decimals": 18
-  },
-  {
-    "chainId": 137,
-    "address": "0x4e9fc7480c16F3FE5d956C0759eE6b4808d1F5D7",
-    "vendor": "Chainlink",
-    "description": "CGT PoR (ETH)",
-    "pair": ["CGT PoR (ETH)", ""],
-    "decimals": 8
   },
   {
     "chainId": 137,
@@ -7065,14 +6977,6 @@
     "vendor": "Chainlink",
     "description": "XLM / USD",
     "pair": ["XLM", "USD"],
-    "decimals": 8
-  },
-  {
-    "chainId": 137,
-    "address": "0x55e75d35c44A9EE1A5b05416640965EbcA4a8D33",
-    "vendor": "Chainlink",
-    "description": "bCSPX Reserves",
-    "pair": ["bCSPX Reserves", ""],
     "decimals": 8
   },
   {
