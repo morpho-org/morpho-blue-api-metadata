@@ -6035,1206 +6035,1108 @@
     "pair": ["bCOIN", "USD"],
     "decimals": 8
   },
-  [
-    {
-      "chainId": 137,
-      "address": "0xc907E116054Ad103354f2D350FD2514433D57F6f",
-      "vendor": "Chainlink",
-      "description": "BTC / USD",
-      "pair": ["BTC", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xDE31F8bFBD8c84b5360CFACCa3539B938dd78ae6",
-      "vendor": "Chainlink",
-      "description": "WBTC / USD",
-      "pair": ["WBTC", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x8CE3cAc0E6635ce04783709ca3CC4F5fc5304299",
-      "vendor": "Chainlink",
-      "description": "SGD / USD",
-      "pair": ["SGD", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x218231089Bebb2A31970c3b77E96eCfb3BA006D1",
-      "vendor": "Chainlink",
-      "description": "PHP / USD",
-      "pair": ["PHP", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x2251169D32E7538652a9a8c86bf0c43bFcd956f1",
-      "vendor": "Chainlink",
-      "description": "QUICK / USD",
-      "pair": ["QUICK", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x461c7B8D370a240DdB46B402748381C3210136b3",
-      "vendor": "Chainlink",
-      "description": "XAG / USD",
-      "pair": ["XAG", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x5ec151834040B4D453A1eA46aA634C1773b36084",
-      "vendor": "Chainlink",
-      "description": "CVX / USD",
-      "pair": ["CVX", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xA1CbF3Fe43BC3501e3Fc4b573e822c70e76A7512",
-      "vendor": "Chainlink",
-      "description": "MANA / USD",
-      "pair": ["MANA", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x0C466540B2ee1a31b441671eac0ca886e051E410",
-      "vendor": "Chainlink",
-      "description": "XAU / USD",
-      "pair": ["XAU", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xe638249AF9642CdA55A92245525268482eE4C67b",
-      "vendor": "Chainlink",
-      "description": "GHST / ETH",
-      "pair": ["GHST", "ETH"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0xAB594600376Ec9fD91F8e885dADF0CE036862dE0",
-      "vendor": "Chainlink",
-      "description": "MATIC / USD",
-      "pair": ["MATIC", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x59161117086a4C7A9beDA16C66e40Bdaa1C5a8B6",
-      "vendor": "Chainlink",
-      "description": "DODO / USD",
-      "pair": ["DODO", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x162d8c5bF15eB6BEe003a1ffc4049C92114bc931",
-      "vendor": "Chainlink",
-      "description": "UNI / ETH",
-      "pair": ["UNI", "ETH"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0x6a99EC84819FB7007dd5D032068742604E755c56",
-      "vendor": "Chainlink",
-      "description": "WOO / USD",
-      "pair": ["WOO", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xC43081d9EA6d1c53f1F0e525504d47Dd60de12da",
-      "vendor": "Chainlink",
-      "description": "MSFT / USD",
-      "pair": ["MSFT", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x24B820870F726dA9B0D83B0B28a93885061dbF50",
-      "vendor": "Chainlink",
-      "description": "KRW / USD",
-      "pair": ["KRW", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xc86105DccF9BD629Cea7Fd41f94c6050bF96D57F",
-      "vendor": "Chainlink",
-      "description": "OM / USD",
-      "pair": ["OM", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x7899dd75C329eFe63e35b02bC7d60D3739FB23c5",
-      "vendor": "Chainlink",
-      "description": "KAVA / USD",
-      "pair": ["KAVA", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x7C5D415B64312D38c56B54358449d0a4058339d2",
-      "vendor": "Chainlink",
-      "description": "TUSD / USD",
-      "pair": ["TUSD", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x67935f65D1577ced9f4929D3679A157E95C1c02c",
-      "vendor": "Chainlink",
-      "description": "ETH-USD Total Marketcap",
-      "pair": ["ETH-USD Total Marketcap", ""],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xf9184b8E5da48C19fA4E06f83f77742e748cca96",
-      "vendor": "Chainlink",
-      "description": "AMZN / USD",
-      "pair": ["AMZN", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x9b88d07B2354eF5f4579690356818e07371c7BeD",
-      "vendor": "Chainlink",
-      "description": "AGEUR / USD",
-      "pair": ["AGEUR", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xbaf9327b6564454F4a3364C33eFeEf032b4b4444",
-      "vendor": "Chainlink",
-      "description": "DOGE / USD",
-      "pair": ["DOGE", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x17414Eb5159A082e8d41D243C1601c2944401431",
-      "vendor": "Chainlink",
-      "description": "SUSHI / ETH",
-      "pair": ["SUSHI", "ETH"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0x82a6c4AF830caa6c97bb504425f6A66165C2c26e",
-      "vendor": "Chainlink",
-      "description": "BNB / USD",
-      "pair": ["BNB", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x0fB2beD999da86Cb1Fdd97E746600A96141EeA09",
-      "vendor": "Chainlink",
-      "description": "bNVDA Reserves / PoR",
-      "pair": ["bNVDA Reserves", "PoR"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xFC539A559e170f848323e19dfD66007520510085",
-      "vendor": "Chainlink",
-      "description": "DAI / ETH",
-      "pair": ["DAI", "ETH"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0xa07703E5C2eD1516107c7c72A494493Dcb99C676",
-      "vendor": "Chainlink",
-      "description": "FIL / USD",
-      "pair": ["FIL", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x10C8264C0935b3B9870013e057f330Ff3e9C56dC",
-      "vendor": "Chainlink",
-      "description": "SOL / USD",
-      "pair": ["SOL", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x1d22c334621364F16f050076eE15Acd5eb8225Ce",
-      "vendor": "Chainlink",
-      "description": "COPW Reserves",
-      "pair": ["COPW Reserves", ""],
-      "decimals": 6
-    },
-    {
-      "chainId": 137,
-      "address": "0xfAA9147190c2C2cc5B8387B4f49016bDB3380572",
-      "vendor": "Chainlink",
-      "description": "COP / USD",
-      "pair": ["COP", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xa302a0B8a499fD0f00449df0a490DedE21105955",
-      "vendor": "Chainlink",
-      "description": "NZD / USD",
-      "pair": ["NZD", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x2409987e514Ad8B0973C2b90ee1D95051DF0ECB9",
-      "vendor": "Chainlink",
-      "description": "CHZ / USD",
-      "pair": ["CHZ", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x171b16562EA3476F5C61d1b8dad031DbA0768545",
-      "vendor": "Chainlink",
-      "description": "MXN / USD",
-      "pair": ["MXN", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xF7F291042F6Cbc4deC0Ad75c17786511a530dbe8",
-      "vendor": "Chainlink",
-      "description": "QNT / USD",
-      "pair": ["QNT", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xd9FFdb71EbE7496cC440152d43986Aae0AB76665",
-      "vendor": "Chainlink",
-      "description": "LINK / USD",
-      "pair": ["LINK", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x567E67f456c7453c583B6eFA6F18452cDee1F5a8",
-      "vendor": "Chainlink",
-      "description": "TSLA / USD",
-      "pair": ["TSLA", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xbE23a3AA13038CfC28aFd0ECe4FdE379fE7fBfc4",
-      "vendor": "Chainlink",
-      "description": "AAVE / ETH",
-      "pair": ["AAVE", "ETH"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0x2e48b7924FBe04d575BA229A59b64547d9da16e9",
-      "vendor": "Chainlink",
-      "description": "DPI / USD",
-      "pair": ["DPI", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x4517002fCD31062Ea38680dF9Ee37f29528C2707",
-      "vendor": "Chainlink",
-      "description": "bIBTA Reserves",
-      "pair": ["bIBTA Reserves", ""],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xd1d85Bf11c28F878EE75BdC39387a2a15E0390b7",
-      "vendor": "Chainlink",
-      "description": "sUSDe / USDe Exchange Rate",
-      "pair": ["sUSDe", "USDe Exchange Rate"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0x80a5cb83ce268Ed11a6EFC4bBF0beC39dF35Db21",
-      "vendor": "Chainlink",
-      "description": "IDR / USD",
-      "pair": ["IDR", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x9cb43aa3D036Cb035a694Ba0AAa91f8875B16cE1",
-      "vendor": "Chainlink",
-      "description": "GNS / USD",
-      "pair": ["GNS", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x73366Fe0AA0Ded304479862808e02506FE556a98",
-      "vendor": "Chainlink",
-      "description": "EUR / USD",
-      "pair": ["EUR", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x10f964234cae09cB6a9854B56FF7D4F38Cda5E6a",
-      "vendor": "Chainlink",
-      "description": "WSTETH / ETH",
-      "pair": ["WSTETH", "ETH"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0x3B21a277babcB73b5a2325106FC04Df8AA1aC5b6",
-      "vendor": "Chainlink",
-      "description": "USDS / USD",
-      "pair": ["USDS", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x648E0fF6A36D58F6FCE5927cB77601b73cAdc2Af",
-      "vendor": "Chainlink",
-      "description": "bC3M Reserves",
-      "pair": ["bC3M Reserves", ""],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x8d5eB34C509261533235b91350d359EdcB969D33",
-      "vendor": "Chainlink",
-      "description": "ILS / USD",
-      "pair": ["ILS", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x307cCF7cBD17b69A487b9C3dbe483931Cf3E1833",
-      "vendor": "Chainlink",
-      "description": "TRX / USD",
-      "pair": ["TRX", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x3FabBfb300B1e2D7c9B84512fe9D30aeDF24C410",
-      "vendor": "Chainlink",
-      "description": "GRT / USD",
-      "pair": ["GRT", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xDD229Ce42f11D8Ee7fFf29bDB71C7b81352e11be",
-      "vendor": "Chainlink",
-      "description": "GHST / USD",
-      "pair": ["GHST", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x187c42f6C0e7395AeA00B1B30CB0fF807ef86d5d",
-      "vendor": "Chainlink",
-      "description": "SPY.US",
-      "pair": ["SPY.US", ""],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x10e5f3DFc81B3e5Ef4e648C4454D04e79E1E41E2",
-      "vendor": "Chainlink",
-      "description": "KNC / USD",
-      "pair": ["KNC", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xEB99F173cf7d9a6dC4D889C2Ad7103e8383b6Efa",
-      "vendor": "Chainlink",
-      "description": "LTC / USD",
-      "pair": ["LTC", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x1b32682C033b2DD7EFdC615FA82d353e254F39b5",
-      "vendor": "Chainlink",
-      "description": "GOOGL / USD",
-      "pair": ["GOOGL", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x3636B780588328dc3F5df075De5627DBc9A6BA10",
-      "vendor": "Chainlink",
-      "description": "ILV / ETH",
-      "pair": ["ILV", "ETH"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0xad4395fc414Fc1575A7a38C20B0Bfdbdb09ee41A",
-      "vendor": "Chainlink",
-      "description": "bIB01 Reserves",
-      "pair": ["bIB01 Reserves", ""],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xd4a120c26d57B910C56c910CdD13EeBFA3135502",
-      "vendor": "Chainlink",
-      "description": "ZAR / USD",
-      "pair": ["ZAR", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xB89D583B72aBF9C3a7e6e093251C2fCad3365312",
-      "vendor": "Chainlink",
-      "description": "MLN / ETH",
-      "pair": ["MLN", "ETH"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0x04bB437Aa63E098236FA47365f0268547f6EAB32",
-      "vendor": "Chainlink",
-      "description": "CNY / USD",
-      "pair": ["CNY", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xB34BCE11040702f71c11529D00179B2959BcE6C0",
-      "vendor": "Chainlink",
-      "description": "PLN / USD",
-      "pair": ["PLN", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x03CD157746c61F44597dD54C6f6702105258C722",
-      "vendor": "Chainlink",
-      "description": "BAL / ETH",
-      "pair": ["BAL", "ETH"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0xF9680D99D6C9589e2a93a78A04A279e509205945",
-      "vendor": "Chainlink",
-      "description": "ETH / USD",
-      "pair": ["ETH", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xc3E676E68dB28c9Fb2199f25B60560723237cc76",
-      "vendor": "Chainlink",
-      "description": "ibBTC PricePerShare",
-      "pair": ["ibBTC PricePerShare", ""],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0x2A8758b7257102461BC958279054e372C2b1bDE6",
-      "vendor": "Chainlink",
-      "description": "COMP / USD",
-      "pair": ["COMP", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xed7051d55eeaF85E36053D6b0f2C51E59625B047",
-      "vendor": "Chainlink",
-      "description": "TRUMATIC / MATIC Exchange Rate",
-      "pair": ["TRUMATIC", "MATIC Exchange Rate"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0x9d3A43c111E7b2C6601705D9fcF7a70c95b1dc55",
-      "vendor": "Chainlink",
-      "description": "YFI / USD",
-      "pair": ["YFI", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x0f6914d8e7e1214CDb3A4C6fbf729b75C69DF608",
-      "vendor": "Chainlink",
-      "description": "PAXG / USD",
-      "pair": ["PAXG", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x5787BefDc0ECd210Dfa948264631CD53E68F7802",
-      "vendor": "Chainlink",
-      "description": "LINK / MATIC",
-      "pair": ["LINK", "MATIC"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0x5b4586C911144A947D7814Fd71fe0872b8334748",
-      "vendor": "Chainlink",
-      "description": "FB / USD",
-      "pair": ["FB", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xA338e0492B2F944E9F8C0653D3AD1484f2657a37",
-      "vendor": "Chainlink",
-      "description": "WBTC / ETH",
-      "pair": ["WBTC", "ETH"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0x062Df9C4efd2030e243ffCc398b652e8b8F95C6f",
-      "vendor": "Chainlink",
-      "description": "AUD / USD",
-      "pair": ["AUD", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x864377d3620da9d42451f98674593e067a997308",
-      "vendor": "Chainlink",
-      "description": "MaticX / POL Exchange Rate",
-      "pair": ["MaticX", "POL Exchange Rate"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0xd8d483d813547CfB624b8Dc33a00F2fcbCd2D428",
-      "vendor": "Chainlink",
-      "description": "MIMATIC / USD",
-      "pair": ["MIMATIC", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xacb51F1a83922632ca02B25a8164c10748001BdE",
-      "vendor": "Chainlink",
-      "description": "DOT / USD",
-      "pair": ["DOT", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xBE6FB0AB6302B693368D0E9001fAF77ecc6571db",
-      "vendor": "Chainlink",
-      "description": "XMR / USD",
-      "pair": ["XMR", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xDA0F8Df6F5dB15b346f4B8D1156722027E194E60",
-      "vendor": "Chainlink",
-      "description": "INR / USD",
-      "pair": ["INR", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x5164Ad28fb12a5e55946090Ec3eE1B748AFb3785",
-      "vendor": "Chainlink",
-      "description": "THB / USD",
-      "pair": ["THB", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x58326c0F831b2Dbf7234A4204F28Bba79AA06d5f",
-      "vendor": "Chainlink",
-      "description": "FTM / USD",
-      "pair": ["FTM", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x0A6513e40db6EB1b165753AD52E80663aeA50545",
-      "vendor": "Chainlink",
-      "description": "USDT / USD",
-      "pair": ["USDT", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xD106B538F2A868c28Ca1Ec7E298C3325E0251d66",
-      "vendor": "Chainlink",
-      "description": "BAL / USD",
-      "pair": ["BAL", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x691e26AB58ff05800E028b0876A41B720b26FC65",
-      "vendor": "Chainlink",
-      "description": "XTZ / USD",
-      "pair": ["XTZ", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x3Ea1eC855fBda8bA0396975eC260AD2e9B2Bc01c",
-      "vendor": "Chainlink",
-      "description": "wstETH-stETH Exchange Rate",
-      "pair": ["wstETH-stETH Exchange Rate", ""],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0xDAFA1989A504c48Ee20a582f2891eeB25E2fA23F",
-      "vendor": "Chainlink",
-      "description": "AAVE Network Emergency Count (Polygon)",
-      "pair": ["AAVE Network Emergency Count (Polygon)", ""],
-      "decimals": 0
-    },
-    {
-      "chainId": 137,
-      "address": "0x76631863c2ae7367aF8f37Cd10d251DA7f1DE186",
-      "vendor": "Chainlink",
-      "description": "XPT / USD",
-      "pair": ["XPT", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x785ba89291f676b5386652eB12b30cF361020694",
-      "vendor": "Chainlink",
-      "description": "XRP / USD",
-      "pair": ["XRP", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xe71A04ACe06e2667c7e1c802E998CBf44A6bf53C",
-      "vendor": "Chainlink",
-      "description": "sUSDe / USD",
-      "pair": ["sUSDe", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xbd238a35Fb47aE22F0cC551f14ffB8E8f04FCA21",
-      "vendor": "Chainlink",
-      "description": "DOGE-USD Total Marketcap",
-      "pair": ["DOGE-USD Total Marketcap", ""],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xa070427bF5bA5709f70e98b94Cb2F435a242C46C",
-      "vendor": "Chainlink",
-      "description": "MKR / USD",
-      "pair": ["MKR", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xACA44ABb8B04D07D883202F99FA5E3c53ed57Fb5",
-      "vendor": "Chainlink",
-      "description": "CAD / USD",
-      "pair": ["CAD", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xB90DA3ff54C3ED09115abf6FbA0Ff4645586af2c",
-      "vendor": "Chainlink",
-      "description": "BRL / USD",
-      "pair": ["BRL", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xdf0Fb4e4F928d2dCB76f438575fDD8682386e13C",
-      "vendor": "Chainlink",
-      "description": "UNI / USD",
-      "pair": ["UNI", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xd6285F06203D938ab713Fa6A315e7d23247DDE95",
-      "vendor": "Chainlink",
-      "description": "EOS / USD",
-      "pair": ["EOS", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xd78325DcA0F90F0FFe53cCeA1B02Bb12E1bf8FdB",
-      "vendor": "Chainlink",
-      "description": "TRY / USD",
-      "pair": ["TRY", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xbF90A5D9B6EE9019028dbFc2a9E50056d5252894",
-      "vendor": "Chainlink",
-      "description": "SNX / USD",
-      "pair": ["SNX", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x6C0fe985D3cAcbCdE428b84fc9431792694d0f51",
-      "vendor": "Chainlink",
-      "description": "FXS / USD",
-      "pair": ["FXS", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x2Ac3F3Bfac8fC9094BC3f0F9041a51375235B992",
-      "vendor": "Chainlink",
-      "description": "APE / USD",
-      "pair": ["APE", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x18E4058491C3F58bC2f747A9E64cA256Ed6B318d",
-      "vendor": "Chainlink",
-      "description": "BTC-USD Total Marketcap",
-      "pair": ["BTC-USD Total Marketcap", ""],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xf9d5AAC6E5572AEFa6bd64108ff86a222F69B64d",
-      "vendor": "Chainlink",
-      "description": "USDT / ETH",
-      "pair": ["USDT", "ETH"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0x82C9d4E88862f194C2bd874a106a90dDD0D35AAB",
-      "vendor": "Chainlink",
-      "description": "BADGER / ETH",
-      "pair": ["BADGER", "ETH"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0x9c371aE34509590E10aB98205d2dF5936A1aD875",
-      "vendor": "Chainlink",
-      "description": "AXS / USD",
-      "pair": ["AXS", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x9896A1eA7A00F5f32Ab131eBbeE07487B0af31D0",
-      "vendor": "Chainlink",
-      "description": "YFI / ETH",
-      "pair": ["YFI", "ETH"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0x72484B12719E23115761D5DA1646945632979bB6",
-      "vendor": "Chainlink",
-      "description": "AAVE / USD",
-      "pair": ["AAVE", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xbd92B4919ae82be8473859295dEF0e778A626302",
-      "vendor": "Chainlink",
-      "description": "SEK / USD",
-      "pair": ["SEK", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x49B0c695039243BBfEb8EcD054EB70061fd54aa0",
-      "vendor": "Chainlink",
-      "description": "SUSHI / USD",
-      "pair": ["SUSHI", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x0a6a03CdF7d0b48d4e4BA8e362A4FfC3aAC4f3c0",
-      "vendor": "Chainlink",
-      "description": "CBETH / ETH",
-      "pair": ["CBETH", "ETH"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0x4e9fc7480c16F3FE5d956C0759eE6b4808d1F5D7",
-      "vendor": "Chainlink",
-      "description": "CGT PoR (ETH)",
-      "pair": ["CGT PoR (ETH)", ""],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x336584C8E6Dc19637A5b36206B1c79923111b405",
-      "vendor": "Chainlink",
-      "description": "CRV / USD",
-      "pair": ["CRV", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x38611b09F8f2D520c14eA973765C225Bf57B9Eac",
-      "vendor": "Chainlink",
-      "description": "THETA / USD",
-      "pair": ["THETA", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x807b59d12520830D1864286FA0271c27baa94197",
-      "vendor": "Chainlink",
-      "description": "MKR / ETH",
-      "pair": ["MKR", "ETH"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0xefb7e6be8356cCc6827799B6A7348eE674A80EaE",
-      "vendor": "Chainlink",
-      "description": "USDC / ETH",
-      "pair": ["USDC", "ETH"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0x8Ec0eC2e0F26D8253ABf39Db4B1793D76B49C6D5",
-      "vendor": "Chainlink",
-      "description": "OGN / USD",
-      "pair": ["OGN", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x327d9822e9932996f55b39F557AEC838313da8b7",
-      "vendor": "Chainlink",
-      "description": "BCH / USD",
-      "pair": ["BCH", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x817A7D43f0277Ca480AE03Ec76Fc63A2EC7114bA",
-      "vendor": "Chainlink",
-      "description": "FTT / USD",
-      "pair": ["FTT", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xD647a6fC9BC6402301583C91decC5989d8Bc382D",
-      "vendor": "Chainlink",
-      "description": "JPY / USD",
-      "pair": ["JPY", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x97371dF4492605486e23Da797fA68e55Fc38a13f",
-      "vendor": "Chainlink",
-      "description": "Calculated stMATIC / USD",
-      "pair": ["Calculated stMATIC", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xD94427eDee70E4991b4b8DdCc848f2B58ED01C0b",
-      "vendor": "Chainlink",
-      "description": "DASH / USD",
-      "pair": ["DASH", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x00DBeB1e45485d53DF7C2F0dF1Aa0b6Dc30311d3",
-      "vendor": "Chainlink",
-      "description": "FRAX / USD",
-      "pair": ["FRAX", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xBB3eF70953fC3766bec4Ab7A9BF05B6E4caf89c6",
-      "vendor": "Chainlink",
-      "description": "SLP / USD",
-      "pair": ["SLP", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x3710abeb1A0Fc7C2EC59C26c8DAA7a448ff6125A",
-      "vendor": "Chainlink",
-      "description": "SHIB / USD",
-      "pair": ["SHIB", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x3D49406EDd4D52Fb7FFd25485f32E073b529C924",
-      "vendor": "Chainlink",
-      "description": "SAND / USD",
-      "pair": ["SAND", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x19b0F0833C78c0848109E3842D34d2fDF2cA69BA",
-      "vendor": "Chainlink",
-      "description": "BTC / ETH",
-      "pair": ["BTC", "ETH"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0x2346Ce62bd732c62618944E51cbFa09D985d86D2",
-      "vendor": "Chainlink",
-      "description": "BAT / USD",
-      "pair": ["BAT", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xe01eA2fbd8D76ee323FbEd03eB9a8625EC981A10",
-      "vendor": "Chainlink",
-      "description": "AVAX / USD",
-      "pair": ["AVAX", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x327e23A4855b6F663a28c5161541d69Af8973302",
-      "vendor": "Chainlink",
-      "description": "MATIC / ETH",
-      "pair": ["MATIC", "ETH"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0x443C5116CdF663Eb387e72C688D276e702135C87",
-      "vendor": "Chainlink",
-      "description": "1INCH / USD",
-      "pair": ["1INCH", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x5c3890e86f3E7Ed7F5390532De147953580f1605",
-      "vendor": "Chainlink",
-      "description": "USDe / USD",
-      "pair": ["USDe", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xF626964Ba5e81405f47e8004F0b276Bb974742B5",
-      "vendor": "Chainlink",
-      "description": "BADGER / USD",
-      "pair": ["BADGER", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x692AE5510cA9070095A496dbcFBCDA99D4024Cd9",
-      "vendor": "Chainlink",
-      "description": "XLM / USD",
-      "pair": ["XLM", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x55e75d35c44A9EE1A5b05416640965EbcA4a8D33",
-      "vendor": "Chainlink",
-      "description": "bCSPX Reserves",
-      "pair": ["bCSPX Reserves", ""],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xDf3f72Be10d194b58B1BB56f2c4183e661cB2114",
-      "vendor": "Chainlink",
-      "description": "ETC / USD",
-      "pair": ["ETC", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xC70aAF9092De3a4E5000956E672cDf5E996B4610",
-      "vendor": "Chainlink",
-      "description": "DPI / ETH",
-      "pair": ["DPI", "ETH"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0x03Bc6D9EFed65708D35fDaEfb25E87631a0a3437",
-      "vendor": "Chainlink",
-      "description": "ALGO / USD",
-      "pair": ["ALGO", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x0F1d5Bd7be9B30Fc09E110cd6504Bd450e53cb0E",
-      "vendor": "Chainlink",
-      "description": "STORJ / USD",
-      "pair": ["STORJ", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xC5878bDf8a89FA3bF0DC8389ae8EE6DE601D01bC",
-      "vendor": "Chainlink",
-      "description": "HBAR / USD",
-      "pair": ["HBAR", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xfE4A8cc5b5B2366C1B58Bea3858e81843581b2F7",
-      "vendor": "Chainlink",
-      "description": "USDC / USD",
-      "pair": ["USDC", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x099a2540848573e94fb1Ca0Fa420b00acbBc845a",
-      "vendor": "Chainlink",
-      "description": "GBP / USD",
-      "pair": ["GBP", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x7E7B45b08F68EC69A99AAb12e42FcCB078e10094",
-      "vendor": "Chainlink",
-      "description": "AAPL / USD",
-      "pair": ["AAPL", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x5DB6e61B6159B20F068dc15A47dF2E5931b14f29",
-      "vendor": "Chainlink",
-      "description": "ALCX / USD",
-      "pair": ["ALCX", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x882554df528115a743c4537828DA8D5B58e52544",
-      "vendor": "Chainlink",
-      "description": "ADA / USD",
-      "pair": ["ADA", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x4746DeC9e833A82EC7C2C1356372CcF2cfcD2F3D",
-      "vendor": "Chainlink",
-      "description": "DAI / USD",
-      "pair": ["DAI", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xb77fa460604b9C6435A235D057F7D319AC83cb53",
-      "vendor": "Chainlink",
-      "description": "LINK / ETH",
-      "pair": ["LINK", "ETH"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0x4205eC5fd179A843caa7B0860a8eC7D980013359",
-      "vendor": "Chainlink",
-      "description": "DGB / USD",
-      "pair": ["DGB", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xBC08c639e579a391C4228F20d0C29d0690092DF0",
-      "vendor": "Chainlink",
-      "description": "ZEC / USD",
-      "pair": ["ZEC", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x33D9B1BAaDcF4b26ab6F8E83e9cb8a611B2B3956",
-      "vendor": "Chainlink",
-      "description": "UMA / USD",
-      "pair": ["UMA", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x1CF68C76803c9A415bE301f50E82e44c64B7F1D4",
-      "vendor": "Chainlink",
-      "description": "CRV / ETH",
-      "pair": ["CRV", "ETH"],
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
-      "address": "0x5d37E4b374E6907de8Fc7fb33EE3b0af403C7403",
-      "vendor": "Chainlink",
-      "description": "Calculated MaticX / USD",
-      "pair": ["Calculated MaticX", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0x84227A76a04289473057BEF706646199D7C58c34",
-      "vendor": "Chainlink",
-      "description": "ICP / USD",
-      "pair": ["ICP", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xc76f762CedF0F78a439727861628E0fdfE1e70c2",
-      "vendor": "Chainlink",
-      "description": "CHF / USD",
-      "pair": ["CHF", "USD"],
-      "decimals": 8
-    },
-    {
-      "chainId": 137,
-      "address": "0xaca1222008C6Ea624522163174F80E6e17B0709A",
-      "vendor": "Chainlink",
-      "description": "WBTC / USD",
-      "pair": ["WBTC", "USD"],
-      "decimals": 8
-    }
-  ]
+  {
+    "chainId": 137,
+    "address": "0xc907E116054Ad103354f2D350FD2514433D57F6f",
+    "vendor": "Chainlink",
+    "description": "BTC / USD",
+    "pair": ["BTC", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xDE31F8bFBD8c84b5360CFACCa3539B938dd78ae6",
+    "vendor": "Chainlink",
+    "description": "WBTC / USD",
+    "pair": ["WBTC", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x8CE3cAc0E6635ce04783709ca3CC4F5fc5304299",
+    "vendor": "Chainlink",
+    "description": "SGD / USD",
+    "pair": ["SGD", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x218231089Bebb2A31970c3b77E96eCfb3BA006D1",
+    "vendor": "Chainlink",
+    "description": "PHP / USD",
+    "pair": ["PHP", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x2251169D32E7538652a9a8c86bf0c43bFcd956f1",
+    "vendor": "Chainlink",
+    "description": "QUICK / USD",
+    "pair": ["QUICK", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x461c7B8D370a240DdB46B402748381C3210136b3",
+    "vendor": "Chainlink",
+    "description": "XAG / USD",
+    "pair": ["XAG", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x5ec151834040B4D453A1eA46aA634C1773b36084",
+    "vendor": "Chainlink",
+    "description": "CVX / USD",
+    "pair": ["CVX", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xA1CbF3Fe43BC3501e3Fc4b573e822c70e76A7512",
+    "vendor": "Chainlink",
+    "description": "MANA / USD",
+    "pair": ["MANA", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x0C466540B2ee1a31b441671eac0ca886e051E410",
+    "vendor": "Chainlink",
+    "description": "XAU / USD",
+    "pair": ["XAU", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xe638249AF9642CdA55A92245525268482eE4C67b",
+    "vendor": "Chainlink",
+    "description": "GHST / ETH",
+    "pair": ["GHST", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0xAB594600376Ec9fD91F8e885dADF0CE036862dE0",
+    "vendor": "Chainlink",
+    "description": "MATIC / USD",
+    "pair": ["MATIC", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x59161117086a4C7A9beDA16C66e40Bdaa1C5a8B6",
+    "vendor": "Chainlink",
+    "description": "DODO / USD",
+    "pair": ["DODO", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x162d8c5bF15eB6BEe003a1ffc4049C92114bc931",
+    "vendor": "Chainlink",
+    "description": "UNI / ETH",
+    "pair": ["UNI", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0x6a99EC84819FB7007dd5D032068742604E755c56",
+    "vendor": "Chainlink",
+    "description": "WOO / USD",
+    "pair": ["WOO", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xC43081d9EA6d1c53f1F0e525504d47Dd60de12da",
+    "vendor": "Chainlink",
+    "description": "MSFT / USD",
+    "pair": ["MSFT", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x24B820870F726dA9B0D83B0B28a93885061dbF50",
+    "vendor": "Chainlink",
+    "description": "KRW / USD",
+    "pair": ["KRW", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xc86105DccF9BD629Cea7Fd41f94c6050bF96D57F",
+    "vendor": "Chainlink",
+    "description": "OM / USD",
+    "pair": ["OM", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x7899dd75C329eFe63e35b02bC7d60D3739FB23c5",
+    "vendor": "Chainlink",
+    "description": "KAVA / USD",
+    "pair": ["KAVA", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x7C5D415B64312D38c56B54358449d0a4058339d2",
+    "vendor": "Chainlink",
+    "description": "TUSD / USD",
+    "pair": ["TUSD", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xf9184b8E5da48C19fA4E06f83f77742e748cca96",
+    "vendor": "Chainlink",
+    "description": "AMZN / USD",
+    "pair": ["AMZN", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x9b88d07B2354eF5f4579690356818e07371c7BeD",
+    "vendor": "Chainlink",
+    "description": "AGEUR / USD",
+    "pair": ["AGEUR", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xbaf9327b6564454F4a3364C33eFeEf032b4b4444",
+    "vendor": "Chainlink",
+    "description": "DOGE / USD",
+    "pair": ["DOGE", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x17414Eb5159A082e8d41D243C1601c2944401431",
+    "vendor": "Chainlink",
+    "description": "SUSHI / ETH",
+    "pair": ["SUSHI", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0x82a6c4AF830caa6c97bb504425f6A66165C2c26e",
+    "vendor": "Chainlink",
+    "description": "BNB / USD",
+    "pair": ["BNB", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x0fB2beD999da86Cb1Fdd97E746600A96141EeA09",
+    "vendor": "Chainlink",
+    "description": "bNVDA Reserves / PoR",
+    "pair": ["bNVDA Reserves", "PoR"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xFC539A559e170f848323e19dfD66007520510085",
+    "vendor": "Chainlink",
+    "description": "DAI / ETH",
+    "pair": ["DAI", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0xa07703E5C2eD1516107c7c72A494493Dcb99C676",
+    "vendor": "Chainlink",
+    "description": "FIL / USD",
+    "pair": ["FIL", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x10C8264C0935b3B9870013e057f330Ff3e9C56dC",
+    "vendor": "Chainlink",
+    "description": "SOL / USD",
+    "pair": ["SOL", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xfAA9147190c2C2cc5B8387B4f49016bDB3380572",
+    "vendor": "Chainlink",
+    "description": "COP / USD",
+    "pair": ["COP", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xa302a0B8a499fD0f00449df0a490DedE21105955",
+    "vendor": "Chainlink",
+    "description": "NZD / USD",
+    "pair": ["NZD", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x2409987e514Ad8B0973C2b90ee1D95051DF0ECB9",
+    "vendor": "Chainlink",
+    "description": "CHZ / USD",
+    "pair": ["CHZ", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x171b16562EA3476F5C61d1b8dad031DbA0768545",
+    "vendor": "Chainlink",
+    "description": "MXN / USD",
+    "pair": ["MXN", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xF7F291042F6Cbc4deC0Ad75c17786511a530dbe8",
+    "vendor": "Chainlink",
+    "description": "QNT / USD",
+    "pair": ["QNT", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xd9FFdb71EbE7496cC440152d43986Aae0AB76665",
+    "vendor": "Chainlink",
+    "description": "LINK / USD",
+    "pair": ["LINK", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x567E67f456c7453c583B6eFA6F18452cDee1F5a8",
+    "vendor": "Chainlink",
+    "description": "TSLA / USD",
+    "pair": ["TSLA", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xbE23a3AA13038CfC28aFd0ECe4FdE379fE7fBfc4",
+    "vendor": "Chainlink",
+    "description": "AAVE / ETH",
+    "pair": ["AAVE", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0x2e48b7924FBe04d575BA229A59b64547d9da16e9",
+    "vendor": "Chainlink",
+    "description": "DPI / USD",
+    "pair": ["DPI", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xd1d85Bf11c28F878EE75BdC39387a2a15E0390b7",
+    "vendor": "Chainlink",
+    "description": "sUSDe / USDe Exchange Rate",
+    "pair": ["sUSDe", "USDe Exchange Rate"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0x80a5cb83ce268Ed11a6EFC4bBF0beC39dF35Db21",
+    "vendor": "Chainlink",
+    "description": "IDR / USD",
+    "pair": ["IDR", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x9cb43aa3D036Cb035a694Ba0AAa91f8875B16cE1",
+    "vendor": "Chainlink",
+    "description": "GNS / USD",
+    "pair": ["GNS", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x73366Fe0AA0Ded304479862808e02506FE556a98",
+    "vendor": "Chainlink",
+    "description": "EUR / USD",
+    "pair": ["EUR", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x10f964234cae09cB6a9854B56FF7D4F38Cda5E6a",
+    "vendor": "Chainlink",
+    "description": "WSTETH / ETH",
+    "pair": ["WSTETH", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0x3B21a277babcB73b5a2325106FC04Df8AA1aC5b6",
+    "vendor": "Chainlink",
+    "description": "USDS / USD",
+    "pair": ["USDS", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x8d5eB34C509261533235b91350d359EdcB969D33",
+    "vendor": "Chainlink",
+    "description": "ILS / USD",
+    "pair": ["ILS", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x307cCF7cBD17b69A487b9C3dbe483931Cf3E1833",
+    "vendor": "Chainlink",
+    "description": "TRX / USD",
+    "pair": ["TRX", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x3FabBfb300B1e2D7c9B84512fe9D30aeDF24C410",
+    "vendor": "Chainlink",
+    "description": "GRT / USD",
+    "pair": ["GRT", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xDD229Ce42f11D8Ee7fFf29bDB71C7b81352e11be",
+    "vendor": "Chainlink",
+    "description": "GHST / USD",
+    "pair": ["GHST", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x10e5f3DFc81B3e5Ef4e648C4454D04e79E1E41E2",
+    "vendor": "Chainlink",
+    "description": "KNC / USD",
+    "pair": ["KNC", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xEB99F173cf7d9a6dC4D889C2Ad7103e8383b6Efa",
+    "vendor": "Chainlink",
+    "description": "LTC / USD",
+    "pair": ["LTC", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x1b32682C033b2DD7EFdC615FA82d353e254F39b5",
+    "vendor": "Chainlink",
+    "description": "GOOGL / USD",
+    "pair": ["GOOGL", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x3636B780588328dc3F5df075De5627DBc9A6BA10",
+    "vendor": "Chainlink",
+    "description": "ILV / ETH",
+    "pair": ["ILV", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0xd4a120c26d57B910C56c910CdD13EeBFA3135502",
+    "vendor": "Chainlink",
+    "description": "ZAR / USD",
+    "pair": ["ZAR", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xB89D583B72aBF9C3a7e6e093251C2fCad3365312",
+    "vendor": "Chainlink",
+    "description": "MLN / ETH",
+    "pair": ["MLN", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0x04bB437Aa63E098236FA47365f0268547f6EAB32",
+    "vendor": "Chainlink",
+    "description": "CNY / USD",
+    "pair": ["CNY", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xB34BCE11040702f71c11529D00179B2959BcE6C0",
+    "vendor": "Chainlink",
+    "description": "PLN / USD",
+    "pair": ["PLN", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x03CD157746c61F44597dD54C6f6702105258C722",
+    "vendor": "Chainlink",
+    "description": "BAL / ETH",
+    "pair": ["BAL", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0xF9680D99D6C9589e2a93a78A04A279e509205945",
+    "vendor": "Chainlink",
+    "description": "ETH / USD",
+    "pair": ["ETH", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x2A8758b7257102461BC958279054e372C2b1bDE6",
+    "vendor": "Chainlink",
+    "description": "COMP / USD",
+    "pair": ["COMP", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xed7051d55eeaF85E36053D6b0f2C51E59625B047",
+    "vendor": "Chainlink",
+    "description": "TRUMATIC / MATIC Exchange Rate",
+    "pair": ["TRUMATIC", "MATIC Exchange Rate"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0x9d3A43c111E7b2C6601705D9fcF7a70c95b1dc55",
+    "vendor": "Chainlink",
+    "description": "YFI / USD",
+    "pair": ["YFI", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x0f6914d8e7e1214CDb3A4C6fbf729b75C69DF608",
+    "vendor": "Chainlink",
+    "description": "PAXG / USD",
+    "pair": ["PAXG", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x5787BefDc0ECd210Dfa948264631CD53E68F7802",
+    "vendor": "Chainlink",
+    "description": "LINK / MATIC",
+    "pair": ["LINK", "MATIC"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0x5b4586C911144A947D7814Fd71fe0872b8334748",
+    "vendor": "Chainlink",
+    "description": "FB / USD",
+    "pair": ["FB", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xA338e0492B2F944E9F8C0653D3AD1484f2657a37",
+    "vendor": "Chainlink",
+    "description": "WBTC / ETH",
+    "pair": ["WBTC", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0x062Df9C4efd2030e243ffCc398b652e8b8F95C6f",
+    "vendor": "Chainlink",
+    "description": "AUD / USD",
+    "pair": ["AUD", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x864377d3620da9d42451f98674593e067a997308",
+    "vendor": "Chainlink",
+    "description": "MaticX / POL Exchange Rate",
+    "pair": ["MaticX", "POL Exchange Rate"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0xd8d483d813547CfB624b8Dc33a00F2fcbCd2D428",
+    "vendor": "Chainlink",
+    "description": "MIMATIC / USD",
+    "pair": ["MIMATIC", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xacb51F1a83922632ca02B25a8164c10748001BdE",
+    "vendor": "Chainlink",
+    "description": "DOT / USD",
+    "pair": ["DOT", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xBE6FB0AB6302B693368D0E9001fAF77ecc6571db",
+    "vendor": "Chainlink",
+    "description": "XMR / USD",
+    "pair": ["XMR", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xDA0F8Df6F5dB15b346f4B8D1156722027E194E60",
+    "vendor": "Chainlink",
+    "description": "INR / USD",
+    "pair": ["INR", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x5164Ad28fb12a5e55946090Ec3eE1B748AFb3785",
+    "vendor": "Chainlink",
+    "description": "THB / USD",
+    "pair": ["THB", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x58326c0F831b2Dbf7234A4204F28Bba79AA06d5f",
+    "vendor": "Chainlink",
+    "description": "FTM / USD",
+    "pair": ["FTM", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x0A6513e40db6EB1b165753AD52E80663aeA50545",
+    "vendor": "Chainlink",
+    "description": "USDT / USD",
+    "pair": ["USDT", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xD106B538F2A868c28Ca1Ec7E298C3325E0251d66",
+    "vendor": "Chainlink",
+    "description": "BAL / USD",
+    "pair": ["BAL", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x691e26AB58ff05800E028b0876A41B720b26FC65",
+    "vendor": "Chainlink",
+    "description": "XTZ / USD",
+    "pair": ["XTZ", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x3Ea1eC855fBda8bA0396975eC260AD2e9B2Bc01c",
+    "vendor": "Chainlink",
+    "description": "wstETH-stETH Exchange Rate",
+    "pair": ["wstETH", "stETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0x76631863c2ae7367aF8f37Cd10d251DA7f1DE186",
+    "vendor": "Chainlink",
+    "description": "XPT / USD",
+    "pair": ["XPT", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x785ba89291f676b5386652eB12b30cF361020694",
+    "vendor": "Chainlink",
+    "description": "XRP / USD",
+    "pair": ["XRP", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xe71A04ACe06e2667c7e1c802E998CBf44A6bf53C",
+    "vendor": "Chainlink",
+    "description": "sUSDe / USD",
+    "pair": ["sUSDe", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xa070427bF5bA5709f70e98b94Cb2F435a242C46C",
+    "vendor": "Chainlink",
+    "description": "MKR / USD",
+    "pair": ["MKR", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xACA44ABb8B04D07D883202F99FA5E3c53ed57Fb5",
+    "vendor": "Chainlink",
+    "description": "CAD / USD",
+    "pair": ["CAD", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xB90DA3ff54C3ED09115abf6FbA0Ff4645586af2c",
+    "vendor": "Chainlink",
+    "description": "BRL / USD",
+    "pair": ["BRL", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xdf0Fb4e4F928d2dCB76f438575fDD8682386e13C",
+    "vendor": "Chainlink",
+    "description": "UNI / USD",
+    "pair": ["UNI", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xd6285F06203D938ab713Fa6A315e7d23247DDE95",
+    "vendor": "Chainlink",
+    "description": "EOS / USD",
+    "pair": ["EOS", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xd78325DcA0F90F0FFe53cCeA1B02Bb12E1bf8FdB",
+    "vendor": "Chainlink",
+    "description": "TRY / USD",
+    "pair": ["TRY", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xbF90A5D9B6EE9019028dbFc2a9E50056d5252894",
+    "vendor": "Chainlink",
+    "description": "SNX / USD",
+    "pair": ["SNX", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x6C0fe985D3cAcbCdE428b84fc9431792694d0f51",
+    "vendor": "Chainlink",
+    "description": "FXS / USD",
+    "pair": ["FXS", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x2Ac3F3Bfac8fC9094BC3f0F9041a51375235B992",
+    "vendor": "Chainlink",
+    "description": "APE / USD",
+    "pair": ["APE", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xf9d5AAC6E5572AEFa6bd64108ff86a222F69B64d",
+    "vendor": "Chainlink",
+    "description": "USDT / ETH",
+    "pair": ["USDT", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0x82C9d4E88862f194C2bd874a106a90dDD0D35AAB",
+    "vendor": "Chainlink",
+    "description": "BADGER / ETH",
+    "pair": ["BADGER", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0x9c371aE34509590E10aB98205d2dF5936A1aD875",
+    "vendor": "Chainlink",
+    "description": "AXS / USD",
+    "pair": ["AXS", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x9896A1eA7A00F5f32Ab131eBbeE07487B0af31D0",
+    "vendor": "Chainlink",
+    "description": "YFI / ETH",
+    "pair": ["YFI", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0x72484B12719E23115761D5DA1646945632979bB6",
+    "vendor": "Chainlink",
+    "description": "AAVE / USD",
+    "pair": ["AAVE", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xbd92B4919ae82be8473859295dEF0e778A626302",
+    "vendor": "Chainlink",
+    "description": "SEK / USD",
+    "pair": ["SEK", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x49B0c695039243BBfEb8EcD054EB70061fd54aa0",
+    "vendor": "Chainlink",
+    "description": "SUSHI / USD",
+    "pair": ["SUSHI", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x0a6a03CdF7d0b48d4e4BA8e362A4FfC3aAC4f3c0",
+    "vendor": "Chainlink",
+    "description": "CBETH / ETH",
+    "pair": ["CBETH", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0x336584C8E6Dc19637A5b36206B1c79923111b405",
+    "vendor": "Chainlink",
+    "description": "CRV / USD",
+    "pair": ["CRV", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x38611b09F8f2D520c14eA973765C225Bf57B9Eac",
+    "vendor": "Chainlink",
+    "description": "THETA / USD",
+    "pair": ["THETA", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x807b59d12520830D1864286FA0271c27baa94197",
+    "vendor": "Chainlink",
+    "description": "MKR / ETH",
+    "pair": ["MKR", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0xefb7e6be8356cCc6827799B6A7348eE674A80EaE",
+    "vendor": "Chainlink",
+    "description": "USDC / ETH",
+    "pair": ["USDC", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0x8Ec0eC2e0F26D8253ABf39Db4B1793D76B49C6D5",
+    "vendor": "Chainlink",
+    "description": "OGN / USD",
+    "pair": ["OGN", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x327d9822e9932996f55b39F557AEC838313da8b7",
+    "vendor": "Chainlink",
+    "description": "BCH / USD",
+    "pair": ["BCH", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x817A7D43f0277Ca480AE03Ec76Fc63A2EC7114bA",
+    "vendor": "Chainlink",
+    "description": "FTT / USD",
+    "pair": ["FTT", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xD647a6fC9BC6402301583C91decC5989d8Bc382D",
+    "vendor": "Chainlink",
+    "description": "JPY / USD",
+    "pair": ["JPY", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x97371dF4492605486e23Da797fA68e55Fc38a13f",
+    "vendor": "Chainlink",
+    "description": "Calculated stMATIC / USD",
+    "pair": ["Calculated stMATIC", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xD94427eDee70E4991b4b8DdCc848f2B58ED01C0b",
+    "vendor": "Chainlink",
+    "description": "DASH / USD",
+    "pair": ["DASH", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x00DBeB1e45485d53DF7C2F0dF1Aa0b6Dc30311d3",
+    "vendor": "Chainlink",
+    "description": "FRAX / USD",
+    "pair": ["FRAX", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xBB3eF70953fC3766bec4Ab7A9BF05B6E4caf89c6",
+    "vendor": "Chainlink",
+    "description": "SLP / USD",
+    "pair": ["SLP", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x3710abeb1A0Fc7C2EC59C26c8DAA7a448ff6125A",
+    "vendor": "Chainlink",
+    "description": "SHIB / USD",
+    "pair": ["SHIB", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x3D49406EDd4D52Fb7FFd25485f32E073b529C924",
+    "vendor": "Chainlink",
+    "description": "SAND / USD",
+    "pair": ["SAND", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x19b0F0833C78c0848109E3842D34d2fDF2cA69BA",
+    "vendor": "Chainlink",
+    "description": "BTC / ETH",
+    "pair": ["BTC", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0x2346Ce62bd732c62618944E51cbFa09D985d86D2",
+    "vendor": "Chainlink",
+    "description": "BAT / USD",
+    "pair": ["BAT", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xe01eA2fbd8D76ee323FbEd03eB9a8625EC981A10",
+    "vendor": "Chainlink",
+    "description": "AVAX / USD",
+    "pair": ["AVAX", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x327e23A4855b6F663a28c5161541d69Af8973302",
+    "vendor": "Chainlink",
+    "description": "MATIC / ETH",
+    "pair": ["MATIC", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0x443C5116CdF663Eb387e72C688D276e702135C87",
+    "vendor": "Chainlink",
+    "description": "1INCH / USD",
+    "pair": ["1INCH", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x5c3890e86f3E7Ed7F5390532De147953580f1605",
+    "vendor": "Chainlink",
+    "description": "USDe / USD",
+    "pair": ["USDe", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xF626964Ba5e81405f47e8004F0b276Bb974742B5",
+    "vendor": "Chainlink",
+    "description": "BADGER / USD",
+    "pair": ["BADGER", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x692AE5510cA9070095A496dbcFBCDA99D4024Cd9",
+    "vendor": "Chainlink",
+    "description": "XLM / USD",
+    "pair": ["XLM", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xDf3f72Be10d194b58B1BB56f2c4183e661cB2114",
+    "vendor": "Chainlink",
+    "description": "ETC / USD",
+    "pair": ["ETC", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xC70aAF9092De3a4E5000956E672cDf5E996B4610",
+    "vendor": "Chainlink",
+    "description": "DPI / ETH",
+    "pair": ["DPI", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0x03Bc6D9EFed65708D35fDaEfb25E87631a0a3437",
+    "vendor": "Chainlink",
+    "description": "ALGO / USD",
+    "pair": ["ALGO", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x0F1d5Bd7be9B30Fc09E110cd6504Bd450e53cb0E",
+    "vendor": "Chainlink",
+    "description": "STORJ / USD",
+    "pair": ["STORJ", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xC5878bDf8a89FA3bF0DC8389ae8EE6DE601D01bC",
+    "vendor": "Chainlink",
+    "description": "HBAR / USD",
+    "pair": ["HBAR", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xfE4A8cc5b5B2366C1B58Bea3858e81843581b2F7",
+    "vendor": "Chainlink",
+    "description": "USDC / USD",
+    "pair": ["USDC", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x099a2540848573e94fb1Ca0Fa420b00acbBc845a",
+    "vendor": "Chainlink",
+    "description": "GBP / USD",
+    "pair": ["GBP", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x7E7B45b08F68EC69A99AAb12e42FcCB078e10094",
+    "vendor": "Chainlink",
+    "description": "AAPL / USD",
+    "pair": ["AAPL", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x5DB6e61B6159B20F068dc15A47dF2E5931b14f29",
+    "vendor": "Chainlink",
+    "description": "ALCX / USD",
+    "pair": ["ALCX", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x882554df528115a743c4537828DA8D5B58e52544",
+    "vendor": "Chainlink",
+    "description": "ADA / USD",
+    "pair": ["ADA", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x4746DeC9e833A82EC7C2C1356372CcF2cfcD2F3D",
+    "vendor": "Chainlink",
+    "description": "DAI / USD",
+    "pair": ["DAI", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xb77fa460604b9C6435A235D057F7D319AC83cb53",
+    "vendor": "Chainlink",
+    "description": "LINK / ETH",
+    "pair": ["LINK", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0x4205eC5fd179A843caa7B0860a8eC7D980013359",
+    "vendor": "Chainlink",
+    "description": "DGB / USD",
+    "pair": ["DGB", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xBC08c639e579a391C4228F20d0C29d0690092DF0",
+    "vendor": "Chainlink",
+    "description": "ZEC / USD",
+    "pair": ["ZEC", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x33D9B1BAaDcF4b26ab6F8E83e9cb8a611B2B3956",
+    "vendor": "Chainlink",
+    "description": "UMA / USD",
+    "pair": ["UMA", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x1CF68C76803c9A415bE301f50E82e44c64B7F1D4",
+    "vendor": "Chainlink",
+    "description": "CRV / ETH",
+    "pair": ["CRV", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0x5d37E4b374E6907de8Fc7fb33EE3b0af403C7403",
+    "vendor": "Chainlink",
+    "description": "Calculated MaticX / USD",
+    "pair": ["Calculated MaticX", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x84227A76a04289473057BEF706646199D7C58c34",
+    "vendor": "Chainlink",
+    "description": "ICP / USD",
+    "pair": ["ICP", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xc76f762CedF0F78a439727861628E0fdfE1e70c2",
+    "vendor": "Chainlink",
+    "description": "CHF / USD",
+    "pair": ["CHF", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xaca1222008C6Ea624522163174F80E6e17B0709A",
+    "vendor": "Chainlink",
+    "description": "WBTC / USD",
+    "pair": ["WBTC", "USD"],
+    "decimals": 8
+  }
 ]
