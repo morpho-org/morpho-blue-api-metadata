@@ -5401,6 +5401,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x7259b3708B445D52E8Ec906d07B00E7856706E8a",
+    "vendor": "Ojo",
+    "description": "PT Staked lvlUSD 25SEP2025 / lvlUSD OjoPTFeed",
+    "pair": ["PT-slvlUSD-25SEP2025", "lvlUSD"],
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0xBEE4e3AFee3979a7E1e5F437cb03427cAEB622cB",
     "vendor": "eOracle",
     "description": "PT-xSolvBTC/BTC feed adapter leveraging: 1. PTtoSY, 2. xSolvBTC/solvBTC, 3. solvBTC/BTC",
