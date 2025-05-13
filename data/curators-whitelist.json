@@ -37,11 +37,25 @@
     "addresses": {
       "1": [
         "0x59e608E4842162480591032f3c8b0aE55C98d104",
-        "0x23E6aecB76675462Ad8f2B31eC7C492060c2fAEF"
+        "0x23E6aecB76675462Ad8f2B31eC7C492060c2fAEF",
+        "0xB65b8CF358A2A4C62e1153eC88fc0eD43fB73bC4",
+        "0x30a38f1a27036aE7b1a3679646739Fb913B9B244"
       ],
       "8453": [
         "0x59e608E4842162480591032f3c8b0aE55C98d104",
         "0x23E6aecB76675462Ad8f2B31eC7C492060c2fAEF"
+      ]
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/tulipa-capital.svg",
+    "name": "Tulipa Capital",
+    "url": "https://www.tulipa.capital/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0xB65b8CF358A2A4C62e1153eC88fc0eD43fB73bC4",
+        "0x30a38f1a27036aE7b1a3679646739Fb913B9B244"
       ]
     }
   },
