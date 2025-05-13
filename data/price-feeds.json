@@ -12,6 +12,14 @@
     "decimals": 8
   },
   {
+    "chainId": 1,
+    "address": "0x0A6FD5820f797e517297fEFf90AaEcD8e2Dc77b3",
+    "vendor": "Redstone",
+    "description": "tacBTC/BTC FUNDAMENTAL",
+    "pair": ["tacBTC", "BTC"],
+    "decimals": 8
+  },
+  {
     "chainId": 8453,
     "address": "0xC49F0Dd98F38C525A7ce15E73E60675456F3a161",
     "vendor": "Redstone",
