@@ -22,7 +22,8 @@ describe("price-feeds.json validation", () => {
   // Load and filter price feeds for only chain IDs 1 and 8453
   const allPriceFeeds = loadJsonFile("price-feeds.json") as PriceFeed[];
   const priceFeeds = allPriceFeeds.filter(
-    (feed) => feed.chainId === 1 || feed.chainId === 8453
+    (feed) =>
+      feed.chainId === 1 || feed.chainId === 8453 || feed.chainId === 137
   );
 
   test("addresses are checksummed", () => {
@@ -67,8 +68,8 @@ describe("price-feeds.json validation", () => {
     }
   });
 
-  test("chain IDs are valid (1 or 8453)", () => {
-    const validChainIds = [1, 8453];
+  test("chain IDs are valid (1 or 8453 or 137)", () => {
+    const validChainIds = [1, 8453, 137];
     const errors: string[] = [];
 
     priceFeeds.forEach((feed, index) => {
