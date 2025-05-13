@@ -1807,6 +1807,33 @@
     ]
   },
   {
+    "address": "0xb5e4576C2FAA16b0cC59D1A2f3366164844Ef9E0",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/9summits-usdc.svg",
+    "description": "TAC cbBTC Vault",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/9summits/34",
+    "curators": [
+      {
+        "name": "9Summits",
+        "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
+        "url": "https://9summits.io/",
+        "verified": true
+      },
+      {
+        "name": "Tulipa Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/tulipa-capital.svg",
+        "url": "https://www.tulipa.capital/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1747124252
+      }
+    ]
+  },
+  {
     "address": "0x1E2aAaDcF528b9cC08F43d4fd7db488cE89F5741",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
