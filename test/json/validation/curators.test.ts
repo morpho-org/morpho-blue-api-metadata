@@ -7,13 +7,16 @@ interface CuratorAddresses {
   [chainId: string]: string[];
 }
 
+const SOCIALS_TYPES = ["url"];
+
 interface Curator {
   image?: string;
   name: string;
-  url?: string;
+  id: string;
   verified: boolean;
   addresses: CuratorAddresses;
   ownerOnly?: boolean;
+  socials: Record<string, string>;
 }
 
 interface ChainalysisResponse {
@@ -43,20 +46,28 @@ describe("curators-whitelist.json validation", () => {
     }
   });
 
+  test("curator ids are valid and unique", () => {
+    const ids = new Set<string>();
+    const duplicates: string[] = [];
+    const invalids: string[] = [];
+
+    curators.forEach((curator) => {
+      if (ids.has(curator.id)) duplicates.push(curator.id);
+      if (!/^[a-z0-9-]+$/.test(curator.id)) invalids.push(curator.id);
+      ids.add(curator.id);
+    });
+
+    if (duplicates.length > 0)
+      throw new Error(`Found duplicate curator ids: ${duplicates.join(", ")}`);
+    if (invalids.length > 0)
+      throw new Error(`Found invalid curator ids: ${invalids.join(", ")}`);
+  });
+
   test("image URLs are valid", () => {
     const errors: string[] = [];
     const baseUrl = "https://cdn.morpho.org/v2/assets/images";
 
     curators.forEach((curator) => {
-      if (curator.ownerOnly) {
-        if ("image" in curator || "url" in curator) {
-          errors.push(
-            `Pure owner ${curator.name} should not have image or URL fields`
-          );
-        }
-        return;
-      }
-
       if (!curator.image || curator.image === "") {
         errors.push(`Empty image URL for curator: ${curator.name}`);
       } else if (!curator.image.startsWith(baseUrl)) {
@@ -71,24 +82,28 @@ describe("curators-whitelist.json validation", () => {
     }
   });
 
-  test("URLs are valid", () => {
+  test("socials are valid", () => {
     const errors: string[] = [];
 
     curators.forEach((curator) => {
-      if (curator.ownerOnly) {
-        if ("url" in curator) {
-          errors.push(`Owner only ${curator.name} should not have URL field`);
-        }
-        return;
+      if (!curator.socials.url) {
+        errors.push(`Missing url for curator: ${curator.name}`);
       }
 
-      if (!curator.url || curator.url === "") {
-        errors.push(`Empty URL for curator: ${curator.name}`);
-      }
+      const invalidSocials = Object.keys(curator.socials).filter(
+        (k) => !SOCIALS_TYPES.includes(k)
+      );
+
+      errors.push(
+        ...invalidSocials.map(
+          (key) =>
+            `Invalid socials entry (${key}) found for curator ${curator.id}`
+        )
+      );
     });
 
     if (errors.length > 0) {
-      throw new Error(`Found URL errors:\n${errors.join("\n")}`);
+      throw new Error(`Found socials errors:\n${errors.join("\n")}`);
     }
   });
 
