@@ -2200,6 +2200,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x2ee5Ce6556599E16c226579BA14F94926d8Cb86d",
+    "vendor": "RedStone",
+    "description": " EIGEN / USD - Price Feed",
+    "pair": ["EIGEN", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 1,
     "address": "0x9a51192e065ECC6BDEafE5e194ce54702DE4f1f5",
     "vendor": "Chainlink",
     "description": "Consumer Price Index (1000%)",
