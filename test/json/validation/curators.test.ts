@@ -16,7 +16,7 @@ interface Curator {
   verified: boolean;
   addresses: CuratorAddresses;
   ownerOnly?: boolean;
-  socials: Record<string, string>;
+  socials?: Record<string, string>;
 }
 
 interface ChainalysisResponse {
@@ -68,12 +68,14 @@ describe("curators-whitelist.json validation", () => {
     const baseUrl = "https://cdn.morpho.org/v2/assets/images";
 
     curators.forEach((curator) => {
-      if (!curator.image || curator.image === "") {
-        errors.push(`Empty image URL for curator: ${curator.name}`);
-      } else if (!curator.image.startsWith(baseUrl)) {
-        errors.push(
-          `Invalid image URL for curator ${curator.name}: ${curator.image}. Must start with ${baseUrl}`
-        );
+      if (!curator.ownerOnly) {
+        if (!curator.image) {
+          errors.push(`Empty image URL for curator: ${curator.name}`);
+        } else if (!curator.image.startsWith(baseUrl)) {
+          errors.push(
+            `Invalid image URL for curator ${curator.name}: ${curator.image}. Must start with ${baseUrl}`
+          );
+        }
       }
     });
 
@@ -86,11 +88,11 @@ describe("curators-whitelist.json validation", () => {
     const errors: string[] = [];
 
     curators.forEach((curator) => {
-      if (!curator.socials.url) {
+      if (!curator.ownerOnly && !curator.socials?.url) {
         errors.push(`Missing url for curator: ${curator.name}`);
       }
 
-      const invalidSocials = Object.keys(curator.socials).filter(
+      const invalidSocials = Object.keys(curator.socials ?? {}).filter(
         (k) => !SOCIALS_TYPES.includes(k)
       );
 
