@@ -7,13 +7,16 @@ interface CuratorAddresses {
   [chainId: string]: string[];
 }
 
+const SOCIALS_TYPES = ["url"];
+
 interface Curator {
   image?: string;
   name: string;
-  url?: string;
+  id: string;
   verified: boolean;
   addresses: CuratorAddresses;
   ownerOnly?: boolean;
+  socials?: Record<string, string>;
 }
 
 interface ChainalysisResponse {
@@ -43,30 +46,31 @@ describe("curators-whitelist.json validation", () => {
     }
   });
 
+  test("curator ids are valid and unique", () => {
+    const ids = new Set<string>();
+    const duplicates: string[] = [];
+    const invalids: string[] = [];
+
+    curators.forEach((curator) => {
+      if (ids.has(curator.id)) duplicates.push(curator.id);
+      if (!/^[a-z0-9-]+$/.test(curator.id)) invalids.push(curator.id);
+      ids.add(curator.id);
+    });
+
+    if (duplicates.length > 0)
+      throw new Error(`Found duplicate curator ids: ${duplicates.join(", ")}`);
+    if (invalids.length > 0)
+      throw new Error(`Found invalid curator ids: ${invalids.join(", ")}`);
+  });
+
   test("image URLs are valid", () => {
     const errors: string[] = [];
     const baseUrl = "https://cdn.morpho.org/v2/assets/images";
 
     curators.forEach((curator) => {
-      if (curator.ownerOnly) {
-        // ownerOnly curators can optionally have image and URL fields
-        // Only validate the image URL if it exists
-        if (curator.image) {
-          if (curator.image === "") {
-            errors.push(`Empty image URL for curator: ${curator.name}`);
-          } else if (!curator.image.startsWith(baseUrl)) {
-            errors.push(
-              `Invalid image URL for curator ${curator.name}: ${curator.image}. Must start with ${baseUrl}`
-            );
-          }
-        }
-        return;
-      }
-
-      // Non-ownerOnly curators MUST have an image URL
-      if (!curator.image || curator.image === "") {
+      if (!curator.ownerOnly && !curator.image) {
         errors.push(`Empty image URL for curator: ${curator.name}`);
-      } else if (!curator.image.startsWith(baseUrl)) {
+      } else if (curator.image && !curator.image.startsWith(baseUrl)) {
         errors.push(
           `Invalid image URL for curator ${curator.name}: ${curator.image}. Must start with ${baseUrl}`
         );
@@ -78,24 +82,28 @@ describe("curators-whitelist.json validation", () => {
     }
   });
 
-  test("URLs are valid", () => {
+  test("socials are valid", () => {
     const errors: string[] = [];
 
     curators.forEach((curator) => {
-      if (curator.ownerOnly) {
-        // ownerOnly curators can optionally have URL fields
-        // No validation needed if URL is not present
-        return;
+      if (!curator.ownerOnly && !curator.socials?.url) {
+        errors.push(`Missing url for curator: ${curator.name}`);
       }
 
-      // Non-ownerOnly curators MUST have a URL
-      if (!curator.url || curator.url === "") {
-        errors.push(`Empty URL for curator: ${curator.name}`);
-      }
+      const invalidSocials = Object.keys(curator.socials ?? {}).filter(
+        (k) => !SOCIALS_TYPES.includes(k)
+      );
+
+      errors.push(
+        ...invalidSocials.map(
+          (key) =>
+            `Invalid socials entry (${key}) found for curator ${curator.id}`
+        )
+      );
     });
 
     if (errors.length > 0) {
-      throw new Error(`Found URL errors:\n${errors.join("\n")}`);
+      throw new Error(`Found socials errors:\n${errors.join("\n")}`);
     }
   });
 
