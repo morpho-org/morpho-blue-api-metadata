@@ -1537,6 +1537,27 @@
     ]
   },
   {
+    "address": "0x79FD640000F8563A866322483524a4b48f1Ed702",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The USDT Core Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1747228109
+      }
+    ]
+  },
+  {
     "address": "0x1B4cd53a1A8e5F50aB6320EF34E5fB4D3df7B6f6",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/ausd.svg",
