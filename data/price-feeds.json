@@ -5409,6 +5409,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xc725bc33502c36Bd0FfEF614D578f24742C8fd7a",
+    "vendor": "Ojo",
+    "description": "PT-syrupUSDC-28AUG2025 / USDC OjoPTFeed",
+    "pair": ["PT-syrupUSDC-28AUG2025", "USDC"],
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0xBEE4e3AFee3979a7E1e5F437cb03427cAEB622cB",
     "vendor": "eOracle",
     "description": "PT-xSolvBTC/BTC feed adapter leveraging: 1. PTtoSY, 2. xSolvBTC/solvBTC, 3. solvBTC/BTC",
