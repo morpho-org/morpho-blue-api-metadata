@@ -68,14 +68,12 @@ describe("curators-whitelist.json validation", () => {
     const baseUrl = "https://cdn.morpho.org/v2/assets/images";
 
     curators.forEach((curator) => {
-      if (!curator.ownerOnly) {
-        if (!curator.image) {
-          errors.push(`Empty image URL for curator: ${curator.name}`);
-        } else if (!curator.image.startsWith(baseUrl)) {
-          errors.push(
-            `Invalid image URL for curator ${curator.name}: ${curator.image}. Must start with ${baseUrl}`
-          );
-        }
+      if (!curator.ownerOnly && !curator.image) {
+        errors.push(`Empty image URL for curator: ${curator.name}`);
+      } else if (curator.image && !curator.image.startsWith(baseUrl)) {
+        errors.push(
+          `Invalid image URL for curator ${curator.name}: ${curator.image}. Must start with ${baseUrl}`
+        );
       }
     });
 

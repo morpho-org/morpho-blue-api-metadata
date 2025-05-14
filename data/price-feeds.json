@@ -5393,6 +5393,22 @@
   },
   {
     "chainId": 1,
+    "address": "0x4bACFFC2B4C872ba89626C7b5312C6B7151f2194",
+    "vendor": "Ojo",
+    "description": "PT Level USD 25SEP2025 / lvlUSD OjoPTFeed",
+    "pair": ["PT-lvlUSD-25SEP2025", "lvlUSD"],
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x7259b3708B445D52E8Ec906d07B00E7856706E8a",
+    "vendor": "Ojo",
+    "description": "PT Staked lvlUSD 25SEP2025 / lvlUSD OjoPTFeed",
+    "pair": ["PT-slvlUSD-25SEP2025", "lvlUSD"],
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0xBEE4e3AFee3979a7E1e5F437cb03427cAEB622cB",
     "vendor": "eOracle",
     "description": "PT-xSolvBTC/BTC feed adapter leveraging: 1. PTtoSY, 2. xSolvBTC/solvBTC, 3. solvBTC/BTC",
@@ -7145,6 +7161,14 @@
     "vendor": "Chainlink",
     "description": "WBTC / USD",
     "pair": ["WBTC", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 1,
+    "address": "0x6d32736220291D20E927b891ABA976c6FC89891f",
+    "vendor": "Steakhouse",
+    "description": "wUSDL / USDL exchange rate",
+    "pair": ["wUSDL", "USDL"],
     "decimals": 8
   }
 ]
