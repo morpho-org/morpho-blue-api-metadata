@@ -1744,6 +1744,27 @@
     ]
   },
   {
+    "address": "0xbEEf11C63d7173BdCC2037e7220eE9Bd0cCDA862",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steak-usdc-level.svg",
+    "description": "The Steakhouse Level USDC vault aims to optimize yield on USDC lending against a wide range of collateral assets from the Level ecosystem.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1747213824
+      }
+    ]
+  },
+  {
     "address": "0x214B47C50057eFaa7adc1B1C2608C3751Cd77D78",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/resolv-vault.png",
