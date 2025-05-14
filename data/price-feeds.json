@@ -5081,6 +5081,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x29774067ffdf33a5bbb3fEcf49821A2015236117",
+    "vendor": "Midas",
+    "description": " PT-mEDGE-31JUL2025 / mEDGE price feed",
+    "pair": ["PT-mEDGE-31JUL2025", "mEDGE"],
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0x5f09Aff8B9b1f488B7d1bbaD4D89648579e55d61",
     "vendor": "Midas",
     "description": "mMEV / USD price feed",
