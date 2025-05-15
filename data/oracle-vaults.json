@@ -186,6 +186,12 @@
     "pair": ["yUSD", "sUSD"]
   },
   {
+    "address": "0x19Ebd191f7A24ECE672ba13A302212b5eF7F35cb",
+    "vendor": "YieldFi",
+    "chainId": 1,
+    "pair": ["yUSD", "USDC"]
+  },
+  {
     "address": "0x4737D9b4592B40d51e110b94c9C043c6654067Ae",
     "vendor": "Level",
     "chainId": 1,
