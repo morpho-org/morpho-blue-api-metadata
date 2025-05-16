@@ -1960,6 +1960,27 @@
     ]
   },
   {
+    "address": "0x4d52545235A3dF246a8928c583E47AE7eeC4aCfE",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/assets/logos/usdf.svg",
+    "description": "The Re7 Falcon USDf vault curated by Re7 Labs is intended to seamlessly allocate USDf liquidity to a selection of various markets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+    "curators": [
+      {
+        "name": "RE7 Labs",
+        "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+        "url": "https://www.re7.capital",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1747380367
+      }
+    ]
+  },
+  {
     "address": "0xE87ed29896B91421ff43f69257ABF78300e40c7a",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/wsteth.svg",
