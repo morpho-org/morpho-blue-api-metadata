@@ -7202,5 +7202,29 @@
     "description": "RedStone Price Feed for tacETH_FUNDAMENTAL",
     "pair": ["tacETH", "ETH"],
     "decimals": 8
+  },
+  {
+    "chainId": 1,
+    "address": "0x8b4A5Cd427e342AD72E222c829d36FC9392b471d",
+    "vendor": "Pendle",
+    "description": "PendleChainlinkOracle - PT-lvlUSD-25SEP2025/lvlUSD",
+    "pair": ["PT-lvlUSD-25SEP2025", "lvlUSD"],
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x6DF94D889C5112a927710E88bAe6E19934b946f9",
+    "vendor": "Pendle",
+    "description": "PendleChainlinkOracle - PT-slvlUSD-29MAY2025/lvlUSD",
+    "pair": ["PT-slvlUSD-29MAY2025", "lvlUSD"],
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xea8BF62278a8431FD4b084A7B7813788FF8D4003",
+    "vendor": "Pendle",
+    "description": "PendleChainlinkOracle - PT-slvlUSD-25SEP2025/lvlUSD",
+    "pair": ["PT-slvlUSD-25SEP2025", "lvlUSD"],
+    "decimals": 18
   }
 ]
