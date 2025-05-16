@@ -7213,7 +7213,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x6DF94D889C5112a927710E88bAe6E19934b946f9",
+    "address": "0xea8BF62278a8431FD4b084A7B7813788FF8D4003",
     "vendor": "Pendle",
     "description": "PendleChainlinkOracle - PT-slvlUSD-25SEP2025/lvlUSD",
     "pair": ["PT-slvlUSD-25SEP2025", "lvlUSD"],
