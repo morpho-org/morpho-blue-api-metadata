@@ -5513,6 +5513,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xbdC299a1ed7cC1dA9a6175f72B69079F56f610EF",
+    "vendor": "PendleChainlinkOracle",
+    "description": "PT-eUSDE-14AUG2025/eUSDE",
+    "pair": ["PT-eUSDE-14AUG2025", "eUSDE"],
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0xd4C0e77Ed0019525D96BF4E25F39A1EaC6BcbbDa",
     "vendor": "Pendle",
     "description": "PT Wrapped stUSR 27MAR2025 - wstUSR PtToSyRate adapter",
