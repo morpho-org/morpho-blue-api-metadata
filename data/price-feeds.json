@@ -6560,7 +6560,7 @@
     "address": "0xed7051d55eeaF85E36053D6b0f2C51E59625B047",
     "vendor": "Chainlink",
     "description": "TRUMATIC / MATIC Exchange Rate",
-    "pair": ["TRUMATIC", "MATIC Exchange Rate"],
+    "pair": ["TRUMATIC", "MATIC"],
     "decimals": 18
   },
   {
