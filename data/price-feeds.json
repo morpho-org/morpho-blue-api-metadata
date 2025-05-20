@@ -20,6 +20,14 @@
     "decimals": 8
   },
   {
+    "chainId": 137,
+    "address": "0xBF4Fa84B5433660a4194B5FbaF41c3d11B47ed77",
+    "vendor": "Redstone",
+    "description": "RedStone Price Feed for ACRED_FUNDAMENTAL",
+    "pair": ["ACRED", "USD"],
+    "decimals": 8
+  },
+  {
     "chainId": 8453,
     "address": "0xC49F0Dd98F38C525A7ce15E73E60675456F3a161",
     "vendor": "Redstone",
@@ -7185,6 +7193,38 @@
     "vendor": "Chainlink",
     "description": "WBTC / USD",
     "pair": ["WBTC", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xfBF4299519bdF63AE4296871b3a5237b09021B26",
+    "vendor": "Chainlink",
+    "description": "ETH / USD",
+    "pair": ["ETH", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0xb6Cd28DD265aBbbF24a76B47353002ffeBd56099",
+    "vendor": "Chainlink",
+    "description": "Calculated MaticX / USD",
+    "pair": ["MaticX", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 137,
+    "address": "0x667dad629ae9Dcb8B1C682b22574f9a6789D19D2",
+    "vendor": "Chainlink",
+    "description": "MaticX / POL Exchange Rate",
+    "pair": ["MaticX", "POL"],
+    "decimals": 18
+  },
+  {
+    "chainId": 137,
+    "address": "0x66aCD49dB829005B3681E29b6F4Ba1d93843430e",
+    "vendor": "Chainlink",
+    "description": "MATIC / USD",
+    "pair": ["MATIC", "USD"],
     "decimals": 8
   },
   {
