@@ -200,7 +200,7 @@
   {
     "address": "0x9d60947D49911E3c262C108f97FE07cde209f9a7",
     "vendor": "Securitize",
-    "chainId": 1,
+    "chainId": 137,
     "pair": ["sACRED", "ACRED"]
   }
 ]
