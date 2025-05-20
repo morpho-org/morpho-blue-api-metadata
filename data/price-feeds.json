@@ -20,6 +20,14 @@
     "decimals": 8
   },
   {
+    "chainId": 137,
+    "address": "0xBF4Fa84B5433660a4194B5FbaF41c3d11B47ed77",
+    "vendor": "Redstone",
+    "description": "RedStone Price Feed for ACRED_FUNDAMENTAL",
+    "pair": ["ACRED", "USD"],
+    "decimals": 8
+  },
+  {
     "chainId": 8453,
     "address": "0xC49F0Dd98F38C525A7ce15E73E60675456F3a161",
     "vendor": "Redstone",
