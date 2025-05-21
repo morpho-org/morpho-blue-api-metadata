@@ -1,5 +1,13 @@
 [
   {
+    "chainId": 1,
+    "address": "0x87aFc025984fF75A2F964Ce654d21E637FC946aA",
+    "vendor": "Pendle",
+    "description": "PT-cUSDO-19JUN2025/USDO PendleChainlinkAdapter",
+    "pair": ["PT-cUSDO-19JUN2025", "USDO"],
+    "decimals": 18
+  },
+  {
     "chainId": 8453,
     "address": "0x4aaf2844c5420BF979d5bC2Cf883EF02Db07e590",
     "vendor": "Redstone",
