@@ -5081,6 +5081,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x0a2a51f2f206447dE3E3a80FCf92240244722395",
+    "vendor": "Midas",
+    "description": "mRe7YIELD / USD price feed",
+    "pair": ["mRe7YIELD", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 1,
     "address": "0xE4f2AE539442e1D3Fb40F03ceEbF4A372a390d24",
     "vendor": "Midas",
     "description": "mBASIS / USD price feed",
