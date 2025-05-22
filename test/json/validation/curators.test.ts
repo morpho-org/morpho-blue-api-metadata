@@ -7,7 +7,7 @@ interface CuratorAddresses {
   [chainId: string]: string[];
 }
 
-const SOCIALS_TYPES = ["url"];
+const SOCIALS_TYPES = ["url", "twitter"];
 
 interface Curator {
   image?: string;
