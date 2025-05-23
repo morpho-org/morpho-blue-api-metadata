@@ -189,7 +189,8 @@
     "address": "0x19Ebd191f7A24ECE672ba13A302212b5eF7F35cb",
     "vendor": "YieldFi",
     "chainId": 1,
-    "pair": ["yUSD", "USDC"]
+    "pair": ["yUSD", "USDC"],
+    "diffDecimals": 12
   },
   {
     "address": "0x4737D9b4592B40d51e110b94c9C043c6654067Ae",

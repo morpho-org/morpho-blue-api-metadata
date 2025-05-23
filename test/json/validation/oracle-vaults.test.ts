@@ -7,6 +7,7 @@ interface OracleVault {
   chainId: number;
   vendor: string;
   pair: string[];
+  diffDecimals?: number;
 }
 
 describe("oracle-vaults.json validation", () => {
