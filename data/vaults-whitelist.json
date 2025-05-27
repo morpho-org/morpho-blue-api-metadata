@@ -3630,5 +3630,47 @@
         "timestamp": 1746795600
       }
     ]
+  },
+  {
+    "address": "0xd41830d88dfD08678b0B886E0122193d54b02Acc",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "The MEV Capital PTs USDC vault provides a set of PTs collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+    "curators": [
+      {
+        "name": "MEV Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+        "url": "https://mevcapital.com/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748347096
+      }
+    ]
+  },
+  {
+    "address": "0xBEefb9f61CC44895d8AEc381373555a64191A9c4",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+    "description": "The Vault Bridge aims to optimize yields on USDC deposited in bridges by lending against a curated set of collateral assets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748291907
+      }
+    ]
   }
 ]
