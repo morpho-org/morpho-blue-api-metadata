@@ -7306,5 +7306,21 @@
     "description": "PendleChainlinkOracle - PT-slvlUSD-25SEP2025/lvlUSD",
     "pair": ["PT-slvlUSD-25SEP2025", "lvlUSD"],
     "decimals": 18
+  },
+  {
+    "chainId": 130,
+    "address": "0xC3346631E0A9720582fB9CAbdBEA22BC2F57741b",
+    "vendor": "Redstone",
+    "description": "RedStone Price Feed for wstETH/stETH FUNDAMENTAL",
+    "pair": ["wstETH", "stETH"],
+    "decimals": 8
+  },
+  {
+    "chainId": 130,
+    "address": "0xBf3bA2b090188B40eF83145Be0e9F30C6ca63689",
+    "vendor": "Redstone",
+    "description": "RedStone Price Feed for weETH_FUNDAMENTAL",
+    "pair": ["weETH", "ETH"],
+    "decimals": 8
   }
 ]
