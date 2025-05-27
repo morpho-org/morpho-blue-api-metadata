@@ -3651,5 +3651,26 @@
         "timestamp": 1748347096
       }
     ]
+  },
+  {
+    "address": "0xBEefb9f61CC44895d8AEc381373555a64191A9c4",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+    "description": "The Vault Bridge aims to optimize yields on USDC deposited in bridges by lending against a curated set of collateral assets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748291907
+      }
+    ]
   }
 ]
