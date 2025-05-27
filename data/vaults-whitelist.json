@@ -3672,5 +3672,68 @@
         "timestamp": 1748291907
       }
     ]
+  },
+  {
+    "address": "0x812B2C6Ab3f4471c0E43D4BB61098a9211017427",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/assets/logos/wbtc.svg",
+    "description": "The WBTC Vault Bridge will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748363916
+      }
+    ]
+  },
+  {
+    "address": "0x31A5684983EeE865d943A696AAC155363bA024f9",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/assets/logos/weth.svg",
+    "description": "The WETH Vault Bridge aims to optimize for risk-adjusted yield across large market cap and high liquidity collateral markets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748363916
+      }
+    ]
+  },
+  {
+    "address": "0xc54b4E08C1Dcc199fdd35c6b5Ab589ffD3428a8d",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/assets/logos/usdt.svg",
+    "description": "The USDT Vault Bridge aims to optimize for risk-adjusted yield across large market cap and high liquidity collateral markets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748363916
+      }
+    ]
   }
 ]
