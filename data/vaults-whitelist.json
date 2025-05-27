@@ -3663,6 +3663,11 @@
         "name": "Steakhouse Financial",
         "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
         "url": "https://www.steakhouse.financial",
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
         "timestamp": 1748291907
       }
     ]
