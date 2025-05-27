@@ -3630,5 +3630,26 @@
         "timestamp": 1746795600
       }
     ]
+  },
+  {
+    "address": "0x3c124fB80e6eedD88D108C2F04013AE5CD571Abc",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/assets/logos/usdf.svg",
+    "description": "The Falcon USDf Core Vault targets high risk-adjusted returns by lending USDf against strong synthetic yield-bearing stablecoins and other high-potential assets",
+    "forumLink": "https://forum.morpho.org/c/vaults/alphaping/37",
+    "curators": [
+      {
+        "name": "Alphaping",
+        "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+        "url": "https://alphaping.ch/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748351810
+      }
+    ]
   }
 ]
