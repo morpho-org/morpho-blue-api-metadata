@@ -7306,5 +7306,13 @@
     "description": "PendleChainlinkOracle - PT-slvlUSD-25SEP2025/lvlUSD",
     "pair": ["PT-slvlUSD-25SEP2025", "lvlUSD"],
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xac15dD96f1059a7F58c89e1bB57417C804DA6157",
+    "vendor": "Pendle - Spark",
+    "description": "PT-eUSDE-14AUG2025 / USD linear discount adapter",
+    "pair": ["PT-eUSDE-14AUG2025", "USD"],
+    "decimals": 18
   }
 ]
