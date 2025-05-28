@@ -3737,6 +3737,27 @@
     ]
   },
   {
+    "address": "0x888883f0eDDF69Ca4BfD00Af93714Ff97F188888",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
+    "description": "Hyperithm USDT vault maximizes yield by swiftly integrating unique collaterals, providing borrowers with high-return opportunities through active optimization while ensuring effective risk management.",
+    "forumLink": "https://forum.morpho.org/c/vaults/hyperithm/38",
+    "curators": [
+      {
+        "name": "Hyperithm",
+        "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
+        "url": "https://www.hyperithm.com/",
+        "verified": true
+      }
+    ],
+    "history": [
+       {
+        "action": "added",
+        "timestamp": 1748442452
+       }
+     ]
+  },
+  {
     "address": "0x4C91d8FBb468F2A318A16C95a9AE17dAe20d8328",
     "chainId": 130,
     "image": "https://cdn.morpho.org/assets/logos/weth.svg",
