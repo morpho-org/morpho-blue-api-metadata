@@ -3758,7 +3758,7 @@
     ]
   },
   {
-    "address": "0xa1b7522c0bB5eD1C2886aa857c357c7bD6d861d4",
+    "address": "0xc063181747E56c034ac14dC82DB663409566Fdf6",
     "chainId": 130,
     "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
     "description": "The MEV Capital USDC vault provides a set of liquid collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
