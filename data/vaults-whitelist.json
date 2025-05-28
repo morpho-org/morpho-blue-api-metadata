@@ -3737,6 +3737,27 @@
     ]
   },
   {
+    "address": "0x4C91d8FBb468F2A318A16C95a9AE17dAe20d8328",
+    "chainId": 130,
+    "image": "https://cdn.morpho.org/assets/logos/weth.svg",
+    "description": "The 9Summits Puncak Jaya ETH vault will allocate to a range of liquid assets in order to provide the best risk adjusted yield to its users.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/9summits/34",
+    "curators": [
+      {
+        "name": "9Summits",
+        "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
+        "url": "https://9summits.io/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748433776
+      }
+    ]
+  },
+  {
     "address": "0x3f93576d13091bfBF6825F7421eF33cC353dC433",
     "chainId": 130,
     "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
