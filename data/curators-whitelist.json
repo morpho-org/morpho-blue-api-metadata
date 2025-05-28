@@ -195,7 +195,10 @@
     "url": "https://www.hyperithm.com/",
     "verified": true,
     "addresses": {
-      "1": ["0x16fa314141C76D4a0675f5e8e3CCBE4E0fA22C7c"]
+      "1": [
+        "0xEe7E9bb21D5589BF657b94083dB2fA349a3918C8",
+        "0x75178137D3B4B9A0F771E0e149b00fB8167BA325"
+      ]
     },
     "id": "hyperithm",
     "socials": {
