@@ -7311,7 +7311,7 @@
     "chainId": 130,
     "address": "0xC3346631E0A9720582fB9CAbdBEA22BC2F57741b",
     "vendor": "Redstone",
-    "description": "RedStone Price Feed for wstETH/stETH FUNDAMENTAL",
+    "description": "wstETH/stETH FUNDAMENTAL feed",
     "pair": ["wstETH", "stETH"],
     "decimals": 8
   },
@@ -7319,7 +7319,7 @@
     "chainId": 130,
     "address": "0xBf3bA2b090188B40eF83145Be0e9F30C6ca63689",
     "vendor": "Redstone",
-    "description": "RedStone Price Feed for weETH_FUNDAMENTAL",
+    "description": "weETH/ETH FUNDAMENTAL feed",
     "pair": ["weETH", "ETH"],
     "decimals": 8
   },
@@ -7330,5 +7330,29 @@
     "description": "PT-eUSDE-14AUG2025 / USD linear discount adapter",
     "pair": ["PT-eUSDE-14AUG2025", "USD"],
     "decimals": 18
+  },
+  {
+    "chainId": 130,
+    "address": "0xc44be6D00307c3565FDf753e852Fc003036cBc13",
+    "vendor": "Redstone",
+    "description": "BTC/USD feed",
+    "pair": ["BTC", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 130,
+    "address": "0xD15862FC3D5407A03B696548b6902D6464A69b8c",
+    "vendor": "Redstone",
+    "description": "USDC/USD feed",
+    "pair": ["USDC", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 130,
+    "address": "0xe8D9FbC10e00ecc9f0694617075fDAF657a76FB2",
+    "vendor": "Redstone",
+    "description": "ETH/USD feed",
+    "pair": ["ETH", "USD"],
+    "decimals": 8
   }
 ]
