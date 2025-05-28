@@ -3737,7 +3737,7 @@
     ]
   },
   {
-    "address": "  ",
+    "address": "0x3f93576d13091bfBF6825F7421eF33cC353dC433",
     "chainId": 130,
     "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
     "description": "The MEV Capital wETH vault provides a set of ETH LSTs collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
