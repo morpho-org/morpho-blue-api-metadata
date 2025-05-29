@@ -3819,5 +3819,47 @@
         "timestamp": 1748418756
       }
     ]
+  },
+  {
+    "address": "0x9E111aCef0CF3bd8C38715B88e78BE31C1109F8a",
+    "chainId": 130,
+    "image": "https://cdn.morpho.org/v2/assets/images/bbqwsteth.svg",
+    "description": "The Smokehouse wstETH vault aims to optimize for yield on LRT collateral through wstETH as the primary liquidity buffer. This is a vault for Lido stETH enjoyers.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748553109
+      }
+    ]
+  },
+  {
+    "address": "0x0993Ae24a988c6925d80aD61344a76B81aA0D34c",
+    "chainId": 130,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+    "description": "The Steakhouse ETH vault aims to optimize yields by lending ETH against blue chip crypto assets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748553109
+      }
+    ]
   }
 ]
