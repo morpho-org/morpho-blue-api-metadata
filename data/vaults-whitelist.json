@@ -3774,7 +3774,70 @@
     "history": [
       {
         "action": "added",
-        "timestamp": 1748433776
+        "timestamp": 1748425128
+      }
+    ]
+  },
+  {
+    "address": "0x38f4f3B6533de0023b9DCd04b02F93d36ad1F9f9",
+    "chainId": 130,
+    "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
+    "description": "The Gauntlet USDC Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where the curator balances security and yield to provide a moderate risk profile and competitive APY for USDC suppliers.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748425128
+      }
+    ]
+  },
+  {
+    "address": "0x830898200F0E8Be8Dc1C9A836f4AB29ECEdf76eb",
+    "chainId": 130,
+    "image": "https://cdn.morpho.org/assets/logos/weth.svg",
+    "description": "The Gauntlet WETH Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where the curator balances security and yield to provide a moderate risk profile and competitive APY for WETH suppliers.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748425128
+      }
+    ]
+  },
+  {
+    "address": "0x89849B6e57e1c61e447257242bDa97c70FA99b6b",
+    "chainId": 130,
+    "image": "https://cdn.morpho.org/assets/logos/usdt.svg",
+    "description": "The USDT0 Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where the curator balances security and yield to provide a moderate risk profile and competitive APY for USDT0 suppliers.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748425128
       }
     ]
   },
@@ -3795,7 +3858,7 @@
     "history": [
       {
         "action": "added",
-        "timestamp": 1748418756
+        "timestamp": 1748425128
       }
     ]
   },
@@ -3816,7 +3879,7 @@
     "history": [
       {
         "action": "added",
-        "timestamp": 1748418756
+        "timestamp": 1748425128
       }
     ]
   }
