@@ -377,6 +377,22 @@
     }
   },
   {
+    "image": "https://cdn.morpho.org/v2/assets/images/k3.png",
+    "name": "K3 Capital",
+    "url": "https://www.k3.capital/",
+    "verified": true,
+    "addresses": {
+      "130": [
+        "0xdD84A24eeddE63F10Ec3e928f1c8302A47538b6B"
+      ]
+    },
+    "id": "k3-capital",
+    "socials": {
+      "url": "https://www.k3.capital/",
+      "twitter": "https://x.com/k3_capital"
+    }
+  },
+  {
     "name": "Swissborg",
     "verified": true,
     "addresses": {
