@@ -3924,5 +3924,47 @@
         "timestamp": 1748553109
       }
     ]
+  },
+  {
+    "address": "0xfA355999c12C63c465c591daf9C462e14ACf470b",
+    "chainId": 130,
+    "image": "https://cdn.morpho.org/v2/assets/images/k3.png",
+    "description": "The K3 Capital ETH Maxi enables rehypothecation and just-in-time liquidity to AMMs through capital efficient ETH lending against the most liquid, battle-tested Liquid Staking and Restaking tokens.",
+    "forumLink": "https://forum.morpho.org/c/vaults/k3/43",
+    "curators": [
+      {
+        "name": "K3 Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/k3.png",
+        "url": "https://www.k3.capital/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748638880
+      }
+    ]
+  },
+  {
+    "address": "0xCfecBf93dEc86316F106712767828ACB5065C441",
+    "chainId": 130,
+    "image": "https://cdn.morpho.org/v2/assets/images/k3.png",
+    "description": "The K3 Capital Core Market delivers superior risk-adjusted yield to USDC lenders by accepting only the deep liquidity collaterals to enable spot leverage trading.",
+    "forumLink": "https://forum.morpho.org/c/vaults/k3/43",
+    "curators": [
+      {
+        "name": "K3 Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/k3.png",
+        "url": "https://www.k3.capital/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748638880
+      }
+    ]
   }
 ]
