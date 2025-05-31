@@ -7306,5 +7306,77 @@
     "description": "PendleChainlinkOracle - PT-slvlUSD-25SEP2025/lvlUSD",
     "pair": ["PT-slvlUSD-25SEP2025", "lvlUSD"],
     "decimals": 18
+  },
+  {
+    "chainId": 130,
+    "address": "0xC3346631E0A9720582fB9CAbdBEA22BC2F57741b",
+    "vendor": "Redstone",
+    "description": "wstETH/stETH FUNDAMENTAL Redstone feed",
+    "pair": ["wstETH", "stETH"],
+    "decimals": 8
+  },
+  {
+    "chainId": 130,
+    "address": "0xBf3bA2b090188B40eF83145Be0e9F30C6ca63689",
+    "vendor": "Redstone",
+    "description": "weETH/ETH FUNDAMENTAL Redstone feed",
+    "pair": ["weETH", "ETH"],
+    "decimals": 8
+  },
+  {
+    "chainId": 1,
+    "address": "0xac15dD96f1059a7F58c89e1bB57417C804DA6157",
+    "vendor": "Pendle - Spark",
+    "description": "PT-eUSDE-14AUG2025 / USD linear discount adapter",
+    "pair": ["PT-eUSDE-14AUG2025", "USD"],
+    "decimals": 18
+  },
+  {
+    "chainId": 130,
+    "address": "0xc44be6D00307c3565FDf753e852Fc003036cBc13",
+    "vendor": "Redstone",
+    "description": "BTC/USD Redstone feed",
+    "pair": ["BTC", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 130,
+    "address": "0xD15862FC3D5407A03B696548b6902D6464A69b8c",
+    "vendor": "Redstone",
+    "description": "USDC/USD Redstone feed",
+    "pair": ["USDC", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 130,
+    "address": "0xe8D9FbC10e00ecc9f0694617075fDAF657a76FB2",
+    "vendor": "Redstone",
+    "description": "ETH/USD Redstone feed",
+    "pair": ["ETH", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 130,
+    "address": "0xf1454949C6dEdfb500ae63Aa6c784Aa1Dde08A6c",
+    "vendor": "Redstone",
+    "description": "UNI/USD Redstone feed",
+    "pair": ["UNI", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 130,
+    "address": "0xa0f2EF6ceC437a4e5F6127d6C51E1B0d3A746911",
+    "vendor": "Redstone",
+    "description": "ezETH/ETH FUNDAMENTAL Redstone feed",
+    "pair": ["ezETH", "ETH"],
+    "decimals": 8
+  },
+  {
+    "chainId": 130,
+    "address": "0x24c8964338Deb5204B096039147B8e8C3AEa42Cc",
+    "vendor": "Redstone",
+    "description": "wstETH/ETH Redstone feed",
+    "pair": ["wstETH", "ETH"],
+    "decimals": 8
   }
 ]

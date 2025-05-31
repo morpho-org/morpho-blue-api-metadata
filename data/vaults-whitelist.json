@@ -3648,7 +3648,343 @@
     "history": [
       {
         "action": "added",
-        "timestamp": 1748351810
+        "timestamp": 1748677234
+      }
+    ]
+  },
+  {
+    "address": "0xd41830d88dfD08678b0B886E0122193d54b02Acc",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "The MEV Capital PTs USDC vault provides a set of PTs collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+    "curators": [
+      {
+        "name": "MEV Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+        "url": "https://mevcapital.com/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748347096
+      }
+    ]
+  },
+  {
+    "address": "0xBEefb9f61CC44895d8AEc381373555a64191A9c4",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+    "description": "The Vault Bridge aims to optimize yields on USDC deposited in bridges by lending against a curated set of collateral assets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748291907
+      }
+    ]
+  },
+  {
+    "address": "0x812B2C6Ab3f4471c0E43D4BB61098a9211017427",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/assets/logos/wbtc.svg",
+    "description": "The WBTC Vault Bridge will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748363916
+      }
+    ]
+  },
+  {
+    "address": "0x31A5684983EeE865d943A696AAC155363bA024f9",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/assets/logos/weth.svg",
+    "description": "The WETH Vault Bridge aims to optimize for risk-adjusted yield across large market cap and high liquidity collateral markets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748363916
+      }
+    ]
+  },
+  {
+    "address": "0xc54b4E08C1Dcc199fdd35c6b5Ab589ffD3428a8d",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/assets/logos/usdt.svg",
+    "description": "The USDT Vault Bridge aims to optimize for risk-adjusted yield across large market cap and high liquidity collateral markets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748363916
+      }
+    ]
+  },
+  {
+    "address": "0x888883f0eDDF69Ca4BfD00Af93714Ff97F188888",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
+    "description": "Hyperithm USDT vault maximizes yield by swiftly integrating unique collaterals, providing borrowers with high-return opportunities through active optimization while ensuring effective risk management.",
+    "forumLink": "https://forum.morpho.org/c/vaults/hyperithm/38",
+    "curators": [
+      {
+        "name": "Hyperithm",
+        "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
+        "url": "https://www.hyperithm.com/",
+        "verified": true
+      }
+    ],
+    "history": [
+       {
+        "action": "added",
+        "timestamp": 1748442452
+       }
+     ]
+  },
+  {
+    "address": "0x4C91d8FBb468F2A318A16C95a9AE17dAe20d8328",
+    "chainId": 130,
+    "image": "https://cdn.morpho.org/assets/logos/weth.svg",
+    "description": "The 9Summits Puncak Jaya ETH vault will allocate to a range of liquid assets in order to provide the best risk adjusted yield to its users.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/9summits/34",
+    "curators": [
+      {
+        "name": "9Summits",
+        "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
+        "url": "https://9summits.io/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748425128
+      }
+    ]
+  },
+  {
+    "address": "0x38f4f3B6533de0023b9DCd04b02F93d36ad1F9f9",
+    "chainId": 130,
+    "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
+    "description": "The Gauntlet USDC Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where the curator balances security and yield to provide a moderate risk profile and competitive APY for USDC suppliers.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748425128
+      }
+    ]
+  },
+  {
+    "address": "0x830898200F0E8Be8Dc1C9A836f4AB29ECEdf76eb",
+    "chainId": 130,
+    "image": "https://cdn.morpho.org/assets/logos/weth.svg",
+    "description": "The Gauntlet WETH Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where the curator balances security and yield to provide a moderate risk profile and competitive APY for WETH suppliers.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748425128
+      }
+    ]
+  },
+  {
+    "address": "0x89849B6e57e1c61e447257242bDa97c70FA99b6b",
+    "chainId": 130,
+    "image": "https://cdn.morpho.org/assets/logos/usdt.svg",
+    "description": "The USDT0 Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where the curator balances security and yield to provide a moderate risk profile and competitive APY for USDT0 suppliers.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748425128
+      }
+    ]
+  },
+  {
+    "address": "0x3f93576d13091bfBF6825F7421eF33cC353dC433",
+    "chainId": 130,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "The MEV Capital wETH vault provides a set of ETH LSTs collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+    "curators": [
+      {
+        "name": "MEV Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+        "url": "https://mevcapital.com/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748425128
+      }
+    ]
+  },
+  {
+    "address": "0xc063181747E56c034ac14dC82DB663409566Fdf6",
+    "chainId": 130,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "The MEV Capital USDC vault provides a set of liquid collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+    "curators": [
+      {
+        "name": "MEV Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+        "url": "https://mevcapital.com/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748425128
+      }
+    ]
+  },
+  {
+    "address": "0x9E111aCef0CF3bd8C38715B88e78BE31C1109F8a",
+    "chainId": 130,
+    "image": "https://cdn.morpho.org/v2/assets/images/bbqwsteth.svg",
+    "description": "The Smokehouse wstETH vault aims to optimize for yield on LRT collateral through wstETH as the primary liquidity buffer. This is a vault for Lido stETH enjoyers.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748553109
+      }
+    ]
+  },
+  {
+    "address": "0x0993Ae24a988c6925d80aD61344a76B81aA0D34c",
+    "chainId": 130,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+    "description": "The Steakhouse ETH vault aims to optimize yields by lending ETH against blue chip crypto assets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748553109
+      }
+    ]
+  },
+  {
+    "address": "0xfA355999c12C63c465c591daf9C462e14ACf470b",
+    "chainId": 130,
+    "image": "https://cdn.morpho.org/v2/assets/images/k3.png",
+    "description": "The K3 Capital ETH Maxi enables rehypothecation and just-in-time liquidity to AMMs through capital efficient ETH lending against the most liquid, battle-tested Liquid Staking and Restaking tokens.",
+    "forumLink": "https://forum.morpho.org/c/vaults/k3/43",
+    "curators": [
+      {
+        "name": "K3 Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/k3.png",
+        "url": "https://www.k3.capital/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748638880
+      }
+    ]
+  },
+  {
+    "address": "0xCfecBf93dEc86316F106712767828ACB5065C441",
+    "chainId": 130,
+    "image": "https://cdn.morpho.org/v2/assets/images/k3.png",
+    "description": "The K3 Capital Core Market delivers superior risk-adjusted yield to USDC lenders by accepting only the deep liquidity collaterals to enable spot leverage trading.",
+    "forumLink": "https://forum.morpho.org/c/vaults/k3/43",
+    "curators": [
+      {
+        "name": "K3 Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/k3.png",
+        "url": "https://www.k3.capital/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748638880
       }
     ]
   }
