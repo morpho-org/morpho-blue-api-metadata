@@ -7378,5 +7378,13 @@
     "description": "wstETH/ETH Redstone feed",
     "pair": ["wstETH", "ETH"],
     "decimals": 8
+  },
+  {
+    "chainId": 1,
+    "address": "0x7aa6a2A9F61502e3e411b7b3db625C1851Ad7FB4",
+    "vendor": "Pendle - Spark",
+    "description": "PT-USDS-14AUG2025 / USD linear discount adapter",
+    "pair": ["PT-USDS-14AUG2025", "USD"],
+    "decimals": 18
   }
 ]
