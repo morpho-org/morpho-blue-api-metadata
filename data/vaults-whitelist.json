@@ -3758,6 +3758,69 @@
     ]
   },
   {
+    "address": "0xa48f8A10F16bB50A588606553D9fE7338050f8Cd",
+    "chainId": 130,
+    "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
+    "description": "The Re7 USDC vault curated by Re7 Labs is intended to seamlessly allocate USDC liquidity to various Morpho markets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+    "curators": [
+      {
+        "name": "RE7 Labs",
+        "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+        "url": "https://www.re7.capital",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748858260
+      }
+    ]
+  },
+  {
+    "address": "0x2c0F7e917257926BA6233B20DE19d7fe3210858C",
+    "chainId": 130,
+    "image": "https://cdn.morpho.org/assets/logos/usdt.svg",
+    "description": "The Re7 USDT vault curated by Re7 Labs is intended to seamlessly allocate USDT liquidity to various Morpho markets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+    "curators": [
+      {
+        "name": "RE7 Labs",
+        "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+        "url": "https://www.re7.capital",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748858260
+      }
+    ]
+  },
+  {
+  "address": "0x6af5E46456A8ac80BB53a02799965DEF99c26e52",
+  "chainId": 130,
+  "image": "https://cdn.morpho.org/assets/logos/weth.svg",
+  "description": "The Re7 WETH vault curated by Re7 Labs is intended to seamlessly allocate WETH liquidity to various Morpho markets.",
+  "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+  "curators": [
+      {
+        "name": "RE7 Labs",
+        "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+        "url": "https://www.re7.capital",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748858260
+      }
+    ]
+  },
+  {
     "address": "0x38f4f3B6533de0023b9DCd04b02F93d36ad1F9f9",
     "chainId": 130,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",

@@ -133,6 +133,7 @@
     "verified": true,
     "addresses": {
       "1": ["0xE86399fE6d7007FdEcb08A2ee1434Ee677a04433"],
+      "130": ["0x187620a61f4f00Cb629b38e1b38BEe8Ea60d2B8D"],
       "137": ["0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"],
       "8453": ["0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"]
     },
