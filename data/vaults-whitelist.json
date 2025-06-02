@@ -3737,17 +3737,6 @@
     ]
   },
   {
-    "address": "0x6af5E46456A8ac80BB53a02799965DEF99c26e52",
-    "chainId": 130,
-    "image": "https://cdn.morpho.org/assets/logos/weth.svg",
-    "description": "The Re7 WETH vault curated by Re7 Labs is intended to seamlessly allocate WETH liquidity to various Morpho markets.",
-    "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
-    "curators": [
-      {
-        "name": "RE7 Labs",
-        "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
-        "url": "https://www.re7.capital",
-=======
     "address": "0x888883f0eDDF69Ca4BfD00Af93714Ff97F188888",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
@@ -3785,7 +3774,7 @@
     "history": [
       {
         "action": "added",
-        "timestamp": 1748431153
+        "timestamp": 1748425128
       }
     ]
   },
@@ -3817,6 +3806,27 @@
     "description": "The Re7 USDT vault curated by Re7 Labs is intended to seamlessly allocate USDT liquidity to various Morpho markets.",
     "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
     "curators": [
+      {
+        "name": "RE7 Labs",
+        "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+        "url": "https://www.re7.capital",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1748858260
+      }
+    ]
+  },
+  {
+  "address": "0x6af5E46456A8ac80BB53a02799965DEF99c26e52",
+  "chainId": 130,
+  "image": "https://cdn.morpho.org/assets/logos/weth.svg",
+  "description": "The Re7 WETH vault curated by Re7 Labs is intended to seamlessly allocate WETH liquidity to various Morpho markets.",
+  "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+  "curators": [
       {
         "name": "RE7 Labs",
         "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
@@ -3869,7 +3879,7 @@
     "history": [
       {
         "action": "added",
-        "timestamp": 1748431153
+        "timestamp": 1748425128
       }
     ]
   },
