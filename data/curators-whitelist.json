@@ -2,7 +2,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
     "name": "MEV Capital",
-    "url": "https://mevcapital.com/",
     "verified": true,
     "addresses": {
       "1": [
@@ -21,7 +20,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
     "name": "Gauntlet",
-    "url": "https://www.gauntlet.xyz/",
     "verified": true,
     "addresses": {
       "1": [
@@ -44,7 +42,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
     "name": "9Summits",
-    "url": "https://9summits.io/",
     "verified": true,
     "addresses": {
       "1": [
@@ -72,7 +69,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/tulipa-capital.svg",
     "name": "Tulipa Capital",
-    "url": "https://www.tulipa.capital/",
     "verified": true,
     "addresses": {
       "1": [
@@ -89,7 +85,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/block-analitica.png",
     "name": "Block Analitica",
-    "url": "https://blockanalitica.com/",
     "verified": true,
     "addresses": {
       "1": [
@@ -106,7 +101,6 @@
   },
   {
     "image": "https://cdn.morpho.org/v2/assets/images/bprotocol.png",
-    "url": "https://www.bprotocol.org/",
     "name": "B.Protocol",
     "verified": true,
     "addresses": {
@@ -129,7 +123,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
     "name": "RE7 Labs",
-    "url": "https://www.re7labs.xyz/",
     "verified": true,
     "addresses": {
       "1": ["0xE86399fE6d7007FdEcb08A2ee1434Ee677a04433"],
@@ -146,7 +139,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/fence.svg",
     "name": "Fence",
-    "url": "https://www.fence.finance/",
     "verified": true,
     "addresses": {
       "1": ["0xF92971B4D9e6257CF562400ed81d2986F28a8c26"]
@@ -160,7 +152,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
     "name": "Steakhouse Financial",
-    "url": "https://www.steakhouse.financial",
     "verified": true,
     "addresses": {
       "1": [
@@ -188,7 +179,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/relend.png",
     "name": "Relend Network",
-    "url": "https://relend.network/",
     "verified": true,
     "addresses": {
       "1": ["0xD6D14E60c0DAFcB3B77B296fe718623Ec84e5eb3"],
@@ -203,7 +193,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
     "name": "Hyperithm",
-    "url": "https://www.hyperithm.com/",
     "verified": true,
     "addresses": {
       "1": [
@@ -220,7 +209,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/spark.svg",
     "name": "SparkDAO",
-    "url": "https://spark.fi/",
     "verified": true,
     "addresses": {
       "1": ["0x3300f198988e4C9C63F75dF86De36421f06af8c4"],
@@ -235,7 +223,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/llamarisk.svg",
     "name": "LlamaRisk",
-    "url": "https://www.llamarisk.com/",
     "verified": true,
     "addresses": {
       "1": ["0x7e246fAce452AC43F5dC60c41EE14C88c37951c6"]
@@ -249,7 +236,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/apostro.svg",
     "name": "Apostro",
-    "url": "https://apostro.xyz",
     "verified": true,
     "addresses": {
       "1": [
@@ -267,7 +253,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/leadblock.png",
     "name": "LeadBlock",
-    "url": "https://leadblockpartners.com/",
     "verified": true,
     "addresses": {
       "1": [
@@ -284,7 +269,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
     "name": "Alphaping",
-    "url": "https://alphaping.ch/",
     "verified": true,
     "addresses": {
       "1": [
@@ -302,7 +286,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/hakutora.png",
     "name": "Hakutora",
-    "url": "https://hakutora.xyz/",
     "verified": true,
     "addresses": {
       "1": [
@@ -319,7 +302,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/ouroboros.svg",
     "name": "Ouroboros Capital",
-    "url": "https://ourocap.io/",
     "verified": true,
     "addresses": {
       "1": [
@@ -336,7 +318,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/clearstar.png",
     "name": "Clearstar",
-    "url": "https://www.linkedin.com/company/clearstar-labs-ag/",
     "verified": true,
     "addresses": {
       "8453": [
@@ -353,7 +334,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/m11c.png",
     "name": "M11C",
-    "url": "https://www.m11credit.com/",
     "verified": true,
     "addresses": {
       "1": [
@@ -370,7 +350,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/yearn.png",
     "name": "Yearn",
-    "url": "https://yearn.fi/apps",
     "verified": true,
     "addresses": {
       "1": ["0xe5e2Baf96198c56380dDD5E992D7d1ADa0e989c0"],
@@ -431,7 +410,6 @@
   {
     "name": "Compound DAO",
     "image": "https://cdn.morpho.org/v2/assets/images/compound.svg",
-    "url": "https://compound.finance/",
     "verified": true,
     "addresses": {
       "137": ["0xCC3E7c85Bb0EE4f09380e041fee95a0caeDD4a02"]
