@@ -3788,6 +3788,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x11F3Ba90fa552f8206F89BD89F9fFAb1887706C6",
+    "vendor": "PendleChainlinkOracle",
+    "description": "Pendle Chainlink-compatible PT-ysUSDC-31JUL2025 / USDC",
+    "pair": ["PT-ysUSDC-31JUL2025", "USDC"],
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0x4F67e4d9BD67eFa28236013288737D39AeF48e79",
     "vendor": "Compound",
     "description": "Custom price feed for wstETH / ETH",
