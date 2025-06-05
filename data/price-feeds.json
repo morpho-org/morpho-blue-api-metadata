@@ -7394,5 +7394,29 @@
     "description": "PT-USDS-14AUG2025 / USD linear discount adapter",
     "pair": ["PT-USDS-14AUG2025", "USD"],
     "decimals": 18
+  },
+  {
+    "chainId": 130,
+    "address": "0xDf4c077733412cc04545a629Dea389663BFaDb4E",
+    "vendor": "Chronicle",
+    "description": "rsETH / ETH Chronicle price feed",
+    "pair": ["rsETH", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 130,
+    "address": "0x74661a9ea74fD04975c6eBc6B155Abf8f885636c",
+    "vendor": "Chronicle",
+    "description": "wstETH / ETH Fundamental Chronicle price feed",
+    "pair": ["wstETH", "ETH"],
+    "decimals": 18
+  },
+  {
+    "chainId": 130,
+    "address": "0x70B9de72955ef9dC97192d2ac2e69597A1b54bB8",
+    "vendor": "Chronicle",
+    "description": "ezETH / ETH Chronicle price feed",
+    "pair": ["ezETH", "ETH"],
+    "decimals": 18
   }
 ]
