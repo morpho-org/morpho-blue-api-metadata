@@ -7394,5 +7394,13 @@
     "description": "PT-USDS-14AUG2025 / USD linear discount adapter",
     "pair": ["PT-USDS-14AUG2025", "USD"],
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x93F4E501ddcB7e8FD18f5839204AeC0234B2B2E0",
+    "vendor": "Pendle",
+    "description": "PendleChainlinkOracle - PT-USDe-25SEP2025/USDe",
+    "pair": ["PT-USDe-25SEP2025", "USDe"],
+    "decimals": 18
   }
 ]
