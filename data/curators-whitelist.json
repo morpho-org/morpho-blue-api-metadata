@@ -404,6 +404,7 @@
     }
   },
   {
+    "image": "https://cdn.morpho.org/v2/assets/images/swissborg.svg",
     "name": "Swissborg",
     "verified": true,
     "addresses": {
@@ -417,6 +418,7 @@
   },
   {
     "name": "Seamless",
+    "image": "https://cdn.morpho.org/v2/assets/images/seamless.svg",
     "verified": true,
     "addresses": {
       "8453": ["0x639d2dD24304aC2e6A691d8c1cFf4a2665925fee"]
@@ -426,6 +428,7 @@
   },
   {
     "name": "Moonwell",
+    "image": "https://cdn.morpho.org/v2/assets/images/moonwell.svg",
     "verified": true,
     "addresses": {
       "8453": ["0x8b621804a7637b781e2BbD58e256a591F2dF7d51"]
