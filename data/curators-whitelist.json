@@ -340,6 +340,10 @@
     "url": "https://www.linkedin.com/company/clearstar-labs-ag/",
     "verified": true,
     "addresses": {
+      "1": [
+        "0x30988479C2E6a03E7fB65138b94762D41a733458",
+        "0x72882eb5D27C7088DFA6DDE941DD42e5d184F0ef"
+      ],
       "8453": [
         "0x30988479C2E6a03E7fB65138b94762D41a733458",
         "0x72882eb5D27C7088DFA6DDE941DD42e5d184F0ef"
