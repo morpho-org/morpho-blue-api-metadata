@@ -7410,5 +7410,13 @@
     "description": "PendleChainlinkOracle - PT-sUSDE-25SEP2025/USDe",
     "pair": ["PT-sUSDE-25SEP2025", "USDe"],
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x22d6ed297d4250ef3A287936923462D3Be936ac5",
+    "vendor": "Pendle",
+    "description": "PendleChainlinkOracle - PT-RLP-4SEP2025/USDC",
+    "pair": ["PT-RLP-4SEP2025", "USDC"],
+    "decimals": 18
   }
 ]
