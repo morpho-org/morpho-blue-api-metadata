@@ -7410,5 +7410,13 @@
     "description": "wstETH / ETH Fundamental Chronicle price feed",
     "pair": ["wstETH", "ETH"],
     "decimals": 18
+  },
+  {
+    "chainId": 130,
+    "address": "0x70B9de72955ef9dC97192d2ac2e69597A1b54bB8",
+    "vendor": "Chronicle",
+    "description": "ezETH / ETH Chronicle price feed",
+    "pair": ["ezETH", "ETH"],
+    "decimals": 18
   }
 ]
