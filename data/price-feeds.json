@@ -7444,6 +7444,14 @@
     "decimals": 18
   },
   {
+    "chainId": 8453,
+    "address": "0x5Aa30684f5B1d5E258F1eFC69d40fc9AB2d1e216",
+    "vendor": "Pendle",
+    "description": "PendleChainlinkOracle - PT-LBTC-scaled18-25SEP2025/LBTC",
+    "pair": ["PT-LBTC-scaled18-25SEP2025", "LBTC"],
+    "decimals": 18
+  },
+  {
     "chainId": 130,
     "address": "0x58fa68A373956285dDfb340EDf755246f8DfCA16",
     "vendor": "Redstone",
