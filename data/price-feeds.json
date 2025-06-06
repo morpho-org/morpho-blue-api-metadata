@@ -7397,6 +7397,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xDb7532869DD54d017766cDCd1359777A2022bbd5",
+    "vendor": "Pendle - Spark",
+    "description": "PT-eUSDE-14AUG2025 / USD linear discount adapter",
+    "pair": ["PT-eUSDE-14AUG2025", "USD"],
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0x93F4E501ddcB7e8FD18f5839204AeC0234B2B2E0",
     "vendor": "Pendle",
     "description": "PendleChainlinkOracle - PT-USDe-25SEP2025/USDe",
@@ -7404,6 +7412,14 @@
     "decimals": 18
   },
   {
+    "chainId": 1,
+    "address": "0xf0CF5c188213759495f7cC6a6aB497b771B7Cc5b",
+    "vendor": "Pendle - Spark",
+    "description": "PT-sUSDE-25SEP2025 / USD linear discount adapter",
+    "pair": ["PT-sUSDE-25SEP2025", "USD"],
+    "decimals": 18
+  },
+  { 
     "chainId": 1,
     "address": "0xA9504e8169D350296962DaefE2Bc8F49C0Ba8513",
     "vendor": "Pendle",
