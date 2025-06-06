@@ -7451,6 +7451,7 @@
     "pair": ["PT-LBTC-scaled18-25SEP2025", "LBTC"],
     "decimals": 18
   },
+  {
     "chainId": 130,
     "address": "0x58fa68A373956285dDfb340EDf755246f8DfCA16",
     "vendor": "Redstone",
