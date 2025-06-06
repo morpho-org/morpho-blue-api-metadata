@@ -4029,5 +4029,47 @@
         "timestamp": 1748638880
       }
     ]
+  },
+  {
+    "address": "0x62fE596d59fB077c2Df736dF212E0AFfb522dC78",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.png",
+    "description": "The Clearstar USDC Reactor vault maximizes USDC yields while fostering the growth of high-quality collateral assets. By combining strategic asset selection with intelligent routing across efficient lending markets, it creates a flywheel of liquidity and sustainability. This vault is designed to align incentives across users and protocols for a win/win outcome in decentralized finance.",
+    "forumLink": "https://forum.morpho.org/c/vaults/clearstar-labs/40",
+    "curators": [
+      {
+        "name": "Clearstar",
+        "image": "https://cdn.morpho.org/v2/assets/images/clearstar.png",
+        "url": "https://www.linkedin.com/company/clearstar-labs-ag/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1749109827
+      }
+    ]
+  },
+  {
+    "address": "0xE74c499fA461AF1844fCa84204490877787cED56",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.png",
+    "description": "The High Yield Clearstar USDC vault aims to provide liquidity to volatile and frontier assets on Base. Potential higher volatility markets mean higher implied risks in exchange for high yields.",
+    "forumLink": "https://forum.morpho.org/c/vaults/clearstar-labs/40",
+    "curators": [
+      {
+        "name": "Clearstar",
+        "image": "https://cdn.morpho.org/v2/assets/images/clearstar.png",
+        "url": "https://www.linkedin.com/company/clearstar-labs-ag/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1749109827
+      }
+    ]
   }
 ]
