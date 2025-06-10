@@ -3,19 +3,11 @@ import { describe, expect, test } from "@jest/globals";
 import { loadJsonFile } from "../../utils/jsonValidators";
 import { getAddress } from "viem"; // We'll use viem for checksum validation
 
-interface Curator {
-  name: string;
-  image: string;
-  url: string;
-  verified: boolean;
-}
-
 interface Vault {
   address: string;
   chainId: number;
   description: string;
   forumLink: string;
-  curators: Curator[];
 }
 describe("vaults-whitelist.json validation", () => {
   const vaults = loadJsonFile("vaults-whitelist.json") as Vault[];
@@ -74,7 +66,6 @@ describe("vaults-whitelist.json validation", () => {
         chainId: expect.any(Number),
         description: expect.any(String),
         forumLink: expect.any(String),
-        curators: expect.any(Array),
       };
 
       // Check vault fields
@@ -86,34 +77,6 @@ describe("vaults-whitelist.json validation", () => {
           error instanceof Error ? error.message : String(error);
         errors.push(
           `Vault at index ${index} is missing or has invalid required fields:\n${errorMessage}`
-        );
-      }
-
-      // Check curator fields if curators array exists
-      if (Array.isArray(vault.curators)) {
-        const requiredCuratorFields = {
-          name: expect.any(String),
-          image: expect.any(String),
-          url: expect.any(String),
-          verified: expect.any(Boolean),
-        };
-
-        vault.curators.forEach((curator, curatorIndex) => {
-          try {
-            expect(curator).toEqual(
-              expect.objectContaining(requiredCuratorFields)
-            );
-          } catch (error) {
-            const errorMessage =
-              error instanceof Error ? error.message : String(error);
-            errors.push(
-              `Curator at index ${curatorIndex} in vault ${index} (address: ${vault.address}) has invalid fields:\n${errorMessage}`
-            );
-          }
-        });
-      } else {
-        errors.push(
-          `Vault at index ${index} (address: ${vault.address}) has invalid curators array`
         );
       }
     });
