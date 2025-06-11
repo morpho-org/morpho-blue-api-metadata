@@ -19,14 +19,14 @@ interface PriceFeed {
 }
 
 describe("price-feeds.json validation", () => {
-  // Load and filter price feeds for only chain IDs 1 and 8453
   const allPriceFeeds = loadJsonFile("price-feeds.json") as PriceFeed[];
   const priceFeeds = allPriceFeeds.filter(
     (feed) =>
       feed.chainId === 1 ||
       feed.chainId === 8453 ||
       feed.chainId === 137 ||
-      feed.chainId === 130
+      feed.chainId === 130 ||
+      feed.chainId === 10
   );
 
   test("addresses are checksummed", () => {
