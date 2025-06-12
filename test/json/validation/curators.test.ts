@@ -121,8 +121,8 @@ describe("curators-whitelist.json validation", () => {
     }
   });
 
-  test("chain IDs are valid (1 or 8453 or 137  or 130)", () => {
-    const validChainIds = ["1", "8453", "137", "130"];
+  test("chain IDs are valid (1 or 8453 or 137 or 130 or 10)", () => {
+    const validChainIds = ["1", "8453", "137", "130", "10"];
     const errors: string[] = [];
 
     curators.forEach((curator) => {
