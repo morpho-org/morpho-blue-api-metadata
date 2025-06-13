@@ -7468,6 +7468,14 @@
     "decimals": 18
   },
   {
+    "chainId": 1,
+    "address": "0xd88070Cc971E078Dcce2c36DC521bC834c635627",
+    "vendor": "eOracle",
+    "description": "PT-fxSAVE-30OCT2025/USD LinearDiscount",
+    "pair": ["PT-fxSAVE-30OCT2025", "USD"],
+    "decimals": 18
+  },
+  {
     "chainId": 130,
     "address": "0x58fa68A373956285dDfb340EDf755246f8DfCA16",
     "vendor": "Redstone",
