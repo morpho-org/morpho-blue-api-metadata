@@ -4071,5 +4071,26 @@
         "timestamp": 1749109827
       }
     ]
+  },
+  {
+    "address": "0x68Aea7b82Df6CcdF76235D46445Ed83f85F845A3",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/yearn.png",
+    "description": "This vault is curated by the Yearn team and exclusively uses markets that rely on Api3 oracles. Api3 oracles are designed to recapture Oracle Extractable Value (OEV) from liquidation incentives and redirect it to active market participants.",
+    "forumLink": "https://forum.morpho.org/c/vaults/yearn/42",
+    "curators": [
+      {
+        "name": "Yearn",
+        "image": "https://cdn.morpho.org/v2/assets/images/yearn.png",
+        "url": "https://yearn.fi/apps",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1749812133
+      }
+    ]
   }
 ]
