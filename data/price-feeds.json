@@ -7522,5 +7522,21 @@
     "description": "PT-AIDaUSDT-14AUG2025 / USD linear discount adapter",
     "pair": ["PT-AIDaUSDT-14AUG2025", "USD"],
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xeC4031539b851eEc918b41FE3e03d7236fEc7be8",
+    "vendor": "API3",
+    "description": "wstETH / USD feed",
+    "pair": ["wstETH", "USD"],
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x4C7A561D15001C6ee5E05996591419b11962fa1A",
+    "vendor": "API3",
+    "description": "USDC / USD feed",
+    "pair": ["USDC", "USD"],
+    "decimals": 18
   }
 ]
