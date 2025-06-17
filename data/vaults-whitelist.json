@@ -3803,7 +3803,7 @@
     "address": "0x2c0F7e917257926BA6233B20DE19d7fe3210858C",
     "chainId": 130,
     "image": "https://cdn.morpho.org/assets/logos/usdt.svg",
-    "description": "The Re7 USDT vault curated by Re7 Labs is intended to seamlessly allocate USDT liquidity to various Morpho markets.",
+    "description": "The Re7 USDT0 vault curated by Re7 Labs is intended to seamlessly allocate USDT0 liquidity to various Morpho markets.",
     "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
     "curators": [
       {
