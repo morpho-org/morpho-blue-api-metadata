@@ -4608,8 +4608,8 @@
     "chainId": 8453,
     "address": "0x270Ee1564eC483DD83f284E4D7bDFbfaa2feA76E",
     "vendor": "Centrifuge",
-    "description": "LTF/USDC exchange rate",
-    "pair": ["LTF", "USDC"],
+    "description": "JTRSY/USDC exchange rate",
+    "pair": ["JTRSY", "USDC"],
     "tokenIn": {
       "address": "0x8c213ee79581Ff4984583C6a801e5263418C4b86",
       "chainId": 8453
