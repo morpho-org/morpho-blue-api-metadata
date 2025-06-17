@@ -404,8 +404,8 @@
     }
   },
   {
-    "image": "https://cdn.morpho.org/v2/assets/images/ultrayield.svg",
-    "name": "Edge Capital",
+    "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
+    "name": "Edge Capital UltraYield",
     "url": "https://edgecapital.xyz/",
     "verified": true,
     "addresses": {
@@ -414,7 +414,7 @@
         "0xCC217D03d9Ad82C80101B9F0579Fd5A0b141EDcc"
       ]
     },
-    "id": "edge-capital",
+    "id": "edge-capital-ultrayield",
     "socials": {
       "url": "https://edgecapital.xyz/",
       "twitter": "https://x.com/ultrayieldapp"
