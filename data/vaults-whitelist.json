@@ -1879,7 +1879,7 @@
     "address": "0x1E2aAaDcF528b9cC08F43d4fd7db488cE89F5741",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
-    "description": "The 9Summits Mount Denali USDC Core will allocate to a range of liquid assets in order to provide the best risk adjusted yield to its users.",
+    "description": "The 9Summits TAC USDC Core will allocate to a range of liquid assets in order to provide the best risk adjusted yield to its users.",
     "forumLink": "https://forum.morpho.org/c/vaults/9summits/34",
     "curators": [
       {
@@ -1921,7 +1921,7 @@
     "address": "0x0bB2751a90fFF62e844b1521637DeD28F3f5046A",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
-    "description": "The 9Summits Mount Everest ETH Core will allocate to a range of liquid assets in order to provide the best risk adjusted yield to its users.",
+    "description": "The 9Summits TAC ETH will allocate to a range of liquid assets in order to provide the best risk adjusted yield to its users.",
     "forumLink": "https://forum.morpho.org/c/vaults/9summits/34",
     "curators": [
       {
