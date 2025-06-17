@@ -7514,5 +7514,21 @@
     "description": "rsETH/ETH FUNDAMENTAL Redstone feed",
     "pair": ["rsETH", "ETH"],
     "decimals": 8
+  },
+  {
+    "chainId": 1,
+    "address": "0xF4030086522a5bEEa4988F8cA5B36dbC97BeE88c",
+    "vendor": "Chainlink",
+    "description": "BTC / USD",
+    "pair": ["cbBTC", "EURCV"],
+    "tokenIn": {
+      "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0x5F7827FDeb7c20b443265Fc2F40845B715385Ff2",
+      "chainId": 1
+    },
+    "decimals": 8
   }
 ]
