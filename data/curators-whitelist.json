@@ -9,11 +9,13 @@
         "0x38afC3aA2c76b4cA1F8e1DabA68e998e1F4782DB",
         "0x06590Fef209Ebc1f8eEF83dA05984cD4eFf0d0E3",
         "0x6fA5d361Ab8165347F636217001E22a7cEF09B48"
-      ]
+      ],
+      "130": ["0xeEAa598C011A29b6713251dD0CE24DB8D80E60Eb"]
     },
     "id": "mev-capital",
     "socials": {
-      "url": "https://mevcapital.com/"
+      "url": "https://mevcapital.com/",
+      "twitter": "https://x.com/MEVCapital"
     }
   },
   {
@@ -26,6 +28,7 @@
         "0x9E33faAE38ff641094fa68c65c2cE600b3410585",
         "0xC684c6587712e5E7BDf9fD64415F23Bd2b05fAec"
       ],
+      "130": ["0x9E33faAE38ff641094fa68c65c2cE600b3410585"],
       "137": ["0x9E33faAE38ff641094fa68c65c2cE600b3410585"],
       "8453": [
         "0x9E33faAE38ff641094fa68c65c2cE600b3410585",
@@ -34,7 +37,8 @@
     },
     "id": "gauntlet",
     "socials": {
-      "url": "https://www.gauntlet.xyz/"
+      "url": "https://www.gauntlet.xyz/",
+      "twitter": "https://x.com/gauntlet_xyz"
     }
   },
   {
@@ -50,6 +54,10 @@
         "0xB65b8CF358A2A4C62e1153eC88fc0eD43fB73bC4",
         "0x30a38f1a27036aE7b1a3679646739Fb913B9B244"
       ],
+      "130": [
+        "0xC868BFb240Ed207449Afe71D2ecC781D5E10C85C",
+        "0x23E6aecB76675462Ad8f2B31eC7C492060c2fAEF"
+      ],
       "8453": [
         "0x59e608E4842162480591032f3c8b0aE55C98d104",
         "0x23E6aecB76675462Ad8f2B31eC7C492060c2fAEF"
@@ -57,7 +65,8 @@
     },
     "id": "9summits",
     "socials": {
-      "url": "https://9summits.io/"
+      "url": "https://9summits.io/",
+      "twitter": "https://x.com/nine_summits"
     }
   },
   {
@@ -73,7 +82,8 @@
     },
     "id": "tulipa-capital",
     "socials": {
-      "url": "https://www.tulipa.capital/"
+      "url": "https://www.tulipa.capital/",
+      "twitter": "https://x.com/tulipacapital"
     }
   },
   {
@@ -90,7 +100,8 @@
     },
     "id": "block-analitica",
     "socials": {
-      "url": "https://blockanalitica.com/"
+      "url": "https://blockanalitica.com/",
+      "twitter": "https://x.com/BlockAnalitica"
     }
   },
   {
@@ -111,7 +122,8 @@
     },
     "id": "b-protocol",
     "socials": {
-      "url": "https://www.bprotocol.org/"
+      "url": "https://www.bprotocol.org/",
+      "twitter": "https://x.com/bprotocoleth"
     }
   },
   {
@@ -121,12 +133,14 @@
     "verified": true,
     "addresses": {
       "1": ["0xE86399fE6d7007FdEcb08A2ee1434Ee677a04433"],
+      "130": ["0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"],
       "137": ["0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"],
       "8453": ["0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"]
     },
     "id": "re7-labs",
     "socials": {
-      "url": "https://www.re7labs.xyz/"
+      "url": "https://www.re7labs.xyz/",
+      "twitter": "https://x.com/Re7Labs"
     }
   },
   {
@@ -139,7 +153,8 @@
     },
     "id": "fence",
     "socials": {
-      "url": "https://www.fence.finance/"
+      "url": "https://www.fence.finance/",
+      "twitter": "https://x.com/fence_finance"
     }
   },
   {
@@ -154,6 +169,11 @@
         "0xc01Ba42d4Bd241892B813FA8bD4589EAA4C60672",
         "0x827e86072B06674a077f592A531dcE4590aDeCdB"
       ],
+      "130": [
+        "0x0000aeB716a0DF7A9A1AAd119b772644Bc089dA8",
+        "0x827e86072B06674a077f592A531dcE4590aDeCdB",
+        "0x0A0e559bc3b0950a7e448F0d4894db195b9cf8DD"
+      ],
       "8453": [
         "0x0A0e559bc3b0950a7e448F0d4894db195b9cf8DD",
         "0x0000aeB716a0DF7A9A1AAd119b772644Bc089dA8",
@@ -162,7 +182,8 @@
     },
     "id": "steakhouse-financial",
     "socials": {
-      "url": "https://www.steakhouse.financial"
+      "url": "https://www.steakhouse.financial",
+      "twitter": "https://x.com/SteakhouseFi"
     }
   },
   {
@@ -176,7 +197,8 @@
     },
     "id": "relend-network",
     "socials": {
-      "url": "https://relend.network/"
+      "url": "https://relend.network/",
+      "twitter": "https://x.com/relend_network"
     }
   },
   {
@@ -185,11 +207,15 @@
     "url": "https://www.hyperithm.com/",
     "verified": true,
     "addresses": {
-      "1": ["0x16fa314141C76D4a0675f5e8e3CCBE4E0fA22C7c"]
+      "1": [
+        "0xEe7E9bb21D5589BF657b94083dB2fA349a3918C8",
+        "0x75178137D3B4B9A0F771E0e149b00fB8167BA325"
+      ]
     },
     "id": "hyperithm",
     "socials": {
-      "url": "https://www.hyperithm.com/"
+      "url": "https://www.hyperithm.com/",
+      "twitter": "https://x.com/hyperithm"
     }
   },
   {
@@ -203,7 +229,8 @@
     },
     "id": "sparkdao",
     "socials": {
-      "url": "https://spark.fi/"
+      "url": "https://spark.fi/",
+      "twitter": "https://x.com/sparkdotfi"
     }
   },
   {
@@ -216,7 +243,8 @@
     },
     "id": "llamarisk",
     "socials": {
-      "url": "https://www.llamarisk.com/"
+      "url": "https://www.llamarisk.com/",
+      "twitter": "https://x.com/LlamaRisk"
     }
   },
   {
@@ -233,7 +261,8 @@
     },
     "id": "apostro",
     "socials": {
-      "url": "https://apostro.xyz"
+      "url": "https://apostro.xyz",
+      "twitter": "https://x.com/apostroxyz"
     }
   },
   {
@@ -249,7 +278,8 @@
     },
     "id": "leadblock",
     "socials": {
-      "url": "https://leadblockpartners.com/"
+      "url": "https://leadblockpartners.com/",
+      "twitter": "https://x.com/LeadBlockP"
     }
   },
   {
@@ -266,7 +296,8 @@
     },
     "id": "alphaping",
     "socials": {
-      "url": "https://alphaping.ch/"
+      "url": "https://alphaping.ch/",
+      "twitter": "https://x.com/0xAlphaping"
     }
   },
   {
@@ -282,7 +313,8 @@
     },
     "id": "hakutora",
     "socials": {
-      "url": "https://hakutora.xyz/"
+      "url": "https://hakutora.xyz/",
+      "twitter": "https://x.com/0xhakutora"
     }
   },
   {
@@ -298,7 +330,8 @@
     },
     "id": "ouroboros-capital",
     "socials": {
-      "url": "https://ourocap.io/"
+      "url": "https://ourocap.io/",
+      "twitter": "https://x.com/OuroborosCap8"
     }
   },
   {
@@ -307,6 +340,10 @@
     "url": "https://www.linkedin.com/company/clearstar-labs-ag/",
     "verified": true,
     "addresses": {
+      "1": [
+        "0x30988479C2E6a03E7fB65138b94762D41a733458",
+        "0x72882eb5D27C7088DFA6DDE941DD42e5d184F0ef"
+      ],
       "8453": [
         "0x30988479C2E6a03E7fB65138b94762D41a733458",
         "0x72882eb5D27C7088DFA6DDE941DD42e5d184F0ef"
@@ -314,7 +351,8 @@
     },
     "id": "clearstar",
     "socials": {
-      "url": "https://www.linkedin.com/company/clearstar-labs-ag/"
+      "url": "https://www.linkedin.com/company/clearstar-labs-ag/",
+      "twitter": "https://x.com/ClearstarLabs"
     }
   },
   {
@@ -330,7 +368,8 @@
     },
     "id": "m11c",
     "socials": {
-      "url": "https://www.m11credit.com/"
+      "url": "https://www.m11credit.com/",
+      "twitter": "https://x.com/M11Credit"
     }
   },
   {
@@ -344,10 +383,28 @@
     },
     "id": "yearn",
     "socials": {
-      "url": "https://yearn.fi/apps"
+      "url": "https://yearn.fi/apps",
+      "twitter": "https://x.com/yearnfi"
     }
   },
   {
+    "image": "https://cdn.morpho.org/v2/assets/images/k3-capital.svg",
+    "name": "K3 Capital",
+    "url": "https://www.k3.capital/",
+    "verified": true,
+    "addresses": {
+      "130": [
+        "0xdD84A24eeddE63F10Ec3e928f1c8302A47538b6B"
+      ]
+    },
+    "id": "k3-capital",
+    "socials": {
+      "url": "https://www.k3.capital/",
+      "twitter": "https://x.com/k3_capital"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/swissborg.svg",
     "name": "Swissborg",
     "verified": true,
     "addresses": {
@@ -361,6 +418,7 @@
   },
   {
     "name": "Seamless",
+    "image": "https://cdn.morpho.org/v2/assets/images/seamless.svg",
     "verified": true,
     "addresses": {
       "8453": ["0x639d2dD24304aC2e6A691d8c1cFf4a2665925fee"]
@@ -370,6 +428,7 @@
   },
   {
     "name": "Moonwell",
+    "image": "https://cdn.morpho.org/v2/assets/images/moonwell.svg",
     "verified": true,
     "addresses": {
       "8453": ["0x8b621804a7637b781e2BbD58e256a591F2dF7d51"]

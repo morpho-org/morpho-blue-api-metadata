@@ -189,12 +189,19 @@
     "address": "0x19Ebd191f7A24ECE672ba13A302212b5eF7F35cb",
     "vendor": "YieldFi",
     "chainId": 1,
-    "pair": ["yUSD", "USDC"]
+    "pair": ["yUSD", "USDC"],
+    "diffDecimals": 12
   },
   {
     "address": "0x4737D9b4592B40d51e110b94c9C043c6654067Ae",
     "vendor": "Level",
     "chainId": 1,
     "pair": ["slvlUSD", "lvlUSD"]
+  },
+  {
+    "address": "0x9d60947D49911E3c262C108f97FE07cde209f9a7",
+    "vendor": "Securitize",
+    "chainId": 137,
+    "pair": ["sACRED", "ACRED"]
   }
 ]
