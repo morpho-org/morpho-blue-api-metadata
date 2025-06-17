@@ -7517,7 +7517,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xF4030086522a5bEEa4988F8cA5B36dbC97BeE88c",
+    "address": "0xbA75FD248bF33D669D4c5Adf25d3e32779656E47",
     "vendor": "Chainlink",
     "description": "BTC / USD",
     "pair": ["cbBTC", "EURCV"],
