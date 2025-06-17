@@ -7514,5 +7514,13 @@
     "description": "rsETH/ETH FUNDAMENTAL Redstone feed",
     "pair": ["rsETH", "ETH"],
     "decimals": 8
+  },
+  {
+    "chainId": 1,
+    "address": "0x2FEed35e88ac4de0fe8f43F13BAd378E4Dc7Ad99",
+    "vendor": "Pendle",
+    "description": "PT-AIDaUSDT-14AUG2025 / USD linear discount adapter",
+    "pair": ["PT-AIDaUSDT-14AUG2025", "USD"],
+    "decimals": 18
   }
 ]
