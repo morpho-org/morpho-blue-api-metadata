@@ -7514,5 +7514,21 @@
     "description": "rsETH/ETH FUNDAMENTAL Redstone feed",
     "pair": ["rsETH", "ETH"],
     "decimals": 8
+  },
+  {
+    "chainId": 1,
+    "address": "0x9dc3Ef99A125B8341A378C2b8821a05e79aF48c2",
+    "vendor": "Pendle",
+    "description": "PT-USR-4SEP2025/USR PendleChainlinkAdapter",
+    "pair": ["PT-USR-4SEP2025", "USR"],
+    "tokenIn": {
+      "address": "0x5a5b93F762739fa94F3EcC0b34Af2e56702E7f70",
+      "chainId": 1
+    },
+    "tokenOut": {
+      "address": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
+      "chainId": 1
+    },
+    "decimals": 18
   }
 ]
