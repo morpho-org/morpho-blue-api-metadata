@@ -4608,8 +4608,8 @@
     "chainId": 8453,
     "address": "0x270Ee1564eC483DD83f284E4D7bDFbfaa2feA76E",
     "vendor": "Centrifuge",
-    "description": "LTF/USDC exchange rate",
-    "pair": ["LTF", "USDC"],
+    "description": "JTRSY/USDC exchange rate",
+    "pair": ["JTRSY", "USDC"],
     "tokenIn": {
       "address": "0x8c213ee79581Ff4984583C6a801e5263418C4b86",
       "chainId": 8453
@@ -7473,6 +7473,14 @@
     "vendor": "eOracle",
     "description": "PT-fxSAVE-30OCT2025/USD LinearDiscount",
     "pair": ["PT-fxSAVE-30OCT2025", "USD"],
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4782961880d251865c0d1C626140Cd78076BBb5A",
+    "vendor": "Pendle - Spark",
+    "description": "PT-LBTC-scaled18-25SEP2025 / LBTC LinearDiscount",
+    "pair": ["PT-LBTC-scaled18-25SEP2025", "LBTC"],
     "decimals": 18
   },
   {

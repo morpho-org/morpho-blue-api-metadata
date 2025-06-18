@@ -1879,7 +1879,7 @@
     "address": "0x1E2aAaDcF528b9cC08F43d4fd7db488cE89F5741",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
-    "description": "The 9Summits Mount Denali USDC Core will allocate to a range of liquid assets in order to provide the best risk adjusted yield to its users.",
+    "description": "The 9Summits TAC USDC Core will allocate to a range of liquid assets in order to provide the best risk adjusted yield to its users.",
     "forumLink": "https://forum.morpho.org/c/vaults/9summits/34",
     "curators": [
       {
@@ -1921,7 +1921,7 @@
     "address": "0x0bB2751a90fFF62e844b1521637DeD28F3f5046A",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
-    "description": "The 9Summits Mount Everest ETH Core will allocate to a range of liquid assets in order to provide the best risk adjusted yield to its users.",
+    "description": "The 9Summits TAC ETH will allocate to a range of liquid assets in order to provide the best risk adjusted yield to its users.",
     "forumLink": "https://forum.morpho.org/c/vaults/9summits/34",
     "curators": [
       {
@@ -4090,6 +4090,48 @@
       {
         "action": "added",
         "timestamp": 1749812133
+      }
+    ]
+  },
+  {
+    "address": "0x0562AE950276B24F3eAE0d0a518dADB7Ad2F8D66",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
+    "description": "The Edge UltraYield USDC vault, curated by the UltraYield team, provides diversified exposure to various Morpho markets by lending USDC to achieve an optimized, risk-adjusted return.",
+    "forumLink": "https://forum.morpho.org/c/vaults/edge-capital/44",
+    "curators": [
+      {
+        "name": "Edge Capital UltraYield",
+        "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
+        "url": "https://ultrayield.app/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1750157487
+      }
+    ]
+  },
+  {
+    "address": "0xDA4063Ec62c3F3c1D2BdBf7Dbfb2b2C906f8E8b2",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "The MEV Capital USDT vault provides a set of liquid collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+    "curators": [
+      {
+        "name": "MEV Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+        "url": "https://mevcapital.com/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1750137782
       }
     ]
   }
