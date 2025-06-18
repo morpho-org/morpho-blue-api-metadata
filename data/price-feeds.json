@@ -7522,5 +7522,29 @@
     "description": "rsETH/ETH FUNDAMENTAL Redstone feed",
     "pair": ["rsETH", "ETH"],
     "decimals": 8
+  },
+  {
+    "chainId": 1,
+    "address": "0x2FEed35e88ac4de0fe8f43F13BAd378E4Dc7Ad99",
+    "vendor": "Hyperithm",
+    "description": "PT-AIDaUSDT-14AUG2025 / USDT linear discount adapter",
+    "pair": ["PT-AIDaUSDT-14AUG2025", "USDT"],
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xeC4031539b851eEc918b41FE3e03d7236fEc7be8",
+    "vendor": "API3",
+    "description": "wstETH / USD feed",
+    "pair": ["wstETH", "USD"],
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x4C7A561D15001C6ee5E05996591419b11962fa1A",
+    "vendor": "API3",
+    "description": "USDC / USD feed",
+    "pair": ["USDC", "USD"],
+    "decimals": 18
   }
 ]
