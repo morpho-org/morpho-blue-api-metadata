@@ -7526,7 +7526,7 @@
   {
     "chainId": 1,
     "address": "0x2FEed35e88ac4de0fe8f43F13BAd378E4Dc7Ad99",
-    "vendor": "Pendle",
+    "vendor": "Hyperithm",
     "description": "PT-AIDaUSDT-14AUG2025 / USDT linear discount adapter",
     "pair": ["PT-AIDaUSDT-14AUG2025", "USDT"],
     "decimals": 18
