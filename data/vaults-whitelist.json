@@ -3277,13 +3277,13 @@
   {
     "address": "0x1D3b1Cd0a0f242d598834b3F2d126dC6bd774657",
     "chainId": 8453,
-    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.png",
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
     "description": "The Clearstar OpenEden USDC Vault optimizes yields in USDO markets. OpenEden's USDO is a fully regulated, yield-bearing stablecoin backed by Moody's-rated tokenized U.S. Treasuries.",
     "forumLink": "https://forum.morpho.org/c/vaults/clearstar-labs/40",
     "curators": [
       {
         "name": "Clearstar",
-        "image": "https://cdn.morpho.org/v2/assets/images/clearstar.png",
+        "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
         "url": "https://www.linkedin.com/company/clearstar-labs-ag/",
         "verified": true
       }
@@ -3424,13 +3424,13 @@
   {
     "address": "0x3DC15A363f5Dcf3B9dB90a5C0e2a5Cdf8f1CD77E",
     "chainId": 1,
-    "image": "https://cdn.morpho.org/v2/assets/images/yearn.png",
+    "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
     "description": "Yearn OG vaults lend underlying assets to markets labeled as moderate risk (-2) by the Yearn team. Optimization across markets is handled automatically via an algorithm developed by Yearn. Supply caps are set based on various factors and continuously monitored by the Yearn team as well.",
     "forumLink": "https://forum.morpho.org/c/vaults/yearn/42",
     "curators": [
       {
         "name": "Yearn",
-        "image": "https://cdn.morpho.org/v2/assets/images/yearn.png",
+        "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
         "url": "https://yearn.fi/apps",
         "verified": true
       }
@@ -3445,13 +3445,13 @@
   {
     "address": "0xE89371eAaAC6D46d4C3ED23453241987916224FC",
     "chainId": 1,
-    "image": "https://cdn.morpho.org/v2/assets/images/yearn.png",
+    "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
     "description": "Yearn OG vaults lend underlying assets to markets labeled as moderate risk (-2) by the Yearn team. Optimization across markets is handled automatically via an algorithm developed by Yearn. Supply caps are set based on various factors and continuously monitored by the Yearn team as well.",
     "forumLink": "https://forum.morpho.org/c/vaults/yearn/42",
     "curators": [
       {
         "name": "Yearn",
-        "image": "https://cdn.morpho.org/v2/assets/images/yearn.png",
+        "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
         "url": "https://yearn.fi/apps",
         "verified": true
       }
@@ -3466,13 +3466,13 @@
   {
     "address": "0x1D795E29044A62Da42D927c4b179269139A28A6B",
     "chainId": 8453,
-    "image": "https://cdn.morpho.org/v2/assets/images/yearn.png",
+    "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
     "description": "Yearn OG vaults lend underlying assets to markets labeled as moderate risk (-2) by the Yearn team. Optimization across markets is handled automatically via an algorithm developed by Yearn. Supply caps are set based on various factors and continuously monitored by the Yearn team as well.",
     "forumLink": "https://forum.morpho.org/c/vaults/yearn/42",
     "curators": [
       {
         "name": "Yearn",
-        "image": "https://cdn.morpho.org/v2/assets/images/yearn.png",
+        "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
         "url": "https://yearn.fi/apps",
         "verified": true
       }
@@ -3487,13 +3487,13 @@
   {
     "address": "0xef417a2512C5a41f69AE4e021648b69a7CdE5D03",
     "chainId": 8453,
-    "image": "https://cdn.morpho.org/v2/assets/images/yearn.png",
+    "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
     "description": "Yearn OG vaults lend underlying assets to markets labeled as moderate risk (-2) by the Yearn team. Optimization across markets is handled automatically via an algorithm developed by Yearn. Supply caps are set based on various factors and continuously monitored by the Yearn team as well.",
     "forumLink": "https://forum.morpho.org/c/vaults/yearn/42",
     "curators": [
       {
         "name": "Yearn",
-        "image": "https://cdn.morpho.org/v2/assets/images/yearn.png",
+        "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
         "url": "https://yearn.fi/apps",
         "verified": true
       }
@@ -4033,13 +4033,13 @@
   {
     "address": "0x62fE596d59fB077c2Df736dF212E0AFfb522dC78",
     "chainId": 1,
-    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.png",
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
     "description": "The Clearstar USDC Reactor vault maximizes USDC yields while fostering the growth of high-quality collateral assets. By combining strategic asset selection with intelligent routing across efficient lending markets, it creates a flywheel of liquidity and sustainability. This vault is designed to align incentives across users and protocols for a win/win outcome in decentralized finance.",
     "forumLink": "https://forum.morpho.org/c/vaults/clearstar-labs/40",
     "curators": [
       {
         "name": "Clearstar",
-        "image": "https://cdn.morpho.org/v2/assets/images/clearstar.png",
+        "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
         "url": "https://www.linkedin.com/company/clearstar-labs-ag/",
         "verified": true
       }
@@ -4054,13 +4054,13 @@
   {
     "address": "0xE74c499fA461AF1844fCa84204490877787cED56",
     "chainId": 8453,
-    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.png",
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
     "description": "The High Yield Clearstar USDC vault aims to provide liquidity to volatile and frontier assets on Base. Potential higher volatility markets mean higher implied risks in exchange for high yields.",
     "forumLink": "https://forum.morpho.org/c/vaults/clearstar-labs/40",
     "curators": [
       {
         "name": "Clearstar",
-        "image": "https://cdn.morpho.org/v2/assets/images/clearstar.png",
+        "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
         "url": "https://www.linkedin.com/company/clearstar-labs-ag/",
         "verified": true
       }
@@ -4075,13 +4075,13 @@
   {
     "address": "0x68Aea7b82Df6CcdF76235D46445Ed83f85F845A3",
     "chainId": 1,
-    "image": "https://cdn.morpho.org/v2/assets/images/yearn.png",
+    "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
     "description": "This vault is curated by the Yearn team and exclusively uses markets that rely on Api3 oracles. Api3 oracles are designed to recapture Oracle Extractable Value (OEV) from liquidation incentives and redirect it to active market participants.",
     "forumLink": "https://forum.morpho.org/c/vaults/yearn/42",
     "curators": [
       {
         "name": "Yearn",
-        "image": "https://cdn.morpho.org/v2/assets/images/yearn.png",
+        "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
         "url": "https://yearn.fi/apps",
         "verified": true
       }

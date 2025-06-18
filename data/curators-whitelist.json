@@ -335,7 +335,7 @@
     }
   },
   {
-    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.png",
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
     "name": "Clearstar",
     "url": "https://www.linkedin.com/company/clearstar-labs-ag/",
     "verified": true,
@@ -373,7 +373,7 @@
     }
   },
   {
-    "image": "https://cdn.morpho.org/v2/assets/images/yearn.png",
+    "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
     "name": "Yearn",
     "url": "https://yearn.fi/apps",
     "verified": true,
