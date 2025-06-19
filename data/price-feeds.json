@@ -7554,5 +7554,13 @@
     "description": "PT-mMEV-31JUL2025-Hybrid / USDC feed",
     "pair": ["PT-mMEV-31JUL2025", "USDC"],
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x4386307a07C4de7Ba11B4F4ec3e1f37BBE95dC99",
+    "vendor": "Midas",
+    "description": "mF-ONE/USD NAV with 7.7% discount",
+    "pair": ["mF-ONE", "USD"],
+    "decimals": 8
   }
 ]
