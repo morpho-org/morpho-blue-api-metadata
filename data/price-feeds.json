@@ -7525,6 +7525,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x9dc3Ef99A125B8341A378C2b8821a05e79aF48c2",
+    "vendor": "Pendle",
+    "description": "PT-USR-4SEP2025/USR PendleChainlinkOracle",
+    "pair": ["PT-USR-4SEP2025", "USR"],
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
     "address": "0x2FEed35e88ac4de0fe8f43F13BAd378E4Dc7Ad99",
     "vendor": "Hyperithm",
     "description": "PT-AIDaUSDT-14AUG2025 / USDT linear discount adapter",
