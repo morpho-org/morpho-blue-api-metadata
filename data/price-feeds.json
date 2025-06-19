@@ -7546,5 +7546,13 @@
     "description": "USDC / USD feed",
     "pair": ["USDC", "USD"],
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x709428eF8477Df5224192C555b01951480B93D1A",
+    "vendor": "eOracle",
+    "description": "PT-mMEV-31JUL2025-Hybrid / USDC feed",
+    "pair": ["PT-mMEV-31JUL2025", "USDC"],
+    "decimals": 18
   }
 ]
