@@ -335,7 +335,7 @@
     }
   },
   {
-    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.png",
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
     "name": "Clearstar",
     "url": "https://www.linkedin.com/company/clearstar-labs-ag/",
     "verified": true,
@@ -373,7 +373,7 @@
     }
   },
   {
-    "image": "https://cdn.morpho.org/v2/assets/images/yearn.png",
+    "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
     "name": "Yearn",
     "url": "https://yearn.fi/apps",
     "verified": true,
@@ -401,6 +401,23 @@
     "socials": {
       "url": "https://www.k3.capital/",
       "twitter": "https://x.com/k3_capital"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
+    "name": "Edge Capital UltraYield",
+    "url": "https://edgecapital.xyz/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x1280e86Cd7787FfA55d37759C0342F8CD3c7594a",
+        "0xCC217D03d9Ad82C80101B9F0579Fd5A0b141EDcc"
+      ]
+    },
+    "id": "edge-capital-ultrayield",
+    "socials": {
+      "url": "https://edgecapital.xyz/",
+      "twitter": "https://x.com/ultrayieldapp"
     }
   },
   {
