@@ -7570,5 +7570,13 @@
     "description": "mF-ONE/USD NAV with 7.7% discount",
     "pair": ["mF-ONE", "USD"],
     "decimals": 8
+  },
+  {
+    "chainId": 1,
+    "address": "0xBC5d3De52c6850c213A73f206534342f7814A910",
+    "vendor": "Steakhouse",
+    "description": "PT-iUSD-4SEP2025/iUSD PendleChainlinkOracle",
+    "pair": ["PT-iUSD-4SEP2025", "iUSD"],
+    "decimals": 18
   }
 ]
