@@ -4176,5 +4176,26 @@
         "timestamp": 1750423278
       }
     ]
+  },
+  {
+    "address": "0xfBC84DBfAA2196853FdB6cAE52ef8F56DD76770a",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The BOLD Reactor optimizes liquidity and yield within the Liquity ecosystem.",
+    "forumLink": "https://forum.morpho.org/c/vaults/clearstar-labs/40",
+    "curators": [
+      {
+        "name": "Clearstar",
+        "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+        "url": "https://www.linkedin.com/company/clearstar-labs-ag/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1750851563
+      }
+    ]
   }
 ]

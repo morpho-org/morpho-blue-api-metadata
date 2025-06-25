@@ -7578,5 +7578,13 @@
     "description": "PT-iUSD-4SEP2025/iUSD PendleChainlinkOracle",
     "pair": ["PT-iUSD-4SEP2025", "iUSD"],
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x596cDF5D33486b035e8482688c638E7dcAf25a7b",
+    "vendor": "Pyth Network",
+    "description": "BOLD/USD Pyth Network feed",
+    "pair": ["BOLD", "USD"],
+    "decimals": 8
   }
 ]
