@@ -26,7 +26,8 @@ describe("price-feeds.json validation", () => {
       feed.chainId === 8453 ||
       feed.chainId === 137 ||
       feed.chainId === 130 ||
-      feed.chainId === 10
+      feed.chainId === 10 ||
+      feed.chainId === 747474
   );
 
   test("addresses are checksummed", () => {
@@ -71,8 +72,8 @@ describe("price-feeds.json validation", () => {
     }
   });
 
-  test("chain IDs are valid (1 or 8453 or 137 or 130)", () => {
-    const validChainIds = [1, 8453, 137, 130];
+  test("chain IDs are valid (1 or 8453 or 137 or 130 or 10 or 747474)", () => {
+    const validChainIds = [1, 8453, 137, 130, 10, 747474];
     const errors: string[] = [];
 
     priceFeeds.forEach((feed, index) => {

@@ -58,6 +58,18 @@ const clients = {
     chain: base,
     transport: http(),
   }),
+  130: createPublicClient({
+    chain: unichain,
+    transport: http(),
+  }),
+  137: createPublicClient({
+    chain: polygon,
+    transport: http(),
+  }),
+  747474: createPublicClient({
+    chain: katana,
+    transport: http(),
+  }),
 };
 
 async function checkAddressRisk(
