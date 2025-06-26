@@ -26,10 +26,10 @@ function filterTokens() {
   );
   const tokens = JSON.parse(rawData) as Token[];
 
-  // Filter tokens for chainId 1 and 8453 AND must have logoURI
+  // Filter tokens for chainId 1, 8453, 137, 130, 10 & 747474 AND must have logoURI
   const filteredTokens = tokens.filter(
     (token) =>
-      (token.chainId === 1 || token.chainId === 8453) && token.metadata?.logoURI
+      (token.chainId === 1 || token.chainId === 8453 || token.chainId === 137 || token.chainId === 130 || token.chainId === 10 || token.chainId === 747474) && token.metadata?.logoURI
   );
 
   // Write the filtered tokens to a new file

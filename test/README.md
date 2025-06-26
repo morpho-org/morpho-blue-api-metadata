@@ -62,7 +62,7 @@ No test for this one
 
 2. **Chain ID Validation**
 
-   - Ensures all chain IDs are either 1 (Ethereum) or 8453 (Base)
+   - Ensures all chain IDs are either 1 (Ethereum), 8453 (Base), 130 (Unichain), 137 (PolygonPOS) and 747474 (Katana)
    - Validates chain IDs for:
      - Main price feed
      - TokenIn configuration
@@ -99,7 +99,7 @@ No test for this one
 
 2. **Chain ID Validation**
 
-   - Ensures all chain IDs are either 1 (Ethereum) or 8453 (Base)
+   - Ensures all chain IDs are either 1 (Ethereum), 8453 (Base), 130 (Unichain), 137 (PolygonPOS) and 747474 (Katana)
    - Validates both:
      - Asset chain ID
      - Contract chain ID
@@ -151,7 +151,7 @@ No test for this one
 
 2. **Chain ID Validation**
 
-   - Ensures all chain IDs are either 1 (Ethereum) or 8453 (Base)
+   - Ensures all chain IDs are either 1 (Ethereum), 8453 (Base), 130 (Unichain), 137 (PolygonPOS) and 747474 (Katana)
    - Validates both:
      - Asset chain ID
      - Contract chain ID
@@ -231,7 +231,7 @@ No test for this one
 
 2. **Chain ID Validation**
 
-   - Ensures all chain IDs are either 1 (Ethereum) or 8453 (Base)
+   - Ensures all chain IDs are either 1 (Ethereum), 8453 (Base), 130 (Unichain), 137 (PolygonPOS) and 747474 (Katana)
    - Validates both:
      - Asset chain ID
      - Contract chain ID
