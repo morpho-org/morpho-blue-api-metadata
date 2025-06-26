@@ -4176,5 +4176,26 @@
         "timestamp": 1750851563
       }
     ]
+  },
+  {
+    "address": "0xec263d092D3978fc20186e5ee32821f219475850",
+    "chainId": 747474,
+    "image": "https://cdn.morpho.org/assets/logos/weth.svg",
+    "description": "This test vault will only have the idle market in the supply queue for testing purposes.",
+    "forumLink": "https://forum.morpho.org/c/test",
+    "curators": [
+      {
+        "name": "TEST",
+        "image": "https://cdn.morpho.org/v2/assets/images/TEST.svg",
+        "url": "https://www.app.morpho.org",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1750423278
+      }
+    ]
   }
 ]
