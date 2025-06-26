@@ -25,12 +25,12 @@ interface OraclePrice {
 }
 
 describe("oracle-prices.json validation", () => {
-  // Load and filter oracle prices for only chain IDs 1 and 8453
+  // Load and filter oracle prices for only chain IDs 1, 8453, 130, 137, 747474
   const allOraclePrices = loadJsonFile("oracle-prices.json") as OraclePrice[];
   const oraclePrices = allOraclePrices.filter(
     (price) =>
-      (price.assetChainId === 1 || price.assetChainId === 8453) &&
-      (price.contractChainId === 1 || price.contractChainId === 8453)
+      (price.assetChainId === 1 || price.assetChainId === 8453 || price.assetChainId === 130 || price.assetChainId === 137 || price.assetChainId === 747474) &&
+      (price.contractChainId === 1 || price.contractChainId === 8453 || price.contractChainId === 130 || price.contractChainId === 137 || price.contractChainId === 747474)
   );
 
   test("addresses are checksummed", () => {
@@ -51,8 +51,8 @@ describe("oracle-prices.json validation", () => {
     });
   });
 
-  test("chain IDs are valid (1 or 8453)", () => {
-    const validChainIds = [1, 8453];
+  test("chain IDs are valid (1, 8453, 130, 137 or 747474)", () => {
+    const validChainIds = [1, 8453, 130, 137, 747474];
     const errors: string[] = [];
 
     oraclePrices.forEach((price, index) => {
