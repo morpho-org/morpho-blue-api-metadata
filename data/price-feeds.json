@@ -7586,5 +7586,69 @@
     "description": "BOLD/USD Pyth Network feed",
     "pair": ["BOLD", "USD"],
     "decimals": 8
+  },
+  {
+    "chainId": 747474,
+    "address": "0xAd2937e7D25c237856B03319265465C0291b1895",
+    "vendor": "Chainlink",
+    "description": "WBTC/BTC",
+    "pair": ["WBTC", "BTC"],
+    "decimals": 8
+  },
+  {
+    "chainId": 747474,
+    "address": "0x41DdB7F8F5e1b2bD28193B84C1C36Be698dEd162",
+    "vendor": "Chainlink",
+    "description": "BTC/USD",
+    "pair": ["BTC", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 747474,
+    "address": "0xbe5CE90e16B9d9d988D64b0E1f6ed46EbAfb9606",
+    "vendor": "Chainlink",
+    "description": "USDC/USD",
+    "pair": ["USDC", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 747474,
+    "address": "0xF03E1566Fc6B0eBFA3dD3aA197759C4c6617ec78",
+    "vendor": "Chainlink",
+    "description": "USDT/USD",
+    "pair": ["USDT", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 747474,
+    "address": "0x3A49D4e23868222785f148BA2bd0bAEc80d36a2A",
+    "vendor": "Chainlink",
+    "description": "AUSD/USD",
+    "pair": ["AUSD", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 747474,
+    "address": "0x0D03E26E0B5D09E24E5a45696D0FcA12E9648FBB",
+    "vendor": "Chainlink",
+    "description": "WBTC/USD",
+    "pair": ["WBTC", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 747474,
+    "address": "0x5C2c6A77310C7750fCc5c3f13a3f9C3b18a68d3e",
+    "vendor": "Chainlink",
+    "description": "LBTC/USD",
+    "pair": ["LBTC", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 747474,
+    "address": "0x7BdBDB772f4a073BadD676A567C6ED82049a8eEE",
+    "vendor": "Chainlink",
+    "description": "ETH/USD",
+    "pair": ["ETH", "USD"],
+    "decimals": 8
   }
 ]
