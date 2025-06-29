@@ -7650,5 +7650,21 @@
     "description": "ETH/USD",
     "pair": ["ETH", "USD"],
     "decimals": 8
+  },
+  {
+    "chainId": 747474,
+    "address": "0xCB568C33EA2B0B81852655d722E3a52d9D44e7De",
+    "vendor": "Chainlink",
+    "description": "wstETH/ETH",
+    "pair": ["wstETH", "ETH"],
+    "decimals": 8
+  },
+  {
+    "chainId": 747474,
+    "address": "0xF6630799b5387e0E9ACe92a5E82673021781B440",
+    "vendor": "Chainlink",
+    "description": "POL/USD",
+    "pair": ["POL", "USD"],
+    "decimals": 8
   }
 ]
