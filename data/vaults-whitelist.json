@@ -4302,5 +4302,26 @@
         "timestamp": 1751220000
       }
     ]
+  },
+  {
+    "address": "0x1ecDC3F2B5E90bfB55fF45a7476FF98A8957388E",
+    "chainId": 747474,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The Gauntlet USDT Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for USDT suppliers.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1751220000
+      }
+    ]
   }
 ]
