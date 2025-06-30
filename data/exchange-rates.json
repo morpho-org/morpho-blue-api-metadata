@@ -14,6 +14,20 @@
     "contractChainId": 1
   },
   {
+    "assetAddress": "0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD",
+    "contractAddress": "0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD",
+    "data": "{\"first_block_number\": 20678434, \"abi\": \"function convertToAssets(uint256) view returns (uint256)\", \"decimals\": 18, \"function\": \"convertToAssets\", \"args\": [{\"type\": \"bigint\", \"value\": \"1000000000000000000\"}]}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0x5875eEE11Cf8398102FdAd704C9E96607675467a",
+    "contractAddress": "0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD",
+    "data": "{ \"first_block_number\": 20678434, \"abi\": \"function convertToAssets(uint256) view returns (uint256)\", \"decimals\": 18, \"function\": \"convertToAssets\", \"args\": [{\"type\": \"bigint\", \"value\": \"1000000000000000000\"}]}",
+    "assetChainId": 8453,
+    "contractChainId": 1
+  },
+  {
     "assetAddress": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
     "contractAddress": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
     "data": "{\"abi\": \"function convertToAssets(uint256) view returns (uint256)\", \"decimals\": 18, \"function\": \"convertToAssets\", \"args\": [{\"type\": \"bigint\", \"value\": \"1000000000000000000\"}]}",
@@ -33,5 +47,12 @@
     "data": "{\"abi\": \"function convertToAssets(uint256) view returns (uint256)\", \"decimals\": 6, \"function\": \"convertToAssets\", \"args\": [{\"type\": \"bigint\", \"value\": \"1000000\"}]}",
     "assetChainId": 8453,
     "contractChainId": 8453
+  },
+  {
+    "assetAddress": "0x353E98F34b6E5a8D9d1876Bf6dF01284d05837cB",
+    "contractAddress": "0x353E98F34b6E5a8D9d1876Bf6dF01284d05837cB",
+    "data": "{\"first_block_number\": 22810284, \"abi\": \"function getEETHByWeETH(uint256) view returns (uint256)\", \"decimals\": 18, \"function\": \"getEETHByWeETH\", \"args\": [{\"type\": \"bigint\", \"value\": \"1000000000000000000\"}]}",
+    "assetChainId": 1,
+    "contractChainId": 1
   }
 ]
