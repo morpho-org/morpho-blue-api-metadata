@@ -49,8 +49,8 @@
     "contractChainId": 8453
   },
   {
-    "assetAddress": "0x353E98F34b6E5a8D9d1876Bf6dF01284d05837cB",
-    "contractAddress": "0x353E98F34b6E5a8D9d1876Bf6dF01284d05837cB",
+    "assetAddress": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+    "contractAddress": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
     "data": "{\"first_block_number\": 22810284, \"abi\": \"function getEETHByWeETH(uint256) view returns (uint256)\", \"decimals\": 18, \"function\": \"getEETHByWeETH\", \"args\": [{\"type\": \"bigint\", \"value\": \"1000000000000000000\"}]}",
     "assetChainId": 1,
     "contractChainId": 1

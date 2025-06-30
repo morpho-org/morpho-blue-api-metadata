@@ -28,8 +28,16 @@ describe("exchange-rates.json validation", () => {
   ) as ExchangeRate[];
   const exchangeRates = allExchangeRates.filter(
     (rate) =>
-      (rate.assetChainId === 1 || rate.assetChainId === 8453 || rate.assetChainId === 130 || rate.assetChainId === 137 || rate.assetChainId === 747474) &&
-      (rate.contractChainId === 1 || rate.contractChainId === 8453 || rate.contractChainId === 130 || rate.contractChainId === 137 || rate.contractChainId === 747474)
+      (rate.assetChainId === 1 ||
+        rate.assetChainId === 8453 ||
+        rate.assetChainId === 130 ||
+        rate.assetChainId === 137 ||
+        rate.assetChainId === 747474) &&
+      (rate.contractChainId === 1 ||
+        rate.contractChainId === 8453 ||
+        rate.contractChainId === 130 ||
+        rate.contractChainId === 137 ||
+        rate.contractChainId === 747474)
   );
 
   test("addresses are checksummed", () => {
@@ -82,13 +90,6 @@ describe("exchange-rates.json validation", () => {
         // Parse the data string
         const parsedData = JSON.parse(rate.data) as ExchangeRateData;
 
-        // Check function name
-        if (parsedData.function !== "convertToAssets") {
-          errors.push(
-            `Invalid function name at index ${index}: ${parsedData.function}`
-          );
-        }
-
         // Check decimals
         if (
           typeof parsedData.decimals !== "number" ||
@@ -121,10 +122,10 @@ describe("exchange-rates.json validation", () => {
         // Check ABI string
         if (
           parsedData.abi !==
-          "function convertToAssets(uint256) view returns (uint256)"
+          `function ${parsedData.function}(uint256) view returns (uint256)`
         ) {
           errors.push(
-            `Invalid ABI string at index ${index}: ${parsedData.abi}`
+            `Invalid ABI string at index ${index} for function '${parsedData.abi}': '${parsedData.abi}'`
           );
         }
       } catch (error) {
