@@ -7682,5 +7682,13 @@
     "description": "LP-sUSDe-31JUL2025/USDe feed",
     "pair": ["LP-sUSDE-25SEP2025", "USDe"],
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xE858728eB31a25C4AcCcE17d01B68dCFC3A0ED2C",
+    "vendor": "Chainlink",
+    "description": "LsETH / ETH Exchange Rate",
+    "pair": ["LsETH", "ETH"],
+    "decimals": 18
   }
 ]
