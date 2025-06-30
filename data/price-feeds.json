@@ -7280,7 +7280,7 @@
     "address": "0xa90E0136cB598E1cEf28dc54932C17033B54538C",
     "vendor": "Redstone",
     "description": "RedStone Price Feed for tacUSD_FUNDAMENTAL",
-    "pair": ["tacUSD", "USD"],
+    "pair": ["tacUSD", "USDC"],
     "decimals": 8
   },
   {
