@@ -7280,7 +7280,7 @@
     "address": "0xa90E0136cB598E1cEf28dc54932C17033B54538C",
     "vendor": "Redstone",
     "description": "RedStone Price Feed for tacUSD_FUNDAMENTAL",
-    "pair": ["tacUSD", "USD"],
+    "pair": ["tacUSD", "USDC"],
     "decimals": 8
   },
   {
@@ -7666,5 +7666,29 @@
     "description": "POL/USD",
     "pair": ["POL", "USD"],
     "decimals": 8
+  },
+  {
+    "chainId": 1,
+    "address": "0x1ECaDC6D1f484E0b55c48618FEb5b39aDbC740Ba",
+    "vendor": "eOracle",
+    "description": "LP-sUSDe-25SEP2025/USDe feed",
+    "pair": ["LP-sUSDE-25SEP2025", "USDe"],
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x9e3709844f9e1d3fA418DD35587505cEc485bB0f",
+    "vendor": "eOracle",
+    "description": "LP-sUSDe-31JUL2025/USDe feed",
+    "pair": ["LP-sUSDe-31JUL2025", "USDe"],
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xE858728eB31a25C4AcCcE17d01B68dCFC3A0ED2C",
+    "vendor": "Chainlink",
+    "description": "LsETH / ETH Exchange Rate",
+    "pair": ["LsETH", "ETH"],
+    "decimals": 18
   }
 ]
