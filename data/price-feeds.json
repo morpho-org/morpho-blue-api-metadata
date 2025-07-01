@@ -7692,7 +7692,7 @@
     "decimals": 18
   },
   {
-    "chainId": 747474,
+    "chainId": 130,
     "address": "0x32Fe59f26747688E0f854F88A1091d1B19cF2a4C",
     "vendor": "Ojo",
     "description": "Yield Risk Engine gtWETHc",
