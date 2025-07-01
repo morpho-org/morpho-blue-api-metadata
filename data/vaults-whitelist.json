@@ -4407,5 +4407,68 @@
         "timestamp": 1751350044
       }
     ]
+  },
+  {
+    "address": "0x8ED68f91AfbE5871dCE31ae007a936ebE8511d47",
+    "chainId": 747474,
+    "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
+    "description": "Yearn OG vaults lend underlying assets to markets labeled as moderate risk (-2) by the Yearn team. Optimization across markets is handled automatically via an algorithm developed by Yearn. Supply caps are set based on various factors and continuously monitored by the Yearn team as well.",
+    "forumLink": "https://forum.morpho.org/c/vaults/yearn/42",
+    "curators": [
+      {
+        "name": "Yearn",
+        "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
+        "url": "https://yearn.fi/apps",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1751362802
+      }
+    ]
+  },
+  {
+    "address": "0xFaDe0C546f44e33C134c4036207B314AC643dc2E",
+    "chainId": 747474,
+    "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
+    "description": "Yearn OG vaults lend underlying assets to markets labeled as moderate risk (-2) by the Yearn team. Optimization across markets is handled automatically via an algorithm developed by Yearn. Supply caps are set based on various factors and continuously monitored by the Yearn team as well.",
+    "forumLink": "https://forum.morpho.org/c/vaults/yearn/42",
+    "curators": [
+      {
+        "name": "Yearn",
+        "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
+        "url": "https://yearn.fi/apps",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1751362802
+      }
+    ]
+  },
+  {
+    "address": "0xCE2b8e464Fc7b5E58710C24b7e5EBFB6027f29D7",
+    "chainId": 747474,
+    "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
+    "description": "Yearn OG vaults lend underlying assets to markets labeled as moderate risk (-2) by the Yearn team. Optimization across markets is handled automatically via an algorithm developed by Yearn. Supply caps are set based on various factors and continuously monitored by the Yearn team as well.",
+    "forumLink": "https://forum.morpho.org/c/vaults/yearn/42",
+    "curators": [
+      {
+        "name": "Yearn",
+        "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
+        "url": "https://yearn.fi/apps",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1751362802
+      }
+    ]
   }
 ]
