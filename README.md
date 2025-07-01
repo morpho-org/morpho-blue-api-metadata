@@ -333,25 +333,44 @@ Controls the exchange rate configurations for assets that require rate conversio
 
 Each exchange rate entry must include:
 
-- `assetAddress`: Checksummed address of the token contract
+- `assetAddress`: Checksummed address of the asset contract
+- `assetChainId`: Chain ID of the asset contract
 - `contractAddress`: Checksummed address of the contract that provides the conversion rate
-- `assetChainId`: Chain ID where the asset is deployed (supports 1 for Ethereum, 8453 for Base)
-- `contractChainId`: Chain ID where the rate provider contract is deployed
+- `contractChainId`: Chain ID of the contract that provides the conversion rate
 - `data`: JSON string containing the conversion configuration:
-  - `abi`: The ABI string for the conversion function
+  - `function`: Name of the conversion function (see [the abi](#abi))
+  - `abi`: The ABI string for the conversion function see ([the abi](#abi))
   - `decimals`: Number of decimals for the input amount (0-18)
-  - `function`: Name of the conversion function (must be "convertToAssets")
-  - `args`: Array containing the input argument configuration:
+  - `args`: Array containing the input argument configuration, if needed:
     - `type`: Type of the argument (must be "bigint")
     - `value`: String representation of one unit in the asset's decimals
+
+#### Abi
+
+The abi should describe the contract function to call to fetch the exchange rate.
+It should return the corresponding amount of **underlying asset**, given an specific amount.
+
+The expected abi should match:
+
+```sol
+function _myFunction_(uint256) view returns (uint256)
+```
+
+> [!Note]  
+> If the asset is an erc4626, the function will always be `convertToAssets`
+
+> [!Warning]  
+> In the future, it could happen that we have a contract that doesn't fit this scheme.
+> We should then loosen up the requirements to add flexibility.  
+> _E.g the function that should be used for stEth is `stEthPerToken` which doesn't allow to input a specific amount but still gives the expected info._
 
 ### Validation Rules
 
 1. All addresses must be properly checksummed
-2. Chain IDs must be either 1 (Ethereum) or 8453 (Base)
+2. Chain IDs must be supported
 3. Address pairs must be unique per chain ID combination
 4. The data field must follow the specified structure
-5. The conversion function must be "convertToAssets"
+5. The conversion function must have the correct abi
 6. The input value must represent one unit in the asset's decimals
 
 ### Example Entry
