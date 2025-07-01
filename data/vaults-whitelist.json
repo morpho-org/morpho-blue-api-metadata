@@ -4365,5 +4365,47 @@
         "timestamp": 1751347930
       }
     ]
+  },
+  {
+    "address": "0xdc97cF490b2D367F34E5AF8a5f90d2b8FCBA8ce1",
+    "chainId": 747474,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The Re7 AUSD vault curated by Re7 Labs is intended to seamlessly allocate AUSD liquidity to various Morpho markets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+    "curators": [
+      {
+        "name": "RE7 Labs",
+        "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+        "url": "https://www.re7labs.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1751350044
+      }
+    ]
+  },
+  {
+    "address": "0x6680D2993fAadC9204Bd614a53e0c7a3f20c8ca5",
+    "chainId": 747474,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The Re7 uSOL Morpho vault curated by Re7 Labs aims to provide an above-market uSOL yield by enabling leveraged-yield strategies and supporting high-yield uSOL markets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+    "curators": [
+      {
+        "name": "RE7 Labs",
+        "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+        "url": "https://www.re7labs.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1751350044
+      }
+    ]
   }
 ]
