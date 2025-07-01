@@ -7698,5 +7698,13 @@
     "description": "Yield Risk Engine gtWETHc",
     "pair": ["gtwethc", "WETH"],
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x0A9cf62e0A8160659a53CaBC833809E5FE76a20f",
+    "vendor": "Upshift",
+    "description": "upUSDC/USD feed",
+    "pair": ["upUSDC", "USD"],
+    "decimals": 8
   }
 ]
