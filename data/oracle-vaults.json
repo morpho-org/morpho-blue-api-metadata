@@ -203,5 +203,11 @@
     "vendor": "Securitize",
     "chainId": 137,
     "pair": ["sACRED", "ACRED"]
+  },
+  {
+    "address": "0x50Bd66D59911F5e086Ec87aE43C811e0D059DD11",
+    "vendor": "Liquity",
+    "chainId": 1,
+    "pair": ["sBOLD", "BOLD"]
   }
 ]
