@@ -7746,5 +7746,13 @@
     "description": "SOL/USD feed",
     "pair": ["SOL", "USD"],
     "decimals": 8
-  }
+  } ,
+  {
+    "chainId": 1,
+    "address": "0x1aaC084919043e6546758Ba160Cb98a47077cb04",
+    "vendor": "Ojo",
+    "description": "ynUSDx/USDC OjoYieldRiskEngineV2 feed",
+    "pair": ["ynUSDx", "USDC"],
+    "decimals": 6
+  } 
 ]
