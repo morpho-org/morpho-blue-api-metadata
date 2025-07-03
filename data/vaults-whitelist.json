@@ -4470,5 +4470,26 @@
         "timestamp": 1751362802
       }
     ]
+  },
+  {
+    "address": "0x9646eBD6346C8C3a9f3d408f71C312eB0CbE8507",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/assets/logos/usdt.svg",
+    "description": "Pendlend USDT vault aims to offer attractive interest rates to lenders by underwriting loans against the highest-yield collateral available in the Pendle ecosystem: Liquidity Provider (LP) and Principal (PT) tokens. The vault captures the premium interest paid by leverage loopers and arbitrageurs seeking to maximize Pendle yields, translating into an elevated, single-sided APY for USDT suppliers.",
+    "forumLink": "https://forum.morpho.org/c/vaults/k3/43",
+    "curators": [
+      {
+        "name": "K3 Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/k3-capital.svg",
+        "url": "https://www.k3.capital/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1751518105
+      }
+    ]
   }
 ]

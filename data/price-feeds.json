@@ -7698,5 +7698,37 @@
     "description": "Yield Risk Engine gtWETHc",
     "pair": ["gtwethc", "WETH"],
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x0A9cf62e0A8160659a53CaBC833809E5FE76a20f",
+    "vendor": "Upshift",
+    "description": "upUSDC/USD feed",
+    "pair": ["upUSDC", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 1,
+    "address": "0x4404F0ec421004F986b4914d8fc0866D8C5751A4",
+    "vendor": "Pendle",
+    "description": "LP-sUSDE-31JUL2025/sUSDe PendleChainlinkOracle feed",
+    "pair": ["LP-sUSDE-31JUL2025", "sUSDe"],
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xB600BD983c97ABf06Dc59164BA73B371aA1a9b55",
+    "vendor": "Pendle",
+    "description": "LP-eUSDE-14AUG2025/eUSDe PendleChainlinkOracle feed",
+    "pair": ["LP-eUSDE-14AUG2025", "eUSDe"],
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x68E07c01e5a21f11B940B5f751483deE3D502645",
+    "vendor": "Pendle",
+    "description": "LP-sUSDE-25SEP2025/sUSDe PendleChainlinkOracle feed",
+    "pair": ["LP-sUSDE-25SEP2025", "sUSDe"],
+    "decimals": 18
   }
 ]
