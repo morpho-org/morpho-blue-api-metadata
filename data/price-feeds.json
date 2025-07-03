@@ -7730,5 +7730,13 @@
     "description": "LP-sUSDE-25SEP2025/sUSDe PendleChainlinkOracle feed",
     "pair": ["LP-sUSDE-25SEP2025", "sUSDe"],
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x09f53F9672e63AfB42690352681ab601659EC6ea",
+    "vendor": "Yearn",
+    "description": "ysyBOLD/BOLD feed",
+    "pair": ["ysyBOLD", "BOLD"],
+    "decimals": 18
   }
 ]
