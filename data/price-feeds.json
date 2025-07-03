@@ -7746,7 +7746,7 @@
     "description": "SOL/USD feed",
     "pair": ["SOL", "USD"],
     "decimals": 8
-  } ,
+  },
   {
     "chainId": 1,
     "address": "0x1aaC084919043e6546758Ba160Cb98a47077cb04",
@@ -7754,5 +7754,21 @@
     "description": "ynUSDx/USDC OjoYieldRiskEngineV2 feed",
     "pair": ["ynUSDx", "USDC"],
     "decimals": 6
-  } 
+  },
+  {
+    "chainId": 1,
+    "address": "0xfA5d16e31bd7325119d8C718eAC1Fd6F5b2D1526",
+    "vendor": "API3",
+    "description": "BTC/USD feed",
+    "pair": ["BTC", "USD"],
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x2bB37d8bEa49b4E7DFE3e95337D9662C9E120874",
+    "vendor": "API3",
+    "description": "USDC/USD feed",
+    "pair": ["USDC", "USD"],
+    "decimals": 18
+  }
 ]
