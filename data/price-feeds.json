@@ -7738,5 +7738,13 @@
     "description": "ysyBOLD/BOLD feed",
     "pair": ["ysyBOLD", "BOLD"],
     "decimals": 18
+  },
+  {
+    "chainId": 747474,
+    "address": "0x709c4dc298322916eaE59bfdc2e3d750B55C864B",
+    "vendor": "Chainlink",
+    "description": "SOL/USD feed",
+    "pair": ["SOL", "USD"],
+    "decimals": 8
   }
 ]
