@@ -7732,14 +7732,6 @@
     "decimals": 18
   },
   {
-    "chainId": 1,
-    "address": "0x09f53F9672e63AfB42690352681ab601659EC6ea",
-    "vendor": "Yearn",
-    "description": "ysyBOLD/BOLD feed",
-    "pair": ["ysyBOLD", "BOLD"],
-    "decimals": 18
-  },
-  {
     "chainId": 747474,
     "address": "0x709c4dc298322916eaE59bfdc2e3d750B55C864B",
     "vendor": "Chainlink",
