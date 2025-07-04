@@ -7810,5 +7810,21 @@
     "description": "USDC/USD feed",
     "pair": ["USDC", "USD"],
     "decimals": 18
+  },
+  {
+    "chainId": 747474,
+    "address": "0xF26D68bD6A78eFdF572dfc0D7681fFfc425BbD7C",
+    "vendor": "API3",
+    "description": "BTC/USD feed",
+    "pair": ["BTC", "USD"],
+    "decimals": 18
+  },
+  {
+    "chainId": 747474,
+    "address": "0x431B394891821dD2E0d69620753334Eb1708C16F",
+    "vendor": "API3",
+    "description": "USDT/USD feed",
+    "pair": ["USDT", "USD"],
+    "decimals": 18
   }
 ]
