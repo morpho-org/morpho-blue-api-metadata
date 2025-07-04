@@ -7778,5 +7778,21 @@
     "description": "USDC/USD feed",
     "pair": ["USDC", "USD"],
     "decimals": 18
+  },
+  {
+    "chainId": 747474,
+    "address": "0xdC949Fb2E69ff9Ec78b596BDf86861d643e9AD5B",
+    "vendor": "API3",
+    "description": "ETH/USD feed",
+    "pair": ["ETH", "USD"],
+    "decimals": 18
+  },
+  {
+    "chainId": 747474,
+    "address": "0x270AeF691A39aB41911FfD52aa36702e2327A366",
+    "vendor": "API3",
+    "description": "USDT/USD feed",
+    "pair": ["USDT", "USD"],
+    "decimals": 18
   }
 ]
