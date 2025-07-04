@@ -7842,5 +7842,13 @@
     "description": "USDC/USD feed",
     "pair": ["USDC", "USD"],
     "decimals": 18
+  },
+  {
+    "chainId": 747474,
+    "address": "0xb9D0073aCb296719C26a8BF156e4b599174fe1d5",
+    "vendor": "Redstone",
+    "description": "RedStone Price Feed for LBTC_FUNDAMENTAL",
+    "pair": ["LBTC", "BTC"],
+    "decimals": 8
   }
 ]
