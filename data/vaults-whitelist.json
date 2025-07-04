@@ -3362,7 +3362,7 @@
     "address": "0xb0f05E4De970A1aaf77f8C2F823953a367504BA9",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
-    "description": "The Falcon USDC Core vault targets high risk-adjusted returns by lending USDC against USDf, an overcollateralized synthetic dollar, and sUSDf, a yield-bearing token backed by Falcon's institutional-grade strategies — both issued by Falcon Finance.",
+    "description": "ALPHA USDC Core is a performance-driven vault focused on maximizing risk-adjusted returns for USDC. By allocating capital to high-conviction strategies and supporting the creation of deep, tradable markets, the vault serves as a foundation for sustainable liquidity growth and long-term yield optimization.",
     "forumLink": "https://forum.morpho.org/c/vaults/alphaping/37",
     "curators": [
       {
@@ -4489,6 +4489,27 @@
       {
         "action": "added",
         "timestamp": 1751518105
+      }
+    ]
+  },
+  {
+    "address": "0xadB2df83a1B039417c6CB46AE23Dc61705eA41C3",
+    "chainId": 747474,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "The MEV Capital USDC vault provides a set of liquid collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+    "curators": [
+      {
+        "name": "MEV Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+        "url": "https://mevcapital.com/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1751613695
       }
     ]
   }

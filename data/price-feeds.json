@@ -7732,14 +7732,6 @@
     "decimals": 18
   },
   {
-    "chainId": 1,
-    "address": "0x09f53F9672e63AfB42690352681ab601659EC6ea",
-    "vendor": "Yearn",
-    "description": "ysyBOLD/BOLD feed",
-    "pair": ["ysyBOLD", "BOLD"],
-    "decimals": 18
-  },
-  {
     "chainId": 747474,
     "address": "0x709c4dc298322916eaE59bfdc2e3d750B55C864B",
     "vendor": "Chainlink",
@@ -7782,6 +7774,70 @@
   {
     "chainId": 1,
     "address": "0x8E5e906761677E24D3AFd77DB6A19Dd9ed83F8c2",
+    "vendor": "API3",
+    "description": "USDC/USD feed",
+    "pair": ["USDC", "USD"],
+    "decimals": 18
+  },
+  {
+    "chainId": 747474,
+    "address": "0xdC949Fb2E69ff9Ec78b596BDf86861d643e9AD5B",
+    "vendor": "API3",
+    "description": "ETH/USD feed",
+    "pair": ["ETH", "USD"],
+    "decimals": 18
+  },
+  {
+    "chainId": 747474,
+    "address": "0x270AeF691A39aB41911FfD52aa36702e2327A366",
+    "vendor": "API3",
+    "description": "USDT/USD feed",
+    "pair": ["USDT", "USD"],
+    "decimals": 18
+  },
+  {
+    "chainId": 747474,
+    "address": "0xdC62c033130d2e9B67c57Dac72158d0BB926De8F",
+    "vendor": "API3",
+    "description": "BTC/USD feed",
+    "pair": ["BTC", "USD"],
+    "decimals": 18
+  },
+  {
+    "chainId": 747474,
+    "address": "0x8cb94726B74086184f983Ea142faC4D4a4EdCBFF",
+    "vendor": "API3",
+    "description": "USDC/USD feed",
+    "pair": ["USDC", "USD"],
+    "decimals": 18
+  },
+  {
+    "chainId": 747474,
+    "address": "0xF26D68bD6A78eFdF572dfc0D7681fFfc425BbD7C",
+    "vendor": "API3",
+    "description": "BTC/USD feed",
+    "pair": ["BTC", "USD"],
+    "decimals": 18
+  },
+  {
+    "chainId": 747474,
+    "address": "0x431B394891821dD2E0d69620753334Eb1708C16F",
+    "vendor": "API3",
+    "description": "USDT/USD feed",
+    "pair": ["USDT", "USD"],
+    "decimals": 18
+  },
+  {
+    "chainId": 747474,
+    "address": "0x770971d7D574C23c0454b66b6564BA2E50cEF4f5",
+    "vendor": "API3",
+    "description": "ETH/USD feed",
+    "pair": ["ETH", "USD"],
+    "decimals": 18
+  },
+  {
+    "chainId": 747474,
+    "address": "0x5980483BF6bc13f4FB96376892C70F49A49A9D44",
     "vendor": "API3",
     "description": "USDC/USD feed",
     "pair": ["USDC", "USD"],

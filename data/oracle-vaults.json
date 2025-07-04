@@ -209,5 +209,11 @@
     "vendor": "Liquity",
     "chainId": 1,
     "pair": ["sBOLD", "BOLD"]
+  },
+  {
+    "address": "0x09f53F9672e63AfB42690352681ab601659EC6ea",
+    "vendor": "Yearn",
+    "chainId": 1,
+    "pair": ["ysyBOLD", "BOLD"]
   }
 ]
