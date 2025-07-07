@@ -86,8 +86,12 @@ const clients = {
     chain: polygon,
     transport: http(),
   }),
-  747474: createPublicClient({
-    chain: katana,
+    747474: createPublicClient({
+      chain: katana,
+      transport: http(),
+  }),
+  42161: createPublicClient({
+    chain: arbitrum,
     transport: http(),
   }),
 };

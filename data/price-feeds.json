@@ -7850,5 +7850,37 @@
     "description": "RedStone Price Feed for LBTC_FUNDAMENTAL",
     "pair": ["LBTC", "BTC"],
     "decimals": 8
+  },
+  {
+    "chainId": 747474,
+    "address": "0xb67047eDF6204F4C81333248dA71F8387050790C",
+    "vendor": "Redstone",
+    "description": "BTC/USD feed",
+    "pair": ["BTC", "USD"],
+    "decimals": 8
+  },
+  {
+    "chainId": 747474,
+    "address": "0xe8D9FbC10e00ecc9f0694617075fDAF657a76FB2",
+    "vendor": "Redstone",
+    "description": "weETH/ETH FUNDAMENTAL Redstone feed",
+    "pair": ["weETH", "ETH"],
+    "decimals": 8
+  },
+  {
+    "chainId": 747474,
+    "address": "0x31a36CdF4465ba61ce78F5CDbA26FDF8ec361803",
+    "vendor": "Redstone",
+    "description": "wstETH/stETH FUNDAMENTAL Redstone feed",
+    "pair": ["wstETH", "stETH"],
+    "decimals": 8
+  },
+  {
+    "chainId": 1,
+    "address": "0xCE84fD399620B7D20e18AB6009Fc8A0cdaad880f",
+    "vendor": "eOracle",
+    "description": "PT-cUSDO-20NOV2025-Hybrid/USDO feed",
+    "pair": ["PT-cUSDO-20NOV2025", "USDO"],
+    "decimals": 18
   }
 ]

@@ -70,6 +70,10 @@ const clients = {
     chain: katana,
     transport: http(),
   }),
+  42161: createPublicClient({
+    chain: arbitrum,
+    transport: http(),
+  }),
 };
 
 async function checkAddressRisk(
