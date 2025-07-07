@@ -7874,5 +7874,13 @@
     "description": "wstETH/stETH FUNDAMENTAL Redstone feed",
     "pair": ["wstETH", "stETH"],
     "decimals": 8
+  },
+  {
+    "chainId": 1,
+    "address": "0xCE84fD399620B7D20e18AB6009Fc8A0cdaad880f",
+    "vendor": "eOracle",
+    "description": "PT-cUSDO-20NOV2025-Hybrid/USDO feed",
+    "pair": ["PT-cUSDO-20NOV2025", "USDO"],
+    "decimals": 18
   }
 ]
