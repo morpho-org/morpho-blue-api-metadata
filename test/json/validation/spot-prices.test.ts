@@ -19,12 +19,12 @@ interface SpotPrice {
 }
 
 describe("spot-prices.json validation", () => {
-  // Load and filter spot prices for only chain IDs 1, 8453, 130, 137, 10 & 747474
+  // Load and filter spot prices for only chain IDs 1, 8453, 130, 137, 10, 747474 & 42161
   const allSpotPrices = loadJsonFile("spot-prices.json") as SpotPrice[];
   const spotPrices = allSpotPrices.filter(
     (price) =>
-      (price.assetChainId === 1 || price.assetChainId === 8453 || price.assetChainId === 130 || price.assetChainId === 137 || price.assetChainId === 10 || price.assetChainId === 747474) &&
-      (price.contractChainId === 1 || price.contractChainId === 8453 || price.contractChainId === 130 || price.contractChainId === 137 || price.contractChainId === 10 || price.contractChainId === 747474)
+      (price.assetChainId === 1 || price.assetChainId === 8453 || price.assetChainId === 130 || price.assetChainId === 137 || price.assetChainId === 10 || price.assetChainId === 747474 || price.assetChainId === 42161) &&
+      (price.contractChainId === 1 || price.contractChainId === 8453 || price.contractChainId === 130 || price.contractChainId === 137 || price.contractChainId === 10 || price.contractChainId === 747474 || price.contractChainId === 42161)
   );
 
   test("addresses are checksummed", () => {
@@ -45,8 +45,8 @@ describe("spot-prices.json validation", () => {
     });
   });
 
-  test("chain IDs are valid (1, 8453, 130, 137, 10 or 747474)", () => {
-    const validChainIds = [1, 8453, 130, 137, 10, 747474];
+  test("chain IDs are valid (1, 8453, 130, 137, 10, 747474 or 42161)", () => {
+    const validChainIds = [1, 8453, 130, 137, 10, 747474, 42161];
     const errors: string[] = [];
 
     spotPrices.forEach((price, index) => {
