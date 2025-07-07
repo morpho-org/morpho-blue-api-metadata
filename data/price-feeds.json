@@ -7866,5 +7866,13 @@
     "description": "weETH/ETH FUNDAMENTAL Redstone feed",
     "pair": ["weETH", "ETH"],
     "decimals": 8
+  },
+  {
+    "chainId": 747474,
+    "address": "0x31a36CdF4465ba61ce78F5CDbA26FDF8ec361803",
+    "vendor": "Redstone",
+    "description": "wstETH/stETH FUNDAMENTAL Redstone feed",
+    "pair": ["wstETH", "stETH"],
+    "decimals": 8
   }
 ]
