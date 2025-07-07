@@ -30,7 +30,7 @@ describe("oracle-prices.json validation", () => {
   const oraclePrices = allOraclePrices.filter(
     (price) =>
       (price.assetChainId === 1 || price.assetChainId === 8453 || price.assetChainId === 130 || price.assetChainId === 137 || price.assetChainId === 747474 || price.assetChainId === 42161) &&
-      (price.contractChainId === 1 || price.contractChainId === 8453 || price.contractChainId === 130 || price.contractChainId === 137 || price.contractChainId === 747474) || price.contractChainId === 42161)
+      (price.contractChainId === 1 || price.contractChainId === 8453 || price.contractChainId === 130 || price.contractChainId === 137 || price.contractChainId === 747474 || price.contractChainId === 42161)
   );
 
   test("addresses are checksummed", () => {
