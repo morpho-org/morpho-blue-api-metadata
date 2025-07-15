@@ -4554,5 +4554,26 @@
         "timestamp": 1752571878
       }
     ]
+  },
+  {
+    "address": "0xBeEFC1CDAfc5b4a649b54D07AFc6bF0f75C6F4E2",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+    "description": "The Steakhouse Ethena USDtb vault aims to optimize yield on USDtb lending against a wide range of collateral assets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1752571878
+      }
+    ]
   }
 ]
