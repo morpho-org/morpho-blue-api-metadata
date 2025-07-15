@@ -4512,5 +4512,26 @@
         "timestamp": 1751613695
       }
     ]
+  },
+  {
+    "address": "0x4dB0B0a83de352817d0C30a88a36667b75D48b6E",
+    "chainId": 42161,
+    "image": "https://cdn.morpho.org/assets/logos/morpho.svg",
+    "description": "Vault created for test purpose. Do not use it.",
+    "forumLink": "https://forum.morpho.org",
+    "curators": [
+      {
+        "name": "TEST",
+        "image": "https://cdn.morpho.org/assets/logos/morpho.svg",
+        "url": "https://morpho.org",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1752581541
+      }
+    ]
   }
 ]
