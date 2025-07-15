@@ -4533,5 +4533,26 @@
         "timestamp": 1752216807
       }
     ]
+  },
+  {
+    "address": "0xBEeF1f5Bd88285E5B239B6AAcb991d38ccA23Ac9",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
+    "description": "The Steakhouse infiniFi USDC vault aims to optimize yield on USDC lending against a wide range of collateral assets from the infiniFi ecosystem.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1752571878
+      }
+    ]
   }
 ]
