@@ -4575,5 +4575,26 @@
         "timestamp": 1752571878
       }
     ]
+  },
+  {
+    "address": "0x2ed10624315b74a78f11FAbedAa1A228c198aEfB",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "Gauntlet EURC Core",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1752571878
+      }
+    ]
   }
 ]
