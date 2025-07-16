@@ -4580,7 +4580,7 @@
     "address": "0x2ed10624315b74a78f11FAbedAa1A228c198aEfB",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "Gauntlet EURC Core",
+    "description": "The Gauntlet EURC Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for EURC suppliers.",
     "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
     "curators": [
       {
