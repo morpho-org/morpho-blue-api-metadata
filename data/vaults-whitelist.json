@@ -4596,5 +4596,26 @@
         "timestamp": 1752571878
       }
     ]
+  },
+  {
+    "address": "0xdC2Dd5189F70Fe2832D9caf7b17d27AA3D79dbE1",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
+    "description": "Yearn Degen vaults lend underlying assets to markets labeled as higher risk by the Yearn team. Optimization across markets is handled automatically via an algorithm developed by Yearn. Supply caps are set based on various factors and continuously monitored by the Yearn team as well.",
+    "forumLink": "https://forum.morpho.org/c/vaults/yearn/42",
+    "curators": [
+      {
+        "name": "Yearn",
+        "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
+        "url": "https://yearn.fi/apps",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1752642291
+      }
+    ]
   }
 ]
