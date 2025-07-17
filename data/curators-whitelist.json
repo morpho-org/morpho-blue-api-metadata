@@ -38,7 +38,8 @@
       "747474": [
         "0x5D8C96b76A342c640d9605187daB780f8365F69f",
         "0xb5c5b5D7a64d43bb91Dab63Ff3095F7FcB869b4e"
-      ]
+      ],
+      "42161": ["0x9E33faAE38ff641094fa68c65c2cE600b3410585"]
     },
     "id": "gauntlet",
     "socials": {
@@ -188,7 +189,10 @@
       "747474": [
         "0xe6FC2a011153DD5a230725a9F0c89a9c81aB4887",
         "0x827e86072B06674a077f592A531dcE4590aDeCdB"
-      ]
+      ],
+      "42161": [
+        "0x0A0e559bc3b0950a7e448F0d4894db195b9cf8DD",
+        "0x0000aeB716a0DF7A9A1AAd119b772644Bc089dA8"]
     },
     "id": "steakhouse-financial",
     "socials": {
