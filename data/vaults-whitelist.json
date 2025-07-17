@@ -4617,5 +4617,47 @@
         "timestamp": 1752642291
       }
     ]
+  },
+  {
+    "address": "0x5b56F90340dBAa6a8693DADb141D620f0e154fE6",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/avantgarde.svg",
+    "description": "The Avantgarde USDC Core vault optimizes risk adjusted yields by dynamically allocating USDC across liquid collateral markets.",
+    "forumLink": "https://forum.morpho.org/c/vaults/avantgarde/45",
+    "curators": [
+      {
+        "name": "Avantgarde",
+        "image": "https://cdn.morpho.org/v2/assets/images/avantgarde.svg",
+        "url": "https://avantgarde.finance/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1752735704
+      }
+    ]
+  },
+  {
+    "address": "0xf79F51f8F473eD34f6b2b13ee74c3208286D53EB",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/avantgarde.svg",
+    "description": "The Avantgarde WETH Core vault optimizes risk adjusted yield by dynamically allocating WETH across liquid collateral markets.",
+    "forumLink": "https://forum.morpho.org/c/vaults/avantgarde/45",
+    "curators": [
+      {
+        "name": "Avantgarde",
+        "image": "https://cdn.morpho.org/v2/assets/images/avantgarde.svg",
+        "url": "https://avantgarde.finance/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1752735704
+      }
+    ]
   }
 ]
