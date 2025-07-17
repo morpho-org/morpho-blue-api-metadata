@@ -2956,6 +2956,27 @@
     ]
   },
   {
+    "address": "0xB75242035e7389128e6dC7059c6084d691b4CDC6",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
+    "description": "Testor",
+    "forumLink": "",
+    "curators": [
+      {
+        "name": "9Summits",
+        "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
+        "url": "https://9summits.io/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1752757683
+      }
+    ]
+  },
+  {
     "address": "0x27D8c7273fd3fcC6956a0B370cE5Fd4A7fc65c18",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/seamless-vault.png",
@@ -3751,11 +3772,11 @@
       }
     ],
     "history": [
-       {
+      {
         "action": "added",
         "timestamp": 1748442452
-       }
-     ]
+      }
+    ]
   },
   {
     "address": "0x4C91d8FBb468F2A318A16C95a9AE17dAe20d8328",
@@ -3821,12 +3842,12 @@
     ]
   },
   {
-  "address": "0x6af5E46456A8ac80BB53a02799965DEF99c26e52",
-  "chainId": 130,
-  "image": "https://cdn.morpho.org/assets/logos/weth.svg",
-  "description": "The Re7 WETH vault curated by Re7 Labs is intended to seamlessly allocate WETH liquidity to various Morpho markets.",
-  "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
-  "curators": [
+    "address": "0x6af5E46456A8ac80BB53a02799965DEF99c26e52",
+    "chainId": 130,
+    "image": "https://cdn.morpho.org/assets/logos/weth.svg",
+    "description": "The Re7 WETH vault curated by Re7 Labs is intended to seamlessly allocate WETH liquidity to various Morpho markets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+    "curators": [
       {
         "name": "RE7 Labs",
         "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
