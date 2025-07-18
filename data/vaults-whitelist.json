@@ -4493,7 +4493,7 @@
     ]
   },
   {
-    "address": "0x250cf7c82bac7cb6cf899b6052979d4b5ba1f9ca",
+    "address": "0x250CF7c82bAc7cB6cf899b6052979d4B5BA1f9ca",
     "chainId": 42161,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
     "description": "The Steakhouse Prime USDC vault aims to optimize yields by lending USDC against blue chip crypto assets.",
