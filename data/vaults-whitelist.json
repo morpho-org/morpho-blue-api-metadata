@@ -1302,6 +1302,27 @@
     ]
   },
   {
+    "address": "0x7e97fa6893871A2751B5fE961978DCCb2c201E65",
+    "chainId": 42161,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The Gauntlet USDC Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for USDC suppliers",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1753048825
+      }
+    ]
+  },
+  {
     "address": "0x4F460bb11cf958606C69A963B4A17f9DaEEea8b6",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
@@ -3751,11 +3772,11 @@
       }
     ],
     "history": [
-       {
+      {
         "action": "added",
         "timestamp": 1748442452
-       }
-     ]
+      }
+    ]
   },
   {
     "address": "0x4C91d8FBb468F2A318A16C95a9AE17dAe20d8328",
@@ -3821,12 +3842,12 @@
     ]
   },
   {
-  "address": "0x6af5E46456A8ac80BB53a02799965DEF99c26e52",
-  "chainId": 130,
-  "image": "https://cdn.morpho.org/assets/logos/weth.svg",
-  "description": "The Re7 WETH vault curated by Re7 Labs is intended to seamlessly allocate WETH liquidity to various Morpho markets.",
-  "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
-  "curators": [
+    "address": "0x6af5E46456A8ac80BB53a02799965DEF99c26e52",
+    "chainId": 130,
+    "image": "https://cdn.morpho.org/assets/logos/weth.svg",
+    "description": "The Re7 WETH vault curated by Re7 Labs is intended to seamlessly allocate WETH liquidity to various Morpho markets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+    "curators": [
       {
         "name": "RE7 Labs",
         "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
