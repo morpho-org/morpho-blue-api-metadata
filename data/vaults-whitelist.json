@@ -1323,6 +1323,27 @@
     ]
   },
   {
+    "address": "0x7e97fa6893871A2751B5fE961978DCCb2c201E65",
+    "chainId": 42161,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The Gauntlet USDC Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for USDC suppliers",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1753102861
+      }
+    ]
+  },
+  {
     "address": "0x4F460bb11cf958606C69A963B4A17f9DaEEea8b6",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
