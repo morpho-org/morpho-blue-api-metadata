@@ -4535,6 +4535,27 @@
     ]
   },
   {
+    "address": "0x250CF7c82bAc7cB6cf899b6052979d4B5BA1f9ca",
+    "chainId": 42161,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse Prime USDC vault aims to optimize yields by lending USDC against blue chip crypto assets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1753099591
+      }
+    ]
+  },
+  {
     "address": "0xadB2df83a1B039417c6CB46AE23Dc61705eA41C3",
     "chainId": 747474,
     "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
