@@ -3040,6 +3040,27 @@
     ]
   },
   {
+    "address": "0x0623a67D69bB2F59D266897A15dC1509d291D631",
+    "chainId": 42161,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse Prime ETH vault aims to optimize yields by lending ETH against blue chip crypto assets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1753097465
+      }
+    ]
+  },
+  {
     "address": "0xcdDCDd18A16ED441F6CB10c3909e5e7ec2B9e8f3",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/apostro.svg",
