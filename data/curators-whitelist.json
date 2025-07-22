@@ -455,6 +455,28 @@
     }
   },
   {
+    "image": "https://cdn.morpho.org/v2/assets/images/singularv.svg",
+    "name": "SingularV",
+    "url": "https://www.singularv.xyz/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x46057881E0B9d190920FB823F840B837f65745d5"
+      ],
+      "130": [
+        "0x46057881E0B9d190920FB823F840B837f65745d5"
+      ],
+      "747474": [
+        "0x46057881E0B9d190920FB823F840B837f65745d5"
+      ]
+    },
+    "id": "singularv",
+    "socials": {
+      "url": "https://www.singularv.xyz/",
+      "twitter": "https://x.com/SingularV__"
+    }
+  },
+  {
     "image": "https://cdn.morpho.org/v2/assets/images/swissborg.svg",
     "name": "Swissborg",
     "verified": true,
