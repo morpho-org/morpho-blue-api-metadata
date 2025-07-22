@@ -614,6 +614,27 @@
     ]
   },
   {
+    "address": "0x1350994173f1CC83f8fc45a5aF80A0aCfC1B613C",
+    "chainId": 42161,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "Test Vault",
+    "forumLink": "https://forum.morpho.org/c/vaults/clearstar-labs/40",
+    "curators": [
+      {
+        "name": "Clearstar",
+        "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+        "url": "https://www.clearstar.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1753173820
+      }
+    ]
+  },
+  {
     "address": "0xbEEF02e5E13584ab96848af90261f0C8Ee04722a",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
