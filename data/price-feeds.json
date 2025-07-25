@@ -5966,7 +5966,7 @@
   {
     "chainId": 1,
     "address": "0x929b42739fEd4d6Ca44EDA0f4020e2A428f8AB86",
-    "vendor": "Alphaping",
+    "vendor": "AlphaPing",
     "description": "USD/CHF price oracle",
     "pair": ["USD", "CHF"],
     "tokenIn": {
@@ -5978,7 +5978,7 @@
   {
     "chainId": 1,
     "address": "0x6165946250DD04740aB1409217E95a4f38374fE9",
-    "vendor": "Alphaping",
+    "vendor": "AlphaPing",
     "description": "xETH/USD price oracle",
     "pair": ["xETH", "USD"],
     "tokenOut": {
