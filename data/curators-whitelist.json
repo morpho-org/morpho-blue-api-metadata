@@ -473,5 +473,15 @@
     },
     "ownerOnly": true,
     "id": "compound-dao"
+  },
+  {
+    "name": "Morpho TEST",
+    "image": "https://cdn.morpho.org/assets/logos/morpho.svg",
+    "url": "https://morpho.org/",
+    "verified": true,
+    "addresses": {
+      "8453": ["0x7310f96D9746BA6e5256E48336Ee4220d2305f92"]
+    },
+    "id": "morpho-test"
   }
 ]
