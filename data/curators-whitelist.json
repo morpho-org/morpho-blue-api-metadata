@@ -515,5 +515,16 @@
     },
     "ownerOnly": true,
     "id": "compound-dao"
+  },
+  {
+    "name": "Elixir",
+    "image": "https://cdn.morpho.org/v2/assets/images/elixir.svg",
+    "url": "https://www.elixir.xyz/",
+    "verified": true,
+    "addresses": {
+      "1": ["0x64f605ACe63eE71ed8299040eB67577585817227"]
+    },
+    "ownerOnly": true,
+    "id": "elixir"
   }
 ]
