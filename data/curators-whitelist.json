@@ -11,7 +11,8 @@
         "0x6fA5d361Ab8165347F636217001E22a7cEF09B48"
       ],
       "130": ["0xeEAa598C011A29b6713251dD0CE24DB8D80E60Eb"],
-      "747474": ["0x3D9403F9bC4615D6986EC31fC287cD5131Eaf9c7"]
+      "42161": ["0xBB4B5BdC1a77971B6C35D87D30BB30F79543a2EF"],
+      "747474": ["0x3D9403F9bC4615D6986EC31fC287cD5131Eaf9c7"] 
     },
     "id": "mev-capital",
     "socials": {
@@ -398,6 +399,7 @@
     "addresses": {
       "1": ["0xe5e2Baf96198c56380dDD5E992D7d1ADa0e989c0"],
       "8453": ["0xFEaE2F855250c36A77b8C68dB07C4dD9711fE36F"],
+      "42161": ["0xfd99a19Fcf577Be92fDAB4ef162c1644BB056885"],
       "747474": ["0x518C21DC88D9780c0A1Be566433c571461A70149"]
     },
     "id": "yearn",
@@ -514,5 +516,16 @@
     },
     "ownerOnly": true,
     "id": "compound-dao"
+  },
+  {
+    "name": "Elixir",
+    "image": "https://cdn.morpho.org/v2/assets/images/elixir.svg",
+    "url": "https://www.elixir.xyz/",
+    "verified": true,
+    "addresses": {
+      "1": ["0x64f605ACe63eE71ed8299040eB67577585817227"]
+    },
+    "ownerOnly": true,
+    "id": "elixir"
   }
 ]
