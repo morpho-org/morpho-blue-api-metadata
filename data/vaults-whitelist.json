@@ -367,6 +367,27 @@
     ]
   },
   {
+    "address": "0x889dd190bB6b0662DB3fE0AAc29eEDCa3D2ba22A",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "This is the vault launched in collaboration with the Elixir team",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+    "curators": [
+      {
+        "name": "MEV Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+        "url": "https://mevcapital.com/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1753897254
+      }
+    ]
+  },
+  {
     "address": "0x7c574174DA4b2be3f705c6244B4BfA0815a8B3Ed",
     "chainId": 42161,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
