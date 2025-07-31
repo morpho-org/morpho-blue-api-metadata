@@ -3443,6 +3443,27 @@
     ]
   },
   {
+    "address": "0x965Ec3552427B8258BD0a0c7baA234618fc98D01",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
+    "description": "The Edge UltraYield USDT vault curated by the UltraYield team provides diversified exposure to various Morpho markets by lending USDT to achieve an optimized risk-adjusted return.",
+    "forumLink": "https://forum.morpho.org/c/vaults/edge-capital/44",
+    "curators": [
+      {
+        "name": "Edge Capital UltraYield",
+        "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
+        "url": "https://edgecapital.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1753997736
+      }
+    ]
+  },
+  {
     "address": "0x4EDfaB296F8Eb15aC0907CF9eCb7079b1679Da57",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/apostro.svg",
