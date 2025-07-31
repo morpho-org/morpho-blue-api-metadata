@@ -4556,6 +4556,27 @@
     ]
   },
   {
+    "address": "0x6d57dAd0F1c4da0C1d5443AE8F7f8a50BDb9Cf75",
+    "chainId": 42161,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "MEV Capital USDT0 Arbitrum WLing",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+    "curators": [
+      {
+        "name": "MEV Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+        "url": "https://mevcapital.com/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1753968468
+      }
+    ]
+  },
+  {
     "address": "0xf243523996ADbb273F0B237B53f30017C4364bBC",
     "chainId": 747474,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
