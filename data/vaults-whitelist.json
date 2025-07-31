@@ -4178,6 +4178,27 @@
     ]
   },
   {
+    "address": "0x3574B6b307f86C0ca6bd263dCa12d8f3031e57B9",
+    "chainId": 42161,
+    "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
+    "description": "Yearn OG vaults lend underlying assets to markets labeled as moderate risk by the Yearn team. Optimization across markets is handled automatically via an algorithm developed by Yearn. Supply caps are set based on various factors and continuously monitored by the Yearn team as well.",
+    "forumLink": "https://forum.morpho.org/c/vaults/yearn/42",
+    "curators": [
+      {
+        "name": "Yearn",
+        "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
+        "url": "https://yearn.fi/apps",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1753896320
+      }
+    ]
+  },
+  {
     "address": "0xE74c499fA461AF1844fCa84204490877787cED56",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
