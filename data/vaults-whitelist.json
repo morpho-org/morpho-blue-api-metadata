@@ -2149,6 +2149,27 @@
     ]
   },
   {
+    "address": "0x5a545AB9D7d08Aa8625bf78CB8EB1080b0393cf8",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
+    "description": "The Edge UltraYield WETH vault curated by the UltraYield team provides diversified exposure to various Morpho markets by lending WETH to achieve an optimized risk-adjusted return.",
+    "forumLink": "https://forum.morpho.org/c/vaults/edge-capital/44",
+    "curators": [
+      {
+        "name": "Edge Capital UltraYield",
+        "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
+        "url": "https://edgecapital.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1753979267
+      }
+    ]
+  },
+  {
     "address": "0xBeEF086b8807Dc5E5A1740C5E3a7C4c366eA6ab5",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
