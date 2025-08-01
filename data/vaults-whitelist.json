@@ -1430,7 +1430,7 @@
   {
     "address": "0xd63070114470f685b75B74D60EEc7c1113d33a3D",
     "chainId": 1,
-    "image": "https://cdn.morpho.org/v2/assets/images/usual.svg",
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
     "description": "The MEV Capital Usual USDC provides a set of liquid collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
     "forumLink": "https://forum.morpho.org/t/usual-boosted-usdc-vault-whitelisting/686",
     "curators": [
