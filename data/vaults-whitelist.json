@@ -69,6 +69,27 @@
     ]
   },
   {
+    "address": "0xa60643c90A542A95026C0F1dbdB0615fF42019Cf",
+    "chainId": 42161,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "The MEV Capital USDC vault provides a set of liquid collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+    "curators": [
+      {
+        "name": "MEV Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+        "url": "https://mevcapital.com/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1753968423
+      }
+    ]
+  },
+  {
     "address": "0x00dfDb8C7295a03DCf1ADfF4D21eB5D9D19FB330",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
@@ -363,6 +384,27 @@
       {
         "action": "added",
         "timestamp": 1735915734
+      }
+    ]
+  },
+  {
+    "address": "0x889dd190bB6b0662DB3fE0AAc29eEDCa3D2ba22A",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "This is the vault launched in collaboration with the Elixir team",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+    "curators": [
+      {
+        "name": "MEV Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+        "url": "https://mevcapital.com/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1753897254
       }
     ]
   },
@@ -1386,9 +1428,30 @@
     ]
   },
   {
+    "address": "0x5BD1D75d45EdB622d0ea50946F2f741CE8dC5b75",
+    "chainId": 747474,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The Gauntlet BTCK Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for BTCK suppliers.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
+    "curators": [
+      {
+        "name": "Gauntlet",
+        "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+        "url": "https://www.gauntlet.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1753996374
+      }
+    ]
+  },
+  {
     "address": "0xd63070114470f685b75B74D60EEc7c1113d33a3D",
     "chainId": 1,
-    "image": "https://cdn.morpho.org/v2/assets/images/usual.svg",
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
     "description": "The MEV Capital Usual USDC provides a set of liquid collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
     "forumLink": "https://forum.morpho.org/t/usual-boosted-usdc-vault-whitelisting/686",
     "curators": [
@@ -2124,6 +2187,27 @@
       {
         "action": "added",
         "timestamp": 1718041891
+      }
+    ]
+  },
+  {
+    "address": "0x5a545AB9D7d08Aa8625bf78CB8EB1080b0393cf8",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
+    "description": "The Edge UltraYield WETH vault curated by the UltraYield team provides diversified exposure to various Morpho markets by lending WETH to achieve an optimized risk-adjusted return.",
+    "forumLink": "https://forum.morpho.org/c/vaults/edge-capital/44",
+    "curators": [
+      {
+        "name": "Edge Capital UltraYield",
+        "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
+        "url": "https://edgecapital.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1753979267
       }
     ]
   },
@@ -3401,6 +3485,27 @@
     ]
   },
   {
+    "address": "0x965Ec3552427B8258BD0a0c7baA234618fc98D01",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
+    "description": "The Edge UltraYield USDT vault curated by the UltraYield team provides diversified exposure to various Morpho markets by lending USDT to achieve an optimized risk-adjusted return.",
+    "forumLink": "https://forum.morpho.org/c/vaults/edge-capital/44",
+    "curators": [
+      {
+        "name": "Edge Capital UltraYield",
+        "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
+        "url": "https://edgecapital.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1753997736
+      }
+    ]
+  },
+  {
     "address": "0x4EDfaB296F8Eb15aC0907CF9eCb7079b1679Da57",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/apostro.svg",
@@ -3884,6 +3989,27 @@
     ]
   },
   {
+    "address": "0x87DEAE530841A9671326C9D5B9f91bdB11F3162c",
+    "chainId": 42161,
+    "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
+    "description": "Yearn OG vaults lend underlying assets to markets labeled as moderate risk by the Yearn team. Optimization across markets is handled automatically via an algorithm developed by Yearn. Supply caps are set based on various factors and continuously monitored by the Yearn team as well.",
+    "forumLink": "https://forum.morpho.org/c/vaults/yearn/42",
+    "curators": [
+      {
+        "name": "Yearn",
+        "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
+        "url": "https://yearn.fi/apps",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1753896367
+      }
+    ]
+  },
+  {
     "address": "0x4C91d8FBb468F2A318A16C95a9AE17dAe20d8328",
     "chainId": 130,
     "image": "https://cdn.morpho.org/assets/logos/weth.svg",
@@ -4174,6 +4300,27 @@
       {
         "action": "added",
         "timestamp": 1749109827
+      }
+    ]
+  },
+  {
+    "address": "0x3574B6b307f86C0ca6bd263dCa12d8f3031e57B9",
+    "chainId": 42161,
+    "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
+    "description": "Yearn OG vaults lend underlying assets to markets labeled as moderate risk by the Yearn team. Optimization across markets is handled automatically via an algorithm developed by Yearn. Supply caps are set based on various factors and continuously monitored by the Yearn team as well.",
+    "forumLink": "https://forum.morpho.org/c/vaults/yearn/42",
+    "curators": [
+      {
+        "name": "Yearn",
+        "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
+        "url": "https://yearn.fi/apps",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1753896320
       }
     ]
   },
@@ -4493,6 +4640,27 @@
     ]
   },
   {
+    "address": "0x6d57dAd0F1c4da0C1d5443AE8F7f8a50BDb9Cf75",
+    "chainId": 42161,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "The MEV Capital USDT0 vault provides a set of liquid collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+    "curators": [
+      {
+        "name": "MEV Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+        "url": "https://mevcapital.com/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1753968468
+      }
+    ]
+  },
+  {
     "address": "0xf243523996ADbb273F0B237B53f30017C4364bBC",
     "chainId": 747474,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
@@ -4552,6 +4720,27 @@
       {
         "action": "added",
         "timestamp": 1751350044
+      }
+    ]
+  },
+  {
+    "address": "0x9B33073eB98A9a1eb408DedcD08616fE850b3f09",
+    "chainId": 42161,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "The MEV Capital wETH vault provides a set of ETH LSTs and blue chip collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+    "curators": [
+      {
+        "name": "MEV Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+        "url": "https://mevcapital.com/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1753963817
       }
     ]
   },
