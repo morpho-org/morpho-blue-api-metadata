@@ -4661,6 +4661,27 @@
     ]
   },
   {
+    "address": "0x9B33073eB98A9a1eb408DedcD08616fE850b3f09",
+    "chainId": 42161,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "wETH WLing on Arbitrum",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+    "curators": [
+      {
+        "name": "MEV Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+        "url": "https://mevcapital.com/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1753963817
+      }
+    ]
+  },
+  {
     "address": "0x8ED68f91AfbE5871dCE31ae007a936ebE8511d47",
     "chainId": 747474,
     "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
