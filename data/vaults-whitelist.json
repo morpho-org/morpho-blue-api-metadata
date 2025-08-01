@@ -69,6 +69,27 @@
     ]
   },
   {
+    "address": "0xa60643c90A542A95026C0F1dbdB0615fF42019Cf",
+    "chainId": 42161,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "MEV Capital USDC Arbitrum WLing",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
+    "curators": [
+      {
+        "name": "MEV Capital",
+        "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+        "url": "https://mevcapital.com/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1753968423
+      }
+    ]
+  },
+  {
     "address": "0x00dfDb8C7295a03DCf1ADfF4D21eB5D9D19FB330",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
