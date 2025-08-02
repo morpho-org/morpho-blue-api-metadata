@@ -4808,6 +4808,27 @@
     ]
   },
   {
+    "address": "0xBEEFE94c8aD530842bfE7d8B397938fFc1cb83b2",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse USDC vault aims to optimize yields by lending USDC against blue chip crypto and real world asset RWA collateral markets depending on market conditions. We call this the dual engine.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1754113274
+      }
+    ]
+  },
+  {
     "address": "0x9646eBD6346C8C3a9f3d408f71C312eB0CbE8507",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/usdt.svg",
