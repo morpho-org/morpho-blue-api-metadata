@@ -1199,8 +1199,8 @@
   {
     "address": "0xA8875aaeBc4f830524e35d57F9772FfAcbdD6C45",
     "chainId": 1,
-    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet-midas.svg",
-    "description": "The Midas USDC Vault curated by Gauntlet is designed to optimize risk-adjusted returns by lending USDC to Midas collateral markets, ensuring robust risk management and sustainable yield strategies.",
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The Gauntlet USDC RWA Vault is designed to optimize risk-adjusted returns by lending USDC to Real World Asset collateral markets, including private credit and tokenized equities, ensuring robust risk management and sustainable yield strategies.",
     "forumLink": "https://forum.morpho.org/c/metamorpho/gauntlet/19",
     "curators": [
       {
