@@ -1,6 +1,6 @@
 [
   {
-    "address": "0xA0ac033121e46f2a5F5C31d0a670Ec47Ecb9aD72",
+    "address": "0xfAD637e9900d2FD140d791db0a72C84bF26f4fF8",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
     "description": "This is a Test V2 USDC Vault",
@@ -8,12 +8,12 @@
     "history": [
       {
         "action": "added",
-        "timestamp": 1753703306
+        "timestamp": 1754583383
       }
     ]
   },
   {
-    "address": "0xfB7Ae8Fff3627E3864235C7E88d528feA7d58683",
+    "address": "0x933e79FBaE218F99341dCa625FdF4Ef596968F84",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/weth.svg",
     "description": "This is a Test V2 WETH Vault",
@@ -21,7 +21,7 @@
     "history": [
       {
         "action": "added",
-        "timestamp": 1753703306
+        "timestamp": 1754583383
       }
     ]
   }
