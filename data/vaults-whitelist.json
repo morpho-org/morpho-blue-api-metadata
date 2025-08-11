@@ -2026,8 +2026,8 @@
     "address": "0xbdd4859050468fBc11Dec07113a6e633608A1372",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/singularv.svg",
-    "description": "SigularV USDT vault provide maximized return with limited risk by thorough risk evaluation on collateral and oracle",
-    "forumLink": "",
+    "description": "SingularV USDT vault provides maximized return with limited risk by thorough risk evaluation on collateral and oracle",
+    "forumLink": "https://forum.morpho.org/c/vaults/singularv/46",
     "curators": [
       {
         "name": "SingularV",
@@ -3169,8 +3169,8 @@
     "address": "0x739d8a60ED4b14E4cB6DCAEAF79d2ec0Ca092237",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/singularv.svg",
-    "description": "SingularV ETH vault provide maximized return with limited risks by thorough risk evaulation on collateral and oracle",
-    "forumLink": "",
+    "description": "SingularV ETH vault provides maximized return with limited risk by thorough risk evaluation on collateral and oracle",
+    "forumLink": "https://forum.morpho.org/c/vaults/singularv/46",
     "curators": [
       {
         "name": "SingularV",
