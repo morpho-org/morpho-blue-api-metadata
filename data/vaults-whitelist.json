@@ -2026,8 +2026,8 @@
     "address": "0xbdd4859050468fBc11Dec07113a6e633608A1372",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/singularv.svg",
-    "description": "SigularV USDT vault provide maximized return with limited risk by thorough risk evaluation on collateral and oracle",
-    "forumLink": "",
+    "description": "SingularV USDT vault provides maximized return with limited risk by thorough risk evaluation on collateral and oracle",
+    "forumLink": "https://forum.morpho.org/c/vaults/singularv/46",
     "curators": [
       {
         "name": "SingularV",
@@ -3169,8 +3169,8 @@
     "address": "0x739d8a60ED4b14E4cB6DCAEAF79d2ec0Ca092237",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/singularv.svg",
-    "description": "SingularV ETH vault provide maximized return with limited risks by thorough risk evaulation on collateral and oracle",
-    "forumLink": "",
+    "description": "SingularV ETH vault provides maximized return with limited risk by thorough risk evaluation on collateral and oracle",
+    "forumLink": "https://forum.morpho.org/c/vaults/singularv/46",
     "curators": [
       {
         "name": "SingularV",
@@ -3488,7 +3488,7 @@
     "address": "0x1D3b1Cd0a0f242d598834b3F2d126dC6bd774657",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
-    "description": "The Clearstar OpenEden USDC Vault optimizes yields in USDO markets. OpenEden's USDO is a fully regulated, yield-bearing stablecoin backed by Moody's-rated tokenized U.S. Treasuries.",
+    "description": "The Clearstar OpenEden USDC Vault optimizes yields across a select pool of collateral assets, with a focus on bluechip assets and lower percived collateral risks. This vault also received points issued by OpenEden. This vault has automated reallocation to maximize APR within static risk parameters and also monitors active on-chain risks through the use of Hypernative to reduce exposure to collaterals that might be at risk of suffering exploits.",
     "forumLink": "https://forum.morpho.org/c/vaults/clearstar-labs/40",
     "curators": [
       {
@@ -4328,7 +4328,7 @@
     "address": "0x62fE596d59fB077c2Df736dF212E0AFfb522dC78",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
-    "description": "The Clearstar USDC Reactor vault maximizes USDC yields while fostering the growth of high-quality collateral assets. By combining strategic asset selection with intelligent routing across efficient lending markets, it creates a flywheel of liquidity and sustainability. This vault is designed to align incentives across users and protocols for a win/win outcome in decentralized finance.",
+    "description": "The Clearstar USDC Reactor vault maximizes USDC yields while fostering the growth of high-quality collateral assets. By combining strategic asset selection with intelligent routing across efficient lending markets, it creates a flywheel of liquidity and sustainability. This vault has automated reallocation to maximize APR within static risk parameters and also monitors active on-chain risks through the use of Hypernative to reduce exposure to collaterals that might be at risk of suffering exploits",
     "forumLink": "https://forum.morpho.org/c/vaults/clearstar-labs/40",
     "curators": [
       {
@@ -4370,7 +4370,7 @@
     "address": "0xE74c499fA461AF1844fCa84204490877787cED56",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
-    "description": "The High Yield Clearstar USDC vault aims to provide liquidity to volatile and frontier assets on Base. Potential higher volatility markets mean higher implied risks in exchange for high yields.",
+    "description": "The High Yield Clearstar USDC vault aims to provide liquidity to volatile and frontier assets on Base. Potential higher volatility markets mean higher implied risks in exchange for high yields.  This vault has automated reallocation to maximize APR within static risk parameters and also monitors active on-chain risks through the use of Hypernative to reduce exposure to collaterals that might be at risk of suffering exploits.",
     "forumLink": "https://forum.morpho.org/c/vaults/clearstar-labs/40",
     "curators": [
       {
