@@ -3,7 +3,7 @@
     "address": "0x38989BBA00BDF8181F4082995b3DEAe96163aC5D",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/eth.svg",
-    "description": "The Flagship ETH Morpho vault curated by B.Protocol and Block Analitica is intended to optimize risk-adjusted interest earned from blue-chip LST and stablecoin collateral markets. The Flagship ETH vault also serves as a pre-deposit vault for Relend Network. Users who supply ETH will collect RELEND units and have the option to access Relend Network once live.",
+    "description": "The Flagship ETH Morpho vault curated by B.Protocol and Block Analitica is intended to optimize risk-adjusted interest earned from blue-chip LST and stablecoin collateral markets. The Flagship ETH vault also serves as a pre-deposit vault for Relend Network.",
     "forumLink": "https://forum.morpho.org/c/metamorpho/blockanalitica-b-protocol/20",
     "curators": [
       {
@@ -563,7 +563,7 @@
     "address": "0x186514400e52270cef3D80e1c6F8d10A75d47344",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
-    "description": "The Flagship USDC Morpho vault curated by B.Protocol and Block Analitica is intended to optimize risk-adjusted interest earned from blue-chip collateral markets. The Flagship USDC vault also serves as a pre-deposit vault for Relend Network. Users who supply USDC will collect RELEND units and have the option to access Relend Network once live.",
+    "description": "The Flagship USDC Morpho vault curated by B.Protocol and Block Analitica is intended to optimize risk-adjusted interest earned from blue-chip collateral markets. The Flagship USDC vault also serves as a pre-deposit vault for Relend Network.",
     "forumLink": "https://forum.morpho.org/c/metamorpho/blockanalitica-b-protocol/20",
     "curators": [
       {
@@ -632,7 +632,7 @@
     "address": "0x2C25f6C25770fFEC5959D34B94Bf898865e5D6b1",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/usdt.svg",
-    "description": "The Flagship USDT Morpho vault curated by B.Protocol and Block Analitica is intended to optimize risk-adjusted interest earned from blue-chip collateral markets. The Flagship USDT vault also serves as a pre-deposit vault for Relend Network. Users who supply USDT will collect RELEND units and have the option to access Relend Network once live.",
+    "description": "The Flagship USDT Morpho vault curated by B.Protocol and Block Analitica is intended to optimize risk-adjusted interest earned from blue-chip collateral markets. The Flagship USDT vault also serves as a pre-deposit vault for Relend Network.",
     "forumLink": "https://forum.morpho.org/c/metamorpho/blockanalitica-b-protocol/20",
     "curators": [
       {
@@ -1729,7 +1729,7 @@
     "address": "0x0F359FD18BDa75e9c49bC027E7da59a4b01BF32a",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
-    "description": "The Relend Boosted USDC vault serves as a Global Liquidity Vault for Relend Network. Users who supply USDC will collect RELEND units and receive additional relending yield. Collateral markets are selected for competitive yield and long term partner alignment.",
+    "description": "The Relend USDC vault serves as a Global Liquidity Vault for Relend Network. Users who supply USDC earn additional relending yield. Collateral markets are selected for competitive yield and long term partner alignment.",
     "forumLink": "https://forum.morpho.org/c/vaults/b-protocol-relend-network/33",
     "curators": [
       {
@@ -1756,7 +1756,7 @@
     "address": "0x45c1875F1C48622b3D9740Af2D7dc62Bc9a72422",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/xaum.svg",
-    "description": "The Relend Gold vault serves as a pre-deposit vault for Relend Network. Users who supply XAUM will collect RELEND units and have the option to access Relend Network once live. Collateral markets are selected for competitive yield and long term partner alignment.",
+    "description": "The Relend Gold vault serves as a pre-deposit vault for Relend Network. Collateral markets are selected for competitive yield and long term partner alignment.",
     "forumLink": "https://forum.morpho.org/c/vaults/b-protocol-relend-network/33",
     "curators": [
       {
@@ -1783,7 +1783,7 @@
     "address": "0xB9C9158aB81f90996cAD891fFbAdfBaad733c8C6",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/cbbtc.svg",
-    "description": "The Relend Boosted cbBTC vault serves as a pre-deposit vault for Relend Network. Users who supply cbBTC will collect RELEND units and have the option to access Relend Network once live. Collateral markets are selected for competitive yield and long term partner alignment.",
+    "description": "The Relend Boosted cbBTC vault serves as a pre-deposit vault for Relend Network. Collateral markets are selected for competitive yield and long term partner alignment.",
     "forumLink": "https://forum.morpho.org/c/vaults/b-protocol-relend-network/33",
     "curators": [
       {
@@ -2506,7 +2506,7 @@
     "address": "0x70F796946eD919E4Bc6cD506F8dACC45E4539771",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
-    "description": "The Relend Boosted ETH vault also serves as a pre-deposit vault for Relend Network. Users who supply ETH will collect RELEND units and have the option to access Relend Network once live. Collateral markets are selected for competitive yield and long term partner alignment.",
+    "description": "The Relend Boosted ETH vault also serves as a pre-deposit vault for Relend Network. Collateral markets are selected for competitive yield and long term partner alignment.",
     "forumLink": "https://forum.morpho.org/c/vaults/b-protocol-relend-network/33",
     "curators": [
       {
