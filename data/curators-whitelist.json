@@ -474,6 +474,22 @@
     }
   },
   {
+    "image": "https://cdn.morpho.org/v2/assets/images/august.svg",
+    "name": "August Digital",
+    "url": "https://augustdigital.io/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0xc68733779a1738fDd743667f8714ad33d4a92453"
+      ]
+    },
+    "id": "august-digital",
+    "socials": {
+      "url": "https://augustdigital.io/",
+      "twitter": "https://x.com/august_digital"
+    }
+  },
+  {
     "image": "https://cdn.morpho.org/v2/assets/images/swissborg.svg",
     "name": "Swissborg",
     "verified": true,
