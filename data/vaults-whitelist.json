@@ -2359,6 +2359,27 @@
     ]
   },
   {
+    "address": "0x2281961480216653529A03D6CE03Ee6B8cdF564E",
+    "chainId": 42161,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse Prime USDT0 vault aims to optimize yields by lending USDT0 against blue chip crypto assets.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1755252129
+      }
+    ]
+  },
+  {
     "address": "0x616a4E1db48e22028f6bbf20444Cd3b8e3273738",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/seamless-vault.png",
