@@ -3569,6 +3569,27 @@
     ]
   },
   {
+    "address": "0x09832347586E238841F49149C84d121Bc2191C53",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The Clearstar ETH Reactor vault optimizes ETH yields with automated rebalancing and a real-time risk engine powered by Hypernative to immedtialy reduce exposure to collaterals that may be at risk of getting exploited. The vault is also expected to benefit from points campaigns and incentives provided by some of the collateral issuers.",
+    "forumLink": "https://forum.morpho.org/c/vaults/clearstar-labs/40",
+    "curators": [
+      {
+        "name": "Clearstar",
+        "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+        "url": "https://www.clearstar.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1755162453
+      }
+    ]
+  },
+  {
     "address": "0x4EDfaB296F8Eb15aC0907CF9eCb7079b1679Da57",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/apostro.svg",
