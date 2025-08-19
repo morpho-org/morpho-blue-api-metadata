@@ -2212,6 +2212,27 @@
     ]
   },
   {
+    "address": "0x4739E2c293bDCD835829aA7c5d7fBdee93565D1a",
+    "chainId": 42161,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse High Yield USDT0 vault aims to optimize yields by lending USDT0 against a wide range of collaterals.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1755634800
+      }
+    ]
+  },
+  {
     "address": "0xA2Cac0023a4797b4729Db94783405189a4203AFc",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/eth.svg",
