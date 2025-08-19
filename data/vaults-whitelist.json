@@ -4955,6 +4955,27 @@
     ]
   },
   {
+    "address": "0x5c0C306Aaa9F877de636f4d5822cA9F2E81563BA",
+    "chainId": 42161,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse High Yield USDC vault aims to optimize yields by lending USDC against a wide range of collaterals.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1755634706
+      }
+    ]
+  },
+  {
     "address": "0x250CF7c82bAc7cB6cf899b6052979d4B5BA1f9ca",
     "chainId": 42161,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
