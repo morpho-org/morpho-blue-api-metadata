@@ -1264,7 +1264,7 @@
     "chainId": 42161,
     "image": "https://cdn.morpho.org/v2/assets/images/avantgarde.svg",
     "description": "The Avantgarde USDC Core vault optimizes risk adjusted yields by dynamically allocating USDC across collateral markets.",
-    "forumLink": "",
+    "forumLink": "https://forum.morpho.org/c/vaults/avantgarde/45",
     "curators": [
       {
         "name": "Avantgarde",
