@@ -8,7 +8,7 @@
     "history": [
       {
         "action": "added",
-        "timestamp": 1754583383
+        "timestamp": 175458338
       }
     ]
   },
@@ -22,6 +22,19 @@
       {
         "action": "added",
         "timestamp": 1754583383
+      }
+    ]
+  },
+  {
+    "address": "0x863fb000f78ed186b55e3828f3bca7e785d23e3e",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/assets/logos/weth.svg",
+    "description": "Gauntlet WETH V2 Vault",
+    "forumLink": "https://morpho.org",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1755852078
       }
     ]
   }
