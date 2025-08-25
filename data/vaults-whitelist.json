@@ -4493,6 +4493,27 @@
     ]
   },
   {
+    "address": "0xbeEf96B330ef1Fe7Ebe41eCe0Bd4a41A94Bc03DC",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Cronos USDC Ecosystem vault is allocating to select Morpho markets with the addition of Cronos Ecosystem markets like cdcETH and CRO.",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/steakhouse-financial/18",
+    "curators": [
+      {
+        "name": "Steakhouse Financial",
+        "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+        "url": "https://www.steakhouse.financial",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1756130091
+      }
+    ]
+  },
+  {
     "address": "0x68Aea7b82Df6CcdF76235D46445Ed83f85F845A3",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
