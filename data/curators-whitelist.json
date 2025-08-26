@@ -547,5 +547,16 @@
     },
     "ownerOnly": true,
     "id": "elixir"
+  },
+  {
+    "name": "Olympus",
+    "image": "https://cdn.morpho.org/v2/assets/images/olympus.svg",
+    "url": "https://www.olympusdao.finance/",
+    "verified": true,
+    "addresses": {
+      "1": ["0x245cc372C84B3645Bf0Ffe6538620B04a217988B"]
+    },
+    "ownerOnly": true,
+    "id": "olympus"
   }
 ]
