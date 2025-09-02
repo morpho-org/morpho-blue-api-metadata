@@ -451,6 +451,27 @@
     ]
   },
   {
+    "address": "0x704761B6280BfABC7E397EfD34Fc15cd3b527d7D",
+    "chainId": 42161,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The Re7 USDC vault curated by Re7 Labs is intended to seamlessly allocate USDC liquidity to various Morpho markets",
+    "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
+    "curators": [
+      {
+        "name": "RE7 Labs",
+        "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+        "url": "https://www.re7labs.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1756824332
+      }
+    ]
+  },
+  {
     "address": "0x833AdaeF212c5cD3f78906B44bBfb18258F238F0",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/bbqwsteth.svg",
