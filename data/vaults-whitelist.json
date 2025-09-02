@@ -3229,6 +3229,27 @@
     ]
   },
   {
+    "address": "0x40DD8f13395a1dD5C8aB5B6a7ecDb4F782838E45",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "Spectra Ecosystem Vault provides liquidity to Spectra PT and LP tokens.\nThis vault is curated on behalf of Spectra Finance.",
+    "forumLink": "https://forum.morpho.org/c/vaults/clearstar-labs/40",
+    "curators": [
+      {
+        "name": "Clearstar",
+        "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+        "url": "https://www.clearstar.xyz/",
+        "verified": true
+      }
+    ],
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1756541162
+      }
+    ]
+  },
+  {
     "address": "0xc582F04d8a82795aa2Ff9c8bb4c1c889fe7b754e",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
