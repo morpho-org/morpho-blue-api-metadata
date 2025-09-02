@@ -3821,27 +3821,6 @@
     ]
   },
   {
-    "address": "0x704761B6280BfABC7E397EfD34Fc15cd3b527d7D",
-    "chainId": 42161,
-    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
-    "description": "Request to whitelist Re7 USDC vault on Arbitrum",
-    "forumLink": "https://forum.morpho.org/c/metamorpho/re7/21",
-    "curators": [
-      {
-        "name": "RE7 Labs",
-        "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
-        "url": "https://www.re7labs.xyz/",
-        "verified": true
-      }
-    ],
-    "history": [
-      {
-        "action": "added",
-        "timestamp": 1756769316
-      }
-    ]
-  },
-  {
     "address": "0x1D795E29044A62Da42D927c4b179269139A28A6B",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
