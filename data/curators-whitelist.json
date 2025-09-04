@@ -499,6 +499,21 @@
     }
   },
   {
+    "image": "https://cdn.morpho.org/v2/assets/images/pangolins.svg",
+    "name": "Pangolins",
+    "url": "https://pangolins.io/",
+    "verified": true,
+    "addresses": {
+      "1": ["0xF5854811ddccbf9D1767e35f6Cb28A6FEB25f9d9"],
+      "130": ["0xF5854811ddccbf9D1767e35f6Cb28A6FEB25f9d9"]
+    },
+    "id": "pangolins",
+    "socials": {
+      "url": "https://pangolins.io/",
+      "twitter": "https://x.com/PangolinsVault"
+    }
+  },
+  {
     "image": "https://cdn.morpho.org/v2/assets/images/swissborg.svg",
     "name": "Swissborg",
     "verified": true,
