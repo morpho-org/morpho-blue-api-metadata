@@ -14,7 +14,6 @@ interface Vault {
   address: string;
   chainId: number;
   description: string;
-  forumLink: string;
   curators: Curator[];
 }
 describe("vaults-whitelist.json validation", () => {
@@ -73,7 +72,6 @@ describe("vaults-whitelist.json validation", () => {
         address: expect.any(String),
         chainId: expect.any(Number),
         description: expect.any(String),
-        forumLink: expect.any(String),
         curators: expect.any(Array),
       };
 
