@@ -953,7 +953,7 @@
     "address": "0x73e65DBD630f90604062f6E02fAb9138e713edD9",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/dai.svg",
-    "description": "The Spark DAI 1 vault curated by SparkDAO is intended to seamlessly allocate DAI liquidity from Maker to Morpho markets.",
+    "description": "Spark high-yield DAI vault. Lending against higher risk crypto and real-world assets (RWAs). Curated by SparkDAO which allocates billions in assets across all of DeFi. See: https://data.spark.fi/spark-liquidity-layer",
     "forumLink": "",
     "curators": [
       {
@@ -2215,7 +2215,7 @@
     "address": "0x7BfA7C4f149E7415b73bdeDfe609237e29CBF34A",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
-    "description": "Spark Liquidity Layer USDC Automated Market Operations Vault. This vault is open to others. Rulesets are defined by SparkDAO.",
+    "description": "Spark blue-chip USDC vault. Lending against the lowest risk crypto and real-world assets (RWAs). Curated by SparkDAO which allocates billions in assets across all of DeFi. See: https://data.spark.fi/spark-liquidity-layer",
     "forumLink": "",
     "curators": [
       {
@@ -3971,7 +3971,7 @@
     "address": "0xe41a0583334f0dc4E023Acd0bFef3667F6FE0597",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/spark.svg",
-    "description": "Spark Liquidity Layer USDS Automated Market Operations Vault. This vault is open to others. Rulesets are defined by SparkDAO.",
+    "description": "Spark high-yield USDS vault. Lending against higher risk crypto and real-world assets (RWAs). Curated by SparkDAO which allocates billions in assets across all of DeFi. See: https://data.spark.fi/spark-liquidity-layer",
     "forumLink": "",
     "curators": [
       {
