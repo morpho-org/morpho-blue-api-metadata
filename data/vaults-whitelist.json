@@ -936,6 +936,18 @@
     ]
   },
   {
+    "address": "0xd73270593E2542e5A43b8c7FBE4F2d5c9c4A443c",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/pangolins.svg",
+    "description": "The Pangolins USDT vault aims to balance risk and return. It diversifies lending across multiple markets to achieve optimized reliable yields.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1757062478
+      }
+    ]
+  },
+  {
     "address": "0x9a8bC3B04b7f3D87cfC09ba407dCED575f2d61D8",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/eth.svg",
