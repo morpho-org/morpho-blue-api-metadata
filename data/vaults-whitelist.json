@@ -1252,6 +1252,18 @@
     ]
   },
   {
+    "address": "0x4432Db42062A338aA17553D5AB828C1D8BD8d3e7",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
+    "description": "test",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1757056541
+      }
+    ]
+  },
+  {
     "address": "0x7BfA7C4f149E7415b73bdeDfe609237e29CBF34A",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
