@@ -2876,6 +2876,18 @@
     ]
   },
   {
+    "address": "0x56A76b428244a50513ec81e225a293d128fd581D",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/spark.svg",
+    "description": "Spark blue-chip USDC vault. Lending against the lowest risk crypto and real-world assets RWAs. Curated by SparkDAO which allocates billions in assets across all of DeFi.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1757366100
+      }
+    ]
+  },
+  {
     "address": "0x9646eBD6346C8C3a9f3d408f71C312eB0CbE8507",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/usdt.svg",
