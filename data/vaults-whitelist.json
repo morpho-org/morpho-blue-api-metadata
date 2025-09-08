@@ -2879,7 +2879,7 @@
     "address": "0x56A76b428244a50513ec81e225a293d128fd581D",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/spark.svg",
-    "description": "Spark blue-chip USDC vault. Lending against the lowest risk crypto and real-world assets RWAs. Curated by SparkDAO which allocates billions in assets across all of DeFi.",
+    "description": "Spark blue-chip USDC vault. Lending against the lowest risk crypto and real-world assets RWAs. Curated by SparkDAO which allocates billions in assets across all of DeFi. See: https://data.spark.fi/spark-liquidity-layer",
     "history": [
       {
         "action": "added",
