@@ -2096,6 +2096,18 @@
     ]
   },
   {
+    "address": "0xB7c9988D3922F25a336a469F3bB26CA61FE79e24",
+    "chainId": 137,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse High Yield USDT0 vault aims to optimize yields by lending USDT0 against a wide range of collaterals.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1757341003
+      }
+    ]
+  },
+  {
     "address": "0xBeeFa74640a5f7c28966cbA82466EED5609444E0",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/smokehouse-usdc.svg",
