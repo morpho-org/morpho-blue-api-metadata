@@ -1540,6 +1540,18 @@
     ]
   },
   {
+    "address": "0xAcB0DCe4b0FF400AD8F6917f3ca13E434C9ed6bC",
+    "chainId": 137,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse High Yield USDC vault aims to optimize yields by lending USDC against a wide range of collaterals.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1757340932
+      }
+    ]
+  },
+  {
     "address": "0xBEef03f0BF3cb2e348393008a826538AaDD7d183",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
