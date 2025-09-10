@@ -2003,7 +2003,7 @@
     "address": "0xa00A5B20F487D0113784F85FBa88db66a408F1e0",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/august.svg",
-    "description": "Whitelist vault onto Morpho front end",
+    "description": "The August USDC Vault runs a dynamic allocation engine—strategically deploying capital into on-chain collateral markets, and adapting to keep yields optimized across market cycles.",
     "history": [
       {
         "action": "added",
