@@ -2000,6 +2000,18 @@
     ]
   },
   {
+    "address": "0xa00A5B20F487D0113784F85FBa88db66a408F1e0",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/august.svg",
+    "description": "Whitelist vault onto Morpho front end",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1757509552
+      }
+    ]
+  },
+  {
     "address": "0x6619F92861C760AD11BA0D56E8ED63A33EccE22B",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
