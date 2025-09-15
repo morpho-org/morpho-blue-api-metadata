@@ -984,6 +984,18 @@
     ]
   },
   {
+    "address": "0xa71D08A159258553a5Ac190d60Fa919425Ff02EA",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/hakutora.png",
+    "description": "The Hakutora USDT vault dynamically adjusts asset allocation closely monitoring underlying asset risks to balance safety flexibility and yield.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1757910281
+      }
+    ]
+  },
+  {
     "address": "0x443df5eEE3196e9b2Dd77CaBd3eA76C3dee8f9b2",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
