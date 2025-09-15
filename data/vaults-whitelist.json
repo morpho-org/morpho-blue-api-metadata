@@ -2216,6 +2216,18 @@
     ]
   },
   {
+    "address": "0xda4D1A3187Eba9Ecaa137867bD4541f78D51638e",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "description": "Alpha MUSD Core is a performance-driven vault designed to maximize risk-adjusted returns for MUSD the fully Bitcoin-backed stablecoin issued by Mezo.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1757916679
+      }
+    ]
+  },
+  {
     "address": "0xbEEF36A5C1372F8D7d211527FCE9f83FE02d8A73",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/smokehouse-eth.svg",
