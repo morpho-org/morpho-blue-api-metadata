@@ -1672,6 +1672,18 @@
     ]
   },
   {
+    "address": "0x8773447e6369472D9B72f064Ea62e405216E9084",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "The MEV Capital Usual USDC provides a set of liquid collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1757948504
+      }
+    ]
+  },
+  {
     "address": "0x0FaBfEAcedf47e890c50C8120177fff69C6a1d9B",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
