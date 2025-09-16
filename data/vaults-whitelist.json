@@ -1612,6 +1612,18 @@
     ]
   },
   {
+    "address": "0x9257eDDa03f9915857187e927eF501c53b1679b3",
+    "chainId": 42161,
+    "image": "https://cdn.morpho.org/v2/assets/images/avantgarde.svg",
+    "description": "The Avantgarde USDC Prime vault optimizes risk adjusted yields by dynamically allocating USDC across the lowest risk collateral markets.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1757954747
+      }
+    ]
+  },
+  {
     "address": "0xbb819D845b573B5D7C538F5b85057160cfb5f313",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/eusd.svg",
