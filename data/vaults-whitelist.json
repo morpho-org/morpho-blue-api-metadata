@@ -168,6 +168,18 @@
     ]
   },
   {
+    "address": "0xe1617Ceb48af96aE75455002c70005d74D9AAE78",
+    "chainId": 137,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The Clearstar POL Reactor vault maximizes POL yields while fostering the growth of high-quality collateral assets. By combining strategic asset selection with intelligent routing across efficient lending markets it creates a flywheel of liquidity and sustainability.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1758100707
+      }
+    ]
+  },
+  {
     "address": "0xD50DA5F859811A91fD1876C9461fD39c23C747Ad",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/resolv-vault.png",
