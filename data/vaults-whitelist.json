@@ -2108,6 +2108,18 @@
     ]
   },
   {
+    "address": "0x9aF031182fCe8BF0b296145f2e1f1Df5C3feCDE7",
+    "chainId": 747474,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The Clearstar vbUSDC Reactor vault maximizes vbUSDC yields while fostering the growth of high-quality collateral assets. By combining strategic asset selection with intelligent routing across efficient lending markets it creates a flywheel of liquidity and sustainability.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1758100947
+      }
+    ]
+  },
+  {
     "address": "0x59D9571A54593a5EC47d6A20837D96745ECF5C37",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
