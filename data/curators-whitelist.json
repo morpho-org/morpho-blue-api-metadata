@@ -634,5 +634,16 @@
     },
     "ownerOnly": true,
     "id": "olympus"
+  },
+  {
+    "name": "USDU DAO",
+    "image": "https://cdn.morpho.org/v2/assets/images/usdudao.svg",
+    "url": "https://usdu.finance/",
+    "verified": true,
+    "addresses": {
+      "1": ["0x9fe66037c44236c87D9Ac8345F489b4413fDFf06"]
+    },
+    "ownerOnly": true,
+    "id": "usdu-dao"
   }
 ]
