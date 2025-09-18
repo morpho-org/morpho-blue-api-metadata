@@ -168,6 +168,18 @@
     ]
   },
   {
+    "address": "0xe1617Ceb48af96aE75455002c70005d74D9AAE78",
+    "chainId": 137,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The Clearstar POL Reactor vault maximizes POL yields while fostering the growth of high-quality collateral assets. By combining strategic asset selection with intelligent routing across efficient lending markets it creates a flywheel of liquidity and sustainability.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1758100707
+      }
+    ]
+  },
+  {
     "address": "0xD50DA5F859811A91fD1876C9461fD39c23C747Ad",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/resolv-vault.png",
@@ -1048,6 +1060,18 @@
     ]
   },
   {
+    "address": "0x4B1b7Cc055ed683e09eb5aA8Cd92433d3dfb9F4c",
+    "chainId": 137,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The Clearstar USDT Reactor vault maximizes USDT yields while fostering the growth of high-quality collateral assets. By combining strategic asset selection with intelligent routing across efficient lending markets it creates a flywheel of liquidity and sustainability.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1758100763
+      }
+    ]
+  },
+  {
     "address": "0x4Ff4186188f8406917293A9e01A1ca16d3cf9E59",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/sbmorphousdc.svg",
@@ -1452,6 +1476,18 @@
       {
         "action": "added",
         "timestamp": 1758100850
+      }
+    ]
+  },
+  {
+    "address": "0x52317a47585A6ACDfbD7a29B494c3E2baAE96aBc",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "description": "Alpha MUSD is a performance-driven vault designed to maximize risk-adjusted returns for MUSD the fully Bitcoin-backed stablecoin issued by Mezo.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1758195539
       }
     ]
   },
@@ -2272,6 +2308,10 @@
       {
         "action": "added",
         "timestamp": 1757916679
+      },
+      {
+        "action": "removed",
+        "timestamp": 1758191564
       }
     ]
   },
@@ -2536,6 +2576,18 @@
       {
         "action": "added",
         "timestamp": 1748425128
+      }
+    ]
+  },
+  {
+    "address": "0x53cFd39C107732bb666e151aCDbB80A0f50aFd01",
+    "chainId": 137,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The Clearstar USDC Reactor vault maximizes USDC yields while fostering the growth of high-quality collateral assets. By combining strategic asset selection with intelligent routing across efficient lending markets it creates a flywheel of liquidity and sustainability.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1758100799
       }
     ]
   },
