@@ -2568,6 +2568,18 @@
     ]
   },
   {
+    "address": "0x53cFd39C107732bb666e151aCDbB80A0f50aFd01",
+    "chainId": 137,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The Clearstar USDC Reactor vault maximizes USDC yields while fostering the growth of high-quality collateral assets. By combining strategic asset selection with intelligent routing across efficient lending markets it creates a flywheel of liquidity and sustainability.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1758100799
+      }
+    ]
+  },
+  {
     "address": "0xa48f8A10F16bB50A588606553D9fE7338050f8Cd",
     "chainId": 130,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
