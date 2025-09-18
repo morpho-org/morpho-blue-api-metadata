@@ -1060,6 +1060,18 @@
     ]
   },
   {
+    "address": "0x4B1b7Cc055ed683e09eb5aA8Cd92433d3dfb9F4c",
+    "chainId": 137,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The Clearstar USDT Reactor vault maximizes USDT yields while fostering the growth of high-quality collateral assets. By combining strategic asset selection with intelligent routing across efficient lending markets it creates a flywheel of liquidity and sustainability.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1758100763
+      }
+    ]
+  },
+  {
     "address": "0x4Ff4186188f8406917293A9e01A1ca16d3cf9E59",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/sbmorphousdc.svg",
