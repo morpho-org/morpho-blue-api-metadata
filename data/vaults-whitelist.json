@@ -668,6 +668,18 @@
     ]
   },
   {
+    "address": "0xcE22b5Fb17ccbc0C5d87DC2e0dF47DD71E3AdC0a",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "description": "USDU Core is a yield-focused vault that allocates capital into USDU lending markets. By combining the stability of USDU with curated borrower access and risk-managed exposures the vault is designed to generate consistent returns while supporting deep secondary market liquidity for the USDU ecosystem.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1758125567
+      }
+    ]
+  },
+  {
     "address": "0xbEEf0075e03A5cE0D84d4ACcF3481363E0584F5c",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
