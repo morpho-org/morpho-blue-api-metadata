@@ -1444,6 +1444,18 @@
     ]
   },
   {
+    "address": "0x52317a47585A6ACDfbD7a29B494c3E2baAE96aBc",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "description": "Alpha MUSD is a performance-driven vault designed to maximize risk-adjusted returns for MUSD the fully Bitcoin-backed stablecoin issued by Mezo.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1758195539
+      }
+    ]
+  },
+  {
     "address": "0x6b13c060F13Af1fdB319F52315BbbF3fb1D88844",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
