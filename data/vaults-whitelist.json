@@ -3000,6 +3000,18 @@
     ]
   },
   {
+    "address": "0x34eCe536d2ae03192B06c0A67030D1Faf4c0Ba43",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "The MEV Capital EURCV vault aims to optimize yields by lending EURCV against blue chip crypto and real world asset RWA collateral markets depending on market conditions.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1758298129
+      }
+    ]
+  },
+  {
     "address": "0xC5e7AB07030305fc925175b25B93b285d40dCdFf",
     "chainId": 747474,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
