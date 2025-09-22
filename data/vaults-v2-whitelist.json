@@ -1,6 +1,6 @@
 [
   {
-    "address": "0xfAD637e9900d2FD140d791db0a72C84bF26f4fF8",
+    "address": "0xfDE48B9B8568189f629Bc5209bf5FA826336557a",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
     "description": "This is a Test V2 USDC Vault",
@@ -8,12 +8,12 @@
     "history": [
       {
         "action": "added",
-        "timestamp": 175458338
+        "timestamp": 1758543550
       }
     ]
   },
   {
-    "address": "0x933e79FBaE218F99341dCa625FdF4Ef596968F84",
+    "address": "0x93e1F03c254A0f2A4CAFD119e1aFf2D73b04eeCB",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/weth.svg",
     "description": "This is a Test V2 WETH Vault",
@@ -21,20 +21,7 @@
     "history": [
       {
         "action": "added",
-        "timestamp": 1754583383
-      }
-    ]
-  },
-  {
-    "address": "0x863fb000f78ed186b55e3828f3bca7e785d23e3e",
-    "chainId": 8453,
-    "image": "https://cdn.morpho.org/assets/logos/weth.svg",
-    "description": "Gauntlet WETH V2 Vault",
-    "forumLink": "https://morpho.org",
-    "history": [
-      {
-        "action": "added",
-        "timestamp": 1755852078
+        "timestamp": 1758543550
       }
     ]
   }
