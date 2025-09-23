@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "address": "0x6f961243abb36A08A213B1Ecb6B0F67D547fe638",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
+    "description": "BLABLA",
+    "forumLink": "https://forum.morpho.org/c/vaults/9summits/34",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1758621077
+      }
+    ]
+  }
+]
