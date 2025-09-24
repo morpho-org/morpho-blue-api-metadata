@@ -816,6 +816,18 @@
     ]
   },
   {
+    "address": "0x8F40e713a1Cfeff2A052E0c610C8118Be3f75b12",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The Clearstar USDC Reactor vault maximizes USDC yields and allocates exclusively to bluechip and highly liquid assets. This vault has automated reallocation to maximize APR within static risk parameters and also monitors active on-chain risks through the use of Hypernative to mitigate the risk of bad debt.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1758704265
+      }
+    ]
+  },
+  {
     "address": "0xBE40491F3261Fd42724F1AEb465796eb11c06ddF",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/eth.svg",
