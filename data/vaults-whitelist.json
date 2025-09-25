@@ -3221,14 +3221,6 @@
     "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
     "description": "The MEV Capital USDCV Prime vault aims to optimize Dollar-based yields by lending USDCV against whitelisted collateral assets including BTC - wstETH and Dollar-denominated RWAs.",
     "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
-    "curators": [
-      {
-        "name": "MEV Capital",
-        "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
-        "url": "https://mevcapital.com/",
-        "verified": true
-      }
-    ],
     "history": [
       {
         "action": "added",
