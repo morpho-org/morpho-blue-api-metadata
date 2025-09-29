@@ -9,6 +9,10 @@
       {
         "action": "added",
         "timestamp": 1758637162
+      },
+      {
+        "action": "removed",
+        "timestamp": 1759150800
       }
     ]
   },
@@ -22,6 +26,10 @@
       {
         "action": "added",
         "timestamp": 1758543550
+      },
+      {
+        "action": "removed",
+        "timestamp": 1759150800
       }
     ]
   },
@@ -35,6 +43,10 @@
         {
           "action": "added",
           "timestamp": 1758543550
+        },
+        {
+          "action": "removed",
+          "timestamp": 1759150800
         }
       ]
     }
