@@ -592,13 +592,11 @@
     "url": "https://www.usefelix.xyz/",
     "verified": true,
     "addresses": {
-      "999": ["0x4a827418d632c415e19825fd011283a4ba020b3a"]
     },
     "id": "felix",
     "socials": {
       "url": "https://www.usefelix.xyz/",
-      "twitter": "https://x.com/felixprotocol",
-      "forum": "https://forum.morpho.org/c/vaults/re7/21"
+      "twitter": "https://x.com/felixprotocol"
     }
   },
   {
