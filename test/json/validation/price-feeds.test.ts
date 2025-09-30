@@ -27,6 +27,7 @@ describe("price-feeds.json validation", () => {
       feed.chainId === 137 ||
       feed.chainId === 130 ||
       feed.chainId === 10 ||
+      feed.chainId === 999 ||
       feed.chainId === 747474 ||
       feed.chainId === 42161
   );
@@ -73,8 +74,8 @@ describe("price-feeds.json validation", () => {
     }
   });
 
-  test("chain IDs are valid (1 or 8453 or 137 or 130 or 10, 747474 or 42161)", () => {
-    const validChainIds = [1, 8453, 137, 130, 10, 747474, 42161];
+  test("chain IDs are valid (1 or 8453 or 137 or 130 or 10, 999, 747474 or 42161)", () => {
+    const validChainIds = [1, 8453, 137, 130, 10, 999, 747474, 42161];
     const errors: string[] = [];
 
     priceFeeds.forEach((feed, index) => {

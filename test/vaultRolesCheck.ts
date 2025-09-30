@@ -90,10 +90,14 @@ const clients = {
       chain: katana,
       transport: http(),
   }),
-  42161: createPublicClient({
-    chain: arbitrum,
-    transport: http(),
-  }),
+    42161: createPublicClient({
+      chain: arbitrum,
+      transport: http(),
+    }),
+    999: createPublicClient({
+      chain: hyperevm,
+      transport: http(),
+    }),
 };
 
 async function checkAddressRisk(

@@ -12,6 +12,10 @@
       ],
       "130": ["0xeEAa598C011A29b6713251dD0CE24DB8D80E60Eb"],
       "137": ["0xB672Ea44A1EC692A9Baf851dC90a1Ee3DB25F1C4"],
+      "999": [
+        "0xb830B8B1A41c38603dBC6E4b562Ff599eDB415C4",
+        "0x6293e97900aA987Cf3Cbd419e0D5Ba43ebfA91c1"
+      ],
       "8453": ["0xB672Ea44A1EC692A9Baf851dC90a1Ee3DB25F1C4"],
       "42161": ["0xBB4B5BdC1a77971B6C35D87D30BB30F79543a2EF"],
       "747474": ["0x3D9403F9bC4615D6986EC31fC287cD5131Eaf9c7"] 
@@ -35,6 +39,10 @@
       ],
       "130": ["0x9E33faAE38ff641094fa68c65c2cE600b3410585"],
       "137": ["0x9E33faAE38ff641094fa68c65c2cE600b3410585"],
+      "999": [
+        "0x09346F40e324458A8E211C5317981C78FAcDEc57",
+        "0xe3ea927a0f41B4a84fA9900812E52F8BcB84f396"
+      ],
       "8453": [
         "0x9E33faAE38ff641094fa68c65c2cE600b3410585",
         "0x5a4E19842e09000a582c20A4f524C26Fb48Dd4D0"
@@ -153,6 +161,7 @@
       "1": ["0xE86399fE6d7007FdEcb08A2ee1434Ee677a04433"],
       "130": ["0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"],
       "137": ["0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"],
+      "999": ["0x036845F9BE6DF938Da01Abe33e056D3CcaA836a2"],
       "8453": ["0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"],
       "42161": ["0x8fafb5243f3787c67cAe318983a5Cc7E2E81F5bB"],
       "747474": ["0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"]
@@ -228,6 +237,10 @@
     "verified": true,
     "addresses": {
       "1": ["0xD6D14E60c0DAFcB3B77B296fe718623Ec84e5eb3"],
+      "999": [
+        "0x9AFcbc4984562387eF01Cd9b9FcF923177fcB354",
+        "0xA4362C5F624F8f50DB23E9FE99FDEC2627cB36Fd"
+      ],
       "8453": ["0x32f75c3ee6aD872Eb3138020885E94E2842b8433"]
     },
     "id": "relend-network",
@@ -245,6 +258,10 @@
     "addresses": {
       "1": [
         "0xEe7E9bb21D5589BF657b94083dB2fA349a3918C8",
+        "0x75178137D3B4B9A0F771E0e149b00fB8167BA325"
+      ],
+      "999": [
+        "0x35e42A5cA87A4E4Fb235585B36d7c978eA72B290",
         "0x75178137D3B4B9A0F771E0e149b00fB8167BA325"
       ],
       "42161": [
@@ -567,6 +584,19 @@
       "url": "https://pangolins.io/",
       "twitter": "https://x.com/PangolinsVault",
       "forum": "https://forum.morpho.org/c/vaults/pangolins/49"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/felix.png",
+    "name": "Felix",
+    "url": "https://www.usefelix.xyz/",
+    "verified": true,
+    "addresses": {
+    },
+    "id": "felix",
+    "socials": {
+      "url": "https://www.usefelix.xyz/",
+      "twitter": "https://x.com/felixprotocol"
     }
   },
   {

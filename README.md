@@ -110,7 +110,7 @@ Each blacklist entry must include:
 
 [markets-blacklist.json](./data/markets-blacklist.json)
 
-## 3. Price Feed whitelisting
+## 3. Price Feed whitelisting [Deprecated]
 
 Controls the whitelisted price feeds used by the protocol. Each price feed entry represents a specific price oracle implementation.
 
@@ -167,7 +167,7 @@ Each price feed entry must include:
 
 [price-feeds.json](./data/price-feeds.json)
 
-## 4. Price mappings
+## 4. Price mappings [Deprecated]
 
 ### 4.1 Oracle prices ( xxx -> USD)
 
@@ -187,13 +187,13 @@ Eg. wstETH -> ETH
 
 ## 5. Tokens whitelisting
 
-Controls the whitelisted tokens recognized by the protocol. Each token entry represents an ERC-20 token deployed on a supported chain (Ethereum, Base, Optimism, Polygon, Arbitrum, or Avalanche).
+Controls the whitelisted tokens recognized by the protocol. Each token entry represents an ERC-20 token deployed on a supported chain (Ethereum, Base, Optimism, Polygon, Arbitrum, Unichain, Katana or HyperEVM).
 
 ### Required Fields
 
 Each token entry must include:
 
-- `chainId`: Chain ID where the token is deployed (supports 1, 8453, 10, 137, 42161, 43114)
+- `chainId`: Chain ID where the token is deployed (supports 1, 8453, 10, 130, 137, 999, 42161, 747474)
 - `address`: Checksummed contract address of the token
 - `name`: Name of the token (ERC-20)
 - `symbol`: Symbol of the token (ERC-20)
@@ -325,7 +325,7 @@ Therefore, "ETH" symbol is added as an alternative "hardcoded" oracle to "stETH"
 }
 ```
 
-## 6. Exchange Rate
+## 6. Exchange Rate [Deprecated]
 
 Controls the exchange rate configurations for assets that require rate conversion (e.g., liquid staking tokens). Each entry defines how to fetch the conversion rate between a token and its underlying asset.
 

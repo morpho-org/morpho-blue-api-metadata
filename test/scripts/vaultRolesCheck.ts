@@ -66,6 +66,10 @@ const clients = {
     chain: polygon,
     transport: http(),
   }),
+  999: createPublicClient({
+    chain: hyperevm,
+    transport: http(),
+  }),
   747474: createPublicClient({
     chain: katana,
     transport: http(),
