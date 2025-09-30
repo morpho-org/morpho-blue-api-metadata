@@ -10,15 +10,25 @@
         "0x06590Fef209Ebc1f8eEF83dA05984cD4eFf0d0E3",
         "0x6fA5d361Ab8165347F636217001E22a7cEF09B48"
       ],
-      "130": ["0xeEAa598C011A29b6713251dD0CE24DB8D80E60Eb"],
-      "137": ["0xB672Ea44A1EC692A9Baf851dC90a1Ee3DB25F1C4"],
+      "130": [
+        "0xeEAa598C011A29b6713251dD0CE24DB8D80E60Eb"
+      ],
+      "137": [
+        "0xB672Ea44A1EC692A9Baf851dC90a1Ee3DB25F1C4"
+      ],
       "999": [
         "0xb830B8B1A41c38603dBC6E4b562Ff599eDB415C4",
         "0x6293e97900aA987Cf3Cbd419e0D5Ba43ebfA91c1"
       ],
-      "8453": ["0xB672Ea44A1EC692A9Baf851dC90a1Ee3DB25F1C4"],
-      "42161": ["0xBB4B5BdC1a77971B6C35D87D30BB30F79543a2EF"],
-      "747474": ["0x3D9403F9bC4615D6986EC31fC287cD5131Eaf9c7"] 
+      "8453": [
+        "0xB672Ea44A1EC692A9Baf851dC90a1Ee3DB25F1C4"
+      ],
+      "42161": [
+        "0xBB4B5BdC1a77971B6C35D87D30BB30F79543a2EF"
+      ],
+      "747474": [
+        "0x3D9403F9bC4615D6986EC31fC287cD5131Eaf9c7"
+      ]
     },
     "id": "mev-capital",
     "socials": {
@@ -37,8 +47,12 @@
         "0x9E33faAE38ff641094fa68c65c2cE600b3410585",
         "0xC684c6587712e5E7BDf9fD64415F23Bd2b05fAec"
       ],
-      "130": ["0x9E33faAE38ff641094fa68c65c2cE600b3410585"],
-      "137": ["0x9E33faAE38ff641094fa68c65c2cE600b3410585"],
+      "130": [
+        "0x9E33faAE38ff641094fa68c65c2cE600b3410585"
+      ],
+      "137": [
+        "0x9E33faAE38ff641094fa68c65c2cE600b3410585"
+      ],
       "999": [
         "0x09346F40e324458A8E211C5317981C78FAcDEc57",
         "0xe3ea927a0f41B4a84fA9900812E52F8BcB84f396"
@@ -47,13 +61,13 @@
         "0x9E33faAE38ff641094fa68c65c2cE600b3410585",
         "0x5a4E19842e09000a582c20A4f524C26Fb48Dd4D0"
       ],
-      "747474": [
-        "0x5D8C96b76A342c640d9605187daB780f8365F69f",
-        "0xb5c5b5D7a64d43bb91Dab63Ff3095F7FcB869b4e"
-      ],
       "42161": [
         "0x9E33faAE38ff641094fa68c65c2cE600b3410585",
         "0x5a4E19842e09000a582c20A4f524C26Fb48Dd4D0"
+      ],
+      "747474": [
+        "0x5D8C96b76A342c640d9605187daB780f8365F69f",
+        "0xb5c5b5D7a64d43bb91Dab63Ff3095F7FcB869b4e"
       ]
     },
     "id": "gauntlet",
@@ -77,7 +91,6 @@
         "0x30a38f1a27036aE7b1a3679646739Fb913B9B244"
       ],
       "130": [
-        "0xC868BFb240Ed207449Afe71D2ecC781D5E10C85C",
         "0x23E6aecB76675462Ad8f2B31eC7C492060c2fAEF"
       ],
       "8453": [
@@ -120,7 +133,9 @@
         "0x2a933dbd0D9e32593e62702028Edcab437CE3cBA",
         "0x2566f66f68ed438726AD904524FB306A03FdB80B"
       ],
-      "8453": ["0x4b8f6CADb8A2B222e8840E8aDDc32E031794A4D6"]
+      "8453": [
+        "0x4b8f6CADb8A2B222e8840E8aDDc32E031794A4D6"
+      ]
     },
     "id": "block-analitica",
     "socials": {
@@ -158,13 +173,27 @@
     "url": "https://www.re7labs.xyz/",
     "verified": true,
     "addresses": {
-      "1": ["0xE86399fE6d7007FdEcb08A2ee1434Ee677a04433"],
-      "130": ["0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"],
-      "137": ["0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"],
-      "999": ["0x036845F9BE6DF938Da01Abe33e056D3CcaA836a2"],
-      "8453": ["0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"],
-      "42161": ["0x8fafb5243f3787c67cAe318983a5Cc7E2E81F5bB"],
-      "747474": ["0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"]
+      "1": [
+        "0xE86399fE6d7007FdEcb08A2ee1434Ee677a04433"
+      ],
+      "130": [
+        "0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"
+      ],
+      "137": [
+        "0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"
+      ],
+      "999": [
+        "0x036845F9BE6DF938Da01Abe33e056D3CcaA836a2"
+      ],
+      "8453": [
+        "0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"
+      ],
+      "42161": [
+        "0x8fafb5243f3787c67cAe318983a5Cc7E2E81F5bB"
+      ],
+      "747474": [
+        "0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"
+      ]
     },
     "id": "re7-labs",
     "socials": {
@@ -179,7 +208,9 @@
     "url": "https://www.fence.finance/",
     "verified": true,
     "addresses": {
-      "1": ["0xF92971B4D9e6257CF562400ed81d2986F28a8c26"]
+      "1": [
+        "0xF92971B4D9e6257CF562400ed81d2986F28a8c26"
+      ]
     },
     "id": "fence",
     "socials": {
@@ -214,12 +245,12 @@
         "0x0000aeB716a0DF7A9A1AAd119b772644Bc089dA8",
         "0x827e86072B06674a077f592A531dcE4590aDeCdB"
       ],
-      "747474": [
-        "0xe6FC2a011153DD5a230725a9F0c89a9c81aB4887",
-        "0x827e86072B06674a077f592A531dcE4590aDeCdB"
-      ],
       "42161": [
         "0x0A0e559bc3b0950a7e448F0d4894db195b9cf8DD",
+        "0x827e86072B06674a077f592A531dcE4590aDeCdB"
+      ],
+      "747474": [
+        "0xe6FC2a011153DD5a230725a9F0c89a9c81aB4887",
         "0x827e86072B06674a077f592A531dcE4590aDeCdB"
       ]
     },
@@ -236,12 +267,16 @@
     "url": "https://relend.network/",
     "verified": true,
     "addresses": {
-      "1": ["0xD6D14E60c0DAFcB3B77B296fe718623Ec84e5eb3"],
+      "1": [
+        "0xD6D14E60c0DAFcB3B77B296fe718623Ec84e5eb3"
+      ],
       "999": [
         "0x9AFcbc4984562387eF01Cd9b9FcF923177fcB354",
         "0xA4362C5F624F8f50DB23E9FE99FDEC2627cB36Fd"
       ],
-      "8453": ["0x32f75c3ee6aD872Eb3138020885E94E2842b8433"]
+      "8453": [
+        "0x32f75c3ee6aD872Eb3138020885E94E2842b8433"
+      ]
     },
     "id": "relend-network",
     "socials": {
@@ -282,8 +317,12 @@
     "url": "https://spark.fi/",
     "verified": true,
     "addresses": {
-      "1": ["0x3300f198988e4C9C63F75dF86De36421f06af8c4"],
-      "8453": ["0xF93B7122450A50AF3e5A76E1d546e95Ac1d0F579"]
+      "1": [
+        "0x3300f198988e4C9C63F75dF86De36421f06af8c4"
+      ],
+      "8453": [
+        "0xF93B7122450A50AF3e5A76E1d546e95Ac1d0F579"
+      ]
     },
     "id": "sparkdao",
     "socials": {
@@ -298,7 +337,9 @@
     "url": "https://www.llamarisk.com/",
     "verified": true,
     "addresses": {
-      "1": ["0x7e246fAce452AC43F5dC60c41EE14C88c37951c6"]
+      "1": [
+        "0x7e246fAce452AC43F5dC60c41EE14C88c37951c6"
+      ]
     },
     "id": "llamarisk",
     "socials": {
@@ -317,7 +358,9 @@
         "0xf726311F85D45a7fECfFbC94bD8508a0A39958c6",
         "0xC91578e51BCE35844E345CC7F733b4bBf6721734"
       ],
-      "8453": ["0xf726311F85D45a7fECfFbC94bD8508a0A39958c6"]
+      "8453": [
+        "0xf726311F85D45a7fECfFbC94bD8508a0A39958c6"
+      ]
     },
     "id": "apostro",
     "socials": {
@@ -469,10 +512,18 @@
     "url": "https://yearn.fi/apps",
     "verified": true,
     "addresses": {
-      "1": ["0xe5e2Baf96198c56380dDD5E992D7d1ADa0e989c0"],
-      "8453": ["0xFEaE2F855250c36A77b8C68dB07C4dD9711fE36F"],
-      "42161": ["0xfd99a19Fcf577Be92fDAB4ef162c1644BB056885"],
-      "747474": ["0x518C21DC88D9780c0A1Be566433c571461A70149"]
+      "1": [
+        "0xe5e2Baf96198c56380dDD5E992D7d1ADa0e989c0"
+      ],
+      "8453": [
+        "0xFEaE2F855250c36A77b8C68dB07C4dD9711fE36F"
+      ],
+      "42161": [
+        "0xfd99a19Fcf577Be92fDAB4ef162c1644BB056885"
+      ],
+      "747474": [
+        "0x518C21DC88D9780c0A1Be566433c571461A70149"
+      ]
     },
     "id": "yearn",
     "socials": {
@@ -487,8 +538,12 @@
     "url": "https://www.k3.capital/",
     "verified": true,
     "addresses": {
-      "1": ["0xdD84A24eeddE63F10Ec3e928f1c8302A47538b6B"],
-      "130": ["0xdD84A24eeddE63F10Ec3e928f1c8302A47538b6B"]
+      "1": [
+        "0xdD84A24eeddE63F10Ec3e928f1c8302A47538b6B"
+      ],
+      "130": [
+        "0xdD84A24eeddE63F10Ec3e928f1c8302A47538b6B"
+      ]
     },
     "id": "k3-capital",
     "socials": {
@@ -543,9 +598,15 @@
     "url": "https://www.singularv.xyz/",
     "verified": true,
     "addresses": {
-      "1": ["0x46057881E0B9d190920FB823F840B837f65745d5"],
-      "130": ["0x46057881E0B9d190920FB823F840B837f65745d5"],
-      "747474": ["0x46057881E0B9d190920FB823F840B837f65745d5"]
+      "1": [
+        "0x46057881E0B9d190920FB823F840B837f65745d5"
+      ],
+      "130": [
+        "0x46057881E0B9d190920FB823F840B837f65745d5"
+      ],
+      "747474": [
+        "0x46057881E0B9d190920FB823F840B837f65745d5"
+      ]
     },
     "id": "singularv",
     "socials": {
@@ -576,8 +637,12 @@
     "url": "https://pangolins.io/",
     "verified": true,
     "addresses": {
-      "1": ["0xF5854811ddccbf9D1767e35f6Cb28A6FEB25f9d9"],
-      "130": ["0xF5854811ddccbf9D1767e35f6Cb28A6FEB25f9d9"]
+      "1": [
+        "0xF5854811ddccbf9D1767e35f6Cb28A6FEB25f9d9"
+      ],
+      "130": [
+        "0xF5854811ddccbf9D1767e35f6Cb28A6FEB25f9d9"
+      ]
     },
     "id": "pangolins",
     "socials": {
@@ -591,8 +656,7 @@
     "name": "Felix",
     "url": "https://www.usefelix.xyz/",
     "verified": true,
-    "addresses": {
-    },
+    "addresses": {},
     "id": "felix",
     "socials": {
       "url": "https://www.usefelix.xyz/",
@@ -617,7 +681,9 @@
     "image": "https://cdn.morpho.org/v2/assets/images/seamless.svg",
     "verified": true,
     "addresses": {
-      "8453": ["0x639d2dD24304aC2e6A691d8c1cFf4a2665925fee"]
+      "8453": [
+        "0x639d2dD24304aC2e6A691d8c1cFf4a2665925fee"
+      ]
     },
     "ownerOnly": true,
     "id": "seamless"
@@ -627,7 +693,9 @@
     "image": "https://cdn.morpho.org/v2/assets/images/moonwell.svg",
     "verified": true,
     "addresses": {
-      "8453": ["0x8b621804a7637b781e2BbD58e256a591F2dF7d51"]
+      "8453": [
+        "0x8b621804a7637b781e2BbD58e256a591F2dF7d51"
+      ]
     },
     "ownerOnly": true,
     "id": "moonwell"
@@ -638,7 +706,9 @@
     "url": "https://compound.finance/",
     "verified": true,
     "addresses": {
-      "137": ["0xCC3E7c85Bb0EE4f09380e041fee95a0caeDD4a02"]
+      "137": [
+        "0xCC3E7c85Bb0EE4f09380e041fee95a0caeDD4a02"
+      ]
     },
     "ownerOnly": true,
     "id": "compound-dao"
@@ -649,7 +719,9 @@
     "url": "https://www.elixir.xyz/",
     "verified": true,
     "addresses": {
-      "1": ["0x64f605ACe63eE71ed8299040eB67577585817227"]
+      "1": [
+        "0x64f605ACe63eE71ed8299040eB67577585817227"
+      ]
     },
     "ownerOnly": true,
     "id": "elixir"
@@ -660,7 +732,9 @@
     "url": "https://www.olympusdao.finance/",
     "verified": true,
     "addresses": {
-      "1": ["0x245cc372C84B3645Bf0Ffe6538620B04a217988B"]
+      "1": [
+        "0x245cc372C84B3645Bf0Ffe6538620B04a217988B"
+      ]
     },
     "ownerOnly": true,
     "id": "olympus"
@@ -671,7 +745,9 @@
     "url": "https://usdu.finance/",
     "verified": true,
     "addresses": {
-      "1": ["0x9fe66037c44236c87D9Ac8345F489b4413fDFf06"]
+      "1": [
+        "0x9fe66037c44236c87D9Ac8345F489b4413fDFf06"
+      ]
     },
     "ownerOnly": true,
     "id": "usdu-dao"
