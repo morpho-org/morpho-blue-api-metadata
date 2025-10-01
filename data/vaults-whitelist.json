@@ -208,6 +208,18 @@
     ]
   },
   {
+    "address": "0x3Bcc0a5a66bB5BdCEEf5dd8a659a4eC75F3834d8",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "The MEV Capital USDT0 vault provides a set of liquid collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759311633
+      }
+    ]
+  },
+  {
     "address": "0xBEEF01735c132Ada46AA9aA4c54623cAA92A64CB",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
@@ -720,6 +732,18 @@
     ]
   },
   {
+    "address": "0x264a06Fd7A7C9E0Bfe75163b475E2A3cc1856578",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The Gauntlet wHYPE Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for wHYPE suppliers.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759312015
+      }
+    ]
+  },
+  {
     "address": "0xbEEFC01767ed5086f35deCb6C00e6C12bc7476C1",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/coinshift-usdl-vault.svg",
@@ -788,6 +812,18 @@
       {
         "action": "added",
         "timestamp": 1755811312
+      }
+    ]
+  },
+  {
+    "address": "0xD3A9Cb7312B9c29113290758f5ADFe12304cd16A",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "The MEV Capital Usual USR provides a set of liquid collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759311202
       }
     ]
   },
@@ -956,6 +992,18 @@
       {
         "action": "added",
         "timestamp": 1725871227
+      }
+    ]
+  },
+  {
+    "address": "0x4346C98E690c17eFbB999aE8e1dA96B089bE320b",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/relend.png",
+    "description": "The Relend Network Vault on HyperEVM enables users to supply rUSDC to a diversified set of blue chip lending markets. rUSDC is a stablecoin that can be minted by depositing USDC on Ethereum via app.relend.network and then bridged to HyperEVM. This cross-chain mechanism allows Relend Network to supply stablecoin liquidity across ecosystems. Learn more about rUSDC and associated risks in docs.relend.network",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759310682
       }
     ]
   },
@@ -1480,6 +1528,18 @@
     ]
   },
   {
+    "address": "0x92B518e1cD76dD70D3E20624AEdd7D107F332Cff",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
+    "description": "Hyperithm HYPE vault maximizes yield by actively integrating unique collaterals offering borrowers high-return opportunities through dynamic optimization all while maintaining strong risk management.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759311936
+      }
+    ]
+  },
+  {
     "address": "0x2281961480216653529A03D6CE03Ee6B8cdF564E",
     "chainId": 42161,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
@@ -1488,6 +1548,18 @@
       {
         "action": "added",
         "timestamp": 1755252129
+      }
+    ]
+  },
+  {
+    "address": "0xe5ADd96840F0B908ddeB3Bd144C0283Ac5ca7cA0",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
+    "description": "The Hyperithm USDT0 Vault quickly integrates unique secure collateral assets to maximize yield offering borrowers high-return opportunities through proactive optimization while maintaining robust risk management.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759311492
       }
     ]
   },
