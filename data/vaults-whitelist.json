@@ -708,6 +708,18 @@
     ]
   },
   {
+    "address": "0x264a06Fd7A7C9E0Bfe75163b475E2A3cc1856578",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The Gauntlet wHYPE Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for wHYPE suppliers.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759312015
+      }
+    ]
+  },
+  {
     "address": "0xbEEFC01767ed5086f35deCb6C00e6C12bc7476C1",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/coinshift-usdl-vault.svg",
