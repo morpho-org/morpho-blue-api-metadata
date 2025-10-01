@@ -804,6 +804,18 @@
     ]
   },
   {
+    "address": "0xD3A9Cb7312B9c29113290758f5ADFe12304cd16A",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "The MEV Capital Usual USR provides a set of liquid collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759311202
+      }
+    ]
+  },
+  {
     "address": "0xdBB316375B4dC992B2c8827D120c09dFB1d3455D",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet-solvbtc-babylon.svg",
