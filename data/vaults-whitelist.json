@@ -708,6 +708,18 @@
     ]
   },
   {
+    "address": "0xd19e3d00f8547f7d108abFD4bbb015486437B487",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "The MEV Capital WHYPE vault provides a set of liquid collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759310138
+      }
+    ]
+  },
+  {
     "address": "0xbEEFC01767ed5086f35deCb6C00e6C12bc7476C1",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/coinshift-usdl-vault.svg",
