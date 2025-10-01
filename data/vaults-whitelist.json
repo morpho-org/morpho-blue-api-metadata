@@ -3301,6 +3301,18 @@
     ]
   },
   {
+    "address": "0x0571362ba5EA9784a97605f57483f865A37dBEAA",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The Gauntlet WETH Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for WETH suppliers.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759309843
+      }
+    ]
+  },
+  {
     "address": "0x5b56F90340dBAa6a8693DADb141D620f0e154fE6",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/avantgarde.svg",
