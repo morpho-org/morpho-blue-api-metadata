@@ -984,6 +984,18 @@
     ]
   },
   {
+    "address": "0x4346C98E690c17eFbB999aE8e1dA96B089bE320b",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/relend.png",
+    "description": "The Relend Network Vault on HyperEVM enables users to supply rUSDC to a diversified set of blue chip lending markets. rUSDC is a stablecoin that can be minted by depositing USDC on Ethereum via app.relend.network and then bridged to HyperEVM. This cross-chain mechanism allows Relend Network to supply stablecoin liquidity across ecosystems. Learn more about rUSDC and associated risks in docs.relend.network",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759310682
+      }
+    ]
+  },
+  {
     "address": "0x1c530D6de70c05A81bF1670157b9d928e9699089",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
