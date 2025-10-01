@@ -208,6 +208,18 @@
     ]
   },
   {
+    "address": "0x3Bcc0a5a66bB5BdCEEf5dd8a659a4eC75F3834d8",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "The MEV Capital USDT0 vault provides a set of liquid collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759311633
+      }
+    ]
+  },
+  {
     "address": "0xBEEF01735c132Ada46AA9aA4c54623cAA92A64CB",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
