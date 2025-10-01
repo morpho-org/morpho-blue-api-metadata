@@ -72,6 +72,18 @@
     ]
   },
   {
+    "address": "0x53A333e51E96FE288bC9aDd7cdC4B1EAD2CD2FfA",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The Gauntlet USDT0 Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for USDT0 suppliers.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759309569
+      }
+    ]
+  },
+  {
     "address": "0x28d24D4380B26A1Ef305Ad8D8DB258159E472F33",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/mev-usual-vault.png",
