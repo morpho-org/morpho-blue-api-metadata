@@ -1516,6 +1516,18 @@
     ]
   },
   {
+    "address": "0xe5ADd96840F0B908ddeB3Bd144C0283Ac5ca7cA0",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
+    "description": "The Hyperithm USDT0 Vault quickly integrates unique secure collateral assets to maximize yield offering borrowers high-return opportunities through proactive optimization while maintaining robust risk management.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759311492
+      }
+    ]
+  },
+  {
     "address": "0x616a4E1db48e22028f6bbf20444Cd3b8e3273738",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/seamless-vault.png",
