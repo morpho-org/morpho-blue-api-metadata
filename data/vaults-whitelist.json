@@ -1468,6 +1468,18 @@
     ]
   },
   {
+    "address": "0x92B518e1cD76dD70D3E20624AEdd7D107F332Cff",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
+    "description": "Hyperithm HYPE vault maximizes yield by actively integrating unique collaterals offering borrowers high-return opportunities through dynamic optimization all while maintaining strong risk management.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759311936
+      }
+    ]
+  },
+  {
     "address": "0x2281961480216653529A03D6CE03Ee6B8cdF564E",
     "chainId": 42161,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
