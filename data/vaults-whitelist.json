@@ -1240,6 +1240,18 @@
     ]
   },
   {
+    "address": "0x5eEC795d919FA97688Fb9844eeB0072E6B846F9d",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The Gauntlet USDe Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for USDe suppliers.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759309514
+      }
+    ]
+  },
+  {
     "address": "0xb5e4576C2FAA16b0cC59D1A2f3366164844Ef9E0",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/9summits-usdc.svg",
