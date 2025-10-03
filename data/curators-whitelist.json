@@ -587,16 +587,37 @@
     }
   },
   {
-    "image": "https://cdn.morpho.org/v2/assets/images/felix.png",
+    "image": "https://cdn.morpho.org/v2/assets/images/felix.svg",
     "name": "Felix",
     "url": "https://www.usefelix.xyz/",
     "verified": true,
     "addresses": {
+      "999": [
+        "0x18e4961454B3E487B3f47c70b703684D894Ff979",
+        "0x4A827418D632C415E19825fd011283A4ba020B3A"
+      ]
     },
     "id": "felix",
     "socials": {
       "url": "https://www.usefelix.xyz/",
       "twitter": "https://x.com/felixprotocol"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/keyrock.svg",
+    "name": "Keyrock",
+    "url": "https://keyrock.com/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x9ea3709E1A3f0B9501DD4a66163861D9BcCe7A08",
+        "0xbA75546ACD56b3a9142f94F179b03970eE4283Fd"
+      ]
+    },
+    "id": "keyrock",
+    "socials": {
+        "url": "https://keyrock.com/",
+        "twitter": "https://x.com/KeyrockTrading"
     }
   },
   {
