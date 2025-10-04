@@ -3132,6 +3132,18 @@
     ]
   },
   {
+    "address": "0x2900ABd73631b2f60747e687095537B673c06A76",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/felix.svg",
+    "description": "To be completed",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759563205
+      }
+    ]
+  },
+  {
     "address": "0xC5e7AB07030305fc925175b25B93b285d40dCdFf",
     "chainId": 747474,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
