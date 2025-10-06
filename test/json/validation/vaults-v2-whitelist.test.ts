@@ -7,7 +7,6 @@ interface VaultV2 {
   address: string;
   chainId: number;
   description: string;
-  forumLink: string;
 }
 describe("vaults-v2-whitelist.json validation", () => {
   const vaults = loadJsonFile("vaults-v2-whitelist.json") as VaultV2[];
@@ -65,7 +64,6 @@ describe("vaults-v2-whitelist.json validation", () => {
         address: expect.any(String),
         chainId: expect.any(Number),
         description: expect.any(String),
-        forumLink: expect.any(String),
       };
 
       // Check vault fields
