@@ -17,6 +17,18 @@
     ]
   },
   {
+    "address": "0x04422053aDDbc9bB2759b248B574e3FCA76Bc145",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/keyrock.svg",
+    "description": "Keyrocks V2 USDC vault leverages our experience in fixed lending operations and enhances the end users experience providing them the solution that best fits their trading requirements",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759743317
+      }
+    ]
+  },
+  {
     "address": "0xfDE48B9B8568189f629Bc5209bf5FA826336557a",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
@@ -33,21 +45,21 @@
       }
     ]
   },
-    {
-      "address": "0x93e1F03c254A0f2A4CAFD119e1aFf2D73b04eeCB",
-      "chainId": 8453,
-      "image": "https://cdn.morpho.org/assets/logos/weth.svg",
-      "description": "This is a Test V2 WETH Vault",
-      "forumLink": "https://morpho.org",
-      "history": [
-        {
-          "action": "added",
-          "timestamp": 1758543550
-        },
-        {
-          "action": "removed",
-          "timestamp": 1759150800
-        }
-      ]
-    }
+  {
+    "address": "0x93e1F03c254A0f2A4CAFD119e1aFf2D73b04eeCB",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/assets/logos/weth.svg",
+    "description": "This is a Test V2 WETH Vault",
+    "forumLink": "https://morpho.org",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1758543550
+      },
+      {
+        "action": "removed",
+        "timestamp": 1759150800
+      }
+    ]
+  }
 ]
