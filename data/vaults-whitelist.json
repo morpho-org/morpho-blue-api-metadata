@@ -972,6 +972,18 @@
     ]
   },
   {
+    "address": "0x66c71204B70aE27BE6dC3eb41F9aF5868E68fDb6",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/felix.svg",
+    "description": "The Felix USDhl vault lends USDhl across mature whitelisted markets backed by liquid collateral. Allocations rebalance based on demand rates and curator defined safeguards delivering durable stablecoin yield.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759821477
+      }
+    ]
+  },
+  {
     "address": "0x4F460bb11cf958606C69A963B4A17f9DaEEea8b6",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
