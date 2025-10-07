@@ -36,6 +36,18 @@
     ]
   },
   {
+    "address": "0x9c59a9389D8f72DE2CdAf1126F36EA4790E2275e",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/felix.svg",
+    "description": "The Felix USDhl Frontier vault targets emerging or less seasoned collateral sets under conservative caps aiming to capture additional carry while maintaining disciplined curator led risk controls.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759821434
+      }
+    ]
+  },
+  {
     "address": "0xa60643c90A542A95026C0F1dbdB0615fF42019Cf",
     "chainId": 42161,
     "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
