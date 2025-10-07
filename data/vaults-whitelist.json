@@ -2179,7 +2179,7 @@
     "address": "0xFc5126377F0efc0041C0969Ef9BA903Ce67d151e",
     "chainId": 999,
     "image": "https://cdn.morpho.org/v2/assets/images/felix.svg",
-    "description": "To be completed",
+    "description": "The Felix USDT0 vault supplies USDT0 to established, high liquidity markets where it is borrowed against battle tested collateral. Parameters and caps are adjusted by the curator to prioritize stable, risk managed APR.",
     "history": [
       {
         "action": "added",
