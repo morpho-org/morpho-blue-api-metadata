@@ -2700,6 +2700,18 @@
     ]
   },
   {
+    "address": "0x8A862fD6c12f9ad34C9c2ff45AB2b6712e8CEa27",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/felix.svg",
+    "description": "The Felix USDC vault supplies USDC to mature high liquidity Morpho Blue markets where loans are backed by liquid blue-chip collateral per-market caps and allocations are curator-managed to prioritize predictable risk-adjusted stablecoin yield.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759820143
+      }
+    ]
+  },
+  {
     "address": "0x812B2C6Ab3f4471c0E43D4BB61098a9211017427",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/wbtc.svg",
