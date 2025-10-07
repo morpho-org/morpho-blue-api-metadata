@@ -3135,7 +3135,7 @@
     "address": "0x2900ABd73631b2f60747e687095537B673c06A76",
     "chainId": 999,
     "image": "https://cdn.morpho.org/v2/assets/images/felix.svg",
-    "description": "To be completed",
+    "description": "The Felix HYPE vault supplies HYPE to borrower markets under defined risk parameters. Vault returns track utilization and market demand while exposure is managed via caps, rebalancing, and collateral quality screens.",
     "history": [
       {
         "action": "added",
