@@ -443,7 +443,7 @@
     "address": "0x9896a8605763106e57A51aa0a97Fe8099E806bb3",
     "chainId": 999,
     "image": "https://cdn.morpho.org/v2/assets/images/felix.svg",
-    "description": "To be completed",
+    "description": "The Felix USDT0 Frontier vault extends to newer or higher beta collateral markets with tighter risk limits, seeking incremental yield while actively monitoring liquidity, oracle, and concentration risk.",
     "history": [
       {
         "action": "added",
