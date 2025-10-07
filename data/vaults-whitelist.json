@@ -1540,6 +1540,18 @@
     ]
   },
   {
+    "address": "0x207ccaE51Ad2E1C240C4Ab4c94b670D438d2201C",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/felix.svg",
+    "description": "The Felix USDH vault allocates USDH the Hyperliquid native stablecoin across curated Vanilla markets and manages exposure via caps and rebalancing to pursue consistent risk adjusted yield while accounting for peg and liquidity dynamics specific to USDH.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759820763
+      }
+    ]
+  },
+  {
     "address": "0x6770216aC60F634483Ec073cBABC4011c94307Cb",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
