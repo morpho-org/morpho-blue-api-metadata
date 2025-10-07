@@ -852,6 +852,18 @@
     ]
   },
   {
+    "address": "0x4105eFe00C840E7d635B723B154aBaE7490E0042",
+    "chainId": 747474,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The Clearstar vbUSDT Reactor vault maximizes vbUSDT yields while fostering the growth of collateral assets. By combining strategic asset selection with intelligent routing across efficient lending markets it creates a flywheel of liquidity and sustainability.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759838162
+      }
+    ]
+  },
+  {
     "address": "0xD3A9Cb7312B9c29113290758f5ADFe12304cd16A",
     "chainId": 999,
     "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
