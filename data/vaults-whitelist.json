@@ -3551,5 +3551,17 @@
         "timestamp": 1752735704
       }
     ]
+  },
+  {
+    "address": "0x3520E1a10038131A3C00Bf2158835A75e929642d",
+    "chainId": 10,
+    "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
+    "description": "Moonwel desc - TBD",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759997565
+      }
+    ]
   }
 ]
