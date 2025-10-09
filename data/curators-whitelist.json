@@ -120,7 +120,8 @@
         "0x2a933dbd0D9e32593e62702028Edcab437CE3cBA",
         "0x2566f66f68ed438726AD904524FB306A03FdB80B"
       ],
-      "8453": ["0x4b8f6CADb8A2B222e8840E8aDDc32E031794A4D6"]
+      "8453": ["0x4b8f6CADb8A2B222e8840E8aDDc32E031794A4D6"],
+      "10": ["0x970d5ce29730b8e5792da0f0f0a544721B0E0b4F"]
     },
     "id": "block-analitica",
     "socials": {
@@ -143,7 +144,8 @@
       "8453": [
         "0x4b8f6CADb8A2B222e8840E8aDDc32E031794A4D6",
         "0x32f75c3ee6aD872Eb3138020885E94E2842b8433"
-      ]
+      ],
+      "10": ["0x970d5ce29730b8e5792da0f0f0a544721B0E0b4F"]
     },
     "id": "b-protocol",
     "socials": {
@@ -648,7 +650,8 @@
     "image": "https://cdn.morpho.org/v2/assets/images/moonwell.svg",
     "verified": true,
     "addresses": {
-      "8453": ["0x8b621804a7637b781e2BbD58e256a591F2dF7d51"]
+      "8453": ["0x8b621804a7637b781e2BbD58e256a591F2dF7d51"],
+      "10": ["0x17C9ba3fDa7EC71CcfD75f978Ef31E21927aFF3d"]
     },
     "ownerOnly": true,
     "id": "moonwell"
