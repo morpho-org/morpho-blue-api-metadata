@@ -62,7 +62,7 @@ No test for this one
 
 2. **Chain ID Validation**
 
-   - Ensures all chain IDs are either 1 (Ethereum), 8453 (Base), 130 (Unichain), 137 (PolygonPOS), 999 (HyperEVM), 747474 (Katana) and Arbitrum (42161).
+   - Ensures all chain IDs are either 1 (Ethereum), 8453 (Base), 10 (OP Mainnet), 130 (Unichain), 137 (PolygonPOS), 999 (HyperEVM), 747474 (Katana) and Arbitrum (42161).
    - Validates chain IDs for:
      - Main price feed
      - TokenIn configuration
@@ -99,7 +99,7 @@ No test for this one
 
 2. **Chain ID Validation**
 
-   - Ensures all chain IDs are either 1 (Ethereum), 8453 (Base), 130 (Unichain), 137 (PolygonPOS), 999 (HyperEVM), 747474 (Katana) and Arbitrum (42161).
+   - Ensures all chain IDs are either 1 (Ethereum), 8453 (Base), 10 (OP Mainnet), 130 (Unichain), 137 (PolygonPOS), 999 (HyperEVM), 747474 (Katana) and Arbitrum (42161).
    - Validates both:
      - Asset chain ID
      - Contract chain ID
@@ -151,7 +151,7 @@ No test for this one
 
 2. **Chain ID Validation**
 
-   - Ensures all chain IDs are either 1 (Ethereum), 8453 (Base), 130 (Unichain), 137 (PolygonPOS), 999 (HyperEVM), 747474 (Katana) and Arbitrum (42161).
+   - Ensures all chain IDs are either 1 (Ethereum), 8453 (Base), 10 (OP Mainnet), 130 (Unichain), 137 (PolygonPOS), 999 (HyperEVM), 747474 (Katana) and Arbitrum (42161).
    - Validates both:
      - Asset chain ID
      - Contract chain ID
@@ -231,7 +231,7 @@ No test for this one
 
 2. **Chain ID Validation**
 
-   - Ensures all chain IDs are either 1 (Ethereum), 8453 (Base), 130 (Unichain), 137 (PolygonPOS), 999 (HyperEVM), 747474 (Katana) and Arbitrum (42161).
+   - Ensures all chain IDs are either 1 (Ethereum), 8453 (Base), 10 (OP Mainnet), 130 (Unichain), 137 (PolygonPOS), 999 (HyperEVM), 747474 (Katana) and Arbitrum (42161).
    - Validates both:
      - Asset chain ID
      - Contract chain ID

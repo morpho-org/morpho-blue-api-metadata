@@ -5,6 +5,7 @@ import { base, mainnet } from "viem/chains";
 export const chainMapping = {
   1: mainnet,
   8453: base,
+  10: op,
   130: unichain,
   137: polygon,
   999: hyperevm,
@@ -21,6 +22,8 @@ export async function getClient(
       ? process.env.RPC_URL_MAINNET
       : chainId === 8453
       ? process.env.RPC_URL_BASE
+      : chainId === 10
+      ? process.env.RPC_URL_OP
       : chainId === 130
       ? process.env.RPC_URL_UNICHAIN
       : chainId === 137
@@ -49,7 +52,7 @@ export async function getClient(
   });
 
   const client = createPublicClient({
-    chain: chainId === 1 ? mainnet : chainId === 8453 ? base : chainId === 130 ? unichain : chainId === 137 ? polygon : chainId === 999 ? hyperevm : chainId === 747474 ? katana : chainId === 42161 ? arbitrum : undefined,
+    chain: chainId === 1 ? mainnet : chainId === 8453 ? base : chainId === 10 ? op : chainId === 130 ? unichain : chainId === 137 ? polygon : chainId === 999 ? hyperevm : chainId === 747474 ? katana : chainId === 42161 ? arbitrum : undefined,
 
     transport,
     ...(options.enableDebug
