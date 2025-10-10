@@ -187,7 +187,7 @@ Eg. wstETH -> ETH
 
 ## 5. Tokens whitelisting
 
-Controls the whitelisted tokens recognized by the protocol. Each token entry represents an ERC-20 token deployed on a supported chain (Ethereum, Base, Optimism, Polygon, Arbitrum, Unichain, Katana or HyperEVM).
+Controls the whitelisted tokens recognized by the protocol. Each token entry represents an ERC-20 token deployed on a supported chain (Ethereum, Base, OP Mainnet, Polygon, Arbitrum, Unichain, Katana or HyperEVM).
 
 ### Required Fields
 

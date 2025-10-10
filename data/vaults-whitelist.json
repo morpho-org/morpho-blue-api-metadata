@@ -288,6 +288,10 @@
       {
         "action": "added",
         "timestamp": 1753897254
+      },
+      {
+        "action": "removed",
+        "timestamp": 1760019569
       }
     ]
   },
@@ -3549,6 +3553,18 @@
       {
         "action": "added",
         "timestamp": 1752735704
+      }
+    ]
+  },
+  {
+    "address": "0x3520E1a10038131A3C00Bf2158835A75e929642d",
+    "chainId": 10,
+    "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
+    "description": "The Moonwell Flagship USDC Vault curated by B.Protocol and Block Analitica is intended to optimize risk-adjusted interest earned from blue-chip collateral markets. Learn more about B.Protocol and Block Analitica curations in the Moonwell forum.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1759997565
       }
     ]
   }

@@ -22,7 +22,7 @@ interface ExchangeRate {
 }
 
 describe("exchange-rates.json validation", () => {
-  // Load and filter exchange rates for only chain IDs 1, 8453, 130, 137, 999, 747474, 42161
+  // Load and filter exchange rates for only chain IDs 1, 8453, 10, 130, 137, 999, 747474, 42161
   const allExchangeRates = loadJsonFile(
     "exchange-rates.json"
   ) as ExchangeRate[];
@@ -30,6 +30,7 @@ describe("exchange-rates.json validation", () => {
     (rate) =>
       (rate.assetChainId === 1 ||
         rate.assetChainId === 8453 ||
+        rate.assetChainId === 10 ||
         rate.assetChainId === 130 ||
         rate.assetChainId === 137 ||
         rate.assetChainId === 999 ||
@@ -37,6 +38,7 @@ describe("exchange-rates.json validation", () => {
         rate.assetChainId === 42161) &&
       (rate.contractChainId === 1 ||
         rate.contractChainId === 8453 ||
+        rate.contractChainId === 10 ||
         rate.contractChainId === 130 ||
         rate.contractChainId === 137 ||
         rate.contractChainId === 999 ||
@@ -62,8 +64,8 @@ describe("exchange-rates.json validation", () => {
     });
   });
 
-  test("chain IDs are valid (1, 8453, 130, 137, 999, 747474, 42161)", () => {
-    const validChainIds = [1, 8453, 130, 137, 999, 747474, 42161];
+  test("chain IDs are valid (1, 8453, 10, 130, 137, 999, 747474, 42161)", () => {
+    const validChainIds = [1, 8453, 10, 130, 137, 999, 747474, 42161];
     const errors: string[] = [];
 
     exchangeRates.forEach((rate, index) => {

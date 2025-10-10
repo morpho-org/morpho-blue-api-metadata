@@ -11,7 +11,7 @@ interface OracleVault {
 }
 
 describe("oracle-vaults.json validation", () => {
-  // Load and filter oracle vaults for only chain IDs 1 and 8453, 137, 130, 10, 999, 747474 & 42161];
+  // Load and filter oracle vaults for only chain IDs 1, 8453, 10, 137, 130, 999, 747474 & 42161;
   const allOracleVaults = loadJsonFile("oracle-vaults.json") as OracleVault[];
   const oracleVaults = allOracleVaults.filter(
     (vault) => vault.chainId === 1 || vault.chainId === 8453 || vault.chainId === 137 || vault.chainId === 130 || vault.chainId === 10 || vault.chainId === 999 || vault.chainId === 747474 || vault.chainId === 42161
@@ -62,8 +62,8 @@ describe("oracle-vaults.json validation", () => {
     }
   });
 
-  test("chain IDs are valid (1, 8453, 137, 130, 10, 999, 747474 or 42161)", () => {
-    const validChainIds = [1, 8453, 137, 130, 10, 999, 747474, 42161];
+  test("chain IDs are valid (1, 8453, 10, 130, 137, 999, 747474 or 42161)", () => {
+    const validChainIds = [1, 8453, 10, 130, 137, 999, 747474, 42161];
     const errors: string[] = [];
 
     oracleVaults.forEach((vault, index) => {
