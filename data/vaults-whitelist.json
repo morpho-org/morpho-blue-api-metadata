@@ -3436,6 +3436,18 @@
     ]
   },
   {
+    "address": "0xbF34DE704C23E3Ad125c3f5e1510dadcd27B298D",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The Clearstar Institutional USDT vault maximizes USDT yields and allocates exclusively to bluechip and highly liquid assets. This vault has automated reallocation to maximize APR within static risk parameters and also monitors active on-chain risks through the use of Hypernative to mitigate the risk of bad debt.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1760367924
+      }
+    ]
+  },
+  {
     "address": "0x250CF7c82bAc7cB6cf899b6052979d4B5BA1f9ca",
     "chainId": 42161,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
