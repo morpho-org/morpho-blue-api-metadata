@@ -29,7 +29,7 @@
     ]
   },
   {
-    "address": "0x69a238ae7ebeb3c53ff3b544e48b96a2142fc284",
+    "address": "0x69A238Ae7ebeb3c53ff3B544E48B96a2142fc284",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
     "description": "The Clearstar USDC CORE vault dynamically allocates capital between the Clearstar Reactor USDC Morphov1 vault and fixed-rate lending opportunities to maximize depositors risk-adjusted returns. By combining flexible liquidity provisioning with predictable yield strategies it enhances capital efficiency while maintaining robust risk controls. The vault continuously routes funds to the most attractive opportunities within predefined risk parameters leveraging Hypernatives real-time monitoring to mitigate on-chain threats and preserve principal.",
