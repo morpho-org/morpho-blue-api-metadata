@@ -1352,6 +1352,18 @@
     ]
   },
   {
+    "address": "0xbEef11A6Ca3C67bbEa90e5601beDBE78832dd789",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse USDCV vault aims to optimize yields by lending USDCV against blue chip crypto and real world asset RWA collateral markets depending on market conditions. We call this the dual engine.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1760440958
+      }
+    ]
+  },
+  {
     "address": "0xD5Ac156319f2491d4ad1Ec4aA5ed0ED48C0fa173",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/9summits-usdc.svg",
