@@ -2108,6 +2108,18 @@
     ]
   },
   {
+    "address": "0x6e6fcac197ee06d0164c0fBA218c7BcB878f9B5C",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/apostro.svg",
+    "description": "The first CHF vault on Morpho. Earn stable yield by lending VCHF by VNX. The yield is generated from loans backed by blue-chip collateral.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1760555906
+      }
+    ]
+  },
+  {
     "address": "0x74B6EA9BFee07C3756969b0139CFacBBa5845969",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/cdxusd.svg",
