@@ -1232,6 +1232,18 @@
     ]
   },
   {
+    "address": "0x75e1A1f9535C01CDcE25E51ea4aFF0d171337E1F",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/apostro.svg",
+    "description": "The Apostro USDC vault allocates assets across blue-chip markets utilizing crypto assets and real-world assets RWA as collateral",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1760555740
+      }
+    ]
+  },
+  {
     "address": "0x4Ff4186188f8406917293A9e01A1ca16d3cf9E59",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/sbmorphousdc.svg",
