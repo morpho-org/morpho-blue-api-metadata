@@ -2716,6 +2716,18 @@
     ]
   },
   {
+    "address": "0x64CA76e2525fc6Ab2179300c15e343d73e42f958",
+    "chainId": 42161,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The Clearstar High Yield USDC vault aims to provide liquidity to volatile and frontier assets on Arbitrum. Potential higher volatility markets mean higher implied risks in exchange for high yields.  This vault has automated reallocation to maximize APR within static risk parameters and also monitors active on-chain risks through the use of Hypernative to reduce exposure to collaterals that might be at risk of suffering exploits.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1760704629
+      }
+    ]
+  },
+  {
     "address": "0xfD06859A671C21497a2EB8C5E3fEA48De924D6c8",
     "chainId": 137,
     "image": "https://cdn.morpho.org/assets/logos/usdt.svg",
