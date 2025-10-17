@@ -3376,6 +3376,18 @@
     ]
   },
   {
+    "address": "0x43e623Ff7D14d5b105F7bE9c488F36dbF11D1F46",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "Safe and boring yields.\nOnly exposure to the most liquid markets.\nZero fees forever.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1760728465
+      }
+    ]
+  },
+  {
     "address": "0x9B33073eB98A9a1eb408DedcD08616fE850b3f09",
     "chainId": 42161,
     "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
