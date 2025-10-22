@@ -3136,6 +3136,18 @@
     ]
   },
   {
+    "address": "0x45f8Cc9a58285B7e7000EB14738346569963179d",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "description": "The MEV Capital Reserve LCAP vault provides a set of liquid collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761127640
+      }
+    ]
+  },
+  {
     "address": "0x0562AE950276B24F3eAE0d0a518dADB7Ad2F8D66",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
