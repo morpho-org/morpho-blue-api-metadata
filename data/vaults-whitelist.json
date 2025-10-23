@@ -1060,6 +1060,18 @@
     ]
   },
   {
+    "address": "0xd80e3811D84Ee7196a187dB3f7bC0B17930730CF",
+    "chainId": 747474,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The Re7 frxUSD vault curated by Re7 Labs is intended to seamlessly allocate frxUSD liquidity to various Morpho markets.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761221416
+      }
+    ]
+  },
+  {
     "address": "0x1265a81d42d513Df40d0031f8f2e1346954d665a",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/mceusdc.svg",
