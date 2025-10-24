@@ -17,6 +17,18 @@
     ]
   },
   {
+    "address": "0x8c106EEDAd96553e64287A5A6839c3Cc78afA3D0",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The Gauntlet USDC Prime vault aims to optimize for risk-adjusted yield by allocating across large market cap assets and high liquidity yield sources. The vaults risk strategy follows the Gauntlet Prime conservative framework whereby we curate supply to manage security and yield to provide a low risk profile at competitive APY",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761323825
+      }
+    ]
+  },
+  {
     "address": "0x04422053aDDbc9bB2759b248B574e3FCA76Bc145",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/keyrock.svg",
