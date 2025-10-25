@@ -41,6 +41,18 @@
     ]
   },
   {
+    "address": "0xc9C474C6Aa0E930ED42fD1f40be5b1d6A5eAD645",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The Re7 eUSD vault supplies eUSD to various collateral markets with a focus on the Reserve Protocol ecosystem.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761425405
+      }
+    ]
+  },
+  {
     "address": "0xfDE48B9B8568189f629Bc5209bf5FA826336557a",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
