@@ -2036,6 +2036,18 @@
     ]
   },
   {
+    "address": "0xC30ce6A5758786e0F640cC5f881Dd96e9a1C5C59",
+    "chainId": 10,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The USDC Prime vault will whitelist highly liquid large-cap collateral markets and continuously optimize for risk-adjusted yield across collateral markets.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761574399
+      }
+    ]
+  },
+  {
     "address": "0x1c155be6bC51F2c37d472d4C2Eba7a637806e122",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/eurc.svg",
