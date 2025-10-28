@@ -70,6 +70,18 @@
     ]
   },
   {
+    "address": "0x1CE2354074C717a266aDADCD5e34104f233Da446",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The Re7 USDT Morpho vault curated by Re7 Labs aims to provide an above market USDT yield by enabling leveraged yield strategies and supporting high-yield USDT markets",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761494798
+      }
+    ]
+  },
+  {
     "address": "0x618495ccC4e751178C4914b1E939C0fe0FB07b9b",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
