@@ -1496,6 +1496,18 @@
     ]
   },
   {
+    "address": "0x9B5E92fd227876b4C07a8c02367E2CB23c639DfA",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The High Yield Clearstar USDC vault aims to provide liquidity to volatile and frontier assets. The exposures will be kept simple which means we will refrain from listing collaterals that are made up of a portfolio of underlying yield bearing DeFi allocations.\nThis will minimize comingling and deleterious secondary effects for depositors. Potential higher volatility markets mean higher implied risks in exchange for high yields.  This vault has automated reallocation to maximize APR within static risk parameters.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761654276
+      }
+    ]
+  },
+  {
     "address": "0xE0C98605f279e4D7946d25B75869c69802823763",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/wbtc.svg",
