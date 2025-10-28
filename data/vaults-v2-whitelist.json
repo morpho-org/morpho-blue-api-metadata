@@ -1,5 +1,17 @@
 [
   {
+    "address": "0x0B7ee82ad75B2D3fc7f3A110A51ba68714171D25",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The Universal USDC vault supplies USDC against assets issued by Universal a wrapped asset protocol designed to enable trading for any token on any chain",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761429965
+      }
+    ]
+  },
+  {
     "address": "0x90B482cA9769807569998B20e062e024B1A0A39d",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
