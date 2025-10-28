@@ -17,6 +17,18 @@
     ]
   },
   {
+    "address": "0xCa120dCc42F45427eD0d0f060d56104c4a8EDEC4",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The Re7 WETH Morpho V2 vault curated by Re7 Labs aims to outperform staked ETH yields by lending WETH against a diverse set of Liquid Staking and Liquid Restaking Token collateral markets",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761431297
+      }
+    ]
+  },
+  {
     "address": "0x04422053aDDbc9bB2759b248B574e3FCA76Bc145",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/keyrock.svg",
