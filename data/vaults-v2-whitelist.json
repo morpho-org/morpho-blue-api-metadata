@@ -29,6 +29,18 @@
     ]
   },
   {
+    "address": "0x787FC686879EaCE7Ad94A63fcEcd520fdeAf7AF9",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The fx Protocol USDC vault lends against assets in the fx protocol ecosystem in partnership with Aladdin DAO",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761493130
+      }
+    ]
+  },
+  {
     "address": "0x5181cD56C2C71d20094d23d43F4D6362834643AE",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
