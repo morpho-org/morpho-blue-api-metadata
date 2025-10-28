@@ -41,6 +41,18 @@
     ]
   },
   {
+    "address": "0x5181cD56C2C71d20094d23d43F4D6362834643AE",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The Re7 WETH Morpho vault curated by Re7 Labs aims to outperform staked ETH yields by lending WETH against a diverse set of Liquid Staking and Liquid Restaking Token collateral markets",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761507626
+      }
+    ]
+  },
+  {
     "address": "0x69A238Ae7ebeb3c53ff3B544E48B96a2142fc284",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
@@ -66,6 +78,30 @@
       {
         "action": "removed",
         "timestamp": 1759150800
+      }
+    ]
+  },
+  {
+    "address": "0x1CE2354074C717a266aDADCD5e34104f233Da446",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The Re7 USDT Morpho vault curated by Re7 Labs aims to provide an above market USDT yield by enabling leveraged yield strategies and supporting high-yield USDT markets",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761494798
+      }
+    ]
+  },
+  {
+    "address": "0x618495ccC4e751178C4914b1E939C0fe0FB07b9b",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The Re7 USDC vault curated by Re7 Labs is intended to seamlessly allocate USDC liquidity to various Morpho markets",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761573233
       }
     ]
   },
