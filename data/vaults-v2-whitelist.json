@@ -1,5 +1,17 @@
 [
   {
+    "address": "0x093272C07700d3cA5301C3Bf9B3A392624179E2F",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
+    "description": "Hyperithm Morpho USDC vault maximizes yield by swiftly integrating unique collaterals, providing borrowers with high-return opportunities through active optimization while ensuring effective risk management",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761742817
+      }
+    ]
+  },
+  {
     "address": "0x0B7ee82ad75B2D3fc7f3A110A51ba68714171D25",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
