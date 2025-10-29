@@ -77,6 +77,18 @@
     ]
   },
   {
+    "address": "0xbeef088055857739C12CD3765F20b7679Def0f51",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "Steakhouse Prime Instant vault aims to optimize yields by lending USDC against blue chip crypto and real world asset RWA collateral markets depending on market conditions. We call this the dual engine.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761680671
+      }
+    ]
+  },
+  {
     "address": "0x69A238Ae7ebeb3c53ff3B544E48B96a2142fc284",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
