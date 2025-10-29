@@ -24,6 +24,18 @@
     ]
   },
   {
+    "address": "0xbeeff2C5bF38f90e3482a8b19F12E5a6D2FCa757",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "Steakhouse High Yield Instant vault aims to optimize for yield on a wide range of collaterals. Learn more about Steakhouse Financial curations in the forum.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761760248
+      }
+    ]
+  },
+  {
     "address": "0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
