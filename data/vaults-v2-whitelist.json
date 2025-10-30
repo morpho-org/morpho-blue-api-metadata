@@ -166,6 +166,18 @@
     ]
   },
   {
+    "address": "0xbeeff2C5bF38f90e3482a8b19F12E5a6D2FCa757",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse High Yield Instant vault aims to optimize yields by lending USDC against a wide range of collaterals.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761762052
+      }
+    ]
+  },
+  {
     "address": "0x618495ccC4e751178C4914b1E939C0fe0FB07b9b",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
