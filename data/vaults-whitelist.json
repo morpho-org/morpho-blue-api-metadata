@@ -627,7 +627,7 @@
     "address": "0xF0A23671A810995B04A0f3eD08be86797B608D78",
     "chainId": 999,
     "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
-    "description": "Submit whitelisting request for HyperEvm Hyperithm USDC vault.",
+    "description": "Hyperithm USDC vault maximizes yield by swiftly integrating unique collaterals, providing borrowers with high-return opportunities through active optimization while ensuring effective risk management.",
     "history": [
       {
         "action": "added",
