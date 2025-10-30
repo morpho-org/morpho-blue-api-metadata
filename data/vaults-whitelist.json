@@ -624,6 +624,18 @@
     ]
   },
   {
+    "address": "0xF0A23671A810995B04A0f3eD08be86797B608D78",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
+    "description": "Hyperithm USDC vault maximizes yield by swiftly integrating unique collaterals, providing borrowers with high-return opportunities through active optimization while ensuring effective risk management.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761793671
+      }
+    ]
+  },
+  {
     "address": "0xbEeF087c8430C0f9dCBa39BA866Eb7c22200599B",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
