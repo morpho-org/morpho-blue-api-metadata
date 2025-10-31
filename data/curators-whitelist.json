@@ -705,6 +705,29 @@
     }
   },
   {
+    "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
+    "name": "kpk",
+    "url": "https://kpk.io",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x354C92aF243d53A24feb3dFF20372Af7b7c47478",
+        "0xf8182E5827c06a47A985eC565A3bcd56437a97bE",
+        "0xC266b1181A80E84EDC2c6596718E88E8115c1eaa",
+        "0xd15f11B334e1e233127302E5F759C17DA1260df5"
+      ],
+      "42161":
+      [
+        "0xE8bED28828f4DD93FB98232F8e85c8880D1f7e1d"
+      ]
+    },
+    "id": "kpk",
+    "socials": {
+      "url": "https://kpk.io",
+      "twitter": "https://x.com/kpk_io"
+    }
+  },
+  {
     "image": "https://cdn.morpho.org/v2/assets/images/swissborg.svg",
     "name": "Swissborg",
     "verified": true,
