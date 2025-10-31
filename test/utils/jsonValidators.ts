@@ -30,6 +30,7 @@ export async function fetchWithRetry(fetchParams: FetchParams, maxRetries: numbe
       const response = await fetch(fetchParams.input, fetchParams.init);
       // On failure, throw error (which will be caught and retried)
       if(!response?.ok) {
+        console.log(`External API request failed attempt ${tries}/${maxRetries}`);
         throw new Error(`External API request failed attempt ${tries}/${maxRetries}`);
       } else {
         // On success, just return the response
