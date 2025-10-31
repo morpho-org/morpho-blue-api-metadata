@@ -480,6 +480,18 @@
     ]
   },
   {
+    "address": "0xa3fC33543bEee52bC60bAbC80aF3d29789637B6D",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The Clearstar ETH Reactor vault maximizes ETH yields while fostering the growth of a wide range of collateral assets. By combining strategic asset selection with intelligent routing across efficient lending markets it creates a flywheel of liquidity and sustainability. This vault has automated reallocation to maximize APR within static risk parameters and also monitors active on-chain risks through the use of Hypernative to reduce exposure to collaterals that might be at risk of suffering exploits.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761911979
+      }
+    ]
+  },
+  {
     "address": "0xBEEFA7B88064FeEF0cEe02AAeBBd95D30df3878F",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
