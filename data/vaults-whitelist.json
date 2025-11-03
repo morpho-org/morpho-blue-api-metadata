@@ -480,6 +480,18 @@
     ]
   },
   {
+    "address": "0xa3fC33543bEee52bC60bAbC80aF3d29789637B6D",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The Clearstar ETH Reactor vault maximizes ETH yields while fostering the growth of a wide range of collateral assets. By combining strategic asset selection with intelligent routing across efficient lending markets it creates a flywheel of liquidity and sustainability. This vault has automated reallocation to maximize APR within static risk parameters and also monitors active on-chain risks through the use of Hypernative to reduce exposure to collaterals that might be at risk of suffering exploits.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761911979
+      }
+    ]
+  },
+  {
     "address": "0xBEEFA7B88064FeEF0cEe02AAeBBd95D30df3878F",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
@@ -620,6 +632,18 @@
       {
         "action": "added",
         "timestamp": 1709780063
+      }
+    ]
+  },
+  {
+    "address": "0xF0A23671A810995B04A0f3eD08be86797B608D78",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
+    "description": "Hyperithm USDC vault maximizes yield by swiftly integrating unique collaterals, providing borrowers with high-return opportunities through active optimization while ensuring effective risk management.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761793671
       }
     ]
   },
@@ -880,6 +904,18 @@
     ]
   },
   {
+    "address": "0x48921e52f70CEC7D3425Cf5103Caace27Fc0b2Fe",
+    "chainId": 10,
+    "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
+    "description": "The Edge UltraYield USDC vault curated by the UltraYield team provides diversified exposure to various Morpho markets by lending USDC to achieve an optimized risk-adjusted return.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761761254
+      }
+    ]
+  },
+  {
     "address": "0xD3A9Cb7312B9c29113290758f5ADFe12304cd16A",
     "chainId": 999,
     "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
@@ -1060,6 +1096,18 @@
     ]
   },
   {
+    "address": "0xd80e3811D84Ee7196a187dB3f7bC0B17930730CF",
+    "chainId": 747474,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The Re7 frxUSD vault curated by Re7 Labs is intended to seamlessly allocate frxUSD liquidity to various Morpho markets.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761221416
+      }
+    ]
+  },
+  {
     "address": "0x1265a81d42d513Df40d0031f8f2e1346954d665a",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/mceusdc.svg",
@@ -1104,6 +1152,10 @@
       {
         "action": "added",
         "timestamp": 1727074414
+      },
+      {
+        "action": "removed",
+        "timestamp": 1761916596
       }
     ]
   },
@@ -1480,6 +1532,18 @@
       {
         "action": "added",
         "timestamp": 1747212302
+      }
+    ]
+  },
+  {
+    "address": "0x9B5E92fd227876b4C07a8c02367E2CB23c639DfA",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The High Yield Clearstar USDC vault aims to provide liquidity to volatile and frontier assets. The exposures will be kept simple which means we will refrain from listing collaterals that are made up of a portfolio of underlying yield bearing DeFi allocations.\nThis will minimize comingling and deleterious secondary effects for depositors. Potential higher volatility markets mean higher implied risks in exchange for high yields.  This vault has automated reallocation to maximize APR within static risk parameters.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761654276
       }
     ]
   },
@@ -2020,6 +2084,18 @@
       {
         "action": "added",
         "timestamp": 1724743075
+      }
+    ]
+  },
+  {
+    "address": "0xC30ce6A5758786e0F640cC5f881Dd96e9a1C5C59",
+    "chainId": 10,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The USDC Prime vault will whitelist highly liquid large-cap collateral markets and continuously optimize for risk-adjusted yield across collateral markets.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761574399
       }
     ]
   },
@@ -3139,7 +3215,7 @@
     "address": "0x45f8Cc9a58285B7e7000EB14738346569963179d",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
-    "description": "The MEV Capital Reserve LCAP vault provides a set of liquid collateral markets with an optimized risk-adjusted return through an active rebalancing strategy.",
+    "description": "The MEV Capital LCAP Vault allows users to borrow LCAP to take directional positions on the crypto market. LCAP is an Index DTF (Decentralized Token Folio) powered by Reserve that tracks CF Benchmarks’ Large Cap Index, representing the top assets comprising roughly 95% of crypto’s market cap (excluding stablecoins). The vault aggregates liquidity and optimizes returns through MEV Capital’s active rebalancing strategy across liquid collateral markets.",
     "history": [
       {
         "action": "added",
@@ -3180,6 +3256,10 @@
       {
         "action": "added",
         "timestamp": 1750137782
+      },
+      {
+        "action": "removed",
+        "timestamp": 1761916596
       }
     ]
   },
@@ -3552,6 +3632,10 @@
       {
         "action": "added",
         "timestamp": 1751613695
+      },
+      {
+        "action": "removed",
+        "timestamp": 1761916596
       }
     ]
   },
