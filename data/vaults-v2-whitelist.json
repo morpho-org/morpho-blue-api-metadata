@@ -60,6 +60,18 @@
     ]
   },
   {
+    "address": "0x9a1D6bd5b8642C41F25e0958129B85f8E1176F3e",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The Gauntlet USDC Frontier Vault targets maximum yield by allocating to potentially higher volatility yield sources that may face liquidity risks in exchange for greater returns. The vaults risk strategy follows Gauntlets Frontier framework whereby we curate supply to aggressively target higher yields while managing security to provide an aggressive risk profile at competitive APYs.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761331659
+      }
+    ]
+  },
+  {
     "address": "0x90B482cA9769807569998B20e062e024B1A0A39d",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
