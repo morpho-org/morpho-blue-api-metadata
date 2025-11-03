@@ -1,5 +1,53 @@
 [
   {
+    "address": "0x093272C07700d3cA5301C3Bf9B3A392624179E2F",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
+    "description": "Hyperithm Morpho USDC vault maximizes yield by swiftly integrating unique collaterals, providing borrowers with high-return opportunities through active optimization while ensuring effective risk management",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761742817
+      }
+    ]
+  },
+  {
+    "address": "0x0B7ee82ad75B2D3fc7f3A110A51ba68714171D25",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The Universal USDC vault supplies USDC against assets issued by Universal a wrapped asset protocol designed to enable trading for any token on any chain",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761429965
+      }
+    ]
+  },
+  {
+    "address": "0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "Steakhouse Prime Instant vault aims to optimize yields by lending USDC against blue chip crypto and real world asset RWA collateral markets depending on market conditions. We call this the dual engine.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761680527
+      }
+    ]
+  },
+  {
+    "address": "0x43fCd85E8D9D003D515f886891B7C742AC9f92da",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The Gauntlet WETH Prime vault aims to optimize for risk-adjusted yield by allocating across large market cap assets and high liquidity yield sources. The vaults risk strategy follows the Gauntlet Prime conservative framework whereby we curate supply to manage security and yield to provide a low risk profile at competitive APYs.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761324026
+      }
+    ]
+  },
+  {
     "address": "0x90B482cA9769807569998B20e062e024B1A0A39d",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
@@ -17,6 +65,30 @@
     ]
   },
   {
+    "address": "0x8c106EEDAd96553e64287A5A6839c3Cc78afA3D0",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The Gauntlet USDC Prime vault aims to optimize for risk-adjusted yield by allocating across large market cap assets and high liquidity yield sources. The vaults risk strategy follows the Gauntlet Prime conservative framework whereby we curate supply to manage security and yield to provide a low risk profile at competitive APY",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761323825
+      }
+    ]
+  },
+  {
+    "address": "0xCa120dCc42F45427eD0d0f060d56104c4a8EDEC4",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The Re7 WETH Morpho V2 vault curated by Re7 Labs aims to outperform staked ETH yields by lending WETH against a diverse set of Liquid Staking and Liquid Restaking Token collateral markets",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761431297
+      }
+    ]
+  },
+  {
     "address": "0x04422053aDDbc9bB2759b248B574e3FCA76Bc145",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/keyrock.svg",
@@ -29,6 +101,66 @@
     ]
   },
   {
+    "address": "0x787FC686879EaCE7Ad94A63fcEcd520fdeAf7AF9",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The fx Protocol USDC vault lends against assets in the fx protocol ecosystem in partnership with Aladdin DAO",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761493130
+      }
+    ]
+  },
+  {
+    "address": "0xbeeff7aE5E00Aae3Db302e4B0d8C883810a58100",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "Steakhouse High Yield Instant vault aims to optimize for yield on a wide range of collaterals.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761760095
+      }
+    ]
+  },
+  {
+    "address": "0x5181cD56C2C71d20094d23d43F4D6362834643AE",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The Re7 WETH Morpho vault curated by Re7 Labs aims to outperform staked ETH yields by lending WETH against a diverse set of Liquid Staking and Liquid Restaking Token collateral markets",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761507626
+      }
+    ]
+  },
+  {
+    "address": "0xbeef088055857739C12CD3765F20b7679Def0f51",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "Steakhouse Prime Instant vault aims to optimize yields by lending USDC against blue chip crypto and real world asset RWA collateral markets depending on market conditions. We call this the dual engine.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761680671
+      }
+    ]
+  },
+  {
+    "address": "0x5f342382D5F77F0f99E8f26161E689df6c7Cded3",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The Gauntlet WETH Balanced vault aims to optimize for risk-adjusted yield across large and medium market cap assets and high liquidity yield sources. The vaults risk strategy follows Gauntlets Balanced framework whereby we curate supply to balance security and yield to provide a low risk profile at competitive APYs.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761324110
+      }
+    ]
+  },
+  {
     "address": "0x69A238Ae7ebeb3c53ff3B544E48B96a2142fc284",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
@@ -37,6 +169,18 @@
       {
         "action": "added",
         "timestamp": 1760432999
+      }
+    ]
+  },
+  {
+    "address": "0xc9C474C6Aa0E930ED42fD1f40be5b1d6A5eAD645",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The Re7 eUSD vault supplies eUSD to various collateral markets with a focus on the Reserve Protocol ecosystem.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761425405
       }
     ]
   },
@@ -54,6 +198,42 @@
       {
         "action": "removed",
         "timestamp": 1759150800
+      }
+    ]
+  },
+  {
+    "address": "0x1CE2354074C717a266aDADCD5e34104f233Da446",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The Re7 USDT Morpho vault curated by Re7 Labs aims to provide an above market USDT yield by enabling leveraged yield strategies and supporting high-yield USDT markets",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761494798
+      }
+    ]
+  },
+  {
+    "address": "0xbeeff2C5bF38f90e3482a8b19F12E5a6D2FCa757",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse High Yield Instant vault aims to optimize yields by lending USDC against a wide range of collaterals.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761762052
+      }
+    ]
+  },
+  {
+    "address": "0x618495ccC4e751178C4914b1E939C0fe0FB07b9b",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The Re7 USDC vault curated by Re7 Labs is intended to seamlessly allocate USDC liquidity to various Morpho markets",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1761573233
       }
     ]
   },

@@ -54,5 +54,12 @@
     "data": "{\"first_block_number\": 22810284, \"abi\": \"function getEETHByWeETH(uint256) view returns (uint256)\", \"decimals\": 18, \"function\": \"getEETHByWeETH\", \"args\": [{\"type\": \"bigint\", \"value\": \"1000000000000000000\"}]}",
     "assetChainId": 1,
     "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xb45ad160634c528Cc3D2926d9807104FA3157305",
+    "contractAddress": "0xb45ad160634c528Cc3D2926d9807104FA3157305",
+    "data": "{\"abi\": \"function convertToAssets(uint256) view returns (uint256)\", \"decimals\": 18, \"function\": \"convertToAssets\", \"args\": [{\"type\": \"bigint\", \"value\": \"1000000000000000000\"}]}",
+    "assetChainId": 1,
+    "contractChainId": 1
   }
 ]
