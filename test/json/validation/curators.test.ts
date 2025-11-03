@@ -1,6 +1,6 @@
 import { describe, test } from "@jest/globals";
 import { getAddress } from "viem";
-import { loadJsonFile } from "../../utils/jsonValidators";
+import { fetchWithRetry, loadJsonFile } from "../../utils/jsonValidators";
 import "dotenv/config";
 
 interface CuratorAddresses {
@@ -197,19 +197,18 @@ describe("curators-whitelist.json validation", () => {
             try {
               totalAddressesChecked++;
 
-              const response = await fetch(
-                `https://api.chainalysis.com/api/risk/v2/entities/${address}`,
+              // Throws error on failure
+              const response = await fetchWithRetry(
                 {
-                  headers: {
-                    Token: CHAINALYSIS_API_TOKEN,
-                    "Content-Type": "application/json",
+                  input: `https://api.chainalysis.com/api/risk/v2/entities/${address}`,
+                  init: {
+                    headers: {
+                      Token: CHAINALYSIS_API_TOKEN,
+                      "Content-Type": "application/json",
+                    },
                   },
                 }
               );
-
-              if (!response.ok) {
-                throw new Error("External API request failed");
-              }
 
               const data = (await response.json()) as ChainalysisResponse;
 
