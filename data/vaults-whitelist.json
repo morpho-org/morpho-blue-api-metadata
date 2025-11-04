@@ -1455,7 +1455,7 @@
     "address": "0x6C26793c7F1e2785c09b460676e797b716f0Bc8E",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/keyrock.svg",
-    "description": "Keyrocks USDC vault amplifies yield based on bespoke tooling and deep understanding of the assets represented in its market. Risk is our business yield is yours",
+    "description": "Keyrocks USDC vault amplifies yield based on bespoke tooling and deep understanding of the assets represented in its market.",
     "history": [
       {
         "action": "added",
