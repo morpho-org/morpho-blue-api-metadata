@@ -3424,6 +3424,18 @@
     ]
   },
   {
+    "address": "0xd564F765F9aD3E7d2d6cA782100795a885e8e7C8",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
+    "description": "A low-risk ETH vault with 24h automation. Allocations are continuously rebalanced across liquid markets with strict collateral filters in place to preserve liquidity and mitigate risk.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1762341278
+      }
+    ]
+  },
+  {
     "address": "0x6d57dAd0F1c4da0C1d5443AE8F7f8a50BDb9Cf75",
     "chainId": 42161,
     "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
