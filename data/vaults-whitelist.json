@@ -3632,6 +3632,18 @@
     ]
   },
   {
+    "address": "0xe108fbc04852B5df72f9E44d7C29F47e7A993aDd",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
+    "description": "A low-risk USDC vault with 24h automation. Allocations are continuously rebalanced across liquid markets with strict collateral filters to preserve liquidity and mitigate risk.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1762429711
+      }
+    ]
+  },
+  {
     "address": "0xadB2df83a1B039417c6CB46AE23Dc61705eA41C3",
     "chainId": 747474,
     "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
