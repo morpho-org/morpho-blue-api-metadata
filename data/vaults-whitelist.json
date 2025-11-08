@@ -1004,6 +1004,18 @@
     ]
   },
   {
+    "address": "0x874E7Fb1aBb4c27a7BbEeeFA39E888b63181939C",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "description": "AlphaPing USDC Prime is a vault combining the stability of Core strategies with the performance edge of Frontier opportunities. The vault maintains continuous oversight of liquidity conditions - counterparty exposures and market dynamics through active risk management and adaptive allocation.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1762624371
+      }
+    ]
+  },
+  {
     "address": "0x78B18E07dc43017fcEaabaD0751d6464c0F56b25",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/metronome.svg",
