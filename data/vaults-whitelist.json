@@ -1076,6 +1076,18 @@
     ]
   },
   {
+    "address": "0x6701957aaA39e9352a42729Cc65436a4C945cB90",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "description": "AlphaPing PT Frontier is a dynamically managed vault designed to capture enhanced yield opportunities across emerging markets. The vault operates under a disciplined risk framework with continuous monitoring of liquidity counterparty exposure and protocol performance.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1762611127
+      }
+    ]
+  },
+  {
     "address": "0x5BD1D75d45EdB622d0ea50946F2f741CE8dC5b75",
     "chainId": 747474,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
