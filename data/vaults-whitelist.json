@@ -788,6 +788,18 @@
     ]
   },
   {
+    "address": "0x0B2d98BBF3E38Df1D1B7Be7343732E32e8B1F818",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The Cap Ecosystem USDC Vault curated by Gauntlet is intended to optimize risk-adjusted yield across whitelisted liquid collateral markets on Ethereum.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1762567631
+      }
+    ]
+  },
+  {
     "address": "0xBeEf11eCb698f4B5378685C05A210bdF71093521",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
