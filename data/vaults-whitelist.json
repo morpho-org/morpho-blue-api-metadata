@@ -1848,6 +1848,18 @@
     ]
   },
   {
+    "address": "0x0c6aec603d48eBf1cECc7b247a2c3DA08b398DC1",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
+    "description": "A low risk EURC vault with 24h automation. Allocations are continuously rebalanced across liquid markets with strict collateral filters to preserve liquidity and mitigate risk.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1762340825
+      }
+    ]
+  },
+  {
     "address": "0xf24608E0CCb972b0b0f4A6446a0BBf58c701a026",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/eurc.svg",
