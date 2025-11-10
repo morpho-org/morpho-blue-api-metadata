@@ -1968,6 +1968,18 @@
     ]
   },
   {
+    "address": "0xF9B85b19F6885511165505299648E6d052E8D4C8",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "description": "AlphaPing USDC Core is a conservative yield vault focused on capital preservation stable income generation and deep market liquidity. The vault allocates exclusively to audited investment-grade lending venues and maintains continuous on-chain monitoring of collateral quality utilization and counterparty exposure.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1762616749
+      }
+    ]
+  },
+  {
     "address": "0xAcB0DCe4b0FF400AD8F6917f3ca13E434C9ed6bC",
     "chainId": 137,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
