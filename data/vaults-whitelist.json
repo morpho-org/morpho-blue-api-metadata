@@ -444,6 +444,18 @@
     ]
   },
   {
+    "address": "0x5435BC53f2C61298167cdB11Cdf0Db2BFa259ca0",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
+    "description": "The Edge UltraYield USDC vault curated by the UltraYield team provides diversified exposure to various Morpho markets by lending USDC to achieve an optimized risk-adjusted return.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1762458498
+      }
+    ]
+  },
+  {
     "address": "0xbEEF02e5E13584ab96848af90261f0C8Ee04722a",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
