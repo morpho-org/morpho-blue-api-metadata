@@ -1204,6 +1204,18 @@
     ]
   },
   {
+    "address": "0xbeEF346d7099865208Ff331e4f648f4154DDAa05",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse Reservoir USDC vault aims to optimize yield on USDC lending against a wide range of collateral assets from the Reservoir ecosystem.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1762512204
+      }
+    ]
+  },
+  {
     "address": "0x43fD147d5319B8Cf39a6e57143684Efca9CF3613",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/tbtc.svg",
