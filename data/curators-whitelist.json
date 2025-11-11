@@ -733,6 +733,24 @@
     }
   },
   {
+    "image": "https://cdn.morpho.org/v2/assets/images/architect.svg",
+    "name": "Architect",
+    "url": "https://architect.systems/",
+    "verified": true,
+    "addresses": {
+      "8453": [
+        "0x2386061893E481FdcFb987835D89BFD189ff6f42",
+        "0xc74b0F8AfbC66ee960c98Dda1C909dF9D16691CB"
+      ]
+    },
+    "id": "architect",
+    "socials": {
+      "url": "https://architect.systems/",
+      "twitter": "https://x.com/xxi_eth",
+      "forum": "https://forum.morpho.org/c/vaults/architect/54"
+    }
+  },
+  {
     "image": "https://cdn.morpho.org/v2/assets/images/swissborg.svg",
     "name": "Swissborg",
     "verified": true,
