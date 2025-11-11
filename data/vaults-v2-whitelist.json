@@ -149,6 +149,18 @@
     ]
   },
   {
+    "address": "0xBb50A5341368751024ddf33385BA8cf61fE65FF9",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
+    "description": "A low-risk ETH vault with 24h automation. Allocations are continuously rebalanced across liquid markets with strict collateral filters in place to preserve liquidity and mitigate risk.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1762876802
+      }
+    ]
+  },
+  {
     "address": "0x787FC686879EaCE7Ad94A63fcEcd520fdeAf7AF9",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
