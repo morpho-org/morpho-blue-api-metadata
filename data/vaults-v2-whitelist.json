@@ -101,6 +101,18 @@
     ]
   },
   {
+    "address": "0x4Ef53d2cAa51C447fdFEEedee8F07FD1962C9ee6",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
+    "description": "A low-risk USDC vault with 24h automation. Allocations are continuously rebalanced across liquid markets with strict collateral filters to preserve liquidity and mitigate risk.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1762877149
+      }
+    ]
+  },
+  {
     "address": "0x8c106EEDAd96553e64287A5A6839c3Cc78afA3D0",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
@@ -145,6 +157,18 @@
       {
         "action": "added",
         "timestamp": 1759743317
+      }
+    ]
+  },
+  {
+    "address": "0xBb50A5341368751024ddf33385BA8cf61fE65FF9",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
+    "description": "A low-risk ETH vault with 24h automation. Allocations are continuously rebalanced across liquid markets with strict collateral filters in place to preserve liquidity and mitigate risk.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1762876802
       }
     ]
   },
