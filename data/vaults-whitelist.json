@@ -180,6 +180,18 @@
     ]
   },
   {
+    "address": "0x6D6D386C4855d9b604D7E14c70526407F6272394",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
+    "description": "Hyperithm ETH Degen vault maximizes yield by swiftly integrating unique collaterals providing borrowers with high-return opportunities through active optimization while ensuring effective risk management.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1763042707
+      }
+    ]
+  },
+  {
     "address": "0x98cF0B67Da0F16E1F8f1a1D23ad8Dc64c0c70E0b",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
