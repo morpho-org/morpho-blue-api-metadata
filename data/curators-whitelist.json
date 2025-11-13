@@ -705,6 +705,23 @@
     }
   },
   {
+    "image": "https://cdn.morpho.org/v2/assets/images/anthias.svg",
+    "name": "Anthias Labs",
+    "url": "https://anthias.xyz/",
+    "verified": true,
+    "addresses": {
+      "8453": [
+        "0x08eDEbFFaE68970DCf751baa826182b3a4aCFC05"
+      ]
+    },
+    "id": "anthias-labs",
+    "socials": {
+      "url": "https://anthias.xyz/",
+      "twitter": "https://x.com/anthiasxyz",
+      "forum": "https://forum.morpho.org/c/vaults/anthias/52"
+    }
+  },
+  {
     "image": "https://cdn.morpho.org/v2/assets/images/swissborg.svg",
     "name": "Swissborg",
     "verified": true,
