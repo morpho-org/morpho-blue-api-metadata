@@ -2543,7 +2543,7 @@
     "address": "0x777791C4d6DC2CE140D00D2828a7C93503c67777",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
-    "description": "Hyperithm USDC vault maximizes yield by swiftly integrating unique collaterals, providing borrowers with high-return opportunities through active optimization while ensuring effective risk management.",
+    "description": "Hyperithm USDC Degen vault maximizes yield by swiftly integrating unique collaterals, providing borrowers with high-return opportunities through active optimization while ensuring effective risk management.",
     "history": [
       {
         "action": "added",
