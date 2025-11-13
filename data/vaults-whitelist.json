@@ -1104,6 +1104,18 @@
     ]
   },
   {
+    "address": "0x1401d1271C47648AC70cBcdfA3776D4A87CE006B",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/pangolins.svg",
+    "description": "Pangolins curate top-tier DeFi protocols uncover optimal participation methods and execute automated risk control enabling users to earn yield safely and simply.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1763031209
+      }
+    ]
+  },
+  {
     "address": "0x66c71204B70aE27BE6dC3eb41F9aF5868E68fDb6",
     "chainId": 999,
     "image": "https://cdn.morpho.org/v2/assets/images/felix.svg",
