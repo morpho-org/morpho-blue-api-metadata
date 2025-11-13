@@ -214,22 +214,6 @@
     }
   },
   {
-    "image": "https://cdn.morpho.org/v2/assets/images/fence.svg",
-    "name": "Fence",
-    "url": "https://www.fence.finance/",
-    "verified": true,
-    "addresses": {
-      "1": [
-        "0xF92971B4D9e6257CF562400ed81d2986F28a8c26"
-      ]
-    },
-    "id": "fence",
-    "socials": {
-      "url": "https://www.fence.finance/",
-      "twitter": "https://x.com/fence_finance"
-    }
-  },
-  {
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
     "name": "Steakhouse Financial",
     "url": "https://www.steakhouse.financial",
@@ -386,24 +370,6 @@
     }
   },
   {
-    "image": "https://cdn.morpho.org/v2/assets/images/leadblock.png",
-    "name": "LeadBlock",
-    "url": "https://leadblockpartners.com/",
-    "verified": true,
-    "addresses": {
-      "1": [
-        "0x825214AFa86f1F192F2FbA98FCB530EAdb473a5D",
-        "0x54f90Cbed0ba50fE7eE6113d8651eBdbF35938e2"
-      ]
-    },
-    "id": "leadblock",
-    "socials": {
-      "url": "https://leadblockpartners.com/",
-      "twitter": "https://x.com/LeadBlockP",
-      "forum": "https://forum.morpho.org/c/vaults/leadblock/28"
-    }
-  },
-  {
     "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
     "name": "AlphaPing",
     "url": "https://alphaping.ch/",
@@ -502,24 +468,6 @@
       "url": "https://www.clearstar.xyz/",
       "twitter": "https://x.com/ClearstarLabs",
       "forum": "https://forum.morpho.org/c/vaults/clearstar-labs/40"
-    }
-  },
-  {
-    "image": "https://cdn.morpho.org/v2/assets/images/m11c.png",
-    "name": "M11C",
-    "url": "https://www.m11credit.com/",
-    "verified": true,
-    "addresses": {
-      "1": [
-        "0x274F294670b67a5ACd4cfEa280F75B842e6e9B99",
-        "0xc9E1C0E63ff44D8b4061E44374419a072B831F4e"
-      ]
-    },
-    "id": "m11c",
-    "socials": {
-      "url": "https://www.m11credit.com/",
-      "twitter": "https://x.com/M11Credit",
-      "forum": "https://forum.morpho.org/c/vaults/m11c/41"
     }
   },
   {
