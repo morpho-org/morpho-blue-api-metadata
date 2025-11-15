@@ -3597,7 +3597,7 @@
     "address": "0x68Aea7b82Df6CcdF76235D46445Ed83f85F845A3",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
-    "description": "This vault is curated by the Yearn team and exclusively uses markets that rely on Api3 oracles. Api3 oracles are designed to recapture Oracle Extractable Value (OEV) from liquidation incentives and redirect it to active market participants.",
+    "description": "The OEV-boosted USDC Vault, curated by the Yearn team, focuses on markets that use Api3 oracles, which are designed to recapture Oracle Extractable Value (OEV) from liquidation incentives and redirect it to active market participants. These incentives drive higher lending APY and lower borrowing rates.",
     "history": [
       {
         "action": "added",
