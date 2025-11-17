@@ -21,15 +21,7 @@ interface PriceFeed {
 describe("price-feeds.json validation", () => {
   const allPriceFeeds = loadJsonFile("price-feeds.json") as PriceFeed[];
   const priceFeeds = allPriceFeeds.filter(
-    (feed) =>
-      feed.chainId === 1 ||
-      feed.chainId === 8453 ||
-      feed.chainId === 10 ||
-      feed.chainId === 130 ||
-      feed.chainId === 137 ||
-      feed.chainId === 999 ||
-      feed.chainId === 747474 ||
-      feed.chainId === 42161
+    (feed) => VALID_CHAIN_IDS.includes(feed.chainId as typeof VALID_CHAIN_IDS[number])
   );
 
   test("addresses are checksummed", () => {
