@@ -1,6 +1,6 @@
 // test/json/validation/spot-prices.test.ts
 import { describe, expect, test } from "@jest/globals";
-import { loadJsonFile } from "../../utils/jsonValidators";
+import { loadJsonFile, VALID_CHAIN_IDS } from "../../utils/jsonValidators";
 import { getAddress } from "viem";
 
 interface SpotPriceData {
@@ -45,8 +45,8 @@ describe("spot-prices.json validation", () => {
     });
   });
 
-  test("chain IDs are valid (1, 8453, 10, 130, 137, 999, 747474, 42161 or 143)", () => {
-    const validChainIds = [1, 8453, 10, 130, 137, 999, 747474, 42161, 143];
+  test("chain IDs are valid", () => {
+    const validChainIds: number[] = [...VALID_CHAIN_IDS];
     const errors: string[] = [];
 
     spotPrices.forEach((price, index) => {

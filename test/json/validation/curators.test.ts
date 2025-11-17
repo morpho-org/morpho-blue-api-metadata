@@ -1,6 +1,6 @@
 import { describe, test } from "@jest/globals";
 import { getAddress } from "viem";
-import { fetchWithRetry, loadJsonFile } from "../../utils/jsonValidators";
+import { fetchWithRetry, loadJsonFile, VALID_CHAIN_IDS_STRING } from "../../utils/jsonValidators";
 import "dotenv/config";
 
 interface CuratorAddresses {
@@ -121,8 +121,8 @@ describe("curators-whitelist.json validation", () => {
     }
   });
 
-  test("chain IDs are valid (1, 8453, 137, 130, 10, 747474, 42161, 999 or 143)", () => {
-    const validChainIds = ["1", "8453", "137", "130", "10", "747474", "42161", "999", "143"];
+  test("chain IDs are valid", () => {
+    const validChainIds = VALID_CHAIN_IDS_STRING;
     const errors: string[] = [];
 
     curators.forEach((curator) => {
@@ -170,8 +170,8 @@ describe("curators-whitelist.json validation", () => {
   });
 
   test("addresses have low risk according to Chainalysis", async () => {
-    // Increase timeout to 30 seconds since we're making multiple API calls
-    jest.setTimeout(30000);
+    // Increase timeout to 120 seconds since we're making multiple API calls with rate limiting
+    jest.setTimeout(120000);
 
     const CHAINALYSIS_API_TOKEN = process.env.CHAINALYSIS_API_TOKEN;
     if (!CHAINALYSIS_API_TOKEN) {
@@ -190,53 +190,81 @@ describe("curators-whitelist.json validation", () => {
     const errors: string[] = [];
     let totalAddressesChecked = 0;
 
-    await Promise.all(
-      curators.flatMap((curator) =>
-        Object.entries(curator.addresses).flatMap(([chainId, addresses]) =>
-          addresses.map(async (address) => {
-            try {
-              totalAddressesChecked++;
+    // Flatten all addresses into a single array for batch processing
+    const allAddressChecks: {
+      address: string;
+      curatorName: string;
+      chainId: string;
+    }[] = [];
 
-              // Throws error on failure
-              const response = await fetchWithRetry(
-                {
-                  input: `https://api.chainalysis.com/api/risk/v2/entities/${address}`,
-                  init: {
-                    headers: {
-                      Token: CHAINALYSIS_API_TOKEN,
-                      "Content-Type": "application/json",
-                    },
+    curators.forEach((curator) => {
+      Object.entries(curator.addresses).forEach(([chainId, addresses]) => {
+        (addresses as string[]).forEach((address) => {
+          allAddressChecks.push({
+            address,
+            curatorName: curator.name,
+            chainId,
+          });
+        });
+      });
+    });
+
+    // Process in batches of 20 to avoid rate limiting
+    const BATCH_SIZE = 20;
+    const BATCH_DELAY_MS = 1000; // 1 second between batches
+
+    for (let i = 0; i < allAddressChecks.length; i += BATCH_SIZE) {
+      const batch = allAddressChecks.slice(i, i + BATCH_SIZE);
+
+      await Promise.all(
+        batch.map(async ({ address, curatorName, chainId }) => {
+          try {
+            totalAddressesChecked++;
+
+            // Throws error on failure
+            const response = await fetchWithRetry(
+              {
+                input: `https://api.chainalysis.com/api/risk/v2/entities/${address}`,
+                init: {
+                  headers: {
+                    Token: CHAINALYSIS_API_TOKEN,
+                    "Content-Type": "application/json",
                   },
-                }
-              );
-
-              const data = (await response.json()) as ChainalysisResponse;
-
-              if (data.status !== "COMPLETE") {
-                errors.push(
-                  `Risk check incomplete for address ${address} (curator: ${curator.name}, chain: ${chainId})`
-                );
-                return;
+                },
               }
+            );
 
-              if (data.risk.toLowerCase() !== "low") {
-                riskyAddresses.push({
-                  address,
-                  curator: curator.name,
-                  chainId,
-                  risk: data.risk,
-                  riskReason: data.riskReason || undefined,
-                });
-              }
-            } catch (error) {
+            const data = (await response.json()) as ChainalysisResponse;
+
+            if (data.status !== "COMPLETE") {
               errors.push(
-                `Failed to check address ${address} (curator: ${curator.name}, chain: ${chainId})`
+                `Risk check incomplete for address ${address} (curator: ${curatorName}, chain: ${chainId})`
               );
+              return;
             }
-          })
-        )
-      )
-    );
+
+            if (data.risk.toLowerCase() !== "low") {
+              riskyAddresses.push({
+                address,
+                curator: curatorName,
+                chainId,
+                risk: data.risk,
+                riskReason: data.riskReason || undefined,
+              });
+            }
+          } catch (error) {
+            errors.push(
+              `Failed to check address ${address} (curator: ${curatorName}, chain: ${chainId})`
+            );
+          }
+        })
+      );
+
+      // Add delay between batches to respect rate limits (except for last batch)
+      if (i + BATCH_SIZE < allAddressChecks.length) {
+        await new Promise((resolve) => setTimeout(resolve, BATCH_DELAY_MS));
+      }
+    }
 
     // Print summary results
     console.log("\n==== SUMMARY RESULTS ====");
@@ -271,5 +299,5 @@ describe("curators-whitelist.json validation", () => {
         `Encountered ${errors.length} errors during Chainalysis checks`
       );
     }
-  }, 30000); // Add timeout here as well
+  }, 120000); // Increased timeout for batched API calls
 });
