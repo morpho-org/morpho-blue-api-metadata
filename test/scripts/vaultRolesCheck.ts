@@ -70,6 +70,14 @@ const clients = {
     chain: polygon,
     transport: http(),
   }),
+  143: createPublicClient({
+    chain: monad,
+    transport: http(),
+  }),
+  988: createPublicClient({
+    chain: stable,
+    transport: http(),
+  }),
   999: createPublicClient({
     chain: hyperevm,
     transport: http(),
