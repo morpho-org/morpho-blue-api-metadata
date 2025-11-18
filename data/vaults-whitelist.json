@@ -704,6 +704,18 @@
     ]
   },
   {
+    "address": "0x6949bcab16c0B389095C5b744f6FBF9741A1b3b6",
+    "chainId": 143,
+    "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
+    "description": "TEST VAULT",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1763455555
+      }
+    ]
+  },
+  {
     "address": "0xbEeF087c8430C0f9dCBa39BA866Eb7c22200599B",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
