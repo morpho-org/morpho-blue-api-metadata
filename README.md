@@ -193,7 +193,7 @@ Controls the whitelisted tokens recognized by the protocol. Each token entry rep
 
 Each token entry must include:
 
-- `chainId`: Chain ID where the token is deployed (supports 1, 8453, 10, 130, 137, 143, 999, 42161, 747474)
+- `chainId`: Chain ID where the token is deployed (supports 1, 8453, 10, 130, 137, 143, 988, 999, 42161, 747474)
 - `address`: Checksummed contract address of the token
 - `name`: Name of the token (ERC-20)
 - `symbol`: Symbol of the token (ERC-20)

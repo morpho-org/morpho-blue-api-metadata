@@ -22,7 +22,7 @@ interface ExchangeRate {
 }
 
 describe("exchange-rates.json validation", () => {
-  // Load and filter exchange rates for only chain IDs 1, 8453, 10, 130, 137, 999, 747474, 42161
+  // Load and filter exchange rates for only chain IDs 1, 8453, 10, 130, 137, 143, 988, 999, 747474, 42161
   const allExchangeRates = loadJsonFile(
     "exchange-rates.json"
   ) as ExchangeRate[];
@@ -33,6 +33,8 @@ describe("exchange-rates.json validation", () => {
         rate.assetChainId === 10 ||
         rate.assetChainId === 130 ||
         rate.assetChainId === 137 ||
+        rate.assetChainId === 143 ||
+        rate.assetChainId === 988 ||
         rate.assetChainId === 999 ||
         rate.assetChainId === 747474 ||
         rate.assetChainId === 42161) &&
@@ -41,6 +43,8 @@ describe("exchange-rates.json validation", () => {
         rate.contractChainId === 10 ||
         rate.contractChainId === 130 ||
         rate.contractChainId === 137 ||
+        rate.contractChainId === 143 ||
+        rate.contractChainId === 988 ||
         rate.contractChainId === 999 ||
         rate.contractChainId === 747474 ||
         rate.contractChainId === 42161)
