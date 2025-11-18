@@ -586,8 +586,8 @@
   {
     "address": "0x4cA0E178c94f039d7F202E09d8d1a655Ed3fb6b6",
     "chainId": 1,
-    "image": "https://cdn.morpho.org/v2/assets/images/rwa_leadblock.png",
-    "description": "The USDC RWA Morpho vault curated by LeadBlock enables access to real world asset driven yields which are uncorrelated to crypto market conditions",
+    "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
+    "description": "This vault is being deprecated. Funds can be withdrawn.",
     "history": [
       {
         "action": "added",
