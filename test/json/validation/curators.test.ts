@@ -25,8 +25,8 @@ interface ChainalysisResponse {
   status: string;
 }
 
-describe("curators-whitelist.json validation", () => {
-  const curators = loadJsonFile("curators-whitelist.json") as Curator[];
+describe("curators-listing.json validation", () => {
+  const curators = loadJsonFile("curators-listing.json") as Curator[];
 
   test("curator names are unique", () => {
     const names = new Set<string>();

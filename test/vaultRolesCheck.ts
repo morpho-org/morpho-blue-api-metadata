@@ -211,7 +211,7 @@ async function main() {
   }
 
   // Load vaults whitelist
-  const filePath = path.join(__dirname, "../data/vaults-whitelist.json");
+  const filePath = path.join(__dirname, "../data/vaults-listing.json");
   const vaults = JSON.parse(fs.readFileSync(filePath, "utf8")) as VaultData[];
 
   console.log(`Loaded ${vaults.length} vaults from whitelist`);

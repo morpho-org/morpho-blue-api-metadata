@@ -95,7 +95,7 @@ function main(): void {
   const dataDir = "../data";
   
   // ONLY target vault-whitelist.json as requested
-  const targetFile = "vaults-whitelist.json";
+  const targetFile = "vaults-listing.json";
   const filePath = join(dataDir, targetFile);
 
   console.log("🚀 Starting curators removal process...");

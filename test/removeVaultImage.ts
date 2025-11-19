@@ -23,8 +23,8 @@ interface Vault {
 }
 
 function removeVaultImage() {
-  // Read the vaults-whitelist.json file
-  const rawData = readFileSync("../data/vaults-whitelist.json", "utf8");
+  // Read the vaults-listing.json file
+  const rawData = readFileSync("../data/vaults-listing.json", "utf8");
   const vaults = JSON.parse(rawData) as Vault[];
 
   // Process each vault to remove the image property

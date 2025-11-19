@@ -8,8 +8,8 @@ interface VaultV2 {
   chainId: number;
   description: string;
 }
-describe("vaults-v2-whitelist.json validation", () => {
-  const vaults = loadJsonFile("vaults-v2-whitelist.json") as VaultV2[];
+describe("vaults-v2-listing.json validation", () => {
+  const vaults = loadJsonFile("vaults-v2-listing.json") as VaultV2[];
 
   test("each vault address is checksummed", () => {
     vaults.forEach((vault, index) => {

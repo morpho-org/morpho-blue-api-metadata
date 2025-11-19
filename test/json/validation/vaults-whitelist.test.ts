@@ -9,8 +9,8 @@ interface Vault {
   description: string;
 }
 
-describe("vaults-whitelist.json validation", () => {
-  const vaults = loadJsonFile("vaults-whitelist.json") as Vault[];
+describe("vaults-listing.json validation", () => {
+  const vaults = loadJsonFile("vaults-listing.json") as Vault[];
 
   test("each vault address is checksummed", () => {
     vaults.forEach((vault, index) => {
