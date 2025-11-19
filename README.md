@@ -194,7 +194,7 @@ Eg. wstETH -> ETH
 
 ## 5. Tokens listing
 
-Controls the listed tokens recognized by the protocol. Each token entry represents an ERC-20 token deployed on a supported chain (Ethereum, Base, OP Mainnet, Polygon, Arbitrum, Unichain, Katana or HyperEVM).
+Controls the listed tokens recognized by the protocol. Each token entry represents an ERC-20 token deployed on a supported chain (Ethereum, Base, OP Mainnet, Polygon, Arbitrum, Unichain, Katana, HyperEVM, Monad, Stable).
 
 ### Required Fields
 

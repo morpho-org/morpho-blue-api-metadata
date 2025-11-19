@@ -1,4 +1,4 @@
-// test/json/validation/vaults-whitelist.test.ts
+// test/json/validation/vaults-listing.test.ts
 import { describe, expect, test } from "@jest/globals";
 import { loadJsonFile, VALID_CHAIN_IDS } from "../../utils/jsonValidators";
 import { getAddress } from "viem"; // We'll use viem for checksum validation

@@ -32,7 +32,7 @@ function removeVaultImage() {
 
   // Write back to the file with proper formatting
   writeFileSync(
-    "../data/vaults-whitelist-no-image.json",
+    "../data/vaults-listing-no-image.json",
     JSON.stringify(processedVaults, null, 2)
   );
 

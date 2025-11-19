@@ -2,7 +2,7 @@ import { readFileSync, writeFileSync, existsSync } from "fs";
 import { join } from "path";
 
 /**
- * Script to remove "forumLink" properties from all vault entries in vault whitelist files
+ * Script to remove "forumLink" properties from all vault entries in vault listing files
  */
 
 interface Curator {
