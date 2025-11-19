@@ -1,6 +1,6 @@
 // test/json/validation/tokens.test.ts
 import { describe, expect, test } from "@jest/globals";
-import { loadJsonFile } from "../../utils/jsonValidators";
+import { loadJsonFile, VALID_CHAIN_IDS } from "../../utils/jsonValidators";
 import { getAddress } from "viem";
 
 interface TokenMetadata {
@@ -23,18 +23,10 @@ interface Token {
 }
 
 describe("tokens.json validation", () => {
-  // Load and filter tokens for only chain IDs 1, 8453, 137, 130, 10, 999, 747474 & 42161
+  // Load and filter tokens for only valid chain IDs
   const allTokens = loadJsonFile("tokens.json") as Token[];
   const tokens = allTokens.filter(
-    (token) =>
-      token.chainId === 1 ||
-      token.chainId === 8453 ||
-      token.chainId === 137 ||
-      token.chainId === 130 ||
-      token.chainId === 10 ||
-      token.chainId === 999 ||
-      token.chainId === 747474 ||
-      token.chainId === 42161
+    (token) => VALID_CHAIN_IDS.includes(token.chainId as typeof VALID_CHAIN_IDS[number])
   );
 
   // Helper function to check for unknown keys in an object.

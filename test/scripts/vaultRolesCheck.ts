@@ -58,12 +58,24 @@ const clients = {
     chain: base,
     transport: http(),
   }),
+  10: createPublicClient({
+    chain: op,
+    transport: http(),
+  }),
   130: createPublicClient({
     chain: unichain,
     transport: http(),
   }),
   137: createPublicClient({
     chain: polygon,
+    transport: http(),
+  }),
+  143: createPublicClient({
+    chain: monad,
+    transport: http(),
+  }),
+  988: createPublicClient({
+    chain: stable,
     transport: http(),
   }),
   999: createPublicClient({

@@ -78,6 +78,10 @@ const clients = {
     chain: base,
     transport: http(),
   }),
+  10: createPublicClient({
+    chain: op,
+    transport: http(),
+  }),
   130: createPublicClient({
     chain: unichain,
     transport: http(),
@@ -86,18 +90,26 @@ const clients = {
     chain: polygon,
     transport: http(),
   }),
-    747474: createPublicClient({
-      chain: katana,
-      transport: http(),
+  747474: createPublicClient({
+    chain: katana,
+    transport: http(),
   }),
-    42161: createPublicClient({
-      chain: arbitrum,
-      transport: http(),
-    }),
-    999: createPublicClient({
-      chain: hyperevm,
-      transport: http(),
-    }),
+  42161: createPublicClient({
+    chain: arbitrum,
+    transport: http(),
+  }),
+  999: createPublicClient({
+    chain: hyperevm,
+    transport: http(),
+  }),
+  988: createPublicClient({
+    chain: stable,
+    transport: http(),
+  }),
+  143: createPublicClient({
+    chain: monad,
+    transport: http(),
+  }),
 };
 
 async function checkAddressRisk(

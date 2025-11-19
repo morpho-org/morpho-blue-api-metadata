@@ -1,6 +1,6 @@
 // test/json/validation/exchange-rates.test.ts
 import { describe, expect, test } from "@jest/globals";
-import { loadJsonFile } from "../../utils/jsonValidators";
+import { loadJsonFile, VALID_CHAIN_IDS } from "../../utils/jsonValidators";
 import { getAddress } from "viem";
 
 interface ExchangeRateData {
@@ -22,7 +22,7 @@ interface ExchangeRate {
 }
 
 describe("exchange-rates.json validation", () => {
-  // Load and filter exchange rates for only chain IDs 1, 8453, 130, 137, 999, 747474, 42161
+  // Load and filter exchange rates for only chain IDs 1, 8453, 10, 130, 137, 143, 988, 999, 747474, 42161
   const allExchangeRates = loadJsonFile(
     "exchange-rates.json"
   ) as ExchangeRate[];
@@ -30,15 +30,21 @@ describe("exchange-rates.json validation", () => {
     (rate) =>
       (rate.assetChainId === 1 ||
         rate.assetChainId === 8453 ||
+        rate.assetChainId === 10 ||
         rate.assetChainId === 130 ||
         rate.assetChainId === 137 ||
+        rate.assetChainId === 143 ||
+        rate.assetChainId === 988 ||
         rate.assetChainId === 999 ||
         rate.assetChainId === 747474 ||
         rate.assetChainId === 42161) &&
       (rate.contractChainId === 1 ||
         rate.contractChainId === 8453 ||
+        rate.contractChainId === 10 ||
         rate.contractChainId === 130 ||
         rate.contractChainId === 137 ||
+        rate.contractChainId === 143 ||
+        rate.contractChainId === 988 ||
         rate.contractChainId === 999 ||
         rate.contractChainId === 747474 ||
         rate.contractChainId === 42161)
@@ -62,8 +68,8 @@ describe("exchange-rates.json validation", () => {
     });
   });
 
-  test("chain IDs are valid (1, 8453, 130, 137, 999, 747474, 42161)", () => {
-    const validChainIds = [1, 8453, 130, 137, 999, 747474, 42161];
+  test("chain IDs are valid", () => {
+    const validChainIds: number[] = [...VALID_CHAIN_IDS];
     const errors: string[] = [];
 
     exchangeRates.forEach((rate, index) => {
