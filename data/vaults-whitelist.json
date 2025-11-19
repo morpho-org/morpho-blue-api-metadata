@@ -2288,6 +2288,18 @@
     ]
   },
   {
+    "address": "0x116D4d0932082FB564509EFf6E1708d5ac2c5EA4",
+    "chainId": 747474,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The Clearstar Core USDC vault generates yields by lending USDC to bluechip assets on Katana.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1763301596
+      }
+    ]
+  },
+  {
     "address": "0x80D9964fEb4A507dD697b4437Fc5b25b618CE446",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/eth.svg",
