@@ -1,0 +1,816 @@
+[
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
+    "name": "MEV Capital",
+    "url": "https://mevcapital.com/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x38afC3aA2c76b4cA1F8e1DabA68e998e1F4782DB",
+        "0x06590Fef209Ebc1f8eEF83dA05984cD4eFf0d0E3",
+        "0x6fA5d361Ab8165347F636217001E22a7cEF09B48"
+      ],
+      "130": [
+        "0xeEAa598C011A29b6713251dD0CE24DB8D80E60Eb"
+      ],
+      "137": [
+        "0xB672Ea44A1EC692A9Baf851dC90a1Ee3DB25F1C4"
+      ],
+      "999": [
+        "0xb830B8B1A41c38603dBC6E4b562Ff599eDB415C4",
+        "0x6293e97900aA987Cf3Cbd419e0D5Ba43ebfA91c1"
+      ],
+      "8453": [
+        "0xB672Ea44A1EC692A9Baf851dC90a1Ee3DB25F1C4"
+      ],
+      "42161": [
+        "0xBB4B5BdC1a77971B6C35D87D30BB30F79543a2EF"
+      ],
+      "747474": [
+        "0x3D9403F9bC4615D6986EC31fC287cD5131Eaf9c7"
+      ]
+    },
+    "id": "mev-capital",
+    "socials": {
+      "url": "https://mevcapital.com/",
+      "twitter": "https://x.com/MEVCapital",
+      "forum": "https://forum.morpho.org/c/vaults/mev-capital/30"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "name": "Gauntlet",
+    "url": "https://www.gauntlet.xyz/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x9E33faAE38ff641094fa68c65c2cE600b3410585",
+        "0xC684c6587712e5E7BDf9fD64415F23Bd2b05fAec"
+      ],
+      "10": [
+        "0x5a4E19842e09000a582c20A4f524C26Fb48Dd4D0",
+        "0x9E33faAE38ff641094fa68c65c2cE600b3410585"
+      ],
+      "130": [
+        "0x9E33faAE38ff641094fa68c65c2cE600b3410585"
+      ],
+      "137": [
+        "0x9E33faAE38ff641094fa68c65c2cE600b3410585"
+      ],
+      "999": [
+        "0x09346F40e324458A8E211C5317981C78FAcDEc57",
+        "0xe3ea927a0f41B4a84fA9900812E52F8BcB84f396"
+      ],
+      "8453": [
+        "0x9E33faAE38ff641094fa68c65c2cE600b3410585",
+        "0x5a4E19842e09000a582c20A4f524C26Fb48Dd4D0"
+      ],
+      "42161": [
+        "0x9E33faAE38ff641094fa68c65c2cE600b3410585",
+        "0x5a4E19842e09000a582c20A4f524C26Fb48Dd4D0"
+      ],
+      "747474": [
+        "0x5D8C96b76A342c640d9605187daB780f8365F69f",
+        "0xb5c5b5D7a64d43bb91Dab63Ff3095F7FcB869b4e"
+      ]
+    },
+    "id": "gauntlet",
+    "socials": {
+      "url": "https://www.gauntlet.xyz/",
+      "twitter": "https://x.com/gauntlet_xyz",
+      "forum": "https://forum.morpho.org/c/vaults/gauntlet/19"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
+    "name": "9Summits",
+    "url": "https://9summits.io/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0xC868BFb240Ed207449Afe71D2ecC781D5E10C85C",
+        "0x59e608E4842162480591032f3c8b0aE55C98d104",
+        "0x23E6aecB76675462Ad8f2B31eC7C492060c2fAEF",
+        "0xB65b8CF358A2A4C62e1153eC88fc0eD43fB73bC4",
+        "0x30a38f1a27036aE7b1a3679646739Fb913B9B244"
+      ],
+      "130": [
+        "0xC868BFb240Ed207449Afe71D2ecC781D5E10C85C",
+        "0x23E6aecB76675462Ad8f2B31eC7C492060c2fAEF"
+      ],
+      "8453": [
+        "0x59e608E4842162480591032f3c8b0aE55C98d104",
+        "0x23E6aecB76675462Ad8f2B31eC7C492060c2fAEF"
+      ]
+    },
+    "id": "9summits",
+    "socials": {
+      "url": "https://9summits.io/",
+      "twitter": "https://x.com/nine_summits",
+      "forum": "https://forum.morpho.org/c/vaults/9summits/34"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/tulipa-capital.svg",
+    "name": "Tulipa Capital",
+    "url": "https://www.tulipa.capital/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0xB65b8CF358A2A4C62e1153eC88fc0eD43fB73bC4",
+        "0x30a38f1a27036aE7b1a3679646739Fb913B9B244"
+      ]
+    },
+    "id": "tulipa-capital",
+    "socials": {
+      "url": "https://www.tulipa.capital/",
+      "twitter": "https://x.com/tulipacapital",
+      "forum": "https://forum.morpho.org/c/vaults/9summits/34"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/block-analitica.png",
+    "name": "Block Analitica",
+    "url": "https://blockanalitica.com/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x2a933dbd0D9e32593e62702028Edcab437CE3cBA",
+        "0x2566f66f68ed438726AD904524FB306A03FdB80B"
+      ],
+      "10": [
+        "0x970d5ce29730b8e5792da0f0f0a544721B0E0b4F"
+      ],
+      "8453": [
+        "0x4b8f6CADb8A2B222e8840E8aDDc32E031794A4D6"
+      ]
+    },
+    "id": "block-analitica",
+    "socials": {
+      "url": "https://blockanalitica.com/",
+      "twitter": "https://x.com/BlockAnalitica",
+      "forum": "https://forum.morpho.org/c/vaults/blockanalitica-b-protocol/20"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/bprotocol.png",
+    "url": "https://www.bprotocol.org/",
+    "name": "B.Protocol",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0xD6D14E60c0DAFcB3B77B296fe718623Ec84e5eb3",
+        "0x2a933dbd0D9e32593e62702028Edcab437CE3cBA",
+        "0x2566f66f68ed438726AD904524FB306A03FdB80B"
+      ],
+      "10": [
+        "0x970d5ce29730b8e5792da0f0f0a544721B0E0b4F"
+      ],
+      "8453": [
+        "0x4b8f6CADb8A2B222e8840E8aDDc32E031794A4D6",
+        "0x32f75c3ee6aD872Eb3138020885E94E2842b8433"
+      ]
+    },
+    "id": "b-protocol",
+    "socials": {
+      "url": "https://www.bprotocol.org/",
+      "twitter": "https://x.com/bprotocoleth",
+      "forum": "https://forum.morpho.org/c/vaults/blockanalitica-b-protocol/20"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "name": "RE7 Labs",
+    "url": "https://www.re7labs.xyz/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0xE86399fE6d7007FdEcb08A2ee1434Ee677a04433"
+      ],
+      "130": [
+        "0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"
+      ],
+      "137": [
+        "0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"
+      ],
+      "999": [
+        "0x036845F9BE6DF938Da01Abe33e056D3CcaA836a2"
+      ],
+      "8453": [
+        "0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"
+      ],
+      "42161": [
+        "0x8fafb5243f3787c67cAe318983a5Cc7E2E81F5bB"
+      ],
+      "747474": [
+        "0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"
+      ]
+    },
+    "id": "re7-labs",
+    "socials": {
+      "url": "https://www.re7labs.xyz/",
+      "twitter": "https://x.com/Re7Labs",
+      "forum": "https://forum.morpho.org/c/vaults/re7/21"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "name": "Steakhouse Financial",
+    "url": "https://www.steakhouse.financial",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x0A0e559bc3b0950a7e448F0d4894db195b9cf8DD",
+        "0x255c7705e8BB334DfCae438197f7C4297988085a",
+        "0xc01Ba42d4Bd241892B813FA8bD4589EAA4C60672",
+        "0x827e86072B06674a077f592A531dcE4590aDeCdB",
+        "0xe3Acb3A0cC24C7b176101900715e38E8e789DAd4",
+        "0x29a08239ca7D303F02D219119a024e9773CB1486"
+      ],
+      "130": [
+        "0x0000aeB716a0DF7A9A1AAd119b772644Bc089dA8",
+        "0x827e86072B06674a077f592A531dcE4590aDeCdB",
+        "0x0A0e559bc3b0950a7e448F0d4894db195b9cf8DD"
+      ],
+      "137": [
+        "0x0000aeB716a0DF7A9A1AAd119b772644Bc089dA8",
+        "0x0A0e559bc3b0950a7e448F0d4894db195b9cf8DD",
+        "0x827e86072B06674a077f592A531dcE4590aDeCdB"
+      ],
+      "8453": [
+        "0x0A0e559bc3b0950a7e448F0d4894db195b9cf8DD",
+        "0x0000aeB716a0DF7A9A1AAd119b772644Bc089dA8",
+        "0x827e86072B06674a077f592A531dcE4590aDeCdB",
+        "0x74E9c67ddB0Ef85D6EcC8dD03A3Cf8Ed1e0c827B",
+        "0x2f06934AfC376f41d4CCFe1D000496107bCf6e21"
+      ],
+      "42161": [
+        "0x0A0e559bc3b0950a7e448F0d4894db195b9cf8DD",
+        "0x827e86072B06674a077f592A531dcE4590aDeCdB"
+      ],
+      "747474": [
+        "0xe6FC2a011153DD5a230725a9F0c89a9c81aB4887",
+        "0x827e86072B06674a077f592A531dcE4590aDeCdB"
+      ]
+    },
+    "id": "steakhouse-financial",
+    "socials": {
+      "url": "https://www.steakhouse.financial",
+      "twitter": "https://x.com/SteakhouseFi",
+      "forum": "https://forum.morpho.org/c/vaults/steakhouse-financial/18"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/relend.png",
+    "name": "Relend Network",
+    "url": "https://relend.network/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0xD6D14E60c0DAFcB3B77B296fe718623Ec84e5eb3"
+      ],
+      "999": [
+        "0x9AFcbc4984562387eF01Cd9b9FcF923177fcB354",
+        "0xA4362C5F624F8f50DB23E9FE99FDEC2627cB36Fd"
+      ],
+      "8453": [
+        "0x32f75c3ee6aD872Eb3138020885E94E2842b8433"
+      ]
+    },
+    "id": "relend-network",
+    "socials": {
+      "url": "https://relend.network/",
+      "twitter": "https://x.com/relend_network",
+      "forum": "https://forum.morpho.org/c/vaults/b-protocol-relend-network/33"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
+    "name": "Hyperithm",
+    "url": "https://www.hyperithm.com/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0xEe7E9bb21D5589BF657b94083dB2fA349a3918C8",
+        "0x75178137D3B4B9A0F771E0e149b00fB8167BA325"
+      ],
+      "999": [
+        "0x35e42A5cA87A4E4Fb235585B36d7c978eA72B290",
+        "0x75178137D3B4B9A0F771E0e149b00fB8167BA325"
+      ],
+      "42161": [
+        "0xEe7E9bb21D5589BF657b94083dB2fA349a3918C8",
+        "0x75178137D3B4B9A0F771E0e149b00fB8167BA325"
+      ]
+    },
+    "id": "hyperithm",
+    "socials": {
+      "url": "https://www.hyperithm.com/",
+      "twitter": "https://x.com/hyperithm",
+      "forum": "https://forum.morpho.org/c/vaults/hyperithm/38"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/spark.svg",
+    "name": "SparkDAO",
+    "url": "https://spark.fi/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x3300f198988e4C9C63F75dF86De36421f06af8c4"
+      ],
+      "8453": [
+        "0xF93B7122450A50AF3e5A76E1d546e95Ac1d0F579"
+      ]
+    },
+    "id": "sparkdao",
+    "socials": {
+      "url": "https://spark.fi/",
+      "twitter": "https://x.com/sparkdotfi",
+      "forum": "https://forum.morpho.org/c/vaults/spark/48"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/llamarisk.svg",
+    "name": "LlamaRisk",
+    "url": "https://www.llamarisk.com/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x7e246fAce452AC43F5dC60c41EE14C88c37951c6"
+      ]
+    },
+    "id": "llamarisk",
+    "socials": {
+      "url": "https://www.llamarisk.com/",
+      "twitter": "https://x.com/LlamaRisk",
+      "forum": "https://forum.morpho.org/t/about-the-llama-risk-category/704"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/apostro.svg",
+    "name": "Apostro",
+    "url": "https://apostro.xyz",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0xf726311F85D45a7fECfFbC94bD8508a0A39958c6",
+        "0xC91578e51BCE35844E345CC7F733b4bBf6721734"
+      ],
+      "8453": [
+        "0xf726311F85D45a7fECfFbC94bD8508a0A39958c6",
+        "0xC91578e51BCE35844E345CC7F733b4bBf6721734"
+      ]
+    },
+    "id": "apostro",
+    "socials": {
+      "url": "https://apostro.xyz",
+      "twitter": "https://x.com/apostroxyz",
+      "forum": "https://forum.morpho.org/c/vaults/apostro/35"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "name": "AlphaPing",
+    "url": "https://alphaping.ch/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0xEB4Af6fA3AFA08B10d593EC8fF87efB03BC04645",
+        "0x6788c8ad65E85CCa7224a0B46D061EF7D81F9Da5",
+        "0xD50B9Bbf136D1BD5CD5AC6ed9b3F26c458a6d4A6"
+      ],
+      "8453": [
+        "0xEB4Af6fA3AFA08B10d593EC8fF87efB03BC04645",
+        "0x6788c8ad65E85CCa7224a0B46D061EF7D81F9Da5"
+      ],
+      "42161": [
+        "0xEB4Af6fA3AFA08B10d593EC8fF87efB03BC04645",
+        "0x6788c8ad65E85CCa7224a0B46D061EF7D81F9Da5"
+      ]
+    },
+    "id": "alphaping",
+    "socials": {
+      "url": "https://alphaping.ch/",
+      "twitter": "https://x.com/0xAlphaping",
+      "forum": "https://forum.morpho.org/c/vaults/alphaping/37"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/hakutora.png",
+    "name": "Hakutora",
+    "url": "https://hakutora.xyz/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x2413A57FBD695f6B13C1D8d7D30EE10fa61b1b02",
+        "0x345023d92f3051bB2B68DF79dFf760EccFEE80ED"
+      ]
+    },
+    "id": "hakutora",
+    "socials": {
+      "url": "https://hakutora.xyz/",
+      "twitter": "https://x.com/0xhakutora",
+      "forum": "https://forum.morpho.org/c/vaults/hakutora/39"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/ouroboros.svg",
+    "name": "Ouroboros Capital",
+    "url": "https://ourocap.io/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x4c5D2A0240b889f49E6a9E893d089933BD2802cd",
+        "0x7C5805ff6F70265bCc4FC44BE6a9DB225A506bc8"
+      ]
+    },
+    "id": "ouroboros-capital",
+    "socials": {
+      "url": "https://ourocap.io/",
+      "twitter": "https://x.com/OuroborosCap8",
+      "forum": "https://forum.morpho.org/c/vaults/ouroboros/36"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "name": "Clearstar",
+    "url": "https://www.clearstar.xyz/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x30988479C2E6a03E7fB65138b94762D41a733458",
+        "0x72882eb5D27C7088DFA6DDE941DD42e5d184F0ef"
+      ],
+      "130": [
+        "0x30988479C2E6a03E7fB65138b94762D41a733458",
+        "0x72882eb5D27C7088DFA6DDE941DD42e5d184F0ef"
+      ],
+      "137": [
+        "0x30988479C2E6a03E7fB65138b94762D41a733458",
+        "0x72882eb5D27C7088DFA6DDE941DD42e5d184F0ef"
+      ],
+      "8453": [
+        "0x30988479C2E6a03E7fB65138b94762D41a733458",
+        "0x72882eb5D27C7088DFA6DDE941DD42e5d184F0ef"
+      ],
+      "42161": [
+        "0x30988479C2E6a03E7fB65138b94762D41a733458",
+        "0x72882eb5D27C7088DFA6DDE941DD42e5d184F0ef"
+      ],
+      "747474": [
+        "0x30988479C2E6a03E7fB65138b94762D41a733458",
+        "0x72882eb5D27C7088DFA6DDE941DD42e5d184F0ef"
+      ]
+    },
+    "id": "clearstar",
+    "socials": {
+      "url": "https://www.clearstar.xyz/",
+      "twitter": "https://x.com/ClearstarLabs",
+      "forum": "https://forum.morpho.org/c/vaults/clearstar-labs/40"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
+    "name": "Yearn",
+    "url": "https://yearn.fi/apps",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0xe5e2Baf96198c56380dDD5E992D7d1ADa0e989c0"
+      ],
+      "8453": [
+        "0xFEaE2F855250c36A77b8C68dB07C4dD9711fE36F"
+      ],
+      "42161": [
+        "0xfd99a19Fcf577Be92fDAB4ef162c1644BB056885"
+      ],
+      "747474": [
+        "0x518C21DC88D9780c0A1Be566433c571461A70149"
+      ]
+    },
+    "id": "yearn",
+    "socials": {
+      "url": "https://yearn.fi/apps",
+      "twitter": "https://x.com/yearnfi",
+      "forum": "https://forum.morpho.org/c/vaults/yearn/42"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/k3-capital.svg",
+    "name": "K3 Capital",
+    "url": "https://www.k3.capital/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0xdD84A24eeddE63F10Ec3e928f1c8302A47538b6B"
+      ],
+      "130": [
+        "0xdD84A24eeddE63F10Ec3e928f1c8302A47538b6B"
+      ]
+    },
+    "id": "k3-capital",
+    "socials": {
+      "url": "https://www.k3.capital/",
+      "twitter": "https://x.com/k3_capital",
+      "forum": "https://forum.morpho.org/c/vaults/k3/43"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
+    "name": "Edge Capital UltraYield",
+    "url": "https://edgecapital.xyz/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x1280e86Cd7787FfA55d37759C0342F8CD3c7594a",
+        "0xCC217D03d9Ad82C80101B9F0579Fd5A0b141EDcc"
+      ],
+      "10": [
+        "0x1280e86Cd7787FfA55d37759C0342F8CD3c7594a"
+      ],
+      "8453": [
+        "0x1280e86Cd7787FfA55d37759C0342F8CD3c7594a"
+      ],
+      "42161": [
+        "0x1280e86Cd7787FfA55d37759C0342F8CD3c7594a"
+      ]
+    },
+    "id": "edge-capital-ultrayield",
+    "socials": {
+      "url": "https://edgecapital.xyz/",
+      "twitter": "https://x.com/ultrayieldapp",
+      "forum": "https://forum.morpho.org/c/vaults/edge-capital/44"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/avantgarde.svg",
+    "name": "Avantgarde",
+    "url": "https://avantgarde.finance/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0xA2c3BDDfE910dDC8e5FC1B35dBb7766b943143eb",
+        "0x8257dd8e97aa1e903339e3FF45240162Fe342132"
+      ],
+      "42161": [
+        "0xA2c3BDDfE910dDC8e5FC1B35dBb7766b943143eb",
+        "0x8257dd8e97aa1e903339e3FF45240162Fe342132"
+      ]
+    },
+    "id": "avantgarde",
+    "socials": {
+      "url": "https://avantgarde.finance/",
+      "twitter": "https://x.com/avantgardefi",
+      "forum": "https://forum.morpho.org/c/vaults/avantgarde/45"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/singularv.svg",
+    "name": "SingularV",
+    "url": "https://www.singularv.xyz/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x46057881E0B9d190920FB823F840B837f65745d5"
+      ],
+      "130": [
+        "0x46057881E0B9d190920FB823F840B837f65745d5"
+      ],
+      "747474": [
+        "0x46057881E0B9d190920FB823F840B837f65745d5"
+      ]
+    },
+    "id": "singularv",
+    "socials": {
+      "url": "https://www.singularv.xyz/",
+      "twitter": "https://x.com/SingularV__",
+      "forum": "https://forum.morpho.org/c/vaults/singularv/46"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/august.svg",
+    "name": "August Digital",
+    "url": "https://augustdigital.io/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0xc68733779a1738fDd743667f8714ad33d4a92453"
+      ]
+    },
+    "id": "august-digital",
+    "socials": {
+      "url": "https://augustdigital.io/",
+      "twitter": "https://x.com/august_digital"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/pangolins.svg",
+    "name": "Pangolins",
+    "url": "https://pangolins.io/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0xF5854811ddccbf9D1767e35f6Cb28A6FEB25f9d9",
+        "0x9855475778aa3B492C14E4E12ca0d44c253C9884"
+      ],
+      "130": [
+        "0xF5854811ddccbf9D1767e35f6Cb28A6FEB25f9d9"
+      ],
+      "8453": [
+        "0xF5854811ddccbf9D1767e35f6Cb28A6FEB25f9d9",
+        "0x9855475778aa3B492C14E4E12ca0d44c253C9884"
+      ]
+    },
+    "id": "pangolins",
+    "socials": {
+      "url": "https://pangolins.io/",
+      "twitter": "https://x.com/PangolinsVault",
+      "forum": "https://forum.morpho.org/c/vaults/pangolins/49"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/felix.svg",
+    "name": "Felix",
+    "url": "https://www.usefelix.xyz/",
+    "verified": true,
+    "addresses": {
+      "999": [
+        "0x18e4961454B3E487B3f47c70b703684D894Ff979",
+        "0x4A827418D632C415E19825fd011283A4ba020B3A"
+      ]
+    },
+    "id": "felix",
+    "socials": {
+      "url": "https://www.usefelix.xyz/",
+      "twitter": "https://x.com/felixprotocol"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/keyrock.svg",
+    "name": "Keyrock",
+    "url": "https://keyrock.com/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x9ea3709E1A3f0B9501DD4a66163861D9BcCe7A08",
+        "0xbA75546ACD56b3a9142f94F179b03970eE4283Fd"
+      ]
+    },
+    "id": "keyrock",
+    "socials": {
+      "url": "https://keyrock.com/",
+      "twitter": "https://x.com/keyrock"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
+    "name": "kpk",
+    "url": "https://kpk.io",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x354C92aF243d53A24feb3dFF20372Af7b7c47478",
+        "0xf8182E5827c06a47A985eC565A3bcd56437a97bE",
+        "0xC266b1181A80E84EDC2c6596718E88E8115c1eaa",
+        "0xd15f11B334e1e233127302E5F759C17DA1260df5"
+      ],
+      "42161": [
+        "0xE8bED28828f4DD93FB98232F8e85c8880D1f7e1d",
+        "0x354C92aF243d53A24feb3dFF20372Af7b7c47478"
+      ]
+    },
+    "id": "kpk",
+    "socials": {
+      "url": "https://kpk.io",
+      "twitter": "https://x.com/kpk_io"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/architect.svg",
+    "name": "Architect",
+    "url": "https://architect.systems/",
+    "verified": true,
+    "addresses": {
+      "8453": [
+        "0x2386061893E481FdcFb987835D89BFD189ff6f42",
+        "0xc74b0F8AfbC66ee960c98Dda1C909dF9D16691CB"
+      ]
+    },
+    "id": "architect",
+    "socials": {
+      "url": "https://architect.systems/",
+      "twitter": "https://x.com/xxi_eth",
+      "forum": "https://forum.morpho.org/c/vaults/architect/54"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/anthias.svg",
+    "name": "Anthias Labs",
+    "url": "https://anthias.xyz/",
+    "verified": true,
+    "addresses": {
+      "8453": [
+        "0x08eDEbFFaE68970DCf751baa826182b3a4aCFC05"
+      ]
+    },
+    "id": "anthias-labs",
+    "socials": {
+      "url": "https://anthias.xyz/",
+      "twitter": "https://x.com/anthiasxyz",
+      "forum": "https://forum.morpho.org/c/vaults/anthias/52"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/swissborg.svg",
+    "name": "Swissborg",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x259c444b50e3Ab173c4f850BB40d85A9EA0230F3",
+        "0xAC15982Ca8A8e8BAc738FE492b84D8761B4384a3"
+      ]
+    },
+    "ownerOnly": true,
+    "id": "swissborg"
+  },
+  {
+    "name": "Seamless",
+    "image": "https://cdn.morpho.org/v2/assets/images/seamless.svg",
+    "verified": true,
+    "addresses": {
+      "8453": [
+        "0x639d2dD24304aC2e6A691d8c1cFf4a2665925fee"
+      ]
+    },
+    "ownerOnly": true,
+    "id": "seamless"
+  },
+  {
+    "name": "Moonwell",
+    "image": "https://cdn.morpho.org/v2/assets/images/moonwell.svg",
+    "verified": true,
+    "addresses": {
+      "10": [
+        "0x17C9ba3fDa7EC71CcfD75f978Ef31E21927aFF3d"
+      ],
+      "8453": [
+        "0x8b621804a7637b781e2BbD58e256a591F2dF7d51"
+      ]
+    },
+    "ownerOnly": true,
+    "id": "moonwell"
+  },
+  {
+    "name": "Compound DAO",
+    "image": "https://cdn.morpho.org/v2/assets/images/compound.svg",
+    "url": "https://compound.finance/",
+    "verified": true,
+    "addresses": {
+      "137": [
+        "0xCC3E7c85Bb0EE4f09380e041fee95a0caeDD4a02"
+      ]
+    },
+    "ownerOnly": true,
+    "id": "compound-dao"
+  },
+  {
+    "name": "Elixir",
+    "image": "https://cdn.morpho.org/v2/assets/images/elixir.svg",
+    "url": "https://www.elixir.xyz/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x64f605ACe63eE71ed8299040eB67577585817227"
+      ]
+    },
+    "ownerOnly": true,
+    "id": "elixir"
+  },
+  {
+    "name": "Olympus",
+    "image": "https://cdn.morpho.org/v2/assets/images/olympus.svg",
+    "url": "https://www.olympusdao.finance/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x245cc372C84B3645Bf0Ffe6538620B04a217988B"
+      ]
+    },
+    "ownerOnly": true,
+    "id": "olympus"
+  },
+  {
+    "name": "USDU DAO",
+    "image": "https://cdn.morpho.org/v2/assets/images/usdudao.svg",
+    "url": "https://usdu.finance/",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x9fe66037c44236c87D9Ac8345F489b4413fDFf06"
+      ]
+    },
+    "ownerOnly": true,
+    "id": "usdu-dao"
+  }
+]
