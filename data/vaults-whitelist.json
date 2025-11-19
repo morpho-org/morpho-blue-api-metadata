@@ -91,7 +91,7 @@
     "address": "0x53A333e51E96FE288bC9aDd7cdC4B1EAD2CD2FfA",
     "chainId": 999,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet USDT0 Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for USDT0 suppliers.",
+    "description": "The Gauntlet USDT0 Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for USDT0 suppliers.",
     "history": [
       {
         "action": "added",
@@ -115,7 +115,7 @@
     "address": "0xF587f2e8AfF7D76618d3B6B4626621860FbD54e3",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/cbbtc.svg",
-    "description": "The cbBTC Core Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
+    "description": "The cbBTC Core Vault will list a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
     "history": [
       {
         "action": "added",
@@ -643,7 +643,7 @@
     "address": "0x8CB3649114051cA5119141a34C200D65dc0Faa73",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The USDT Prime vault will whitelist highly liquid, large-cap collateral markets and continuously optimize for risk-adjusted yield across collateral markets.",
+    "description": "The USDT Prime vault will list highly liquid, large-cap collateral markets and continuously optimize for risk-adjusted yield across collateral markets.",
     "history": [
       {
         "action": "added",
@@ -655,7 +655,7 @@
     "address": "0x500331c9fF24D9d11aee6B07734Aa72343EA74a5",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The DAI Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets.",
+    "description": "The DAI Vault will list a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets.",
     "history": [
       {
         "action": "added",
@@ -807,7 +807,7 @@
     "address": "0x4881Ef0BF6d2365D3dd6499ccd7532bcdBCE0658",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The WETH Core Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets.",
+    "description": "The WETH Core Vault will list a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets.",
     "history": [
       {
         "action": "added",
@@ -859,7 +859,7 @@
     "address": "0x0B2d98BBF3E38Df1D1B7Be7343732E32e8B1F818",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Cap Ecosystem USDC Vault curated by Gauntlet is intended to optimize risk-adjusted yield across whitelisted liquid collateral markets on Ethereum.",
+    "description": "The Cap Ecosystem USDC Vault curated by Gauntlet is intended to optimize risk-adjusted yield across listed liquid collateral markets on Ethereum.",
     "history": [
       {
         "action": "added",
@@ -895,7 +895,7 @@
     "address": "0x264a06Fd7A7C9E0Bfe75163b475E2A3cc1856578",
     "chainId": 999,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet wHYPE Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for wHYPE suppliers.",
+    "description": "The Gauntlet wHYPE Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for wHYPE suppliers.",
     "history": [
       {
         "action": "added",
@@ -935,7 +935,7 @@
     "address": "0xdC94785959B73F7A168452b3654E44fEc6A750e4",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The LBTC Core Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
+    "description": "The LBTC Core Vault will list a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
     "history": [
       {
         "action": "added",
@@ -959,7 +959,7 @@
     "address": "0x125D41A6e5dbf455cD9Df8F80BCC6fd172D52Cc6",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The USDA Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets.",
+    "description": "The USDA Vault will list a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets.",
     "history": [
       {
         "action": "added",
@@ -1055,7 +1055,7 @@
     "address": "0x67315dd969B8Cd3a3520C245837Bf71f54579C75",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/crvusd.svg",
-    "description": "The LlamaRisk crvUSD Vault whitelists a range of Convex-wrapped Curve LPs as collateral types and continuously optimizes risk-adjusted yield across those markets. Simply deposit Curve LPs and Morpho will automatically wrap them on Convex to earn additional rewards, claimable on the Convex UI. Informations to interact with the vault markets are available in the dedicated forum page.",
+    "description": "The LlamaRisk crvUSD Vault lists a range of Convex-wrapped Curve LPs as collateral types and continuously optimizes risk-adjusted yield across those markets. Simply deposit Curve LPs and Morpho will automatically wrap them on Convex to earn additional rewards, claimable on the Convex UI. Informations to interact with the vault markets are available in the dedicated forum page.",
     "history": [
       {
         "action": "added",
@@ -1067,7 +1067,7 @@
     "address": "0x8eB67A509616cd6A7c1B3c8C21D48FF57df3d458",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The USDC Core Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
+    "description": "The USDC Core Vault will list a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
     "history": [
       {
         "action": "added",
@@ -1131,7 +1131,7 @@
     "address": "0x78B18E07dc43017fcEaabaD0751d6464c0F56b25",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/metronome.svg",
-    "description": "The Metronome msETH vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those collateral markets.",
+    "description": "The Metronome msETH vault will list a range of liquid collateral markets and continuously optimize risk-adjusted yield across those collateral markets.",
     "history": [
       {
         "action": "added",
@@ -1143,7 +1143,7 @@
     "address": "0x6859B34a9379122d25A9FA46f0882d434fee36c3",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/metronome.svg",
-    "description": "The Metronome msUSD vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those collateral markets.",
+    "description": "The Metronome msUSD vault will list a range of liquid collateral markets and continuously optimize risk-adjusted yield across those collateral markets.",
     "history": [
       {
         "action": "added",
@@ -1155,7 +1155,7 @@
     "address": "0x7e97fa6893871A2751B5fE961978DCCb2c201E65",
     "chainId": 42161,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet USDC Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for USDC suppliers",
+    "description": "The Gauntlet USDC Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for USDC suppliers",
     "history": [
       {
         "action": "added",
@@ -1179,7 +1179,7 @@
     "address": "0x66c71204B70aE27BE6dC3eb41F9aF5868E68fDb6",
     "chainId": 999,
     "image": "https://cdn.morpho.org/v2/assets/images/felix.svg",
-    "description": "The Felix USDhl vault lends USDhl across mature whitelisted markets backed by liquid collateral. Allocations rebalance based on demand rates and curator defined safeguards delivering durable stablecoin yield.",
+    "description": "The Felix USDhl vault lends USDhl across mature listed markets backed by liquid collateral. Allocations rebalance based on demand rates and curator defined safeguards delivering durable stablecoin yield.",
     "history": [
       {
         "action": "added",
@@ -1203,7 +1203,7 @@
     "address": "0xc080f56504e0278828A403269DB945F6c6D6E014",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The eUSD Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those collateral markets.",
+    "description": "The eUSD Vault will list a range of liquid collateral markets and continuously optimize risk-adjusted yield across those collateral markets.",
     "history": [
       {
         "action": "added",
@@ -1227,7 +1227,7 @@
     "address": "0x5BD1D75d45EdB622d0ea50946F2f741CE8dC5b75",
     "chainId": 747474,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet BTCK Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for BTCK suppliers.",
+    "description": "The Gauntlet BTCK Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for BTCK suppliers.",
     "history": [
       {
         "action": "added",
@@ -1363,7 +1363,7 @@
     "address": "0x9a8bC3B04b7f3D87cfC09ba407dCED575f2d61D8",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/eth.svg",
-    "description": "The MEVCap WETH Morpho vault, curated by MEV Capital, aims at optimizing risk-adjusted interest by lending wrapped ETH (wETH) to borrow a whitelisted range of Liquid Staking Token (LST) and Liquid Restaking Token (LRT) as collateralized assets on Ethereum Chain.",
+    "description": "The MEVCap WETH Morpho vault, curated by MEV Capital, aims at optimizing risk-adjusted interest by lending wrapped ETH (wETH) to borrow a listed range of Liquid Staking Token (LST) and Liquid Restaking Token (LRT) as collateralized assets on Ethereum Chain.",
     "history": [
       {
         "action": "added",
@@ -1399,7 +1399,7 @@
     "address": "0x443df5eEE3196e9b2Dd77CaBd3eA76C3dee8f9b2",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The WBTC Core Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
+    "description": "The WBTC Core Vault will list a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
     "history": [
       {
         "action": "added",
@@ -1427,7 +1427,7 @@
     "address": "0x79FD640000F8563A866322483524a4b48f1Ed702",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The USDT Core Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
+    "description": "The USDT Core Vault will list a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
     "history": [
       {
         "action": "added",
@@ -1439,7 +1439,7 @@
     "address": "0x1B4cd53a1A8e5F50aB6320EF34E5fB4D3df7B6f6",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/ausd.svg",
-    "description": "The AUSD Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those collateral markets.",
+    "description": "The AUSD Vault will list a range of liquid collateral markets and continuously optimize risk-adjusted yield across those collateral markets.",
     "history": [
       {
         "action": "added",
@@ -1667,7 +1667,7 @@
     "address": "0x5eEC795d919FA97688Fb9844eeB0072E6B846F9d",
     "chainId": 999,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet USDe Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for USDe suppliers.",
+    "description": "The Gauntlet USDe Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for USDe suppliers.",
     "history": [
       {
         "action": "added",
@@ -1911,7 +1911,7 @@
     "address": "0x6770216aC60F634483Ec073cBABC4011c94307Cb",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The cbBTC Core Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
+    "description": "The cbBTC Core Vault will list a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
     "history": [
       {
         "action": "added",
@@ -1935,7 +1935,7 @@
     "address": "0xc0c5689e6f4D256E861F65465b691aeEcC0dEb12",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The USDC Core Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
+    "description": "The USDC Core Vault will list a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
     "history": [
       {
         "action": "added",
@@ -2023,7 +2023,7 @@
     "address": "0x6b13c060F13Af1fdB319F52315BbbF3fb1D88844",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The WETH Core Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets.",
+    "description": "The WETH Core Vault will list a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets.",
     "history": [
       {
         "action": "added",
@@ -2215,7 +2215,7 @@
     "address": "0x08C00F8279dFF5B0CB5a04d349E7d79708Ceadf3",
     "chainId": 999,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet USDC Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for USDC suppliers.",
+    "description": "The Gauntlet USDC Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for USDC suppliers.",
     "history": [
       {
         "action": "added",
@@ -2363,7 +2363,7 @@
     "address": "0xC30ce6A5758786e0F640cC5f881Dd96e9a1C5C59",
     "chainId": 10,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The USDC Prime vault will whitelist highly liquid large-cap collateral markets and continuously optimize for risk-adjusted yield across collateral markets.",
+    "description": "The USDC Prime vault will list highly liquid large-cap collateral markets and continuously optimize for risk-adjusted yield across collateral markets.",
     "history": [
       {
         "action": "added",
@@ -2387,7 +2387,7 @@
     "address": "0x1c155be6bC51F2c37d472d4C2Eba7a637806e122",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/eurc.svg",
-    "description": "The EURC Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those collateral markets.",
+    "description": "The EURC Vault will list a range of liquid collateral markets and continuously optimize risk-adjusted yield across those collateral markets.",
     "history": [
       {
         "action": "added",
@@ -2411,7 +2411,7 @@
     "address": "0x43Cd00De63485618A5CEEBE0de364cD6cBeB26E7",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/metronome.svg",
-    "description": "The Metronome msETH vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those collateral markets.",
+    "description": "The Metronome msETH vault will list a range of liquid collateral markets and continuously optimize risk-adjusted yield across those collateral markets.",
     "history": [
       {
         "action": "added",
@@ -2423,7 +2423,7 @@
     "address": "0x0D05e6ec0A10f9fFE9229EAA785c11606a1d13Fb",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The LBTC Core Vault will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
+    "description": "The LBTC Core Vault will list a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
     "history": [
       {
         "action": "added",
@@ -3099,7 +3099,7 @@
     "address": "0x781FB7F6d845E3bE129289833b04d43Aa8558c42",
     "chainId": 137,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
-    "description": "The Compound USDC Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where the curator balances security and yield to provide a moderate risk profile and competitive APY for USDC suppliers.",
+    "description": "The Compound USDC Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where the curator balances security and yield to provide a moderate risk profile and competitive APY for USDC suppliers.",
     "history": [
       {
         "action": "added",
@@ -3111,7 +3111,7 @@
     "address": "0xF5C81d25ee174d83f1FD202cA94AE6070d073cCF",
     "chainId": 137,
     "image": "https://cdn.morpho.org/assets/logos/eth.svg",
-    "description": "The Compound WETH Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where the curator balances security and yield to provide a moderate risk profile and competitive APY for WETH suppliers.",
+    "description": "The Compound WETH Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where the curator balances security and yield to provide a moderate risk profile and competitive APY for WETH suppliers.",
     "history": [
       {
         "action": "added",
@@ -3135,7 +3135,7 @@
     "address": "0xfD06859A671C21497a2EB8C5E3fEA48De924D6c8",
     "chainId": 137,
     "image": "https://cdn.morpho.org/assets/logos/usdt.svg",
-    "description": "The Compound USDT Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where the curator balances security and yield to provide a moderate risk profile and competitive APY for USDT suppliers.",
+    "description": "The Compound USDT Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where the curator balances security and yield to provide a moderate risk profile and competitive APY for USDT suppliers.",
     "history": [
       {
         "action": "added",
@@ -3159,7 +3159,7 @@
     "address": "0x3F33F9f7e2D7cfBCBDf8ea8b870a6E3d449664c2",
     "chainId": 137,
     "image": "https://cdn.morpho.org/assets/logos/pol.svg",
-    "description": "The Compound POL Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield.",
+    "description": "The Compound POL Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield.",
     "history": [
       {
         "action": "added",
@@ -3171,7 +3171,7 @@
     "address": "0x139250CdB310D657eAC506c7C7FC6AcDE34Af1ec",
     "chainId": 42161,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet USDT0 Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for USDT suppliers",
+    "description": "The Gauntlet USDT0 Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for USDT suppliers",
     "history": [
       {
         "action": "added",
@@ -3251,7 +3251,7 @@
     "address": "0x812B2C6Ab3f4471c0E43D4BB61098a9211017427",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/wbtc.svg",
-    "description": "The WBTC Vault Bridge will whitelist a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets.",
+    "description": "The WBTC Vault Bridge will list a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets.",
     "history": [
       {
         "action": "added",
@@ -3383,7 +3383,7 @@
     "address": "0x38f4f3B6533de0023b9DCd04b02F93d36ad1F9f9",
     "chainId": 130,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
-    "description": "The Gauntlet USDC Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where the curator balances security and yield to provide a moderate risk profile and competitive APY for USDC suppliers.",
+    "description": "The Gauntlet USDC Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where the curator balances security and yield to provide a moderate risk profile and competitive APY for USDC suppliers.",
     "history": [
       {
         "action": "added",
@@ -3395,7 +3395,7 @@
     "address": "0x830898200F0E8Be8Dc1C9A836f4AB29ECEdf76eb",
     "chainId": 130,
     "image": "https://cdn.morpho.org/assets/logos/weth.svg",
-    "description": "The Gauntlet WETH Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where the curator balances security and yield to provide a moderate risk profile and competitive APY for WETH suppliers.",
+    "description": "The Gauntlet WETH Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where the curator balances security and yield to provide a moderate risk profile and competitive APY for WETH suppliers.",
     "history": [
       {
         "action": "added",
@@ -3407,7 +3407,7 @@
     "address": "0x89849B6e57e1c61e447257242bDa97c70FA99b6b",
     "chainId": 130,
     "image": "https://cdn.morpho.org/assets/logos/usdt.svg",
-    "description": "The USDT0 Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where the curator balances security and yield to provide a moderate risk profile and competitive APY for USDT0 suppliers.",
+    "description": "The USDT0 Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where the curator balances security and yield to provide a moderate risk profile and competitive APY for USDT0 suppliers.",
     "history": [
       {
         "action": "added",
@@ -3719,7 +3719,7 @@
     "address": "0x9540441C503D763094921dbE4f13268E6d1d3B56",
     "chainId": 747474,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet AUSD Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for AUSD suppliers.",
+    "description": "The Gauntlet AUSD Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for AUSD suppliers.",
     "history": [
       {
         "action": "added",
@@ -3731,7 +3731,7 @@
     "address": "0xE4248e2105508FcBad3fe95691551d1AF14015f7",
     "chainId": 747474,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet USDC Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for USDC suppliers.",
+    "description": "The Gauntlet USDC Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for USDC suppliers.",
     "history": [
       {
         "action": "added",
@@ -3743,7 +3743,7 @@
     "address": "0x1ecDC3F2B5E90bfB55fF45a7476FF98A8957388E",
     "chainId": 747474,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet USDT Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for USDT suppliers.",
+    "description": "The Gauntlet USDT Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for USDT suppliers.",
     "history": [
       {
         "action": "added",
@@ -3755,7 +3755,7 @@
     "address": "0xBD14bEa2eCECeCD5F32149B0f84BE7f7F446B964",
     "chainId": 42161,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet WETH Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for WETH suppliers",
+    "description": "The Gauntlet WETH Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for WETH suppliers",
     "history": [
       {
         "action": "added",
@@ -3771,7 +3771,7 @@
     "address": "0x34eCe536d2ae03192B06c0A67030D1Faf4c0Ba43",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
-    "description": "The MEV Capital EURCV Prime vault aims to optimize Euro-based yields by lending EURCV against whitelisted collateral assets including BTC, wstETH and Euro-denominated RWAs.",
+    "description": "The MEV Capital EURCV Prime vault aims to optimize Euro-based yields by lending EURCV against listed collateral assets including BTC, wstETH and Euro-denominated RWAs.",
     "history": [
       {
         "action": "added",
@@ -3795,7 +3795,7 @@
     "address": "0xC5e7AB07030305fc925175b25B93b285d40dCdFf",
     "chainId": 747474,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet WETH Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for WETH suppliers.",
+    "description": "The Gauntlet WETH Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for WETH suppliers.",
     "history": [
       {
         "action": "added",
@@ -3835,7 +3835,7 @@
     "address": "0xf243523996ADbb273F0B237B53f30017C4364bBC",
     "chainId": 747474,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet WBTC Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for WBTC suppliers.",
+    "description": "The Gauntlet WBTC Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for WBTC suppliers.",
     "history": [
       {
         "action": "added",
@@ -4063,7 +4063,7 @@
     "address": "0x5593bf07cB1aDa24462EF23240c530441BBAd3e8",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
-    "description": "The MEV Capital USDCV Prime vault aims to optimize Dollar-based yields by lending USDCV against whitelisted collateral assets including BTC - wstETH and Dollar-denominated RWAs.",
+    "description": "The MEV Capital USDCV Prime vault aims to optimize Dollar-based yields by lending USDCV against listed collateral assets including BTC - wstETH and Dollar-denominated RWAs.",
     "forumLink": "https://forum.morpho.org/c/metamorpho/mev-capital/30",
     "history": [
       {
@@ -4112,7 +4112,7 @@
     "address": "0x2ed10624315b74a78f11FAbedAa1A228c198aEfB",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet EURC Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for EURC suppliers.",
+    "description": "The Gauntlet EURC Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for EURC suppliers.",
     "history": [
       {
         "action": "added",
@@ -4140,7 +4140,7 @@
     "address": "0x0571362ba5EA9784a97605f57483f865A37dBEAA",
     "chainId": 999,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet WETH Vault will whitelist a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for WETH suppliers.",
+    "description": "The Gauntlet WETH Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vaults risk strategy will follow the CORE framework where Gauntlet curates deposits to balance security and yield to provide a moderate risk profile and competitive APY for WETH suppliers.",
     "history": [
       {
         "action": "added",
