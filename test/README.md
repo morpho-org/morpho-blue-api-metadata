@@ -209,7 +209,7 @@ No test for this one
      - name (string)
      - symbol (string)
      - decimals (number, range 0-18)
-     - islisted (boolean)
+     - isWhitelisted (boolean)
    - Validates metadata structure:
      - metadata.logoURI (optional string)
    - Collects and reports all validation errors in a single test run
