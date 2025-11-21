@@ -2,7 +2,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
     "name": "MEV Capital",
-    "url": "https://mevcapital.com/",
     "verified": true,
     "addresses": {
       "1": [
@@ -40,7 +39,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
     "name": "Gauntlet",
-    "url": "https://www.gauntlet.xyz/",
     "verified": true,
     "addresses": {
       "1": [
@@ -84,7 +82,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
     "name": "9Summits",
-    "url": "https://9summits.io/",
     "verified": true,
     "addresses": {
       "1": [
@@ -113,7 +110,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/tulipa-capital.svg",
     "name": "Tulipa Capital",
-    "url": "https://www.tulipa.capital/",
     "verified": true,
     "addresses": {
       "1": [
@@ -131,7 +127,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/block-analitica.png",
     "name": "Block Analitica",
-    "url": "https://blockanalitica.com/",
     "verified": true,
     "addresses": {
       "1": [
@@ -154,7 +149,6 @@
   },
   {
     "image": "https://cdn.morpho.org/v2/assets/images/bprotocol.png",
-    "url": "https://www.bprotocol.org/",
     "name": "B.Protocol",
     "verified": true,
     "addresses": {
@@ -181,7 +175,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
     "name": "RE7 Labs",
-    "url": "https://www.re7labs.xyz/",
     "verified": true,
     "addresses": {
       "1": [
@@ -216,7 +209,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
     "name": "Steakhouse Financial",
-    "url": "https://www.steakhouse.financial",
     "verified": true,
     "addresses": {
       "1": [
@@ -237,12 +229,17 @@
         "0x0A0e559bc3b0950a7e448F0d4894db195b9cf8DD",
         "0x827e86072B06674a077f592A531dcE4590aDeCdB"
       ],
+      "143": [
+        "0x0A0e559bc3b0950a7e448F0d4894db195b9cf8DD",
+        "0x827e86072B06674a077f592A531dcE4590aDeCdB"
+      ],
       "8453": [
         "0x0A0e559bc3b0950a7e448F0d4894db195b9cf8DD",
         "0x0000aeB716a0DF7A9A1AAd119b772644Bc089dA8",
         "0x827e86072B06674a077f592A531dcE4590aDeCdB",
         "0x74E9c67ddB0Ef85D6EcC8dD03A3Cf8Ed1e0c827B",
-        "0x2f06934AfC376f41d4CCFe1D000496107bCf6e21"
+        "0x2f06934AfC376f41d4CCFe1D000496107bCf6e21",
+        "0x59f7d7D34dB803961ce5882BbA168fD711292392"
       ],
       "42161": [
         "0x0A0e559bc3b0950a7e448F0d4894db195b9cf8DD",
@@ -263,7 +260,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/relend.png",
     "name": "Relend Network",
-    "url": "https://relend.network/",
     "verified": true,
     "addresses": {
       "1": [
@@ -287,7 +283,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
     "name": "Hyperithm",
-    "url": "https://www.hyperithm.com/",
     "verified": true,
     "addresses": {
       "1": [
@@ -313,7 +308,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/spark.svg",
     "name": "SparkDAO",
-    "url": "https://spark.fi/",
     "verified": true,
     "addresses": {
       "1": [
@@ -333,7 +327,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/llamarisk.svg",
     "name": "LlamaRisk",
-    "url": "https://www.llamarisk.com/",
     "verified": true,
     "addresses": {
       "1": [
@@ -350,7 +343,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/apostro.svg",
     "name": "Apostro",
-    "url": "https://apostro.xyz",
     "verified": true,
     "addresses": {
       "1": [
@@ -372,7 +364,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
     "name": "AlphaPing",
-    "url": "https://alphaping.ch/",
     "verified": true,
     "addresses": {
       "1": [
@@ -399,7 +390,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/hakutora.png",
     "name": "Hakutora",
-    "url": "https://hakutora.xyz/",
     "verified": true,
     "addresses": {
       "1": [
@@ -417,7 +407,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/ouroboros.svg",
     "name": "Ouroboros Capital",
-    "url": "https://ourocap.io/",
     "verified": true,
     "addresses": {
       "1": [
@@ -435,7 +424,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
     "name": "Clearstar",
-    "url": "https://www.clearstar.xyz/",
     "verified": true,
     "addresses": {
       "1": [
@@ -473,7 +461,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
     "name": "Yearn",
-    "url": "https://yearn.fi/apps",
     "verified": true,
     "addresses": {
       "1": [
@@ -499,7 +486,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/k3-capital.svg",
     "name": "K3 Capital",
-    "url": "https://www.k3.capital/",
     "verified": true,
     "addresses": {
       "1": [
@@ -519,7 +505,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
     "name": "Edge Capital UltraYield",
-    "url": "https://edgecapital.xyz/",
     "verified": true,
     "addresses": {
       "1": [
@@ -546,7 +531,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/avantgarde.svg",
     "name": "Avantgarde",
-    "url": "https://avantgarde.finance/",
     "verified": true,
     "addresses": {
       "1": [
@@ -568,7 +552,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/singularv.svg",
     "name": "SingularV",
-    "url": "https://www.singularv.xyz/",
     "verified": true,
     "addresses": {
       "1": [
@@ -591,7 +574,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/august.svg",
     "name": "August Digital",
-    "url": "https://augustdigital.io/",
     "verified": true,
     "addresses": {
       "1": [
@@ -607,7 +589,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/pangolins.svg",
     "name": "Pangolins",
-    "url": "https://pangolins.io/",
     "verified": true,
     "addresses": {
       "1": [
@@ -632,7 +613,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/felix.svg",
     "name": "Felix",
-    "url": "https://www.usefelix.xyz/",
     "verified": true,
     "addresses": {
       "999": [
@@ -649,7 +629,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/keyrock.svg",
     "name": "Keyrock",
-    "url": "https://keyrock.com/",
     "verified": true,
     "addresses": {
       "1": [
@@ -666,7 +645,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
     "name": "kpk",
-    "url": "https://kpk.io",
     "verified": true,
     "addresses": {
       "1": [
@@ -689,7 +667,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/architect.svg",
     "name": "Architect",
-    "url": "https://architect.systems/",
     "verified": true,
     "addresses": {
       "8453": [
@@ -707,7 +684,6 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/anthias.svg",
     "name": "Anthias Labs",
-    "url": "https://anthias.xyz/",
     "verified": true,
     "addresses": {
       "8453": [
@@ -764,7 +740,6 @@
   {
     "name": "Compound DAO",
     "image": "https://cdn.morpho.org/v2/assets/images/compound.svg",
-    "url": "https://compound.finance/",
     "verified": true,
     "addresses": {
       "137": [
@@ -777,7 +752,6 @@
   {
     "name": "Elixir",
     "image": "https://cdn.morpho.org/v2/assets/images/elixir.svg",
-    "url": "https://www.elixir.xyz/",
     "verified": true,
     "addresses": {
       "1": [
@@ -790,7 +764,6 @@
   {
     "name": "Olympus",
     "image": "https://cdn.morpho.org/v2/assets/images/olympus.svg",
-    "url": "https://www.olympusdao.finance/",
     "verified": true,
     "addresses": {
       "1": [
@@ -803,7 +776,6 @@
   {
     "name": "USDU DAO",
     "image": "https://cdn.morpho.org/v2/assets/images/usdudao.svg",
-    "url": "https://usdu.finance/",
     "verified": true,
     "addresses": {
       "1": [
