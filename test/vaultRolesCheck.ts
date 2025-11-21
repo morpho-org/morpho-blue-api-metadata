@@ -90,18 +90,26 @@ const clients = {
     chain: polygon,
     transport: http(),
   }),
-    747474: createPublicClient({
-      chain: katana,
-      transport: http(),
+  747474: createPublicClient({
+    chain: katana,
+    transport: http(),
   }),
-    42161: createPublicClient({
-      chain: arbitrum,
-      transport: http(),
-    }),
-    999: createPublicClient({
-      chain: hyperevm,
-      transport: http(),
-    }),
+  42161: createPublicClient({
+    chain: arbitrum,
+    transport: http(),
+  }),
+  999: createPublicClient({
+    chain: hyperevm,
+    transport: http(),
+  }),
+  988: createPublicClient({
+    chain: stable,
+    transport: http(),
+  }),
+  143: createPublicClient({
+    chain: monad,
+    transport: http(),
+  }),
 };
 
 async function checkAddressRisk(
@@ -154,7 +162,7 @@ async function getVaultRoles(
     });
 
     // We'll check a few common addresses to see if they're allocators
-    // In a real implementation, you might want to check all addresses from the whitelist
+    // In a real implementation, you might want to check all addresses from the list
     const potentialAllocators = [
       owner,
       curator,
@@ -202,11 +210,11 @@ async function main() {
     process.exit(1);
   }
 
-  // Load vaults whitelist
-  const filePath = path.join(__dirname, "../data/vaults-whitelist.json");
+  // Load vaults listing
+  const filePath = path.join(__dirname, "../data/vaults-listing.json");
   const vaults = JSON.parse(fs.readFileSync(filePath, "utf8")) as VaultData[];
 
-  console.log(`Loaded ${vaults.length} vaults from whitelist`);
+  console.log(`Loaded ${vaults.length} vaults from listing`);
 
   // Set to store unique addresses
   const uniqueAddresses = new Set<string>();

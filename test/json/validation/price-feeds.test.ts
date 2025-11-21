@@ -1,6 +1,6 @@
 // test/json/validation/price-feeds.test.ts
 import { describe, expect, test } from "@jest/globals";
-import { loadJsonFile } from "../../utils/jsonValidators";
+import { loadJsonFile, VALID_CHAIN_IDS } from "../../utils/jsonValidators";
 import { getAddress } from "viem";
 
 interface Token {
@@ -21,15 +21,7 @@ interface PriceFeed {
 describe("price-feeds.json validation", () => {
   const allPriceFeeds = loadJsonFile("price-feeds.json") as PriceFeed[];
   const priceFeeds = allPriceFeeds.filter(
-    (feed) =>
-      feed.chainId === 1 ||
-      feed.chainId === 8453 ||
-      feed.chainId === 10 ||
-      feed.chainId === 130 ||
-      feed.chainId === 137 ||
-      feed.chainId === 999 ||
-      feed.chainId === 747474 ||
-      feed.chainId === 42161
+    (feed) => VALID_CHAIN_IDS.includes(feed.chainId as typeof VALID_CHAIN_IDS[number])
   );
 
   test("addresses are checksummed", () => {
@@ -74,8 +66,8 @@ describe("price-feeds.json validation", () => {
     }
   });
 
-  test("chain IDs are valid (1, 8453, 10, 130, 137, 999, 747474 or 42161)", () => {
-    const validChainIds = [1, 8453, 10, 130, 137, 999, 747474, 42161];
+  test("chain IDs are valid", () => {
+    const validChainIds: number[] = [...VALID_CHAIN_IDS];
     const errors: string[] = [];
 
     priceFeeds.forEach((feed, index) => {

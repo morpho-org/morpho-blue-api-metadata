@@ -1,16 +1,16 @@
 # Specifications about Tests
 
-1. [Morpho Vault whitelisting](#1-morpho-vault-whitelisting)
+1. [Morpho Vault listing](#1-morpho-vault-listing)
 2. [Markets blacklisting](#2-market-blacklisting)
-3. [Price feed whitelisting](#3-price-feed-whitelisting)
+3. [Price feed listing](#3-price-feed-listing)
 4. [Price mappings](#4-price-mappings)
-5. [Tokens whitelisting](#5-tokens-whitelisting)
+5. [Tokens listing](#5-tokens-listing)
 6. [Exchange rate](#6-exchange-rate)
 7. [Custom warnings](#7-custom-warnings)
 
-## 1. Morpho Vault whitelisting
+## 1. Morpho Vault listing
 
-[vault-whitelist](./json/validation/vaults-whitelist.test.ts)
+[vault-list](./json/validation/vaults-list.test.ts)
 
 ### Test Specifications:
 
@@ -45,7 +45,7 @@
 
 No test for this one
 
-## 3. Price feed whitelisting
+## 3. Price feed listing
 
 [price-feeds](./json/validation/price-feeds.test.ts)
 
@@ -62,7 +62,7 @@ No test for this one
 
 2. **Chain ID Validation**
 
-   - Ensures all chain IDs are either 1 (Ethereum), 8453 (Base), 10 (OP Mainnet), 130 (Unichain), 137 (PolygonPOS), 999 (HyperEVM), 747474 (Katana) and Arbitrum (42161).
+   - Ensures all chain IDs are either 1 (Ethereum), 8453 (Base), 10 (OP Mainnet), 130 (Unichain), 137 (PolygonPOS), 999 (HyperEVM), 747474 (Katana), Arbitrum (42161), Monad (143) and Stable (988).
    - Validates chain IDs for:
      - Main price feed
      - TokenIn configuration
@@ -99,7 +99,7 @@ No test for this one
 
 2. **Chain ID Validation**
 
-   - Ensures all chain IDs are either 1 (Ethereum), 8453 (Base), 10 (OP Mainnet), 130 (Unichain), 137 (PolygonPOS), 999 (HyperEVM), 747474 (Katana) and Arbitrum (42161).
+   - Ensures all chain IDs are either 1 (Ethereum), 8453 (Base), 10 (OP Mainnet), 130 (Unichain), 137 (PolygonPOS), 999 (HyperEVM), 747474 (Katana), Arbitrum (42161), Monad (143) and Stable (988).
    - Validates both:
      - Asset chain ID
      - Contract chain ID
@@ -151,7 +151,7 @@ No test for this one
 
 2. **Chain ID Validation**
 
-   - Ensures all chain IDs are either 1 (Ethereum), 8453 (Base), 10 (OP Mainnet), 130 (Unichain), 137 (PolygonPOS), 999 (HyperEVM), 747474 (Katana) and Arbitrum (42161).
+   - Ensures all chain IDs are either 1 (Ethereum), 8453 (Base), 10 (OP Mainnet), 130 (Unichain), 137 (PolygonPOS), 999 (HyperEVM), 747474 (Katana), Arbitrum (42161), Monad (143) and Stable (988).
    - Validates both:
      - Asset chain ID
      - Contract chain ID
@@ -184,7 +184,7 @@ No test for this one
      - curve_pool
    - Reports any invalid type values
 
-## 5. Tokens whitelisting
+## 5. Tokens listing
 
 [tokens](./json/validation/tokens.test.ts)
 
@@ -231,7 +231,7 @@ No test for this one
 
 2. **Chain ID Validation**
 
-   - Ensures all chain IDs are either 1 (Ethereum), 8453 (Base), 10 (OP Mainnet), 130 (Unichain), 137 (PolygonPOS), 999 (HyperEVM), 747474 (Katana) and Arbitrum (42161).
+   - Ensures all chain IDs are either 1 (Ethereum), 8453 (Base), 10 (OP Mainnet), 130 (Unichain), 137 (PolygonPOS), 999 (HyperEVM), 747474 (Katana), Arbitrum (42161), Monad (143) and Stable (988).
    - Validates both:
      - Asset chain ID
      - Contract chain ID

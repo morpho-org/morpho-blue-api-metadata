@@ -1,15 +1,16 @@
-// test/json/validation/vaults-whitelist.test.ts
+// test/json/validation/vaults-listing.test.ts
 import { describe, expect, test } from "@jest/globals";
-import { loadJsonFile } from "../../utils/jsonValidators";
+import { loadJsonFile, VALID_CHAIN_IDS } from "../../utils/jsonValidators";
 import { getAddress } from "viem"; // We'll use viem for checksum validation
 
-interface VaultV2 {
+interface Vault {
   address: string;
   chainId: number;
   description: string;
 }
-describe("vaults-v2-whitelist.json validation", () => {
-  const vaults = loadJsonFile("vaults-v2-whitelist.json") as VaultV2[];
+
+describe("vaults-listing.json validation", () => {
+  const vaults = loadJsonFile("vaults-listing.json") as Vault[];
 
   test("each vault address is checksummed", () => {
     vaults.forEach((vault, index) => {
@@ -78,11 +79,29 @@ describe("vaults-v2-whitelist.json validation", () => {
         );
       }
     });
-
     // If we collected any errors, fail the test with all error messages
     if (errors.length > 0) {
       throw new Error(
         `Found ${errors.length} validation errors:\n\n${errors.join("\n\n")}`
+      );
+    }
+  });
+
+  test("chain IDs are valid", () => {
+    const validChainIds: number[] = [...VALID_CHAIN_IDS];
+    const errors: string[] = [];
+
+    vaults.forEach((vault, index) => {
+      if (!validChainIds.includes(vault.chainId)) {
+        errors.push(
+          `Vault at index ${index} has invalid chain ID: ${vault.chainId}`
+        );
+      }
+    });
+
+    if (errors.length > 0) {
+      throw new Error(
+        `Found ${errors.length} invalid chain ID errors:\n\n${errors.join("\n\n")}`
       );
     }
   });

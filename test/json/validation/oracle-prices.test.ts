@@ -1,6 +1,6 @@
 // test/json/validation/oracle-prices.test.ts
 import { describe, expect, test } from "@jest/globals";
-import { loadJsonFile } from "../../utils/jsonValidators";
+import { loadJsonFile, VALID_CHAIN_IDS } from "../../utils/jsonValidators";
 import { getAddress } from "viem";
 
 interface OraclePriceData {
@@ -25,12 +25,12 @@ interface OraclePrice {
 }
 
 describe("oracle-prices.json validation", () => {
-  // Load and filter oracle prices for only chain IDs 1, 8453, 10, 130, 137, 999, 747474, 42161
+  // Load and filter oracle prices for only chain IDs 1, 8453, 10, 130, 137, 143, 988, 999, 747474, 42161
   const allOraclePrices = loadJsonFile("oracle-prices.json") as OraclePrice[];
   const oraclePrices = allOraclePrices.filter(
     (price) =>
-      (price.assetChainId === 1 || price.assetChainId === 8453 || price.assetChainId === 10 || price.assetChainId === 130 || price.assetChainId === 137 || price.assetChainId === 999 || price.assetChainId === 747474 || price.assetChainId === 42161) &&
-      (price.contractChainId === 1 || price.contractChainId === 8453 || price.contractChainId === 10 || price.contractChainId === 130 || price.contractChainId === 137 || price.contractChainId === 999 || price.contractChainId === 747474 || price.contractChainId === 42161)
+      (price.assetChainId === 1 || price.assetChainId === 8453 || price.assetChainId === 10 || price.assetChainId === 130 || price.assetChainId === 137 || price.assetChainId === 143 || price.assetChainId === 988 || price.assetChainId === 999 || price.assetChainId === 747474 || price.assetChainId === 42161) &&
+      (price.contractChainId === 1 || price.contractChainId === 8453 || price.contractChainId === 10 || price.contractChainId === 130 || price.contractChainId === 137 || price.contractChainId === 143 || price.contractChainId === 988 || price.contractChainId === 999 || price.contractChainId === 747474 || price.contractChainId === 42161)
   );
 
   test("addresses are checksummed", () => {
@@ -51,8 +51,8 @@ describe("oracle-prices.json validation", () => {
     });
   });
 
-  test("chain IDs are valid (1, 8453, 10, 130, 137, 999, 747474 or 42161)", () => {
-    const validChainIds = [1, 8453, 10, 130, 137, 999, 747474, 42161];
+  test("chain IDs are valid", () => {
+    const validChainIds: number[] = [...VALID_CHAIN_IDS];
     const errors: string[] = [];
 
     oraclePrices.forEach((price, index) => {
