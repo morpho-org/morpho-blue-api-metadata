@@ -160,6 +160,18 @@
     ]
   },
   {
+    "address": "0xBeeF0c8333b3De8F0450565834db4EB05dEf7A5F",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse Prime XSGD vault aims to optimize yields by lending XSGD against blue chip crypto assets.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1763569537
+      }
+    ]
+  },
+  {
     "address": "0x132E6C9C33A62D7727cd359b1f51e5B566E485Eb",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/resolv-vault.png",
