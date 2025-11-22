@@ -245,6 +245,18 @@
     ]
   },
   {
+    "address": "0x4Ef53d2cAa51C447fdFEEedee8F07FD1962C9ee6",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
+    "description": "ff",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1763776489
+      }
+    ]
+  },
+  {
     "address": "0xc9C474C6Aa0E930ED42fD1f40be5b1d6A5eAD645",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
