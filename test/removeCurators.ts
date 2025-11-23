@@ -2,8 +2,8 @@ import { readFileSync, writeFileSync, existsSync } from "fs";
 import { join } from "path";
 
 /**
- * Script to remove "curators" properties from all vault entries in vault-whitelist.json ONLY
- * This script specifically targets only the vault-whitelist.json file and preserves all other data
+ * Script to remove "curators" properties from all vault entries in vault-list.json ONLY
+ * This script specifically targets only the vault-list.json file and preserves all other data
  */
 
 interface Curator {
@@ -94,8 +94,8 @@ function removeCuratorsFromFile(filePath: string): void {
 function main(): void {
   const dataDir = "../data";
   
-  // ONLY target vault-whitelist.json as requested
-  const targetFile = "vaults-whitelist.json";
+  // ONLY target vaults-listing.json as requested
+  const targetFile = "vaults-listing.json";
   const filePath = join(dataDir, targetFile);
 
   console.log("🚀 Starting curators removal process...");

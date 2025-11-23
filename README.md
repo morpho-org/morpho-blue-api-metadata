@@ -1,26 +1,33 @@
 # Morpho blue api metadata
 
+> **MIGRATION NOTICE:** We are transitioning from "whitelisting" to "listing" nomenclature. The following files have been renamed:
+> - `curators-whitelist.json` → `curators-listing.json`
+> - `vaults-v2-whitelist.json` → `vaults-v2-listing.json`
+> - `vaults-whitelist.json` → `vaults-listing.json`
+>
+> Old file names will remain active for 7 days to ensure smooth transition, after which they will be archived.
+
 This repository contains the metadata for the Morpho blue api that need to be managed manually.
 It includes:
 
-1. [Morpho Vault whitelisting](#1-morpho-vault-whitelisting)
+1. [Morpho Vault listing](#1-morpho-vault-listing)
 2. [Markets blacklisting](#2-market-blacklisting)
-3. [Price feed whitelisting](#3-price-feed-whitelisting)
+3. [Price feed listing](#3-price-feed-listing)
 4. [Price mappings](#4-price-mappings)
-5. [Tokens whitelisting](#5-tokens-whitelisting)
+5. [Tokens listing](#5-tokens-listing)
 6. [Exchange rate](#6-exchange-rate)
 7. [Custom warnings](#7-custom-warnings)
-8. [Curator whitelisting](#8-curator-whitelisting)
+8. [Curator listing](#8-curator-listing)
 
 > The format of the data folder SHOULD NOT be modified, in order to let the api read the data.
 
-# Whitelisting & warnings
+# Listing & warnings
 
-## 1. Morpho Vault whitelisting
+## 1. Morpho Vault listing
 
-Controls the whitelisted Morpho Vaults and their metadata.
+Controls the listed Morpho Vaults and their metadata.
 
-> Markets are **whitelisted** as soon as a whitelisted Morpho Vault has the market in its withdraw queue.
+> Markets are **automatically listed** as soon as a listed Morpho Vault has the market in its withdraw queue.
 
 ### Required Fields
 
@@ -80,11 +87,11 @@ Each vault entry must include the following fields:
 
 ### Files
 
-[vaults-whitelist.json](./data/vaults-whitelist.json)
+[vaults-listing.json](./data/vaults-listing.json)
 
 ## 2. Market blacklisting
 
-Controls blacklisted markets by countries. As a reminder, markets are automatically whitelisted when a whitelisted Morpho Vault is allocating to it.
+Controls blacklisted markets by countries. As a reminder, markets are automatically listed when a listed Morpho Vault is allocating to it.
 
 ### Required Fields
 
@@ -110,9 +117,9 @@ Each blacklist entry must include:
 
 [markets-blacklist.json](./data/markets-blacklist.json)
 
-## 3. Price Feed whitelisting [Deprecated]
+## 3. Price Feed listing [Deprecated]
 
-Controls the whitelisted price feeds used by the protocol. Each price feed entry represents a specific price oracle implementation.
+Controls the listed price feeds used by the protocol. Each price feed entry represents a specific price oracle implementation.
 
 ### Required Fields
 
@@ -185,20 +192,20 @@ Spot prices are used to calculate the price of an asset to ETH.
 
 Eg. wstETH -> ETH
 
-## 5. Tokens whitelisting
+## 5. Tokens listing
 
-Controls the whitelisted tokens recognized by the protocol. Each token entry represents an ERC-20 token deployed on a supported chain (Ethereum, Base, OP Mainnet, Polygon, Arbitrum, Unichain, Katana or HyperEVM).
+Controls the listed tokens recognized by the protocol. Each token entry represents an ERC-20 token deployed on a supported chain (Ethereum, Base, OP Mainnet, Polygon, Arbitrum, Unichain, Katana, HyperEVM, Monad, Stable).
 
 ### Required Fields
 
 Each token entry must include:
 
-- `chainId`: Chain ID where the token is deployed (supports 1, 8453, 10, 130, 137, 999, 42161, 747474)
+- `chainId`: Chain ID where the token is deployed (supports 1, 8453, 10, 130, 137, 143, 988, 999, 42161, 747474)
 - `address`: Checksummed contract address of the token
 - `name`: Name of the token (ERC-20)
 - `symbol`: Symbol of the token (ERC-20)
 - `decimals`: Number of decimals for the token (0-18)
-- `isWhitelisted`: Boolean flag indicating if the token is whitelisted
+- `isWhitelisted`: Boolean flag indicating if the token is listed
 - `metadata`: Object containing additional token information:
 
   - `logoURI`: URL to the token's logo image.
@@ -395,14 +402,14 @@ In case of emergency, or particular situation, Morpho Labs team is able to add c
 
 [custom-warnings.json](./data/custom-warnings.json)
 
-## 8. Curator whitelisting
+## 8. Curator listing
 
 Controls the known curators and the addresses they manage.
 
 > [!Note]
 > Any vault that have an `owner` or a `curator` address referenced as managed by a curator will automatically be flagged as curated by this curator, unless the `owner` is unknown [*].
 
-_[*] This is to prevent anyone from having their vault flagged as "curated by X" just by setting any whitelisted address as `curator`_
+_[*] This is to prevent anyone from having their vault flagged as "curated by X" just by setting any listed address as `curator`_
 
 ### Required Fields
 
@@ -417,7 +424,7 @@ Each curator entry must include the following fields:
 
 > [!Note]
 >
-> - All curators must be verified (`verified: true`) to be included in the whitelist
+> - All curators must be verified (`verified: true`) to be included in the listing
 > - Pure owners (`ownerOnly: true`) must have empty `image` and `url` fields as they won't be displayed in the UI
 > - An address can be managed by different curators
 
@@ -450,4 +457,4 @@ Each curator entry must include the following fields:
 
 ### Files
 
-[curators-whitelist.json](./data/curators-whitelist.json)
+[curators-listing.json](./data/curators-listing.json)

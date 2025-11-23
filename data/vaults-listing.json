@@ -1932,6 +1932,18 @@
     ]
   },
   {
+    "address": "0x4eeA4D8a65Aaf1aC9A23fA232B77D5134cF6CCE2",
+    "chainId": 988,
+    "image": "https://cdn.morpho.org/v2/assets/images/test.png",
+    "description": "TEST",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1763560380
+      }
+    ]
+  },
+  {
     "address": "0xc0c5689e6f4D256E861F65465b691aeEcC0dEb12",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
@@ -4185,29 +4197,6 @@
       {
         "action": "added",
         "timestamp": 1759997565
-      }
-    ]
-  },
-  {
-    "address": "0x6949bcab16c0B389095C5b744f6FBF9741A1b3b6",
-    "chainId": 143,
-    "image": "https://cdn.morpho.org/assets/logos/eth.svg",
-    "description": "This is a test vault",
-    "history": [
-      {
-        "action": "added",
-        "timestamp": 1763899991
-      }
-    ]
-  },
-    "address": "0x4eeA4D8a65Aaf1aC9A23fA232B77D5134cF6CCE2",
-    "chainId": 988,
-    "image": "https://cdn.morpho.org/v2/assets/images/test.png",
-    "description": "TEST",
-    "history": [
-      {
-        "action": "added",
-        "timestamp": 1763560380
       }
     ]
   }

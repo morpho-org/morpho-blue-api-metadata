@@ -2,7 +2,7 @@ import { readFileSync, writeFileSync, existsSync } from "fs";
 import { join } from "path";
 
 /**
- * Script to remove "forumLink" properties from all vault entries in vault whitelist files
+ * Script to remove "forumLink" properties from all vault entries in vault listing files
  */
 
 interface Curator {
@@ -80,8 +80,8 @@ function main(): void {
   
   // List of vault files to process
   const vaultFiles = [
-    "vaults-whitelist.json",
-    "vaults-v2-whitelist.json"
+    "vaults-listing.json",
+    "vaults-v2-listing.json"
   ];
 
   console.log("🚀 Starting forumLink removal process...\n");
