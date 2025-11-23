@@ -3735,5 +3735,17 @@
         "timestamp": 1759997565
       }
     ]
+  },
+  {
+    "address": "0x6949bcab16c0B389095C5b744f6FBF9741A1b3b6",
+    "chainId": 143,
+    "image": "https://cdn.morpho.org/assets/logos/eth.svg",
+    "description": "This is a test vault",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1763899991
+      }
+    ]
   }
 ]
