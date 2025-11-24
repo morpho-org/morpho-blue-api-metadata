@@ -337,5 +337,53 @@
         "timestamp": 1759150800
       }
     ]
+  },
+  {
+    "address": "0xbeEFf443C3CbA3E369DA795002243BeaC311aB83",
+    "chainId": 143,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "This is a test listing for staging purpose",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1763965474
+      }
+    ]
+  },
+  {
+    "address": "0xbeeff300E9A9caeC7beEA740ab8758D33b777509",
+    "chainId": 143,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "This is a test listing for staging purpose",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1763965474
+      }
+    ]
+  },
+  {
+    "address": "0xbeeffeA75cFC4128ebe10C8D7aE22016D215060D",
+    "chainId": 143,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "This is a test listing for staging purpose",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1763965474
+      }
+    ]
+  },
+  {
+    "address": "0xbeeff597d0e0d062028F00eE55387A645CDFcc32",
+    "chainId": 143,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "This is a test listing for staging purpose",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1763965474
+      }
+    ]
   }
 ]
