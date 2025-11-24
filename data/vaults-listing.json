@@ -387,7 +387,7 @@
     "address": "0xbEeFc011e94f43b8B7b455eBaB290C7Ab4E216f1",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/coinshift-usdl-vault.svg",
-    "description": "Coinshift's USDL provides users with exposure to the yield-bearing stablecoin Paxos USDL, while offering an higher yield on the borrowed part. Using a yield-bearing stablecoin as base asset enhances efficiency (“optimal dual engine”). The vault is curated by Steakhouse on behalf of Coinshift.",
+    "description": "This vault is being deprecated following USDL asset deprecation. Please withdraw your funds.",
     "history": [
       {
         "action": "added",
@@ -911,7 +911,7 @@
     "address": "0xbEEFC01767ed5086f35deCb6C00e6C12bc7476C1",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/coinshift-usdl-vault.svg",
-    "description": "OLD - This vault is getting deprecated, please use the new csUSDL vault - 0xbEeFc011e94f43b8B7b455eBaB290C7Ab4E216f1",
+    "description": "This vault is being deprecated following USDL asset deprecation. Please withdraw your funds.",
     "history": [
       {
         "action": "added",
