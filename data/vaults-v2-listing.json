@@ -48,18 +48,6 @@
     ]
   },
   {
-    "address": "0x8effa741061aaA2d8A5012a9B09A2d31d8B628d7",
-    "chainId": 8453,
-    "image": "https://cdn.morpho.org/v2/assets/images/architect.svg",
-    "description": "ARCHITECT GLOBAL VALUE partners with a select group of exceptional curators distinguished by judgement and demonstrable edge in capital markets. ARCHITECT backs stewards who operate with clarity of mandate and a long-term orientation towards enduring value creation.",
-    "history": [
-      {
-        "action": "added",
-        "timestamp": 1763319176
-      }
-    ]
-  },
-  {
     "address": "0xbeEFf443C3CbA3E369DA795002243BeaC311aB83",
     "chainId": 143,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",

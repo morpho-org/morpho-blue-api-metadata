@@ -56,11 +56,11 @@ async function main() {
     process.exit(1);
   }
 
-  // Load curators whitelist
-  const filePath = path.join(__dirname, "../data/curators-whitelist.json");
+  // Load curators listing
+  const filePath = path.join(__dirname, "../data/curators-listing.json");
   const curators = JSON.parse(fs.readFileSync(filePath, "utf8")) as Curator[];
 
-  console.log(`Loaded ${curators.length} curators from whitelist`);
+  console.log(`Loaded ${curators.length} curators from listing`);
 
   const riskyAddresses: {
     address: string;

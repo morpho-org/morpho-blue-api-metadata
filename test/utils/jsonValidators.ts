@@ -1,6 +1,9 @@
 import { readFileSync } from "fs";
 import { join } from "path";
 
+export const VALID_CHAIN_IDS = [1, 8453, 10, 130, 137, 999, 747474, 42161, 143, 988] as const;
+export const VALID_CHAIN_IDS_STRING = VALID_CHAIN_IDS.map(String);
+
 export const loadJsonFile = (fileName: string) => {
   const filePath = join(__dirname, "../../data", fileName);
   const fileContent = readFileSync(filePath, "utf-8");
