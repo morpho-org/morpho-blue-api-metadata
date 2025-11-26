@@ -1,26 +1,43 @@
 # Morpho blue api metadata
 
+> **IMPORTANT: VAULT V2 ONLY POLICY**
+>
+> **Only Morpho Vault V2 and Token listing requests are processed.** Vault V1 listings are no longer supported.
+>
+> Following recent improvements to the Morpho ecosystem, the backend has been updated to exclusively support Vault V2 listings. Vault V2 offers a strictly superior product with future-proof architecture, enhanced role systems, advanced risk management, gates, stronger isolation, and improved guarantees.
+>
+> **If you have deployed a Vault V1:** You must deploy a Vault V2 that uses your Vault V1 as an adapter through the [Curator V2 app](https://app.morpho.org). Your existing Vault V1 configuration work is still required—it now serves as a mandatory prerequisite check within the Vault V2 deployment process.
+
+> **MIGRATION NOTICE:** We are transitioning from "whitelisting" to "listing" nomenclature. The following files have been renamed:
+> - `curators-whitelist.json` → `curators-listing.json`
+> - `vaults-v2-whitelist.json` → `vaults-v2-listing.json`
+> - `vaults-whitelist.json` → `vaults-listing.json`
+>
+> Old file names will remain active for 7 days to ensure smooth transition, after which they will be archived.
+
 This repository contains the metadata for the Morpho blue api that need to be managed manually.
 It includes:
 
-1. [Morpho Vault whitelisting](#1-morpho-vault-whitelisting)
+1. [Morpho Vault V2 listing](#1-morpho-vault-v2-listing)
 2. [Markets blacklisting](#2-market-blacklisting)
-3. [Price feed whitelisting](#3-price-feed-whitelisting)
+3. [Price feed listing](#3-price-feed-listing)
 4. [Price mappings](#4-price-mappings)
-5. [Tokens whitelisting](#5-tokens-whitelisting)
+5. [Tokens listing](#5-tokens-listing)
 6. [Exchange rate](#6-exchange-rate)
 7. [Custom warnings](#7-custom-warnings)
-8. [Curator whitelisting](#8-curator-whitelisting)
+8. [Curator listing](#8-curator-listing)
 
 > The format of the data folder SHOULD NOT be modified, in order to let the api read the data.
 
-# Whitelisting & warnings
+# Listing & warnings
 
-## 1. Morpho Vault whitelisting
+## 1. Morpho Vault V2 listing
 
-Controls the whitelisted Morpho Vaults and their metadata.
+Controls the listed Morpho Vault V2 instances and their metadata.
 
-> Markets are **whitelisted** as soon as a whitelisted Morpho Vault has the market in its withdraw queue.
+> **Only Vault V2 listings are accepted.** Vault V1 is no longer supported for listing. See the important notice at the top of this document for details.
+
+> Markets are **automatically listed** as soon as a listed Morpho Vault has the market in its withdraw queue.
 
 ### Required Fields
 
@@ -30,12 +47,6 @@ Each vault entry must include the following fields:
 - `chainId`: Chain ID where the vault is deployed (e.g., 1 for Ethereum Mainnet, 8453 for Base)
 - `image`: URL to the vault's logo/image
 - `description`: Detailed description of the vault's strategy and purpose
-- `forumLink`: Link to the curator's discussion forum
-- `curators`: Array of curator objects, each containing:
-  - `name`: Name of the curator organization
-  - `image`: URL to the curator's logo
-  - `url`: Website URL of the curator
-  - `verified`: Boolean indicating curator verification status
 - `history`: Array of historical events, each containing:
   - `action`: Type of action (e.g., "added", or "removed")
   - `timestamp`: Unix timestamp of the action
@@ -46,45 +57,13 @@ Each vault entry must include the following fields:
 2. Addresses must be in checksum format
 3. All required fields must be present and of the correct type
 
-### Example Entry
-
-```json
-{
-  "address": "0x38989BBA00BDF8181F4082995b3DEAe96163aC5D",
-  "chainId": 1,
-  "image": "https://cdn.morpho.org/assets/logos/eth.svg",
-  "description": "The Flagship ETH Morpho vault curated by B.Protocol and Block Analitica is intended to optimize risk-adjusted interest earned from blue-chip LST and stablecoin collateral markets. The Flagship ETH vault also serves as a pre-deposit vault for Relend Network. Users who supply ETH will collect RELEND units and have the option to access Relend Network once live.",
-  "forumLink": "https://forum.morpho.org/c/metamorpho/blockanalitica-b-protocol/20",
-  "curators": [
-    {
-      "name": "Block Analitica",
-      "image": "https://cdn.morpho.org/v2/assets/images/block-analitica.png",
-      "url": "https://morpho.blockanalitica.com/",
-      "verified": true
-    },
-    {
-      "name": "B.Protocol",
-      "image": "https://cdn.morpho.org/v2/assets/images/bprotocol.png",
-      "url": "https://www.bprotocol.org/",
-      "verified": true
-    }
-  ],
-  "history": [
-    {
-      "action": "added",
-      "timestamp": 1704292895
-    }
-  ]
-}
-```
-
 ### Files
 
-[vaults-whitelist.json](./data/vaults-whitelist.json)
+[vaults-v2-listing.json](./data/vaults-v2-listing.json)
 
 ## 2. Market blacklisting
 
-Controls blacklisted markets by countries. As a reminder, markets are automatically whitelisted when a whitelisted Morpho Vault is allocating to it.
+Controls blacklisted markets by countries. As a reminder, markets are automatically listed when a listed Morpho Vault is allocating to it.
 
 ### Required Fields
 
@@ -110,9 +89,9 @@ Each blacklist entry must include:
 
 [markets-blacklist.json](./data/markets-blacklist.json)
 
-## 3. Price Feed whitelisting [Deprecated]
+## 3. Price Feed listing [Deprecated]
 
-Controls the whitelisted price feeds used by the protocol. Each price feed entry represents a specific price oracle implementation.
+Controls the listed price feeds used by the protocol. Each price feed entry represents a specific price oracle implementation.
 
 ### Required Fields
 
@@ -185,9 +164,9 @@ Spot prices are used to calculate the price of an asset to ETH.
 
 Eg. wstETH -> ETH
 
-## 5. Tokens whitelisting
+## 5. Tokens listing
 
-Controls the whitelisted tokens recognized by the protocol. Each token entry represents an ERC-20 token deployed on a supported chain (Ethereum, Base, OP Mainnet, Polygon, Arbitrum, Unichain, Katana or HyperEVM).
+Controls the listed tokens recognized by the protocol. Each token entry represents an ERC-20 token deployed on a supported chain (Ethereum, Base, OP Mainnet, Polygon, Arbitrum, Unichain, Katana, HyperEVM, Monad, Stable).
 
 ### Required Fields
 
@@ -198,7 +177,7 @@ Each token entry must include:
 - `name`: Name of the token (ERC-20)
 - `symbol`: Symbol of the token (ERC-20)
 - `decimals`: Number of decimals for the token (0-18)
-- `isWhitelisted`: Boolean flag indicating if the token is whitelisted
+- `isWhitelisted`: Boolean flag indicating if the token is listed
 - `metadata`: Object containing additional token information:
 
   - `logoURI`: URL to the token's logo image.
@@ -395,14 +374,14 @@ In case of emergency, or particular situation, Morpho Labs team is able to add c
 
 [custom-warnings.json](./data/custom-warnings.json)
 
-## 8. Curator whitelisting
+## 8. Curator listing
 
 Controls the known curators and the addresses they manage.
 
 > [!Note]
 > Any vault that have an `owner` or a `curator` address referenced as managed by a curator will automatically be flagged as curated by this curator, unless the `owner` is unknown [*].
 
-_[*] This is to prevent anyone from having their vault flagged as "curated by X" just by setting any whitelisted address as `curator`_
+_[*] This is to prevent anyone from having their vault flagged as "curated by X" just by setting any listed address as `curator`_
 
 ### Required Fields
 
@@ -417,7 +396,7 @@ Each curator entry must include the following fields:
 
 > [!Note]
 >
-> - All curators must be verified (`verified: true`) to be included in the whitelist
+> - All curators must be verified (`verified: true`) to be included in the listing
 > - Pure owners (`ownerOnly: true`) must have empty `image` and `url` fields as they won't be displayed in the UI
 > - An address can be managed by different curators
 
@@ -450,4 +429,4 @@ Each curator entry must include the following fields:
 
 ### Files
 
-[curators-whitelist.json](./data/curators-whitelist.json)
+[curators-listing.json](./data/curators-listing.json)

@@ -166,11 +166,11 @@ async function main() {
     process.exit(1);
   }
 
-  // Load vaults whitelist
-  const filePath = path.join(__dirname, "../../data/vaults-whitelist.json");
+  // Load vaults listing
+  const filePath = path.join(__dirname, "../../data/vaults-listing.json");
   const vaults = JSON.parse(fs.readFileSync(filePath, "utf8")) as VaultData[];
 
-  console.log(`Loaded ${vaults.length} vaults from whitelist`);
+  console.log(`Loaded ${vaults.length} vaults from listing`);
 
   // Set to store unique addresses
   const uniqueAddresses = new Set<string>();
