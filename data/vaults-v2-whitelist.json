@@ -397,7 +397,7 @@
     "address": "0xf71da79a6eD40F894e883874dCE3f54B1493d930",
     "chainId": 747474,
     "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
-    "description": "The d3nity dUSD Vault curated by the Yearn team enables dUSD lenders to earn high yield via dTRINITYs growth strategy. By subsidizing borrowers dTRINITY lowers net borrowing costs and increases credit demand utilisation as well as yields for lenders. Important notice - 1 dUSD is hard-coded to 1 USD. dUSD is also disabled as collateral for borrowers.",
+    "description": "The d3nity dUSD Vault curated by the Yearn team enables dUSD lenders to earn high yield via dTRINITYs growth strategy. By subsidizing borrowers dTRINITY lowers net borrowing costs and increases credit demand utilisation as well as yields for lenders. Important notice - The markets listed by this vault will use  1 dUSD hard-coded to 1 USD.",
     "history": [
       {
         "action": "added",
