@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import { describe, it, expect } from "vitest";
+import { describe, expect, it } from "@jest/globals";
 
 type Point = {
   title?: string;
@@ -27,7 +27,7 @@ type ListedVault = {
   // other fields exist but we don't need them here
 };
 
-const root = path.join(__dirname, "..");
+const root = path.join(__dirname, "..", "..", "..");
 
 // --- Load JSON files ---
 
@@ -58,10 +58,7 @@ describe("points.json – vaultsWithPoints only references listed vaults", () =>
     for (const vaultAddress of Object.keys(vaultMap)) {
       it(`vault ${vaultAddress} on chain ${chainId} is present in vaults-listing or vaults-v2-listing`, () => {
         const key = `${chainId}:${vaultAddress}`;
-        expect(
-          listedVaultKeys.has(key),
-          `Vault ${vaultAddress} on chainId=${chainId} is not in vaults-listing.json or vaults-v2-listing.json`,
-        ).toBe(true);
+        expect(listedVaultKeys.has(key)).toBe(true);
       });
     }
   }

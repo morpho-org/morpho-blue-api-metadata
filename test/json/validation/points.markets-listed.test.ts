@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import { describe, it, expect, vi } from "vitest";
+import { describe, expect, it, jest } from "@jest/globals";
 
 type Point = {
   title?: string;
@@ -21,13 +21,17 @@ type PointsMapping = {
   marketsWithPointsOnCollateralToken: ChainIdAddressPointsMapping;
 };
 
-const root = path.join(__dirname, "..");
+const root = path.join(__dirname, "..", "..", "..");
 
 const points: PointsMapping = JSON.parse(
   fs.readFileSync(path.join(root, "data", "points.json"), "utf-8"),
 );
 
-// Allow skipping in CI if desired
+/**
+ * Only markets are checked against the public Morpho API. Vaults are already
+ * listed in the repository (vaults-listing.json and vaults-v2-listing.json),
+ * so we can assert their presence locally without a network call.
+ */
 const shouldSkipApiTests = process.env.SKIP_MARKETS_API_TESTS === "true";
 
 // Morpho GraphQL endpoint
@@ -37,11 +41,12 @@ const MORPHO_API_URL = "https://api.morpho.org/graphql";
 async function fetchMarketByUniqueKey(
   uniqueKey: string,
   chainId: number,
-): Promise<{ uniqueKey: string } | null> {
+): Promise<{ uniqueKey: string; whitelisted: boolean } | null> {
   const query = `
     query MarketByUniqueKey($uniqueKey: String!, $chainId: Int!) {
       marketByUniqueKey(uniqueKey: $uniqueKey, chainId: $chainId) {
         uniqueKey
+        whitelisted
       }
     }
   `;
@@ -108,7 +113,7 @@ describe("points.json – market unique keys correspond to real Morpho markets",
   }
 
   // Allow more time for network calls
-  vi.setTimeout(60_000);
+  jest.setTimeout(60_000);
 
   for (const [chainIdStr, marketIds] of Object.entries(allMarketIdsByChain)) {
     const chainId = Number(chainIdStr);
@@ -119,12 +124,10 @@ describe("points.json – market unique keys correspond to real Morpho markets",
         async () => {
           const market = await fetchMarketByUniqueKey(marketUniqueKey, chainId);
 
-          expect(
-            market,
-            `No market returned for uniqueKey=${marketUniqueKey} on chainId=${chainId}`,
-          ).not.toBeNull();
+          expect(market).not.toBeNull();
 
           expect(market?.uniqueKey).toBe(marketUniqueKey);
+          expect(market?.whitelisted).toBe(true);
         },
       );
     }

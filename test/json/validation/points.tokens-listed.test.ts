@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import { describe, it, expect } from "vitest";
+import { describe, expect, it } from "@jest/globals";
 
 type Point = {
   title?: string;
@@ -27,7 +27,7 @@ type TokenEntry = {
   // other fields exist but are not needed here
 };
 
-const root = path.join(__dirname, "..");
+const root = path.join(__dirname, "..", "..", "..");
 
 // --- Load JSON files ---
 
@@ -59,10 +59,7 @@ const checkTokenMap = (
       for (const tokenAddress of Object.keys(tokenMap)) {
         it(`token ${tokenAddress} on chain ${chainId} is present in tokens.json (${mapName})`, () => {
           const key = `${chainId}:${tokenAddress}`;
-          expect(
-            tokenKeys.has(key),
-            `Token ${tokenAddress} on chainId=${chainId} from ${mapName} is not in tokens.json`,
-          ).toBe(true);
+          expect(tokenKeys.has(key)).toBe(true);
         });
       }
     }
