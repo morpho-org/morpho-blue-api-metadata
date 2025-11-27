@@ -56,13 +56,6 @@
             "link": "https://www.lombard.finance/app/rewards/"
           }
         ],
-        "0xbEeFc011e94f43b8B7b455eBaB290C7Ab4E216f1": [
-          {
-            "title": "Shift Points",
-            "label": "Coinshift",
-            "link": "https://coinshift.global/points"
-          }
-        ],
         "0x7204B7Dbf9412567835633B6F00C3Edc3a8D6330": [
           {
             "title": "Shift Points",
@@ -131,27 +124,6 @@
             "title": "Sats",
             "label": "Ethena",
             "link": "https://app.ethena.fi/opportunities?search=morpho"
-          }
-        ],
-        "0xb5e4576C2FAA16b0cC59D1A2f3366164844Ef9E0": [
-          {
-            "title": "TAC Boost",
-            "label": "Turtle Club",
-            "link": "https://app.turtle.club/campaigns"
-          }
-        ],
-        "0x0bB2751a90fFF62e844b1521637DeD28F3f5046A": [
-          {
-            "title": "TAC Boost",
-            "label": "Turtle Club",
-            "link": "https://app.turtle.club/campaigns"
-          }
-        ],
-        "0x1E2aAaDcF528b9cC08F43d4fd7db488cE89F5741": [
-          {
-            "title": "TAC Boost",
-            "label": "Turtle Club",
-            "link": "https://app.turtle.club/campaigns"
           }
         ],
         "0x62fE596d59fB077c2Df736dF212E0AFfb522dC78": [
@@ -234,85 +206,7 @@
           }
         ]
       },
-      "999": {
-        "0x5eEC795d919FA97688Fb9844eeB0072E6B846F9d": [
-          {
-            "title": "Hearts",
-            "label": "Hyperbeat",
-            "link": "https://app.hyperbeat.org/hearts"
-          }
-        ],
-        "0x53A333e51E96FE288bC9aDd7cdC4B1EAD2CD2FfA": [
-          {
-            "title": "Hearts",
-            "label": "Hyperbeat",
-            "link": "https://app.hyperbeat.org/hearts"
-          }
-        ],
-        "0x0571362ba5EA9784a97605f57483f865A37dBEAA": [
-          {
-            "title": "Hearts",
-            "label": "Hyperbeat",
-            "link": "https://app.hyperbeat.org/hearts"
-          }
-        ],
-        "0xd19e3d00f8547f7d108abFD4bbb015486437B487": [
-          {
-            "title": "Hearts",
-            "label": "Hyperbeat",
-            "link": "https://app.hyperbeat.org/hearts"
-          }
-        ],
-        "0xD3A9Cb7312B9c29113290758f5ADFe12304cd16A": [
-          {
-            "title": "Hearts",
-            "label": "Hyperbeat",
-            "link": "https://app.hyperbeat.org/hearts"
-          }
-        ],
-        "0xe5ADd96840F0B908ddeB3Bd144C0283Ac5ca7cA0": [
-          {
-            "title": "Hearts",
-            "label": "Hyperbeat",
-            "link": "https://app.hyperbeat.org/hearts"
-          }
-        ],
-        "0x3Bcc0a5a66bB5BdCEEf5dd8a659a4eC75F3834d8": [
-          {
-            "title": "Hearts",
-            "label": "Hyperbeat",
-            "link": "https://app.hyperbeat.org/hearts"
-          }
-        ],
-        "0x51F64488d03D8B210294dA2BF70D5db0Bc621B0c": [
-          {
-            "title": "Hearts",
-            "label": "Hyperbeat",
-            "link": "https://app.hyperbeat.org/hearts"
-          }
-        ],
-        "0x182b318A8F1c7C92a7884e469442a610B0e69ed2": [
-          {
-            "title": "Hearts",
-            "label": "Hyperbeat",
-            "link": "https://app.hyperbeat.org/hearts"
-          }
-        ],
-        "0x92B518e1cD76dD70D3E20624AEdd7D107F332Cff": [
-          {
-            "title": "Hearts",
-            "label": "Hyperbeat",
-            "link": "https://app.hyperbeat.org/hearts"
-          }
-        ],
-        "0x264a06Fd7A7C9E0Bfe75163b475E2A3cc1856578": [
-          {
-            "title": "Hearts",
-            "label": "Hyperbeat",
-            "link": "https://app.hyperbeat.org/hearts"
-          }
-        ]
-      }
+      "999": {}
     },
     "vaultsWithPointsOnMarketCollateralToken": {
       "1": {},
@@ -338,12 +232,6 @@
           },
           {
             "title": "Eigen"
-          }
-        ],
-        "0x444327b909aa41043cc4f20209eefb2fbb37f1c38ff9ca312374a4ecc3f0a871": [
-          {
-            "title": "XP",
-            "label": "Solv"
           }
         ],
         "0x9507d68c9c8663bd134680005cc0b3d8a891fa95db1905268933ac6bbc1d1feb": [
@@ -415,13 +303,6 @@
             "link": "https://app.resolv.xyz/points"
           }
         ],
-        "0x140fe48783fe88d2a52b31705577d917628caaf74ff79865b39d4c2aa6c2fd3c": [
-          {
-            "title": "Points",
-            "label": "Ethereal",
-            "link": "https://deposit.ethereal.trade/points"
-          }
-        ],
         "0x729badf297ee9f2f6b3f717b96fd355fc6ec00422284ce1968e76647b258cf44": [
           {
             "title": "Drips",
@@ -436,56 +317,11 @@
             "link": "https://app.resolv.xyz/points"
           }
         ],
-        "0x3889dee51674c6e728f7d05f11a3407c6853e433a0e63f8febbc45887a26a475": [
-          {
-            "title": "Points",
-            "label": "Resolv",
-            "link": "https://app.resolv.xyz/points"
-          }
-        ],
         "0x60154d71ec96b7aee2864326662cb731172f1ebd6ca0e64af9bc8659831ed0ff": [
           {
             "title": "Points",
             "label": "Yield.Fi",
             "link": "https://yield.fi/points"
-          }
-        ],
-        "0x0f8ff4fa22195841e7fd1e0520f650a4d71247f75b9a1eb4ecabe111776a118c": [
-          {
-            "title": "Extra Rewards",
-            "label": "mEDGE"
-          }
-        ],
-        "0xbf6687cb042a09451e66ebc11d7716c49fb8ccc75f484f7fab0eed6624bd5838": [
-          {
-            "title": "Extra Rewards",
-            "label": "mMEV"
-          }
-        ],
-        "0xa9abd614ac94eee663b472bac0f704ece4469c3ce12df1d84565c7781541793e": [
-          {
-            "title": "Extra Rewards",
-            "label": "mMEV"
-          }
-        ],
-        "0x4987abb1971947da9be3a47a58cb846a57b8a33bb3db1b0b2c6a3599c8b3a576": [
-          {
-            "title": "Extra Rewards",
-            "label": "mMEV"
-          }
-        ],
-        "0xa9d6a0caea685bb0099ba2d52a58fb7ed33a6447616c25df93bdb8330337a9c3": [
-          {
-            "title": "Shift Points",
-            "label": "Coinshift",
-            "link": "https://coinshift.global/points"
-          }
-        ],
-        "0xe0800b3f305b167e65738adc54e03d48c7bf4fb03af2734b4a72034852ba4a7a": [
-          {
-            "title": "Sats",
-            "label": "Ethena",
-            "link": "https://app.ethena.fi/opportunities?search=morpho"
           }
         ],
         "0xa0c6499787a7d046f91f2687558c021e2baae5a378885280a448183a926ef5f7": [
@@ -505,11 +341,6 @@
             "title": "Sats",
             "label": "Ethena",
             "link": "https://app.ethena.fi/opportunities?search=morpho"
-          },
-          {
-            "title": "Points",
-            "label": "Ethereal",
-            "link": "https://deposit.ethereal.trade/points"
           }
         ],
         "0xe09be287c4f6583dfef6aa61d71f6cc76062aa1294e79b5c7c0a69d69bc1dd72": [
@@ -522,11 +353,6 @@
             "title": "Sats",
             "label": "Ethena",
             "link": "https://app.ethena.fi/opportunities?search=morpho"
-          },
-          {
-            "title": "Points",
-            "label": "Ethereal",
-            "link": "https://deposit.ethereal.trade/points"
           }
         ],
         "0x4565ac05d38b19374ccbb04c17cca60ca9353cd41824f0803d0fc7704f60eaed": [
@@ -594,21 +420,9 @@
             "label": "Kernel",
             "link": "https://kerneldao.com/kelp/dashboard/"
           }
-        ],
-        "0x2174609f3cfb09992e1c83594bc28d343221be4539e8d88ca58371f92d3b884d": [
-          {
-            "title": "Points",
-            "label": "Kernel",
-            "link": "https://kerneldao.com/kelp/dashboard/"
-          }
         ]
       },
       "8453": {
-        "0x58bf7ed35b5d213336a68a5a42dff58f03ceaf417edaad0fc53e046f1742e20e": [
-          {
-            "title": "z-points"
-          }
-        ],
         "0x214c2bf3c899c913efda9c4a49adff23f77bbc2dc525af7c05be7ec93f32d561": [
           {
             "title": "Points",
@@ -659,13 +473,6 @@
             "title": "Points",
             "label": "YO",
             "link": "https://app.yo.xyz/points"
-          }
-        ],
-        "0xb609f1d824d70a2127092333f591080be01555535c61d93252dd778e1fa88920": [
-          {
-            "title": "Points",
-            "label": "Yield.Fi",
-            "link": "https://yield.fi/points"
           }
         ]
       },
