@@ -96,6 +96,18 @@
     ]
   },
   {
+    "address": "0xbeef00B5d83C1188F07A5184230a805639c39f04",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse Prime Instant PYUSD vault aims to optimize yields by lending PYUSD against blue chip crypto and real world asset RWA collateral markets depending on market conditions.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1764415706
+      }
+    ]
+  },
+  {
     "address": "0x90B482cA9769807569998B20e062e024B1A0A39d",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
