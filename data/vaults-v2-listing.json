@@ -406,6 +406,18 @@
     ]
   },
   {
+    "address": "0xbeef003C68896c7D2c3c60d363e8d71a49Ab2bf9",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse Prime Instant USDT vault aims to optimize yields by lending USDT against blue chip crypto and real world asset RWA collateral markets depending on market conditions.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1764415775
+      }
+    ]
+  },
+  {
     "address": "0x6022Cbf61352618053d89FD9eEfe78Cb725B3c9d",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/architect.svg",
