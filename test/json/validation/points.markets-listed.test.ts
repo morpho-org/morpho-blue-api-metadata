@@ -37,14 +37,13 @@ const shouldSkipApiTests = process.env.SKIP_MARKETS_API_TESTS === "true";
 // Morpho GraphQL endpoint
 const MORPHO_API_URL = "https://api.morpho.org/graphql";
 
-// Helper to query marketByUniqueKey
-async function fetchMarketByUniqueKey(
-  uniqueKey: string,
+// Fetch all markets for a chain in one request to avoid spamming the API
+async function fetchMarketsByChainId(
   chainId: number,
-): Promise<{ uniqueKey: string; whitelisted: boolean } | null> {
+): Promise<Record<string, { uniqueKey: string; whitelisted: boolean }>> {
   const query = `
-    query MarketByUniqueKey($uniqueKey: String!, $chainId: Int!) {
-      marketByUniqueKey(uniqueKey: $uniqueKey, chainId: $chainId) {
+    query Markets($chainId: Int!) {
+      markets(chainId: $chainId) {
         uniqueKey
         whitelisted
       }
@@ -56,26 +55,27 @@ async function fetchMarketByUniqueKey(
     headers: { "content-type": "application/json" },
     body: JSON.stringify({
       query,
-      variables: { uniqueKey, chainId },
+      variables: { chainId },
     }),
   });
 
   if (!res.ok) {
-    throw new Error(
-      `Morpho API HTTP error ${res.status} for market ${uniqueKey} on chain ${chainId}`,
-    );
+    throw new Error(`Morpho API HTTP error ${res.status} for chain ${chainId}`);
   }
 
   const json = await res.json();
 
   if (json.errors?.length) {
     const msg = json.errors.map((e: any) => e.message).join("; ");
-    throw new Error(
-      `Morpho API GraphQL error for market ${uniqueKey} on chain ${chainId}: ${msg}`,
-    );
+    throw new Error(`Morpho API GraphQL error for chain ${chainId}: ${msg}`);
   }
 
-  return json.data?.marketByUniqueKey ?? null;
+  const markets: { uniqueKey: string; whitelisted: boolean }[] =
+    json.data?.markets ?? [];
+
+  return Object.fromEntries(
+    markets.map((market) => [market.uniqueKey, market] as const),
+  );
 }
 
 // Collect all market unique keys from both relevant maps
@@ -115,16 +115,34 @@ describe("points.json – market unique keys correspond to real Morpho markets",
   // Allow more time for network calls
   jest.setTimeout(60_000);
 
+  const marketsByChain: Record<number, Record<string, { uniqueKey: string; whitelisted: boolean }>> = {};
+
+  beforeAll(async () => {
+    const chainIds = Object.keys(allMarketIdsByChain).map(Number);
+
+    const results = await Promise.all(
+      chainIds.map(async (chainId) => ({
+        chainId,
+        markets: await fetchMarketsByChainId(chainId),
+      })),
+    );
+
+    for (const { chainId, markets } of results) {
+      marketsByChain[chainId] = markets;
+    }
+  });
+
   for (const [chainIdStr, marketIds] of Object.entries(allMarketIdsByChain)) {
     const chainId = Number(chainIdStr);
+    const markets = marketsByChain[chainId] ?? {};
 
     for (const marketUniqueKey of marketIds) {
       it(
         `market ${marketUniqueKey} on chain ${chainId} exists (Morpho API)`,
         async () => {
-          const market = await fetchMarketByUniqueKey(marketUniqueKey, chainId);
+          const market = markets[marketUniqueKey];
 
-          expect(market).not.toBeNull();
+          expect(market).toBeDefined();
 
           expect(market?.uniqueKey).toBe(marketUniqueKey);
           expect(market?.whitelisted).toBe(true);
