@@ -38,22 +38,9 @@ const shouldSkipApiTests = process.env.SKIP_MARKETS_API_TESTS === "true";
 const MORPHO_API_URL = "https://api.morpho.org/graphql";
 
 /**
- * Chains currently supported by the markets GraphQL endpoint.
- * Extend this list when new chains are added to the public API.
+ * Bulk helper: fetch all markets on a chain with a single query.
+ * Used as an optimization when it works.
  */
-const CHAINS_SUPPORTED_BY_MARKETS_API = new Set<number>([
-  1,      // Ethereum
-  10,     // OP Mainnet
-  130,    // Unichain
-  137,    // Polygon
-  143,    // Monad
-  999,    // HyperEVM
-  747474, // Katana
-  42161,  // Arbitrum
-  8453,   // Base
-]);
-
-// Fetch all markets for a chain in one request to avoid spamming the API
 async function fetchMarketsByChainId(
   chainId: number,
 ): Promise<Record<string, { uniqueKey: string; whitelisted: boolean }>> {
@@ -94,6 +81,50 @@ async function fetchMarketsByChainId(
   );
 }
 
+/**
+ * Per-market helper: original implementation using marketByUniqueKey.
+ * Used as a fallback when the bulk query is not available / errors.
+ */
+async function fetchMarketByUniqueKey(
+  uniqueKey: string,
+  chainId: number,
+): Promise<{ uniqueKey: string; whitelisted: boolean } | null> {
+  const query = `
+    query MarketByUniqueKey($uniqueKey: String!, $chainId: Int!) {
+      marketByUniqueKey(uniqueKey: $uniqueKey, chainId: $chainId) {
+        uniqueKey
+        whitelisted
+      }
+    }
+  `;
+
+  const res = await fetch(MORPHO_API_URL, {
+    method: "POST",
+    headers: { "content-type": "application/json" },
+    body: JSON.stringify({
+      query,
+      variables: { uniqueKey, chainId },
+    }),
+  });
+
+  if (!res.ok) {
+    throw new Error(
+      `Morpho API HTTP error ${res.status} for market ${uniqueKey} on chain ${chainId}`,
+    );
+  }
+
+  const json = await res.json();
+
+  if (json.errors?.length) {
+    const msg = json.errors.map((e: any) => e.message).join("; ");
+    throw new Error(
+      `Morpho API GraphQL error for market ${uniqueKey} on chain ${chainId}: ${msg}`,
+    );
+  }
+
+  return json.data?.marketByUniqueKey ?? null;
+}
+
 // Collect all market unique keys from both relevant maps
 function collectAllMarketIds(points: PointsMapping): Record<string, Set<string>> {
   const byChain: Record<string, Set<string>> = {};
@@ -122,13 +153,6 @@ function collectAllMarketIds(points: PointsMapping): Record<string, Set<string>>
 
 const allMarketIdsByChain = collectAllMarketIds(points);
 
-/**
- * Only call the API for chains we know it supports.
- */
-const chainIdsToTest = Object.keys(allMarketIdsByChain)
-  .map(Number)
-  .filter((id) => CHAINS_SUPPORTED_BY_MARKETS_API.has(id));
-
 describe("points.json – market unique keys correspond to real Morpho markets", () => {
   if (shouldSkipApiTests) {
     it.skip("SKIPPED via SKIP_MARKETS_API_TESTS", () => {});
@@ -138,28 +162,37 @@ describe("points.json – market unique keys correspond to real Morpho markets",
   // Allow more time for network calls
   jest.setTimeout(60_000);
 
+  /**
+   * marketsByChain: chains where bulk query succeeded.
+   * For those chains we can do constant-time lookups inside tests.
+   */
   const marketsByChain: Record<
     number,
     Record<string, { uniqueKey: string; whitelisted: boolean }>
   > = {};
 
-  // Chains that should be supported but for which the API errored (e.g. HTTP 400)
-  const chainsUnavailableDueToApiError = new Set<number>();
+  /**
+   * chainsUsingBulk: set of chains for which bulk markets(chainId) succeeded.
+   * For other chains we fall back to per-market queries.
+   */
+  const chainsUsingBulk = new Set<number>();
 
   beforeAll(async () => {
+    const chainIds = Object.keys(allMarketIdsByChain).map(Number);
+
     await Promise.all(
-      chainIdsToTest.map(async (chainId) => {
+      chainIds.map(async (chainId) => {
         try {
           const markets = await fetchMarketsByChainId(chainId);
           marketsByChain[chainId] = markets;
+          chainsUsingBulk.add(chainId);
         } catch (err) {
-          // Do not fail the whole suite because one chain is temporarily broken.
+          // If bulk fails for this chain, we fall back to per-market queries in the tests.
           // eslint-disable-next-line no-console
           console.warn(
-            `points.markets-listed: skipping chain ${chainId} due to API error:`,
+            `points.markets-listed: bulk markets query failed for chain ${chainId}, falling back to marketByUniqueKey:`,
             err,
           );
-          chainsUnavailableDueToApiError.add(chainId);
         }
       }),
     );
@@ -168,33 +201,25 @@ describe("points.json – market unique keys correspond to real Morpho markets",
   for (const [chainIdStr, marketIds] of Object.entries(allMarketIdsByChain)) {
     const chainId = Number(chainIdStr);
 
-    // 1) Chains not supported by the public API: tests are skipped.
-    if (!CHAINS_SUPPORTED_BY_MARKETS_API.has(chainId)) {
-      it.skip(
-        `markets on chain ${chainId} are not checked because the Morpho public API does not support this chain`,
-        () => {},
-      );
-      continue;
-    }
-
-    // 2) Chains that should be supported but for which the API errored in beforeAll: skipped.
-    if (chainsUnavailableDueToApiError.has(chainId)) {
-      it.skip(
-        `markets on chain ${chainId} are not checked because the Morpho public API returned an error for this chain`,
-        () => {},
-      );
-      continue;
-    }
-
-    const marketsForChain = marketsByChain[chainId] ?? {};
-
     for (const marketUniqueKey of marketIds) {
       it(
         `market ${marketUniqueKey} on chain ${chainId} exists (Morpho API)`,
-        () => {
-          const market = marketsForChain[marketUniqueKey];
+        async () => {
+          // If bulk succeeded for this chain, use it.
+          if (chainsUsingBulk.has(chainId)) {
+            const marketsForChain = marketsByChain[chainId] ?? {};
+            const market = marketsForChain[marketUniqueKey];
 
-          expect(market).toBeDefined();
+            expect(market).toBeDefined();
+            expect(market?.uniqueKey).toBe(marketUniqueKey);
+            expect(market?.whitelisted).toBe(true);
+            return;
+          }
+
+          // Otherwise fall back to original behavior: one API call per market.
+          const market = await fetchMarketByUniqueKey(marketUniqueKey, chainId);
+
+          expect(market).not.toBeNull();
           expect(market?.uniqueKey).toBe(marketUniqueKey);
           expect(market?.whitelisted).toBe(true);
         },
