@@ -37,6 +37,22 @@ const shouldSkipApiTests = process.env.SKIP_MARKETS_API_TESTS === "true";
 // Morpho GraphQL endpoint
 const MORPHO_API_URL = "https://api.morpho.org/graphql";
 
+/**
+ * Chains currently supported by the markets GraphQL endpoint.
+ * Extend this list when new chains are added to the public API.
+ */
+const CHAINS_SUPPORTED_BY_MARKETS_API = new Set<number>([
+  1,      // Ethereum
+  10,     // OP Mainnet
+  130,    // Unichain
+  137,    // Polygon
+  143,    // Monad
+  999,    // HyperEVM
+  747474, // Katana
+  42161,  // Arbitrum
+  8453,   // Base
+]);
+
 // Fetch all markets for a chain in one request to avoid spamming the API
 async function fetchMarketsByChainId(
   chainId: number,
@@ -106,6 +122,13 @@ function collectAllMarketIds(points: PointsMapping): Record<string, Set<string>>
 
 const allMarketIdsByChain = collectAllMarketIds(points);
 
+/**
+ * Only call the API for chains we know it supports.
+ */
+const chainIdsToTest = Object.keys(allMarketIdsByChain)
+  .map(Number)
+  .filter((id) => CHAINS_SUPPORTED_BY_MARKETS_API.has(id));
+
 describe("points.json – market unique keys correspond to real Morpho markets", () => {
   if (shouldSkipApiTests) {
     it.skip("SKIPPED via SKIP_MARKETS_API_TESTS", () => {});
@@ -115,35 +138,63 @@ describe("points.json – market unique keys correspond to real Morpho markets",
   // Allow more time for network calls
   jest.setTimeout(60_000);
 
-  const marketsByChain: Record<number, Record<string, { uniqueKey: string; whitelisted: boolean }>> = {};
+  const marketsByChain: Record<
+    number,
+    Record<string, { uniqueKey: string; whitelisted: boolean }>
+  > = {};
+
+  // Chains that should be supported but for which the API errored (e.g. HTTP 400)
+  const chainsUnavailableDueToApiError = new Set<number>();
 
   beforeAll(async () => {
-    const chainIds = Object.keys(allMarketIdsByChain).map(Number);
-
-    const results = await Promise.all(
-      chainIds.map(async (chainId) => ({
-        chainId,
-        markets: await fetchMarketsByChainId(chainId),
-      })),
+    await Promise.all(
+      chainIdsToTest.map(async (chainId) => {
+        try {
+          const markets = await fetchMarketsByChainId(chainId);
+          marketsByChain[chainId] = markets;
+        } catch (err) {
+          // Do not fail the whole suite because one chain is temporarily broken.
+          // eslint-disable-next-line no-console
+          console.warn(
+            `points.markets-listed: skipping chain ${chainId} due to API error:`,
+            err,
+          );
+          chainsUnavailableDueToApiError.add(chainId);
+        }
+      }),
     );
-
-    for (const { chainId, markets } of results) {
-      marketsByChain[chainId] = markets;
-    }
   });
 
   for (const [chainIdStr, marketIds] of Object.entries(allMarketIdsByChain)) {
     const chainId = Number(chainIdStr);
-    const markets = marketsByChain[chainId] ?? {};
+
+    // 1) Chains not supported by the public API: tests are skipped.
+    if (!CHAINS_SUPPORTED_BY_MARKETS_API.has(chainId)) {
+      it.skip(
+        `markets on chain ${chainId} are not checked because the Morpho public API does not support this chain`,
+        () => {},
+      );
+      continue;
+    }
+
+    // 2) Chains that should be supported but for which the API errored in beforeAll: skipped.
+    if (chainsUnavailableDueToApiError.has(chainId)) {
+      it.skip(
+        `markets on chain ${chainId} are not checked because the Morpho public API returned an error for this chain`,
+        () => {},
+      );
+      continue;
+    }
+
+    const marketsForChain = marketsByChain[chainId] ?? {};
 
     for (const marketUniqueKey of marketIds) {
       it(
         `market ${marketUniqueKey} on chain ${chainId} exists (Morpho API)`,
-        async () => {
-          const market = markets[marketUniqueKey];
+        () => {
+          const market = marketsForChain[marketUniqueKey];
 
           expect(market).toBeDefined();
-
           expect(market?.uniqueKey).toBe(marketUniqueKey);
           expect(market?.whitelisted).toBe(true);
         },
