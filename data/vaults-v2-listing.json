@@ -406,6 +406,18 @@
     ]
   },
   {
+    "address": "0x62efCdAf376AC83c80e4BB4a74CBaC96936b6345",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/relend.png",
+    "description": "Optimex USDC Vault supplies USDC exclusively to the established oBTC-USDC market on Morpho ensuring focused liquidity and controlled risk.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1764584716
+      }
+    ]
+  },
+  {
     "address": "0x618495ccC4e751178C4914b1E939C0fe0FB07b9b",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
