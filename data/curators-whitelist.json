@@ -55,6 +55,10 @@
       "137": [
         "0x9E33faAE38ff641094fa68c65c2cE600b3410585"
       ],
+      "988": [
+        "0x9E33faAE38ff641094fa68c65c2cE600b3410585",
+        "0x5a4E19842e09000a582c20A4f524C26Fb48Dd4D0"
+      ],
       "999": [
         "0x09346F40e324458A8E211C5317981C78FAcDEc57",
         "0xe3ea927a0f41B4a84fA9900812E52F8BcB84f396"
@@ -702,6 +706,22 @@
       "url": "https://anthias.xyz/",
       "twitter": "https://x.com/anthiasxyz",
       "forum": "https://forum.morpho.org/c/vaults/anthias/52"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/stakedao.svg",
+    "name": "Stake DAO",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0xF930EBBd05eF8b25B1797b9b2109DDC9B0d43063"
+      ]
+    },
+    "id": "stake-dao",
+    "socials": {
+      "url": "https://stakedao.org/",
+      "twitter": "https://x.com/StakeDAOHQ",
+      "forum": "https://forum.morpho.org/c/vaults/stake-dao/55"
     }
   },
   {
