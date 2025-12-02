@@ -1,12 +1,6 @@
 {
     "vaultsWithPoints": {
       "1": {
-        "0x78Fc2c2eD1A4cDb5402365934aE5648aDAd094d0": [
-          {
-            "title": "Points",
-            "label": "Ether.Fi"
-          }
-        ],
         "0x443df5eEE3196e9b2Dd77CaBd3eA76C3dee8f9b2": [
           {
             "title": "LUX",
@@ -205,12 +199,9 @@
             "link": "https://app.fuul.xyz/incentives/odyssey-finance"
           }
         ]
-      },
-      "999": {}
+      }
     },
     "vaultsWithPointsOnMarketCollateralToken": {
-      "1": {},
-      "8453": {}
     },
     "marketsWithPoints": {
       "1": {
@@ -219,9 +210,6 @@
             "title": "Points",
             "label": "Kernel",
             "link": "https://kerneldao.com/kelp/dashboard/"
-          },
-          {
-            "title": "Eigen"
           }
         ],
         "0xba761af4134efb0855adfba638945f454f0a704af11fc93439e20c7c5ebab942": [
@@ -229,15 +217,6 @@
             "title": "Points",
             "label": "Kernel",
             "link": "https://kerneldao.com/kelp/dashboard/"
-          },
-          {
-            "title": "Eigen"
-          }
-        ],
-        "0x9507d68c9c8663bd134680005cc0b3d8a891fa95db1905268933ac6bbc1d1feb": [
-          {
-            "title": "Points",
-            "label": "Hinkal"
           }
         ],
         "0xcfe8238ad5567886652ced15ee29a431c161a5904e5a6f380baaa1b4fdc8e302": [
@@ -428,9 +407,6 @@
             "title": "Points",
             "label": "Kernel",
             "link": "https://kerneldao.com/kelp/dashboard/"
-          },
-          {
-            "title": "Eigen"
           }
         ],
         "0x30767836635facec1282e6ef4a5981406ed4e72727b3a63a3a72c74e8279a8d7": [
@@ -495,12 +471,6 @@
     },
     "marketsWithPointsOnCollateralToken": {
       "1": {
-        "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee": [
-          {
-            "title": "Points",
-            "label": "Ether.FI"
-          }
-        ],
         "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497": [
           {
             "title": "Sats",
@@ -576,8 +546,6 @@
           }
         ]
       },
-      "130": {},
-      "8453": {},
       "42161": {
         "0x551dbcdcceaf9322986e0cddde993d49840522a9532dc441359acd98af8badff": [
           {

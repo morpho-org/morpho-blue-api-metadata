@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import { describe, expect, it, jest } from "@jest/globals";
+import { beforeAll, describe, expect, it, jest } from "@jest/globals";
 
 type Point = {
   title?: string;
@@ -153,14 +153,14 @@ function collectAllMarketIds(points: PointsMapping): Record<string, Set<string>>
 
 const allMarketIdsByChain = collectAllMarketIds(points);
 
+// Allow more time for network calls
+jest.setTimeout(60_000);
+
 describe("points.json – market unique keys correspond to real Morpho markets", () => {
   if (shouldSkipApiTests) {
     it.skip("SKIPPED via SKIP_MARKETS_API_TESTS", () => {});
     return;
   }
-
-  // Allow more time for network calls
-  jest.setTimeout(60_000);
 
   /**
    * marketsByChain: chains where bulk query succeeded.
