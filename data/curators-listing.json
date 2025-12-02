@@ -705,6 +705,22 @@
     }
   },
   {
+    "image": "https://cdn.morpho.org/v2/assets/images/stakedao.svg",
+    "name": "Stake DAO",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0xF930EBBd05eF8b25B1797b9b2109DDC9B0d43063"
+      ]
+    },
+    "id": "stake-dao",
+    "socials": {
+      "url": "https://stakedao.org/",
+      "twitter": "https://x.com/StakeDAOHQ",
+      "forum": "https://forum.morpho.org/c/vaults/stake-dao/55"
+    }
+  },
+  {
     "image": "https://cdn.morpho.org/v2/assets/images/swissborg.svg",
     "name": "Swissborg",
     "verified": true,
