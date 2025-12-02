@@ -353,6 +353,18 @@
     ]
   },
   {
+    "address": "0x6a31358E58B8692cE5317181ff3379A5766A7ABA",
+    "chainId": 747474,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "Clearstar Core v2 vault allocates to bluechip assets on Katana which have high liquidity and conservative risk profiles.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1764701148
+      }
+    ]
+  },
+  {
     "address": "0xbeeff300E9A9caeC7beEA740ab8758D33b777509",
     "chainId": 143,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
