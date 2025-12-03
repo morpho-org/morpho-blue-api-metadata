@@ -110,6 +110,10 @@ const clients = {
     chain: monad,
     transport: http(),
   }),
+  98866: createPublicClient({
+    chain: plume,
+    transport: http(),
+  }),
 };
 
 async function checkAddressRisk(
