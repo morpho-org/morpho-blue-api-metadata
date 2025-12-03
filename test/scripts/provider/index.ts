@@ -13,6 +13,7 @@ export const chainMapping = {
   999: hyperevm,
   747474: katana,
   42161: arbitrum,
+  98866: plume,
 };
 
 export async function getClient(
@@ -40,6 +41,8 @@ export async function getClient(
       ? process.env.RPC_URL_KATANA
       : chainId === 42161
       ? process.env.RPC_URL_ARBITRUM
+      : chainId === 98866
+      ? process.env.RPC_URL_PLUME
       : undefined;
 
   if (!rpcUrl)
@@ -58,7 +61,7 @@ export async function getClient(
   });
 
   const client = createPublicClient({
-    chain: chainId === 1 ? mainnet : chainId === 8453 ? base : chainId === 10 ? op : chainId === 130 ? unichain : chainId === 137 ? polygon : chainId === 143 ? monad : chainId === 988 ? stable : chainId === 999 ? hyperevm : chainId === 747474 ? katana : chainId === 42161 ? arbitrum : undefined,
+    chain: chainId === 1 ? mainnet : chainId === 8453 ? base : chainId === 10 ? op : chainId === 130 ? unichain : chainId === 137 ? polygon : chainId === 143 ? monad : chainId === 988 ? stable : chainId === 999 ? hyperevm : chainId === 747474 ? katana : chainId === 42161 ? arbitrum : chainId === 98866 ? plume : undefined,
 
     transport,
     ...(options.enableDebug

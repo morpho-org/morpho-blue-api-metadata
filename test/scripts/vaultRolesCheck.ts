@@ -90,6 +90,10 @@ const clients = {
     chain: arbitrum,
     transport: http(),
   }),
+  98866: createPublicClient({
+    chain: plume,
+    transport: http(),
+  }),
 };
 
 async function checkAddressRisk(
