@@ -24,6 +24,18 @@
     ]
   },
   {
+    "address": "0xD1E9242e075Db4bdd3f3c721D7d5fd4180A94A7e",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "Re Ecosystem Vault exclusively allocates to assets related to the re.xyz ecosystem.\nFind more info about Re on their website re.xyz",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1764780866
+      }
+    ]
+  },
+  {
     "address": "0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
