@@ -817,7 +817,8 @@
         "action": "added",
         "timestamp": 1711733147
       }
-    ]
+    ],
+    "displayName": "Gauntlet WETH Core"
   },
   {
     "address": "0xcE22b5Fb17ccbc0C5d87DC2e0dF47DD71E3AdC0a",
@@ -1201,7 +1202,8 @@
         "action": "added",
         "timestamp": 1719822887
       }
-    ]
+    ],
+    "displayName": "f(x) Protocol Re7 USDC"
   },
   {
     "address": "0xc080f56504e0278828A403269DB945F6c6D6E014",
@@ -1249,7 +1251,8 @@
         "action": "added",
         "timestamp": 1721834135
       }
-    ]
+    ],
+    "displayName": "MEV Capital USDC"
   },
   {
     "address": "0xd80e3811D84Ee7196a187dB3f7bC0B17930730CF",
@@ -1489,7 +1492,8 @@
         "action": "added",
         "timestamp": 1725436028
       }
-    ]
+    ],
+    "displayName": "SwissBorg USDC"
   },
   {
     "address": "0x0F359FD18BDa75e9c49bC027E7da59a4b01BF32a",
@@ -2177,7 +2181,8 @@
         "action": "added",
         "timestamp": 1718959651
       }
-    ]
+    ],
+    "displayName": "Re7 - Degen"
   },
   {
     "address": "0x30B8A2c8E7Fa41e77b54b8FaF45c610e7aD909E3",
@@ -2189,7 +2194,8 @@
         "action": "added",
         "timestamp": 1718962479
       }
-    ]
+    ],
+    "displayName": "Re7 - MAI"
   },
   {
     "address": "0xF9B85b19F6885511165505299648E6d052E8D4C8",
@@ -2293,7 +2299,8 @@
         "action": "added",
         "timestamp": 1720288205
       }
-    ]
+    ],
+    "displayName": "Re7 - eUSD"
   },
   {
     "address": "0xbEEfa1aBfEbE621DF50ceaEF9f54FdB73648c92C",
