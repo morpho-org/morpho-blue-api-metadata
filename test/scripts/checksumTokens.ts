@@ -13,6 +13,7 @@ interface Token {
   decimals: number;
   metadata: TokenMetadata;
   isWhitelisted: boolean;
+  isListed: boolean;
 }
 
 function checkAddresses() {
