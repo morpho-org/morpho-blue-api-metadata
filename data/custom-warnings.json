@@ -1,10 +1,113 @@
 [
-    {
-        "metaMorphoAddress": "0x35f49B9443862d667c39673258a7F026F511C5f5",
-        "chainId": 8453,
-        "level": "yellow",
-        "metadata": {
-            "content": "This is a custom warning"
+  {
+    "vaultAddress": "0x0F359FD18BDa75e9c49bC027E7da59a4b01BF32a",
+    "chainId": 1,
+    "level": "red",
+    "metadata": {
+      "parts": [
+        {
+          "type": "text",
+          "content": "The risk curator has executed a "
+        },
+        {
+          "type": "link",
+          "text": "forced removal",
+          "href": "https://docs.morpho.org/curate/emergency/#market-reverts-forced-removal",
+          "external": true
+        },
+        {
+          "type": "text",
+          "content": " of the sdeUSD/USDC market. The vault's share price decreased proportionally, resulting in a loss for affected depositors. For more information, please refer to the "
+        },
+        {
+          "type": "link",
+          "text": "Vault Curator's updates",
+          "href": "https://x.com/relend_network/status/1988560219115323509",
+          "external": true
+        },
+        {
+          "type": "text",
+          "content": "."
         }
+      ]
     }
+  },
+  {
+    "vaultAddress": "0x3DC15A363f5Dcf3B9dB90a5C0e2a5Cdf8f1CD77E",
+    "chainId": 1,
+    "level": "red",
+    "metadata": {
+      "content": "Yearn is winding down curation of Yearn OG DAI. Please withdraw your funds and deposit in another DAI vault."
+    }
+  },
+  {
+    "vaultAddress": "0x2C3Cc1C02856894345797Cf6ee76aE76AC0f4031",
+    "chainId": 1,
+    "level": "red",
+    "metadata": {
+      "parts": [
+        {
+          "type": "text",
+          "content": "M11C is deprecating this vault as the Level protocol is shutting down ("
+        },
+        {
+          "type": "link",
+          "text": "see here",
+          "href": "https://x.com/levelusd/status/1971274925357814188",
+          "external": true
+        },
+        {
+          "type": "text",
+          "content": "). Please withdraw your funds."
+        }
+      ]
+    }
+  },
+  {
+    "vaultAddress": "0x67315dd969B8Cd3a3520C245837Bf71f54579C75",
+    "chainId": 1,
+    "level": "red",
+    "metadata": {
+      "content": "LlamaRisk is deprecating this vault. Please withdraw your funds."
+    }
+  },
+  {
+    "vaultAddress": "0xbEEFC01767ed5086f35deCb6C00e6C12bc7476C1",
+    "chainId": 1,
+    "level": "red",
+    "metadata": {
+      "content": "This vault is being deprecated following USDL asset deprecation. Please withdraw your funds."
+    }
+  },
+  {
+    "vaultAddress": "0xbEeFc011e94f43b8B7b455eBaB290C7Ab4E216f1",
+    "chainId": 1,
+    "level": "red",
+    "metadata": {
+      "content": "This vault is being deprecated following USDL asset deprecation. Please withdraw your funds."
+    }
+  },
+  {
+    "vaultAddress": "0xa60643c90A542A95026C0F1dbdB0615fF42019Cf",
+    "chainId": 42161,
+    "level": "red",
+    "metadata": {
+      "parts": [
+        {
+          "type": "text",
+          "content": "This vault has force removed a market and has an asset shortage of 645k USDC. For more information, please refer to the "
+        },
+        {
+          "type": "link",
+          "text": "Vault Curator's updates",
+          "href": "https://x.com/MEVCapital/status/1989048013893812549?s=20",
+          "external": true
+        },
+        {
+          "type": "text",
+          "content": "."
+        }
+      ]
+    }
+  }
 ]
