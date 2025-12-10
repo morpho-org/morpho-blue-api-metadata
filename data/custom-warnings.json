@@ -4,32 +4,7 @@
     "chainId": 1,
     "level": "red",
     "metadata": {
-      "parts": [
-        {
-          "type": "text",
-          "content": "The risk curator has executed a "
-        },
-        {
-          "type": "link",
-          "text": "forced removal",
-          "href": "https://docs.morpho.org/curate/emergency/#market-reverts-forced-removal",
-          "external": true
-        },
-        {
-          "type": "text",
-          "content": " of the sdeUSD/USDC market. The vault's share price decreased proportionally, resulting in a loss for affected depositors. For more information, please refer to the "
-        },
-        {
-          "type": "link",
-          "text": "Vault Curator's updates",
-          "href": "https://x.com/relend_network/status/1988560219115323509",
-          "external": true
-        },
-        {
-          "type": "text",
-          "content": "."
-        }
-      ]
+      "content": "The risk curator has executed a forced removal of the sdeUSD/USDC market. The vault's share price decreased proportionally, resulting in a loss for affected depositors. For more information, please refer to the Vault Curator's updates."
     }
   },
   {
@@ -45,22 +20,7 @@
     "chainId": 1,
     "level": "red",
     "metadata": {
-      "parts": [
-        {
-          "type": "text",
-          "content": "M11C is deprecating this vault as the Level protocol is shutting down ("
-        },
-        {
-          "type": "link",
-          "text": "see here",
-          "href": "https://x.com/levelusd/status/1971274925357814188",
-          "external": true
-        },
-        {
-          "type": "text",
-          "content": "). Please withdraw your funds."
-        }
-      ]
+      "content": "M11C is deprecating this vault as the Level protocol is shutting down. Please withdraw your funds."
     }
   },
   {
@@ -92,22 +52,7 @@
     "chainId": 42161,
     "level": "red",
     "metadata": {
-      "parts": [
-        {
-          "type": "text",
-          "content": "This vault has force removed a market and has an asset shortage of 645k USDC. For more information, please refer to the "
-        },
-        {
-          "type": "link",
-          "text": "Vault Curator's updates",
-          "href": "https://x.com/MEVCapital/status/1989048013893812549?s=20",
-          "external": true
-        },
-        {
-          "type": "text",
-          "content": "."
-        }
-      ]
+      "content": "This vault has force removed a market and has an asset shortage of 645k USDC. For more information, please refer to the Vault Curator's updates."
     }
   }
 ]

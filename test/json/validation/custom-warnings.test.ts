@@ -2,17 +2,8 @@ import { describe, expect, test, beforeAll, jest } from "@jest/globals";
 import { loadJsonFile, VALID_CHAIN_IDS, fetchWithRetry } from "../../utils/jsonValidators";
 import { getAddress } from "viem";
 
-interface MetadataPart {
-  type: "text" | "link";
-  content?: string;
-  text?: string;
-  href?: string;
-  external?: boolean;
-}
-
 interface Metadata {
-  content?: string;
-  parts?: MetadataPart[];
+  content: string;
 }
 
 interface CustomWarning {
@@ -133,96 +124,20 @@ describe("custom-warnings.json validation", () => {
     }
   });
 
-  test("metadata has valid structure (content XOR parts)", () => {
+  test("metadata.content is a non-empty string", () => {
     const errors: string[] = [];
 
     warnings.forEach((warning, index) => {
-      const hasContent = typeof warning.metadata.content === "string" && warning.metadata.content.length > 0;
-      const hasParts = Array.isArray(warning.metadata.parts) && warning.metadata.parts.length > 0;
-
-      if (!hasContent && !hasParts) {
+      if (typeof warning.metadata.content !== "string" || warning.metadata.content.trim().length === 0) {
         errors.push(
-          `Warning at index ${index}: metadata must have either 'content' (non-empty string) OR 'parts' (non-empty array)`
+          `Warning at index ${index}: metadata.content must be a non-empty string`
         );
-      } else if (hasContent && hasParts) {
-        errors.push(
-          `Warning at index ${index}: metadata cannot have both 'content' and 'parts', only one`
-        );
-      }
-    });
-
-    if (errors.length > 0) {
-      throw new Error(
-        `Found ${errors.length} metadata structure errors:\n\n${errors.join("\n\n")}`
-      );
-    }
-  });
-
-  test("metadata.content is non-empty when used", () => {
-    const errors: string[] = [];
-
-    warnings.forEach((warning, index) => {
-      if (warning.metadata.content !== undefined) {
-        if (typeof warning.metadata.content !== "string" || warning.metadata.content.trim().length === 0) {
-          errors.push(
-            `Warning at index ${index}: metadata.content must be a non-empty string`
-          );
-        }
       }
     });
 
     if (errors.length > 0) {
       throw new Error(
         `Found ${errors.length} content validation errors:\n\n${errors.join("\n\n")}`
-      );
-    }
-  });
-
-  test("metadata.parts have valid structure when used", () => {
-    const errors: string[] = [];
-
-    warnings.forEach((warning, index) => {
-      if (Array.isArray(warning.metadata.parts)) {
-        warning.metadata.parts.forEach((part, partIndex) => {
-          const partErrors: string[] = [];
-
-          // Check type field
-          if (!part.type || (part.type !== "text" && part.type !== "link")) {
-            partErrors.push(`part ${partIndex}: type must be "text" or "link"`);
-          }
-
-          // Validate text parts
-          if (part.type === "text") {
-            if (typeof part.content !== "string" || part.content.length === 0) {
-              partErrors.push(`part ${partIndex}: text type must have non-empty 'content' field`);
-            }
-          }
-
-          // Validate link parts
-          if (part.type === "link") {
-            if (typeof part.text !== "string" || part.text.length === 0) {
-              partErrors.push(`part ${partIndex}: link type must have non-empty 'text' field`);
-            }
-            if (typeof part.href !== "string" || part.href.length === 0) {
-              partErrors.push(`part ${partIndex}: link type must have non-empty 'href' field`);
-            }
-            if (typeof part.external !== "boolean") {
-              partErrors.push(`part ${partIndex}: link type must have 'external' boolean field`);
-            }
-          }
-
-          if (partErrors.length > 0) {
-            errors.push(
-              `Warning at index ${index}:\n  ${partErrors.join("\n  ")}`
-            );
-          }
-        });
-      }
-    });
-
-    if (errors.length > 0) {
-      throw new Error(
-        `Found ${errors.length} metadata.parts validation errors:\n\n${errors.join("\n\n")}`
       );
     }
   });
