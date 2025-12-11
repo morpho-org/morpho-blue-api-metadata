@@ -177,7 +177,8 @@ Each token entry must include:
 - `name`: Name of the token (ERC-20)
 - `symbol`: Symbol of the token (ERC-20)
 - `decimals`: Number of decimals for the token (0-18)
-- `isWhitelisted`: Boolean flag indicating if the token is listed
+- `isWhitelisted`: Boolean flag indicating if the token is listed (soon to be deprecated)
+- `isListed`: Boolean flag indicating if the token is listed
 - `metadata`: Object containing additional token information:
 
   - `logoURI`: URL to the token's logo image.
@@ -197,7 +198,7 @@ Each token entry must include:
 5. Required fields must have correct types:
    - Numbers: chainId, decimals
    - Strings: address, name, symbol
-   - Boolean: isWhitelisted
+   - Boolean: isWhitelisted, isListed
    - Object: metadata with logoURI and tags
 
 ### Example Entry
@@ -214,7 +215,8 @@ Each token entry must include:
     "tags": ["stablecoin", "simple-permit"],
     "alternativeHardcodedOracles": ["USD"]
   },
-  "isWhitelisted": true
+  "isWhitelisted": true,
+  "isListed": true
 }
 ```
 
@@ -239,7 +241,8 @@ Therefore, "ETH" symbols is added as an alternative oracle to "WETH" token, and 
       "alternativeOracles": ["ETH"],
       "tags": ["eth"]
     },
-    "isWhitelisted": true
+    "isWhitelisted": true,
+    "isListed": true
   },
 ```
 
@@ -259,7 +262,8 @@ USDe token may be paired in a market with DAI without any oracle to avoid liquid
     "tags": ["stablecoin", "usd-pegged", "dai-specific-permit"],
     "alternativeHardcodedOracles": ["USDS"]
   },
-  "isWhitelisted": true
+  "isWhitelisted": true,
+  "isListed": true
 }
 ```
 
@@ -279,7 +283,8 @@ There are special cases where there oracles might be intendedly left null for le
     "alternativeHardcodedOracles": ["DAI", "USDC"],
     "tags": ["stablecoin", "usd-pegged", "rwa"]
   },
-  "isWhitelisted": true
+  "isWhitelisted": true,
+  "isListed": true
 }
 ```
 
@@ -300,7 +305,8 @@ Therefore, "ETH" symbol is added as an alternative "hardcoded" oracle to "stETH"
     "alternativeHardcodedOracles": ["ETH", "WETH"],
     "tags": ["yield", "lst", "eth"]
   },
-  "isWhitelisted": true
+  "isWhitelisted": true,
+  "isListed": true
 }
 ```
 

@@ -20,6 +20,7 @@ interface Token {
   decimals: number;
   metadata: TokenMetadata;
   isWhitelisted: boolean;
+  isListed: boolean;
 }
 
 describe("tokens.json validation", () => {
@@ -117,12 +118,13 @@ describe("tokens.json validation", () => {
         );
       }
 
-      // Check boolean type
+      // Check boolean types
       try {
         expect(typeof token.isWhitelisted).toBe("boolean");
+        expect(typeof token.isListed).toBe("boolean");
       } catch (error) {
         errors.push(
-          `Token at index ${index} (address: ${token.address}) has invalid boolean field: ${error}`
+          `Token at index ${index} (address: ${token.address}) has invalid boolean fields: ${error}`
         );
       }
 
@@ -391,6 +393,7 @@ describe("tokens.json validation", () => {
       "decimals",
       "metadata",
       "isWhitelisted",
+      "isListed",
     ]);
 
     const allowedMetadataKeys = new Set([
