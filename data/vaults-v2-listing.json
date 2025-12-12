@@ -353,6 +353,18 @@
     ]
   },
   {
+    "address": "0x7ceB0f01Cb7187a2EBED5661eCC4d5701d8F2350",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/august.svg",
+    "description": "August USDC vault listing new",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1765544046
+      }
+    ]
+  },
+  {
     "address": "0xc9C474C6Aa0E930ED42fD1f40be5b1d6A5eAD645",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
