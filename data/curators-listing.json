@@ -718,7 +718,20 @@
     "verified": true,
     "addresses": {
       "1": [
-        "0xF930EBBd05eF8b25B1797b9b2109DDC9B0d43063"
+        "0xF930EBBd05eF8b25B1797b9b2109DDC9B0d43063",
+        "0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765"
+      ],
+      "10": [
+        "0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765"
+      ],
+      "137": [
+        "0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765"
+      ],
+      "8453": [
+        "0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765"
+      ],
+      "42161": [
+        "0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765"
       ]
     },
     "id": "stake-dao",
