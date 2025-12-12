@@ -356,7 +356,7 @@
     "address": "0x7ceB0f01Cb7187a2EBED5661eCC4d5701d8F2350",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/august.svg",
-    "description": "August USDC vault listing new",
+    "description": "Curated by August Digital, the August USDC vault is designed to strategically allocate USDC liquidity into various markets that have been thoroughly reviewed and underwritten by the company's risk team using a version of the CME Span Methodology. These include Upshift receipt tokens and blue-chip collateral such as stETH.",
     "history": [
       {
         "action": "added",
