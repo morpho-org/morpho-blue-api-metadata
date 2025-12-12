@@ -588,7 +588,9 @@
     "verified": true,
     "addresses": {
       "1": [
-        "0xc68733779a1738fDd743667f8714ad33d4a92453"
+        "0xc68733779a1738fDd743667f8714ad33d4a92453",
+        "0x2a155ed454Dc5861a755F9C6bc7334a23B80cdAF",
+        "0xA81AE7d57D68Fd6eF76a3082134BD2F3019aec24"
       ]
     },
     "id": "august-digital",
