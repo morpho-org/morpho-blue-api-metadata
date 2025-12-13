@@ -502,6 +502,18 @@
     ]
   },
   {
+    "address": "0xbeeff07d991C04CD640DE9F15C08ba59c4FEDEb7",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse High Yield Instant USDT vault aims to optimize for yield on a wide range of collaterals.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1765622610
+      }
+    ]
+  },
+  {
     "address": "0x6022Cbf61352618053d89FD9eEfe78Cb725B3c9d",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/architect.svg",
