@@ -601,5 +601,17 @@
         "timestamp": 1765546168
       }
     ]
+  },
+  {
+    "address": "0x0229dB3921dE71CFa43Cfe9fb6A87b403647A9ae",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
+    "description": "Hyperithm USDC Midcurve vault provides liquidity to mid-return collateral markets aiming to generate stable income while maintaining prudent risk management for sustainable performance.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1765811463
+      }
+    ]
   }
 ]
