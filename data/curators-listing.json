@@ -336,22 +336,6 @@
     }
   },
   {
-    "image": "https://cdn.morpho.org/v2/assets/images/llamarisk.svg",
-    "name": "LlamaRisk",
-    "verified": true,
-    "addresses": {
-      "1": [
-        "0x7e246fAce452AC43F5dC60c41EE14C88c37951c6"
-      ]
-    },
-    "id": "llamarisk",
-    "socials": {
-      "url": "https://www.llamarisk.com/",
-      "twitter": "https://x.com/LlamaRisk",
-      "forum": "https://forum.morpho.org/t/about-the-llama-risk-category/704"
-    }
-  },
-  {
     "image": "https://cdn.morpho.org/v2/assets/images/apostro.svg",
     "name": "Apostro",
     "verified": true,
@@ -413,23 +397,6 @@
       "url": "https://hakutora.xyz/",
       "twitter": "https://x.com/0xhakutora",
       "forum": "https://forum.morpho.org/c/vaults/hakutora/39"
-    }
-  },
-  {
-    "image": "https://cdn.morpho.org/v2/assets/images/ouroboros.svg",
-    "name": "Ouroboros Capital",
-    "verified": true,
-    "addresses": {
-      "1": [
-        "0x4c5D2A0240b889f49E6a9E893d089933BD2802cd",
-        "0x7C5805ff6F70265bCc4FC44BE6a9DB225A506bc8"
-      ]
-    },
-    "id": "ouroboros-capital",
-    "socials": {
-      "url": "https://ourocap.io/",
-      "twitter": "https://x.com/OuroborosCap8",
-      "forum": "https://forum.morpho.org/c/vaults/ouroboros/36"
     }
   },
   {
