@@ -310,18 +310,6 @@
             "link": "https://app.upshift.finance/points"
           }
         ],
-        "0xb79a07659c64f0d471663f0629bab0997206bebb31ecbd4c750e1dd7fa7bc09a": [
-          {
-            "title": "Points",
-            "label": "Strata",
-            "link": "https://deposit.strata.money/#/predeposit"
-          },
-          {
-            "title": "Sats",
-            "label": "Ethena",
-            "link": "https://app.ethena.fi/opportunities?search=morpho"
-          }
-        ],
         "0xe09be287c4f6583dfef6aa61d71f6cc76062aa1294e79b5c7c0a69d69bc1dd72": [
           {
             "title": "Points",
