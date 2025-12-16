@@ -746,6 +746,20 @@
     }
   },
   {
+    "image": "https://cdn.morpho.org/v2/assets/images/sentora.svg",
+    "name": "Sentora",
+    "verified": true,
+    "addresses": {
+      "1": []
+    },
+    "id": "sentora",
+    "socials": {
+      "url": "https://sentora.com/",
+      "twitter": "https://x.com/SentoraHQ",
+      "forum": "https://forum.morpho.org/c/vaults/sentora/56"
+    }
+  },
+  {
     "image": "https://cdn.morpho.org/v2/assets/images/swissborg.svg",
     "name": "Swissborg",
     "verified": true,
