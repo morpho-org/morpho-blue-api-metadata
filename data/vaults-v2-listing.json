@@ -269,6 +269,18 @@
     ]
   },
   {
+    "address": "0xbeef0C075Da5D01112AE5cF34d257074fB5DDB2f",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse Prime Instant EURCV vault aims to optimize yields by lending EURCV against blue chip crypto and real world asset RWA collateral markets depending on market conditions.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1765877626
+      }
+    ]
+  },
+  {
     "address": "0x04422053aDDbc9bB2759b248B574e3FCA76Bc145",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/keyrock.svg",
