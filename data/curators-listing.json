@@ -717,7 +717,10 @@
     "name": "Sentora",
     "verified": true,
     "addresses": {
-      "1": []
+      "1": [
+        "0xe8C9C99EcaD0686A14A00d8521c572281E938008",
+        "0x9e396dE3312D373b87F9BD8763fb48184b42aac0"
+      ]
     },
     "id": "sentora",
     "socials": {
