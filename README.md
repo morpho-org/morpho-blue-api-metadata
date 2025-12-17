@@ -376,7 +376,69 @@ function _myFunction_(uint256) view returns (uint256)
 
 ## 7. Custom warnings
 
-In case of emergency, or particular situation, Morpho Labs team is able to add custom warnings to some vaults or markets displayed on the Morpho Interface.
+In case of emergency, or particular situation, Morpho team is able to add custom warnings to some vaults or markets displayed on the Morpho Interface.
+
+### File Structure
+
+The custom warnings file is organized into two separate sections:
+- `vaults`: Array of vault warnings
+- `markets`: Array of market warnings
+
+### Required Fields
+
+**For Vault Warnings:**
+- `vaultAddress`: Checksummed address of the vault contract
+- `chainId`: Chain ID where the vault is deployed
+- `level`: Warning severity level (e.g., "red", "yellow")
+- `metadata`: Object containing warning details:
+  - `content`: Human-readable warning message
+
+**For Market Warnings:**
+- `uniqueKey`: 32-byte hex string (0x + 64 hex characters) identifying the market
+- `chainId`: Chain ID where the market is deployed
+- `level`: Warning severity level (e.g., "red", "yellow")
+- `metadata`: Object containing warning details:
+  - `content`: Human-readable warning message
+
+### Example Structure
+
+```json
+{
+  "vaults": [
+    {
+      "vaultAddress": "0xbEEFC01767ed5086f35deCb6C00e6C12bc7476C1",
+      "chainId": 1,
+      "level": "red",
+      "metadata": {
+        "content": "This vault is being deprecated following USDL asset deprecation. Please withdraw your funds."
+      }
+    }
+  ],
+  "markets": [
+    {
+      "uniqueKey": "0x9e90aec7d768403dacc9dd0d8320307fda3f980eed4df43e3e52168a1c667709",
+      "chainId": 42161,
+      "level": "red",
+      "metadata": {
+        "content": "This market is experiencing significant volatility. Proceed with caution."
+      }
+    }
+  ]
+}
+```
+
+### Validation Rules
+
+1. File must contain both `vaults` and `markets` arrays
+2. Vault addresses must be in checksum format
+3. Market uniqueKeys must be 32-byte hex strings (66 characters total: 0x + 64 hex chars)
+4. No duplicate vaultAddress + chainId combinations within vaults
+5. No duplicate uniqueKey + chainId combinations within markets
+6. Chain IDs must be valid
+7. All required fields must be present and of the correct type
+8. `metadata.content` must be a non-empty string
+
+### Files
 
 [custom-warnings.json](./data/custom-warnings.json)
 
