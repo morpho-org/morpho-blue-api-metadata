@@ -197,6 +197,18 @@
     ]
   },
   {
+    "address": "0xb576765fB15505433aF24FEe2c0325895C559FB2",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/sentora.svg",
+    "description": "Sentora Vault provides superior risk-adjusted returns by lending against top-tier collaterals from Bitcoin wrappers to staked ETH and yield-bearing stablecoin derivatives with strong risk management.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1765985556
+      }
+    ]
+  },
+  {
     "address": "0x4Ef53d2cAa51C447fdFEEedee8F07FD1962C9ee6",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
