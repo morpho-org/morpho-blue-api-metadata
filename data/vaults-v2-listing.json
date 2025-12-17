@@ -173,6 +173,18 @@
     ]
   },
   {
+    "address": "0xbEeFf89ABb7815cCD5182BD1FF82C4a4F8FCb13D",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse High Yield Instant AUSD vault aims to optimize yields by lending AUSD against a wide range of collaterals.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1766004842
+      }
+    ]
+  },
+  {
     "address": "0xa877D5bb0274dcCbA8556154A30E1Ca4021a275f",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
