@@ -586,6 +586,18 @@
     ]
   },
   {
+    "address": "0xE7F8Fb5CccC3e70B922FE696ae6B550557f88Da5",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/august.svg",
+    "description": "Curated by August Digital the August AUSD Vault strategically allocates AUSD liquidity across a diversified set of markets that have been rigorously reviewed and underwritten by our risk team using an adapted CME SPANstyle framework. Target markets include Upshift receipt tokens as well as blue-chip collateral such as stETH and other high-quality assets.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1766137141
+      }
+    ]
+  },
+  {
     "address": "0xbeef003C68896c7D2c3c60d363e8d71a49Ab2bf9",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
