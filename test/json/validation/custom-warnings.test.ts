@@ -14,28 +14,26 @@ interface VaultWarning {
 }
 
 interface MarketWarning {
-  uniqueKey: string;
+  marketId: string;
   chainId: number;
   level: string;
   metadata: Metadata;
 }
 
-interface CustomWarnings {
-  vaults: VaultWarning[];
-  markets: MarketWarning[];
-}
+type CustomWarning = VaultWarning | MarketWarning;
 
 const shouldSkipApiTests = process.env.SKIP_VAULTS_API_TESTS === "true";
 const MORPHO_API_URL = "https://api.morpho.org/graphql";
 
 describe("custom-warnings.json validation", () => {
-  const warningsData = loadJsonFile("custom-warnings.json") as CustomWarnings;
-  const vaultWarnings = warningsData.vaults;
-  const marketWarnings = warningsData.markets;
+  const warnings = loadJsonFile("custom-warnings.json") as CustomWarning[];
 
-  test("vaults and markets arrays exist", () => {
-    expect(Array.isArray(vaultWarnings)).toBe(true);
-    expect(Array.isArray(marketWarnings)).toBe(true);
+  // Split warnings into vaults and markets based on the presence of vaultAddress or marketId
+  const vaultWarnings = warnings.filter((w): w is VaultWarning => 'vaultAddress' in w);
+  const marketWarnings = warnings.filter((w): w is MarketWarning => 'marketId' in w);
+
+  test("file is an array", () => {
+    expect(Array.isArray(warnings)).toBe(true);
   });
 
   test("each vault address is checksummed", () => {
@@ -51,23 +49,23 @@ describe("custom-warnings.json validation", () => {
     });
   });
 
-  test("each market uniqueKey is a valid 32-byte hex string", () => {
+  test("each market marketId is a valid 32-byte hex string", () => {
     const errors: string[] = [];
 
     marketWarnings.forEach((warning, index) => {
-      const uniqueKey = warning.uniqueKey;
-      // uniqueKey should be a 32-byte hex string (0x + 64 hex chars = 66 chars total)
+      const marketId = warning.marketId;
+      // marketId should be a 32-byte hex string (0x + 64 hex chars = 66 chars total)
       const hexPattern = /^0x[a-fA-F0-9]{64}$/;
-      if (!hexPattern.test(uniqueKey)) {
+      if (!hexPattern.test(marketId)) {
         errors.push(
-          `Market warning at index ${index} has invalid uniqueKey format: ${uniqueKey}. Expected 32-byte hex string (0x + 64 hex characters)`
+          `Market warning at index ${index} has invalid marketId format: ${marketId}. Expected 32-byte hex string (0x + 64 hex characters)`
         );
       }
     });
 
     if (errors.length > 0) {
       throw new Error(
-        `Found ${errors.length} uniqueKey format errors:\n\n${errors.join("\n\n")}`
+        `Found ${errors.length} marketId format errors:\n\n${errors.join("\n\n")}`
       );
     }
   });
@@ -112,24 +110,24 @@ describe("custom-warnings.json validation", () => {
     }
   });
 
-  test("no duplicate uniqueKey + chainId combinations", () => {
+  test("no duplicate marketId + chainId combinations", () => {
     const seen = new Map<string, number>();
-    const duplicates: Array<{ uniqueKey: string; chainId: number; indices: number[] }> = [];
+    const duplicates: Array<{ marketId: string; chainId: number; indices: number[] }> = [];
 
     marketWarnings.forEach((warning, index) => {
-      const key = `${warning.chainId}:${warning.uniqueKey.toLowerCase()}`;
+      const key = `${warning.chainId}:${warning.marketId.toLowerCase()}`;
       const firstIndex = seen.get(key);
 
       if (firstIndex !== undefined) {
         const existing = duplicates.find(d =>
-          d.uniqueKey.toLowerCase() === warning.uniqueKey.toLowerCase() &&
+          d.marketId.toLowerCase() === warning.marketId.toLowerCase() &&
           d.chainId === warning.chainId
         );
         if (existing) {
           existing.indices.push(index);
         } else {
           duplicates.push({
-            uniqueKey: warning.uniqueKey,
+            marketId: warning.marketId,
             chainId: warning.chainId,
             indices: [firstIndex, index],
           });
@@ -143,7 +141,7 @@ describe("custom-warnings.json validation", () => {
       expect(duplicates).toHaveLength(0);
     } catch (error) {
       throw new Error(
-        `Found duplicate uniqueKey-chainId combinations:\n${JSON.stringify(
+        `Found duplicate marketId-chainId combinations:\n${JSON.stringify(
           duplicates,
           null,
           2
@@ -229,8 +227,8 @@ describe("custom-warnings.json validation", () => {
     marketWarnings.forEach((warning, index) => {
       const missingFields: string[] = [];
 
-      if (typeof warning.uniqueKey !== "string" || !warning.uniqueKey) {
-        missingFields.push("uniqueKey (string)");
+      if (typeof warning.marketId !== "string" || !warning.marketId) {
+        missingFields.push("marketId (string)");
       }
       if (typeof warning.chainId !== "number") {
         missingFields.push("chainId (number)");
@@ -300,9 +298,9 @@ describe("custom-warnings.json - vault and market existence in Morpho API", () =
     return;
   }
 
-  const warningsData = loadJsonFile("custom-warnings.json") as CustomWarnings;
-  const vaultWarnings = warningsData.vaults;
-  const marketWarnings = warningsData.markets;
+  const warnings = loadJsonFile("custom-warnings.json") as CustomWarning[];
+  const vaultWarnings = warnings.filter((w): w is VaultWarning => 'vaultAddress' in w);
+  const marketWarnings = warnings.filter((w): w is MarketWarning => 'marketId' in w);
 
   // Allow more time for network calls
   jest.setTimeout(60_000);
@@ -353,10 +351,11 @@ describe("custom-warnings.json - vault and market existence in Morpho API", () =
   }
 
   /**
-   * Fetch market by uniqueKey and chain ID to verify it exists
+   * Fetch market by marketId and chain ID to verify it exists
+   * Note: marketId is the same as uniqueKey, we use marketByUniqueKey query
    */
-  async function fetchMarketByUniqueKey(
-    uniqueKey: string,
+  async function fetchMarketById(
+    marketId: string,
     chainId: number
   ): Promise<{ uniqueKey: string } | null> {
     const query = `
@@ -374,14 +373,14 @@ describe("custom-warnings.json - vault and market existence in Morpho API", () =
         headers: { "content-type": "application/json" },
         body: JSON.stringify({
           query,
-          variables: { uniqueKey, chainId },
+          variables: { uniqueKey: marketId, chainId },
         }),
       },
     });
 
     if (!response.ok) {
       throw new Error(
-        `Morpho API HTTP error ${response.status} for market ${uniqueKey} on chain ${chainId}`
+        `Morpho API HTTP error ${response.status} for market ${marketId} on chain ${chainId}`
       );
     }
 
@@ -390,7 +389,7 @@ describe("custom-warnings.json - vault and market existence in Morpho API", () =
     if (json.errors?.length) {
       const msg = json.errors.map((e: any) => e.message).join("; ");
       throw new Error(
-        `Morpho API GraphQL error for market ${uniqueKey} on chain ${chainId}: ${msg}`
+        `Morpho API GraphQL error for market ${marketId} on chain ${chainId}: ${msg}`
       );
     }
 
@@ -407,11 +406,12 @@ describe("custom-warnings.json - vault and market existence in Morpho API", () =
   });
 
   marketWarnings.forEach((warning, index) => {
-    test(`market ${warning.uniqueKey} on chain ${warning.chainId} exists in Morpho API`, async () => {
-      const market = await fetchMarketByUniqueKey(warning.uniqueKey, warning.chainId);
+    test(`market ${warning.marketId} on chain ${warning.chainId} exists in Morpho API`, async () => {
+      const market = await fetchMarketById(warning.marketId, warning.chainId);
 
       expect(market).not.toBeNull();
-      expect(market?.uniqueKey).toBe(warning.uniqueKey);
+      // The API returns uniqueKey, but we're querying by marketId (which should be the same)
+      expect(market?.uniqueKey).toBe(warning.marketId);
     });
   });
 });
