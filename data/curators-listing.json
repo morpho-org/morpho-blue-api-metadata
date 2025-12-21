@@ -817,5 +817,17 @@
     },
     "ownerOnly": true,
     "id": "usdu-dao"
+  },
+  {
+    "name": "cb.xyz",
+    "image": "https://cdn.morpho.org/v2/assets/images/cbxyz.svg",
+    "verified": true,
+    "addresses": {
+      "8453": [
+        "0x7A59561c6996B432cd35E67e8163aBc2b61ab535"
+      ]
+    },
+    "ownerOnly": true,
+    "id": "cb-xyz"
   }
 ]
