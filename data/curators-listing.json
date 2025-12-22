@@ -714,6 +714,22 @@
     }
   },
   {
+    "image": "https://cdn.morpho.org/v2/assets/images/api3.svg",
+    "name": "Api3",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0xBBE0dE9757F93e3306aDBfeBE906AB285EDD13DA"
+      ]
+    },
+    "id": "api3",
+    "socials": {
+      "url": "https://api3.org/",
+      "twitter": "https://x.com/Api3DAO",
+      "forum": "https://forum.morpho.org/c/vaults/api3/57"
+    }
+  },
+  {
     "image": "https://cdn.morpho.org/v2/assets/images/sentora.svg",
     "name": "Sentora",
     "verified": true,
