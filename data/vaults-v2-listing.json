@@ -24,6 +24,18 @@
     ]
   },
   {
+    "address": "0xBeEF00fc6e87dE086A0e29169A2f6e25cF5C11a9",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The vault aims to optimize yields by lending USDC against blue chip crypto and real world asset RWA collateral markets depending on market conditions.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1766427614
+      }
+    ]
+  },
+  {
     "address": "0x0B7ee82ad75B2D3fc7f3A110A51ba68714171D25",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
