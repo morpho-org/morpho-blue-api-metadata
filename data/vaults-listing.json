@@ -3438,7 +3438,7 @@
     "address": "0x38f4f3B6533de0023b9DCd04b02F93d36ad1F9f9",
     "chainId": 130,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
-    "description": "The Gauntlet USDC Vault will list a selection of liquid collateral markets and allocate across them to optimize risk-adjusted yield. The Vault's risk strategy will follow the CORE framework, where the curator balances security and yield to provide a moderate risk profile and competitive APY for USDC suppliers.",
+    "description": "The Gauntlet USDC vault optimizes for maximum yield within an aggressive risk framework. The Vault follows Gauntlet’s Frontier Strategy, actively managing allocations to potentially higher volatility yield sources that may face liquidity risks in exchange for greater returns, providing enhanced APY for USDC suppliers.",
     "history": [
       {
         "action": "added",
