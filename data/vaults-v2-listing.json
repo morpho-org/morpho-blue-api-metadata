@@ -60,6 +60,18 @@
     ]
   },
   {
+    "address": "0xbB2F06CeAE42CBcF5559Ed0713538c8892D977c9",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/anthias.svg",
+    "description": "The Moonwell Ecosystem USDC Vault is a strategic vault designed to support the long term growth of the Moonwell ecosystem. Built on Morpho and curated by Anthias Labs it provides capital efficiency and professional risk oversight to power future expansion.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1766543281
+      }
+    ]
+  },
+  {
     "address": "0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
