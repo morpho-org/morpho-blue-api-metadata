@@ -84,6 +84,18 @@
     ]
   },
   {
+    "address": "0xe2221Aa07ec3266DA87763E2b1e28d07A8a4e53b",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/api3.svg",
+    "description": "Api3 Core USDC focuses on conservative lending against the highest-quality collateral available. By limiting exposure to well-established assets and recapturing liquidation incentives through Api3s oracle design the vault prioritizes capital preservation and stable returns across market conditions.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1767009399
+      }
+    ]
+  },
+  {
     "address": "0x43fCd85E8D9D003D515f886891B7C742AC9f92da",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
