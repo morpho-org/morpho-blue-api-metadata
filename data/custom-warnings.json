@@ -54,5 +54,37 @@
     "metadata": {
       "content": "This vault has force removed a market and has an asset shortage of 645k USDC. For more information, please refer to the Vault Curator's updates."
     }
+  },
+  {
+    "marketId": "0x5b347b3dcfed096f09040cd30a174ae354ecc0a35c996493b8fa490d6d3e79d7",
+    "chainId": 8453,
+    "level": "red",
+    "metadata": {
+      "content": "Curator is deprecating the market and borrow rates are rising. Manage your Position accordingly."
+    }
+  },
+  {
+    "marketId": "0x9e90aec7d768403dacc9dd0d8320307fda3f980eed4df43e3e52168a1c667709",
+    "chainId": 42161,
+    "level": "red",
+    "metadata": {
+      "content": "This market is experiencing significant volatility. Proceed with caution."
+    }
+  },
+  {
+    "marketId": "0x0f9563442d64ab3bd3bcb27058db0b0d4046a4c46f0acd811dacae9551d2b129",
+    "chainId": 1,
+    "level": "red",
+    "metadata": {
+      "content": "The collateral in this market is experiencing significant volatility. Proceed with caution."
+    }
+  },
+  {
+    "marketId": "0x7e79c25831c97175922df132d09b02f93103a2306b1d71e57a7714ddd4c15d13",
+    "chainId": 1,
+    "level": "red",
+    "metadata": {
+      "content": "This market is solely operated by Relend. Any funds deposited should be considered permanently unrecoverable."
+    }
   }
 ]
