@@ -377,6 +377,18 @@
     ]
   },
   {
+    "address": "0x54210d3f1A066413891AF9E17210E787d5C6e3f4",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/api3.svg",
+    "description": "Kabu USDC brings stablecoin liquidity to assets other curators avoid. By operating both the oracle and the vault - Api3 can deliver price updates precisely when liquidation thresholds are reached and not only on broad deviations. Combined with Morpho partial liquidation design this added oracle precision allows long tail assets to be supported in a safer and more controlled way. This allows Kabu to operate markets that other curators cannot run safely.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1767378248
+      }
+    ]
+  },
+  {
     "address": "0x787FC686879EaCE7Ad94A63fcEcd520fdeAf7AF9",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
