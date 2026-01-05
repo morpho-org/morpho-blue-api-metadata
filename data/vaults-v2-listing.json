@@ -192,6 +192,18 @@
     ]
   },
   {
+    "address": "0xe9f691cF56a15E662764d2a8245c1Cf2C909a4d9",
+    "chainId": 747474,
+    "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
+    "description": "Hyperithm vbUSDC Degen vault maximizes yield by swiftly integrating unique collaterals providing borrowers with high-return opportunities through active optimization while ensuring effective risk management.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1767597612
+      }
+    ]
+  },
+  {
     "address": "0x90B482cA9769807569998B20e062e024B1A0A39d",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
