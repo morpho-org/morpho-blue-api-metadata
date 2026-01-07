@@ -1117,6 +1117,10 @@
       {
         "action": "added",
         "timestamp": 1712920727
+      },
+      {
+        "action": "removed",
+        "timestamp": 1767817498
       }
     ]
   },
