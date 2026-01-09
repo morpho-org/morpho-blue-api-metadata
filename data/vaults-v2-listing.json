@@ -192,6 +192,18 @@
     ]
   },
   {
+    "address": "0x78999cc96d2Ba0341588C60CcB0E91c6C33CF371",
+    "chainId": 143,
+    "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
+    "description": "Hyperithm USDC Degen vault maximizes yield by swiftly integrating unique collaterals providing borrowers with high-return opportunities through active optimization while ensuring effective risk management.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1767946750
+      }
+    ]
+  },
+  {
     "address": "0xe9f691cF56a15E662764d2a8245c1Cf2C909a4d9",
     "chainId": 747474,
     "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
