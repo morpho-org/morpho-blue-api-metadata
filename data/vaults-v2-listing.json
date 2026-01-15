@@ -144,6 +144,18 @@
     ]
   },
   {
+    "address": "0xBEEf3f3A04e28895f3D5163d910474901981183D",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The 3F x Steakhouse USDC Vault lends against a curated set of institutional-grade RWAs and crypto assets with real-world exposure. It targets yields supported by disciplined structuring and risk management.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1768413207
+      }
+    ]
+  },
+  {
     "address": "0xFeFeC33668E22677c4762d0853d56245a800ff08",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
