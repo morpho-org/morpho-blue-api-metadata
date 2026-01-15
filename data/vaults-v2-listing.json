@@ -694,6 +694,18 @@
     ]
   },
   {
+    "address": "0xbeef04b01e0275D4ac2e2986256BB14E3Ff6ef42",
+    "chainId": 143,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse Prime ETH vault aims to optimize yields by lending ETH against blue chip crypto assets.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1768516210
+      }
+    ]
+  },
+  {
     "address": "0xE7F8Fb5CccC3e70B922FE696ae6B550557f88Da5",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/august.svg",
