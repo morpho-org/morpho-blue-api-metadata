@@ -545,6 +545,18 @@
     ]
   },
   {
+    "address": "0xaA8d9E2aBa210639cE6C7cE21385e7c673ACa6f3",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
+    "description": "Yearn Normie vaults lend underlying assets to markets labeled as minimal by the Yearn team. Optimization across markets is handled automatically via an algorithm developed by Yearn. Supply caps are set based on various factors and continuously monitored by the Yearn team as well.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1768600355
+      }
+    ]
+  },
+  {
     "address": "0x7ceB0f01Cb7187a2EBED5661eCC4d5701d8F2350",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/august.svg",
