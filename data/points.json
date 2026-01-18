@@ -205,13 +205,6 @@
     },
     "marketsWithPoints": {
       "1": {
-        "0xa72f4af2570dca1b356aa6c1e6a804d0d3df5b23bb092189776d0dc652feabb4": [
-          {
-            "title": "Points",
-            "label": "Kernel",
-            "link": "https://kerneldao.com/kelp/dashboard/"
-          }
-        ],
         "0xba761af4134efb0855adfba638945f454f0a704af11fc93439e20c7c5ebab942": [
           {
             "title": "Points",
