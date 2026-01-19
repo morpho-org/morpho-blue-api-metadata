@@ -257,6 +257,18 @@
     ]
   },
   {
+    "address": "0xeBBaE8CfAbB0092d5B32f00EBeE0c8139d24dDcd",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/avantgarde.svg",
+    "description": "The Avantgarde USDC Conservative vault aims to allocate to the most liquid USDC markets across the highest quality collateral.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1768825437
+      }
+    ]
+  },
+  {
     "address": "0xa877D5bb0274dcCbA8556154A30E1Ca4021a275f",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
