@@ -461,6 +461,18 @@
     ]
   },
   {
+    "address": "0xA1B096268D200d0ecFD57015700F6a0DA9c494e2",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
+    "description": "The YieldNest RWA USDC vault curated by the UltraYield team provides diversified exposure to YieldNest ynRWAx Morpho market by lending USDC to achieve an optimized risk-adjusted return.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1768926536
+      }
+    ]
+  },
+  {
     "address": "0xbeeff7aE5E00Aae3Db302e4B0d8C883810a58100",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
