@@ -281,6 +281,18 @@
     ]
   },
   {
+    "address": "0xe479bCbc98579bA3E1a1261f7bE85C4C10303d88",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/sentora.svg",
+    "description": "The Sentora PYUSD Core vault allocates deposits to be borrowed by supremely battle tested assets with over 1B in circulation and years of track record.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1768941611
+      }
+    ]
+  },
+  {
     "address": "0xbeeffeA75cFC4128ebe10C8D7aE22016D215060D",
     "chainId": 143,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
