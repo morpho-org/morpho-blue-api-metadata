@@ -765,6 +765,23 @@
     }
   },
   {
+    "image": "https://cdn.morpho.org/v2/assets/images/skymoney.svg",
+    "name": "Sky Money",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x3F32bC09d41eE699844F8296e806417D6bf61Bba"
+      ]
+    },
+    "id": "sky-money",
+    "socials": {
+      "url": "https://sky.money/",
+      "twitter": "https://x.com/SkyEcosystem",
+      "discord": "https://discord.gg/skyecosystem",
+      "linkedin": "https://www.linkedin.com/company/skyecosystem/"
+    }
+  },
+  {
     "image": "https://cdn.morpho.org/v2/assets/images/swissborg.svg",
     "name": "Swissborg",
     "verified": true,
