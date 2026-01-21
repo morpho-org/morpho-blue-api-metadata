@@ -569,6 +569,18 @@
     ]
   },
   {
+    "address": "0x94Af495DE1F56Aa5576dEB17986bDCeE5Dd9778D",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "The Gauntlet EURC Balanced vault aims to optimize for risk-adjusted yield across large and medium market cap assets and high liquidity yield sources. The vaults risk strategy follows Gauntlets Balanced framework whereby we curate supply to balance security and yield to provide a low risk profile at competitive APYs.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1769024902
+      }
+    ]
+  },
+  {
     "address": "0xB885F6d448dA7E2C642Ec31190B629E40E87B069",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
