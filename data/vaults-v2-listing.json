@@ -694,6 +694,18 @@
     ]
   },
   {
+    "address": "0xf1CA44EEa3A4eFFcB195A970a2f1d8553f76F9A1",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "description": "Alpha USDC Core is a conservative mandate-driven on-chain credit vault denominated in USDC. It provides isolated exposure to short-duration over-collateralized strategies with explicit risk constraints transparent positions and deterministic exit paths designed for capital preservation auditability and controlled institutional access.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1769029488
+      }
+    ]
+  },
+  {
     "address": "0x1CE2354074C717a266aDADCD5e34104f233Da446",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
