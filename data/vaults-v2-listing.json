@@ -317,6 +317,18 @@
     ]
   },
   {
+    "address": "0x4C7b69b4a82e9E5D8ec60E96516f7A0E17CBC55C",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The Clearstar EURC Reactor vault maximizes EURC yields while fostering the growth of high-quality collateral assets. By combining strategic asset selection with intelligent routing across efficient lending markets it creates a flywheel of liquidity and sustainability. This vault has automated reallocation to maximize APR within static risk parameters.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1769031983
+      }
+    ]
+  },
+  {
     "address": "0xb576765fB15505433aF24FEe2c0325895C559FB2",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/sentora.svg",
