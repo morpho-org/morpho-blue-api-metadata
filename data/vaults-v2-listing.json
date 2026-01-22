@@ -641,6 +641,18 @@
     ]
   },
   {
+    "address": "0xBCA4E2E24A7cFa776E4282CC8Eb06f04738b71da",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The Clearstar ETH Reactor vault optimizes ETH yields with automated rebalancing and a real-time risk engine.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1769073991
+      }
+    ]
+  },
+  {
     "address": "0x7ceB0f01Cb7187a2EBED5661eCC4d5701d8F2350",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/august.svg",
