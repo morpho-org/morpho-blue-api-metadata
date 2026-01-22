@@ -814,6 +814,18 @@
     ]
   },
   {
+    "address": "0x0282159ecCaabA941bD1f4C518944D8fDCdc0681",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "Conservative and boring yields. Only exposure to the most liquid markets. Zero fees forever.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1769075172
+      }
+    ]
+  },
+  {
     "address": "0x618495ccC4e751178C4914b1E939C0fe0FB07b9b",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
