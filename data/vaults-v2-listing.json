@@ -999,6 +999,18 @@
     ]
   },
   {
+    "address": "0xbeef00f0A818894a2Cf111644A5098421611100E",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse Prime Instant ETH vault aims to optimize yields by lending ETH against blue chip collaterals.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1769079765
+      }
+    ]
+  },
+  {
     "address": "0x0229dB3921dE71CFa43Cfe9fb6A87b403647A9ae",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
