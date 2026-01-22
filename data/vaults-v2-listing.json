@@ -915,6 +915,18 @@
     ]
   },
   {
+    "address": "0x5837e4189819637853a357aF36650902347F5e73",
+    "chainId": 42161,
+    "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
+    "description": "A USDC vault with 24h automation targeting a balanced risk profile. Allocations are continuously rebalanced across incentive-rich markets on Arbitrum with strict caps in place to preserve liquidity and mitigate risk.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1769035846
+      }
+    ]
+  },
+  {
     "address": "0xCdbe4A5B5bAd2BC04492052Df2F881B5727d034d",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
