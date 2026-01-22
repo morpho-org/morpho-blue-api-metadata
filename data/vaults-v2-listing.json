@@ -228,6 +228,18 @@
     ]
   },
   {
+    "address": "0x91C056B6d4311a743614FBc03ac32d4E6A2d3a3c",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The Clearstar High Yield USDC vault aims to provide liquidity to volatile and frontier assets on Base. Potential higher volatility markets mean higher implied risks in exchange for high yields.  This vault has automated reallocation to maximize APR within static risk parameters and also monitors active on-chain risks.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1769074885
+      }
+    ]
+  },
+  {
     "address": "0xbeef00B5d83C1188F07A5184230a805639c39f04",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
