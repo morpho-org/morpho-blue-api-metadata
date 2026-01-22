@@ -84,6 +84,18 @@
     ]
   },
   {
+    "address": "0x5dbf760b4fd0cDdDe0366b33aEb338b2A6d77725",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
+    "description": "A ETH vault with 24h automation targeting a balanced risk profile. Allocations are continuously rebalanced across incentive-rich markets on Ethereum with strict caps in place to preserve liquidity and mitigate risk.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1769036147
+      }
+    ]
+  },
+  {
     "address": "0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
