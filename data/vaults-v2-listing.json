@@ -409,5 +409,17 @@
         "timestamp": 1763965474
       }
     ]
+  },
+  {
+    "address": "0xD5cCe260E7a755DDf0Fb9cdF06443d593AaeaA13",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
+    "description": "A USDC vault with 24h automation targeting a balanced risk profile. Allocations are continuously rebalanced across incentive-rich markets on Ethereum with strict caps in place to preserve liquidity and mitigate risk.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1769092008
+      }
+    ]
   }
 ]
