@@ -1071,6 +1071,18 @@
     ]
   },
   {
+    "address": "0x610f5B68bD1EED68Af649A3fD3DC2CAa1ee4Ae7E",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "description": "Alpha Enhanced for Chainlink LINK is a higher-conviction credit strategy for allocators seeking returns beyond baseline lending. The vault deploys LINK across a curated set of strategy-driven onchain credit and liquidity venues including structured borrowing incentive-aligned markets and yield mechanisms linked to LINKs role in the onchain economy.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1769162781
+      }
+    ]
+  },
+  {
     "address": "0x0229dB3921dE71CFa43Cfe9fb6A87b403647A9ae",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
