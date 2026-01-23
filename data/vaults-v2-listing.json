@@ -982,6 +982,18 @@
     ]
   },
   {
+    "address": "0x951a9f4A2cE19B9DeA6B37e691d076A345b6c0F8",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "description": "Alpha Enhanced is a strategy-driven lending vault that allocates capital into a broader universe of structured and strategy-based onchain assets rather than simple passive lending.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1769120855
+      }
+    ]
+  },
+  {
     "address": "0xf71da79a6eD40F894e883874dCE3f54B1493d930",
     "chainId": 747474,
     "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
