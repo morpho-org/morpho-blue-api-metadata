@@ -72,6 +72,18 @@
     ]
   },
   {
+    "address": "0xBEEfF0d672ab7F5018dFB614c93981045D4aA98a",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "Grove x Steakhouse AUSD for Grove AUSD allocation.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1769459583
+      }
+    ]
+  },
+  {
     "address": "0xae9A5aa54ae43BB8811435F02A29E9d2B43CDC7C",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
