@@ -617,6 +617,18 @@
     ]
   },
   {
+    "address": "0xBeefF08dF54897e7544aB01d0e86f013DA354111",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "Grove x Steakhouse USDC for Grove USDC allocation.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1769459445
+      }
+    ]
+  },
+  {
     "address": "0xbeef088055857739C12CD3765F20b7679Def0f51",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
