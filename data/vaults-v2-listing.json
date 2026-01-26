@@ -276,6 +276,18 @@
     ]
   },
   {
+    "address": "0xBEEf0F82E269760429BE6255Fa00821b7e4b592A",
+    "chainId": 137,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "Steakhouse PaoTech JPYC lends against blue chip collaterals.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1769459674
+      }
+    ]
+  },
+  {
     "address": "0x90B482cA9769807569998B20e062e024B1A0A39d",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
