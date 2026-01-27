@@ -3743,6 +3743,10 @@
       {
         "action": "added",
         "timestamp": 1761127640
+      },
+      {
+        "action": "removed",
+        "timestamp": 1769519454
       }
     ]
   },
