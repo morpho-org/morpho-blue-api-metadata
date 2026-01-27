@@ -12,6 +12,18 @@
     ]
   },
   {
+    "address": "0x633ceC920306495ee526cAD96464087DF5204889",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "Steakhouse USDC Vault - DEMO",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1769497520
+      }
+    ]
+  },
+  {
     "address": "0xA02F5E93f783baF150Aa1F8b341Ae90fe0a772f7",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/cbbtc.svg",
