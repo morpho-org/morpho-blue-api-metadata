@@ -9,6 +9,24 @@
     "contractChainId": 1
   },
   {
+    "assetAddress": "0x5CFf44513C84BFA387bB0D62Af723F76Dfc6b379",
+    "contractAddress": "0x5CFf44513C84BFA387bB0D62Af723F76Dfc6b379",
+    "order": 1,
+    "type": "hardcoded",
+    "data": "{\"decimals\": 18, \"usd_value\": 1020000000000000000, \"first_block_number\": 24324499}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
+    "assetAddress": "0xB6A9c3375b3a57dA78F7C467Bd7B91cb8665A61e",
+    "contractAddress": "0xB6A9c3375b3a57dA78F7C467Bd7B91cb8665A61e",
+    "order": 1,
+    "type": "hardcoded",
+    "data": "{\"decimals\": 6, \"usd_value\": 1000000, \"first_block_number\": 24324499}",
+    "assetChainId": 1,
+    "contractChainId": 1
+  },
+  {
     "assetAddress": "0xA8c8861b5ccF8CCe0ade6811CD2A7A7d3222B0B8",
     "contractAddress": "0x353d0B2EFB5B3a7987fB06D30Ad6160522d08426",
     "order": 0,
