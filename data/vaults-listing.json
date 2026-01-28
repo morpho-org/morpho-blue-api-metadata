@@ -1506,7 +1506,7 @@
     "address": "0x79FD640000F8563A866322483524a4b48f1Ed702",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The USDT Core Vault will list a range of liquid collateral markets and continuously optimize risk-adjusted yield across those markets. This vault targets a higher risk level than Gauntlet's Prime Vaults.",
+    "description": "The Gauntlet USDT Frontier Vault targets maximum yield by allocating to potentially higher volatility markets that may face liquidity risks in exchange for greater supplier returns.",
     "history": [
       {
         "action": "added",
