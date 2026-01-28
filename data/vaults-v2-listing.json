@@ -48,6 +48,18 @@
     ]
   },
   {
+    "address": "0xbeef003E31546C7210687f1A7b40d096BE83ec58",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse Prime EURC vault aims to optimize yields by lending EURC against blue chip crypto and real world asset RWA collateral markets depending on market conditions.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1769591144
+      }
+    ]
+  },
+  {
     "address": "0x0B7ee82ad75B2D3fc7f3A110A51ba68714171D25",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
