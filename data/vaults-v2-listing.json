@@ -120,6 +120,18 @@
     ]
   },
   {
+    "address": "0xF3Cc5c9A25508D8d959618fd48F6AbC18cA4Db49",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The Clearstar Boring USDC vault maximizes USDC yields and allocates exclusively to bluechip and highly liquid assets.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1769724504
+      }
+    ]
+  },
+  {
     "address": "0xbB2F06CeAE42CBcF5559Ed0713538c8892D977c9",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/anthias.svg",
