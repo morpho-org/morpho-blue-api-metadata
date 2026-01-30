@@ -986,6 +986,18 @@
     ]
   },
   {
+    "address": "0x2B58132964f038461E3D8b56df582f49FEcc8745",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
+    "description": "The Clearstar BoringUSDT vault maximizes USDT yields and allocates exclusively to bluechip and highly liquid assets.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1769764917
+      }
+    ]
+  },
+  {
     "address": "0x050cE30b927Da55177A4914EC73480238BAD56f0",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
