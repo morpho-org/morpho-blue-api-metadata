@@ -713,6 +713,10 @@
     ]
   },
   {
+    "address": "0x94Af495DE1F56Aa5576dEB17986bDCeE5Dd9778D",
+    "chainId": 8453
+  },
+  {
     "address": "0x5f342382D5F77F0f99E8f26161E689df6c7Cded3",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
