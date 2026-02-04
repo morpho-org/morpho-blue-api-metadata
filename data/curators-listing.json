@@ -112,23 +112,6 @@
     }
   },
   {
-    "image": "https://cdn.morpho.org/v2/assets/images/tulipa-capital.svg",
-    "name": "Tulipa Capital",
-    "verified": true,
-    "addresses": {
-      "1": [
-        "0xB65b8CF358A2A4C62e1153eC88fc0eD43fB73bC4",
-        "0x30a38f1a27036aE7b1a3679646739Fb913B9B244"
-      ]
-    },
-    "id": "tulipa-capital",
-    "socials": {
-      "url": "https://www.tulipa.capital/",
-      "twitter": "https://x.com/tulipacapital",
-      "forum": "https://forum.morpho.org/c/vaults/9summits/34"
-    }
-  },
-  {
     "image": "https://cdn.morpho.org/v2/assets/images/block-analitica.png",
     "name": "Block Analitica",
     "verified": true,
@@ -276,29 +259,6 @@
       "url": "https://www.steakhouse.financial",
       "twitter": "https://x.com/SteakhouseFi",
       "forum": "https://forum.morpho.org/c/vaults/steakhouse-financial/18"
-    }
-  },
-  {
-    "image": "https://cdn.morpho.org/v2/assets/images/relend.png",
-    "name": "Relend Network",
-    "verified": true,
-    "addresses": {
-      "1": [
-        "0xD6D14E60c0DAFcB3B77B296fe718623Ec84e5eb3"
-      ],
-      "999": [
-        "0x9AFcbc4984562387eF01Cd9b9FcF923177fcB354",
-        "0xA4362C5F624F8f50DB23E9FE99FDEC2627cB36Fd"
-      ],
-      "8453": [
-        "0x32f75c3ee6aD872Eb3138020885E94E2842b8433"
-      ]
-    },
-    "id": "relend-network",
-    "socials": {
-      "url": "https://relend.network/",
-      "twitter": "https://x.com/relend_network",
-      "forum": "https://forum.morpho.org/c/vaults/b-protocol-relend-network/33"
     }
   },
   {
