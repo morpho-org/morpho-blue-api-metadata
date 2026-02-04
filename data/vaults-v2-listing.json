@@ -389,6 +389,10 @@
     ]
   },
   {
+    "address": "0x94Af495DE1F56Aa5576dEB17986bDCeE5Dd9778D",
+    "chainId": 8453
+  },
+  {
     "address": "0xa877D5bb0274dcCbA8556154A30E1Ca4021a275f",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
