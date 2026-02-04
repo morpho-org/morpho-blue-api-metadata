@@ -497,6 +497,18 @@
     ]
   },
   {
+    "address": "0x94Af495DE1F56Aa5576dEB17986bDCeE5Dd9778D",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
+    "description": "TEST",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1770221546
+      }
+    ]
+  },
+  {
     "address": "0xbeef00A299ae1784Fb7740d2d469F60a1E015fe9",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
