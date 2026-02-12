@@ -842,6 +842,11 @@
         "0x510F3b6621D9eA392d4F7632d02aBCf8ba92Bd6F"
       ]
     },
-    "id": "test"
+    "id": "test",
+    "socials": {
+      "url": "https://app.morpho.org/ethereum/earn",
+      "twitter": "https://x.com/Morpho",
+      "forum": "https://forum.morpho.org"
+    }
   }
 ]
