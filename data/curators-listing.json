@@ -839,7 +839,8 @@
     "verified": true,
     "addresses": {
       "8453": [
-        "0x510F3b6621D9eA392d4F7632d02aBCf8ba92Bd6F"
+        "0x510F3b6621D9eA392d4F7632d02aBCf8ba92Bd6F",
+        "0xB5933F4E9F29e9E92dBA92b643B37a270204dE82"
       ]
     },
     "id": "test",
