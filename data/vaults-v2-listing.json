@@ -1147,6 +1147,18 @@
     ]
   },
   {
+    "address": "0x5e03f8965e2957291B3c6990C6Cb9023c36d3d30",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/TEST.svg",
+    "description": "Test Prime USDC Vault",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1770970363
+      }
+    ]
+  },
+  {
     "address": "0x5837e4189819637853a357aF36650902347F5e73",
     "chainId": 42161,
     "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
