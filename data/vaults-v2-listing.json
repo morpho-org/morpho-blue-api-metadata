@@ -1217,5 +1217,17 @@
         "timestamp": 1765811463
       }
     ]
+  },
+  {
+    "address": "0xf4A3FaDcEf350B2F168F97Cdbaa2221FF29ACBd5",
+    "chainId": 8453,
+    "image": "https://raw.githubusercontent.com/Ernesto711/efix-pr-repo/main/Logo_Efix__1_.png",
+    "description": "USDC vault earning yield from efixDI collateral — tokenized Brazilian DI fixed-income fund shares. The underlying DI funds track the CDI rate (~14.9% APY) with D+0 redemption. Operated by EFIX, a CVM-registered securitizer in Brazil.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1739309000
+      }
+    ]
   }
 ]
