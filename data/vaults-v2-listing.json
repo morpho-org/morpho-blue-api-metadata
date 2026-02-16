@@ -773,6 +773,18 @@
     ]
   },
   {
+    "address": "0xd8CD72A2eB7A4312404C00AeD5172C0026da0C27",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "description": "Alpha Enhanced for Frax USD is a higher-conviction credit strategy for allocators seeking returns beyond baseline stablecoin lending. The vault deploys frxUSD across a curated set of strategy-driven on-chain credit and liquidity venues including structured borrowing markets incentive-aligned pools and yield mechanisms linked to frxUSDs role within the Frax Finance ecosystem and broader tokenized credit infrastructure.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1771239744
+      }
+    ]
+  },
+  {
     "address": "0x116e1A65717A534B73EcB7d4F6543c65DBCd0E46",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
