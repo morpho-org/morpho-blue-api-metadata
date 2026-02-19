@@ -75,7 +75,7 @@
     "address": "0xF39AC02DEc8faE8292d5f42202e4Cd885356256B",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/singularv.svg",
-    "description": "SingularV has operated on V1 for 6 months. We try to expand V2 and attract more capital through it",
+    "description": "SingularV ETH lending vault on Morpho V2 that allocates across diversified collateral markets to generate yield for depositors. Curated by SingularV with a focus on risk-adjusted returns through disciplined market selection and parameter management.",
     "history": [
       {
         "action": "added",
