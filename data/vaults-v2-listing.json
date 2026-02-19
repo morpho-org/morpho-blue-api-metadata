@@ -737,6 +737,18 @@
     ]
   },
   {
+    "address": "0xf7c83eD78D1dcAd6736F9f74C8A2293314441De6",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/singularv.svg",
+    "description": "SingularV USDT lending vault on Morpho V2 that allocates across diversified collateral markets to optimize risk-adjusted yield. Curated by SingularV, the vault dynamically manages exposure across multiple collateral types to maximize returns for depositors.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1771472352
+      }
+    ]
+  },
+  {
     "address": "0x4fFc4e5F1f1F5C43dc9Bc27b53728DA13b02bE35",
     "chainId": 10,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
