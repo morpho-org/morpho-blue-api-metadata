@@ -740,7 +740,7 @@
     "address": "0xf7c83eD78D1dcAd6736F9f74C8A2293314441De6",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/singularv.svg",
-    "description": "We have operated v1 USDT vault for 6 months. We want to expand and attract new capital like sUSDD from Tron Foundation partnership.",
+    "description": "SingularV USDT lending vault on Morpho V2 that allocates across diversified collateral markets to optimize risk-adjusted yield. Curated by SingularV, the vault dynamically manages exposure across multiple collateral types to maximize returns for depositors.",
     "history": [
       {
         "action": "added",
