@@ -72,6 +72,18 @@
     ]
   },
   {
+    "address": "0xF39AC02DEc8faE8292d5f42202e4Cd885356256B",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/singularv.svg",
+    "description": "SingularV has operated on V1 for 6 months. We try to expand V2 and attract more capital through it",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1771467392
+      }
+    ]
+  },
+  {
     "address": "0xD1E9242e075Db4bdd3f3c721D7d5fd4180A94A7e",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
