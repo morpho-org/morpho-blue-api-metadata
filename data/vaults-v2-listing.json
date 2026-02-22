@@ -1267,3 +1267,17 @@
     ]
   }
 ]
+,
+  {
+    "address": "0xf4A3FaDcEf350B2F168F97Cdbaa2221FF29ACBd5",
+    "chainId": 8453,
+    "image": "https://raw.githubusercontent.com/Develop-ltda/efix_finance/main/assets/efixDI-token-256x256.png",
+    "description": "The efixDI+ USDC vault enables lending against tokenized Brazilian DI fund shares (efixDI) as collateral. Each efixDI token is backed 1:1 by DI fund shares tracking Brazil's CDI rate (~14.9% APY), with D+0 same-day redemption. Regulated under CVM Resolution 88/2022. Oracle pricing via EfixBRLOracleV2 relaying Chainlink BRL/USD.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1739232000
+      }
+    ]
+  }
+]
