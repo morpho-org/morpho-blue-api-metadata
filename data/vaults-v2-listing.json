@@ -473,6 +473,18 @@
     ]
   },
   {
+    "address": "0x56bfa6f53669B836D1E0Dfa5e99706b12c373ecf",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/skymoney.svg",
+    "description": "sky.money USDC Risk Capital vault accepts USDC deposits and deploys them exclusively into an stUSDS-USDC Morpho market.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1771753437
+      }
+    ]
+  },
+  {
     "address": "0x8c106EEDAd96553e64287A5A6839c3Cc78afA3D0",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
