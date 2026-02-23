@@ -1,6 +1,6 @@
 [
   {
-    "address": "0xCEd9e254931804C53f4583736B104d55DCa4792f",
+    "address": "0xcEd9e254931804C53f4583736B104d55DCa4792f",
     "chainId": 8453,
     "image": "https://unblockequity.com/logo.png",
     "description": "UnblockEquity TLC Standard — lends USDC against tokenized US home equity lien collateral. No escrow requirement.",
@@ -12,7 +12,7 @@
     ]
   },
   {
-    "address": "0x13a93eB6164e68f5A79D3e183287137A5b14d4bd",
+    "address": "0x13a93EB6164e68f5A79D3E183287137A5B14D4bD",
     "chainId": 8453,
     "image": "https://unblockequity.com/logo.png",
     "description": "UnblockEquity TLC Breathing Room 3 — lends USDC against tokenized US home equity lien collateral with 3-month payment escrow.",
@@ -24,7 +24,7 @@
     ]
   },
   {
-    "address": "0x7495496241444c8c51bf7ECe63c6Ac8D5729c894",
+    "address": "0x7495496241444C8C51BF7ece63C6ac8d5729c894",
     "chainId": 8453,
     "image": "https://unblockequity.com/logo.png",
     "description": "UnblockEquity TLC Breathing Room 6 — lends USDC against tokenized US home equity lien collateral with 6-month payment escrow.",
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "address": "0x512185B923561320B272AFC4542066DfCB4b3bbb",
+    "address": "0x512185b923561320b272afC4542066dFcB4b3BBB",
     "chainId": 8453,
     "image": "https://unblockequity.com/logo.png",
     "description": "UnblockEquity TLC Breathing Room 12 — lends USDC against tokenized US home equity lien collateral with 12-month payment escrow.",
