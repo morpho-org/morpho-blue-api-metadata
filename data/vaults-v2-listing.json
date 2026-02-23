@@ -1018,6 +1018,18 @@
     ]
   },
   {
+    "address": "0x153Bd1abE60104Bd46aa05a27fA12D1346D64A57",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "description": "Alpha USDC Forex allocates USDC into overcollateralized on-chain credit markets with a core focus on foreign exchangerelated strategies. Exposure is primarily directed toward institutional FX liquidity cross-currency funding and market-neutral currency arbitrage structures operating within defined risk and liquidity constraints. The mandate emphasizes disciplined leverage structured collateral frameworks and transparent on-chain execution.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1771841461
+      }
+    ]
+  },
+  {
     "address": "0x62efCdAf376AC83c80e4BB4a74CBaC96936b6345",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/relend.png",
