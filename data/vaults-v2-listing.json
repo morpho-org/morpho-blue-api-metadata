@@ -1279,6 +1279,18 @@
     ]
   },
   {
+    "address": "0x85DfBE8C834aE0451613E58604E6E165Abb5c4Db",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/9summits.png",
+    "description": "The 9Summits fxUSD Agentic Stablecoin vault aims to optimize for risk-adjusted yield across agentic tokens collateral markets.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1771931700
+      }
+    ]
+  },
+  {
     "address": "0x610f5B68bD1EED68Af649A3fD3DC2CAa1ee4Ae7E",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
