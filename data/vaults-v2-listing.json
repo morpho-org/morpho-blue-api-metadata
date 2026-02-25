@@ -207,7 +207,7 @@
     "address": "0x43fCd85E8D9D003D515f886891B7C742AC9f92da",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet WETH Prime vault aims to optimize for risk-adjusted yield by allocating across large market cap assets and high liquidity yield sources. The vaults risk strategy follows the Gauntlet Prime conservative framework whereby we curate supply to manage security and yield to provide a low risk profile at competitive APYs.",
+    "description": "The Gauntlet\u00a0WETH\u00a0Prime vault aims to optimize for risk-adjusted yield by allocating across large market cap assets and high liquidity yield sources. The vaults risk strategy follows the Gauntlet Prime conservative framework whereby we curate supply to manage security and yield to provide a low risk profile at competitive APYs.",
     "history": [
       {
         "action": "added",
@@ -279,7 +279,7 @@
     "address": "0xFeFeC33668E22677c4762d0853d56245a800ff08",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet WETH Balanced vault aims to optimize for risk-adjusted yield across large and medium market cap assets and high liquidity yield sources. The vaults risk strategy follows Gauntlets Balanced framework whereby we curate supply to balance security and yield to provide a low risk profile at competitive APYs.",
+    "description": "The Gauntlet WETH\u00a0Balanced vault aims to optimize for risk-adjusted yield across large and medium market cap assets and high liquidity yield sources. The vaults risk strategy follows Gauntlets Balanced framework whereby we curate supply to balance security and yield to provide a low risk profile at competitive APYs.",
     "history": [
       {
         "action": "added",
@@ -291,7 +291,7 @@
     "address": "0x9a1D6bd5b8642C41F25e0958129B85f8E1176F3e",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet USDC Frontier Vault targets maximum yield by allocating to potentially higher volatility yield sources that may face liquidity risks in exchange for greater returns. The vaults risk strategy follows Gauntlets Frontier framework whereby we curate supply to aggressively target higher yields while managing security to provide an aggressive risk profile at competitive APYs.",
+    "description": "The Gauntlet\u00a0USDC\u00a0Frontier Vault targets maximum yield by allocating to potentially higher volatility yield sources that may face liquidity risks in exchange for greater returns. The vaults risk strategy follows Gauntlets Frontier framework whereby we curate supply to aggressively target higher yields while managing security to provide an aggressive risk profile at competitive APYs.",
     "history": [
       {
         "action": "added",
@@ -500,7 +500,7 @@
     "address": "0x8c106EEDAd96553e64287A5A6839c3Cc78afA3D0",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet USDC Prime vault aims to optimize for risk-adjusted yield by allocating across large market cap assets and high liquidity yield sources. The vaults risk strategy follows the Gauntlet Prime conservative framework whereby we curate supply to manage security and yield to provide a low risk profile at competitive APY",
+    "description": "The Gauntlet\u00a0USDC\u00a0Prime vault aims to optimize for risk-adjusted yield by allocating across large market cap assets and high liquidity yield sources. The vaults risk strategy follows the Gauntlet Prime conservative framework whereby we curate supply to manage security and yield to provide a low risk profile at competitive APY",
     "history": [
       {
         "action": "added",
@@ -584,7 +584,7 @@
     "address": "0x1deEfABEe758AAbdC29a542B24ca3b75aFD56765",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet USDC Frontier Vault targets maximum yield by allocating to potentially higher volatility yield sources that may face liquidity risks in exchange for greater returns. The vaults risk strategy follows Gauntlets Frontier framework whereby we curate supply to aggressively target higher yields while managing security to provide an aggressive risk profile at competitive APYs.",
+    "description": "The Gauntlet\u00a0USDC\u00a0Frontier Vault targets maximum yield by allocating to potentially higher volatility yield sources that may face liquidity risks in exchange for greater returns. The vaults risk strategy follows Gauntlets Frontier framework whereby we curate supply to aggressively target higher yields while managing security to provide an aggressive risk profile at competitive APYs.",
     "history": [
       {
         "action": "added",
@@ -764,7 +764,7 @@
     "address": "0x5f342382D5F77F0f99E8f26161E689df6c7Cded3",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet WETH Balanced vault aims to optimize for risk-adjusted yield across large and medium market cap assets and high liquidity yield sources. The vaults risk strategy follows Gauntlets Balanced framework whereby we curate supply to balance security and yield to provide a low risk profile at competitive APYs.",
+    "description": "The Gauntlet\u00a0WETH\u00a0Balanced vault aims to optimize for risk-adjusted yield across large and medium market cap assets and high liquidity yield sources. The vaults risk strategy follows Gauntlets Balanced framework whereby we curate supply to balance security and yield to provide a low risk profile at competitive APYs.",
     "history": [
       {
         "action": "added",
@@ -1097,7 +1097,7 @@
     "address": "0x050cE30b927Da55177A4914EC73480238BAD56f0",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet USDC Prime vault aims to optimize for risk-adjusted yield by allocating across large market cap assets and high liquidity yield sources. The vaults risk strategy follows the Gauntlet Prime conservative framework whereby we curate supply to manage security and yield to provide a low risk profile at competitive APYs.",
+    "description": "The Gauntlet\u00a0USDC\u00a0Prime vault aims to optimize for risk-adjusted yield by allocating across large market cap assets and high liquidity yield sources. The vaults risk strategy follows the Gauntlet Prime conservative framework whereby we curate supply to manage security and yield to provide a low risk profile at competitive APYs.",
     "history": [
       {
         "action": "added",
@@ -1311,6 +1311,54 @@
       {
         "action": "added",
         "timestamp": 1765811463
+      }
+    ]
+  },
+  {
+    "address": "0xD154c94E9f853dcD5C1d19edc0b6AB82f2D399B3",
+    "chainId": 8453,
+    "image": "https://unblockequity.com/logo.png",
+    "description": "Lends USDC against tokenized US home equity liens (Standard tier \u2014 no escrow). Borrowers current on mortgage payments.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1772057482
+      }
+    ]
+  },
+  {
+    "address": "0x1D530642d8163AEFD1b9B7Aa759063f3945C8500",
+    "chainId": 8453,
+    "image": "https://unblockequity.com/logo.png",
+    "description": "Lends USDC against tokenized US home equity liens (Breathing Room 3 \u2014 3 months escrow). For borrowers recently behind on payments.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1772057482
+      }
+    ]
+  },
+  {
+    "address": "0x5781d6e5E9e959C00AA06dA565743ed161dB263F",
+    "chainId": 8453,
+    "image": "https://unblockequity.com/logo.png",
+    "description": "Lends USDC against tokenized US home equity liens (Breathing Room 6 \u2014 6 months escrow). For borrowers rebuilding credit.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1772057482
+      }
+    ]
+  },
+  {
+    "address": "0x2c5b5ebcBb5Ff7fD89a806Dc81fBa424C73180b2",
+    "chainId": 8453,
+    "image": "https://unblockequity.com/logo.png",
+    "description": "Lends USDC against tokenized US home equity liens (Breathing Room 12 \u2014 12 months escrow). Maximum protection tier.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1772057482
       }
     ]
   }
