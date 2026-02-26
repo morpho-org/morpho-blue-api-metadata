@@ -276,6 +276,18 @@
     ]
   },
   {
+    "address": "0xCE13e39534082FCF8f13F6D84e6D95414D14271e",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/stakedao.svg",
+    "description": "New Stake DAO curated vault which will be incentivised by Frax.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1772094248
+      }
+    ]
+  },
+  {
     "address": "0xFeFeC33668E22677c4762d0853d56245a800ff08",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
