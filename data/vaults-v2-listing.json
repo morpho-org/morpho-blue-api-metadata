@@ -1255,6 +1255,18 @@
     ]
   },
   {
+    "address": "0xCE13e39534082FCF8f13F6D84e6D95414D14271e",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/stakedao.svg",
+    "description": "The Stake DAO frxUSD vault aims to optimize yields by lending frxUSD against selected Stake DAO LP token collaterals with a cautious risk approach or other blue chip collaterals depending on market conditions.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1772094461
+      }
+    ]
+  },
+  {
     "address": "0x8EDCC305E633d29BFB383872e79401c506cE9E6f",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/stakedao.svg",
