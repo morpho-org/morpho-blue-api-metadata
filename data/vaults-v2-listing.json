@@ -1190,6 +1190,18 @@
     ]
   },
   {
+    "address": "0x23f5E9c35820f4baB695Ac1F19c203cC3f8e1e11",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/skymoney.svg",
+    "description": "sky.money USDT Savings vault accepts USDT deposits and deploys them exclusively into an sUSDS-USDT Morpho market.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1772454800
+      }
+    ]
+  },
+  {
     "address": "0xf71da79a6eD40F894e883874dCE3f54B1493d930",
     "chainId": 747474,
     "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
