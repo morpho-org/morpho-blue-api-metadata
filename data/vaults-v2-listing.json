@@ -905,6 +905,18 @@
     ]
   },
   {
+    "address": "0xE15fcC81118895b67b6647BBd393182dF44E11E0",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/skymoney.svg",
+    "description": "sky.money USDS Flagship vault accepts USDS deposits. It keeps 80 pct in the vault and allocates 20 pct to 4 markets exposed to cbBTC - wstETH - WETH - stUSDS.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1772455316
+      }
+    ]
+  },
+  {
     "address": "0xf3557AD5E984211ac8A0874A670344f2C3376471",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
