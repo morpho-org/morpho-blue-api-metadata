@@ -1349,5 +1349,21 @@
         "timestamp": 1765811463
       }
     ]
+  },
+  {
+    "address": "0x00529C52E46759530A2613D9412A45C895C80CD2",
+    "chainId": 42161,
+    "name": "Safe Capital",
+    "description": "Safe Capital is a premium vault managed by Mendes Capital, focused on capital preservation and optimized yield through blue-chip assets on Arbitrum.",
+    "image": "https://i.imgur.com/vHq0A6v.png",
+    "metadata": {
+      "curator": "Mendes Capital"
+    },
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1741031245
+      }
+    ]
   }
 ]
