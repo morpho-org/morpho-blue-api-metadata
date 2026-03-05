@@ -19,7 +19,6 @@ interface Token {
   symbol: string;
   decimals: number;
   metadata: TokenMetadata;
-  isWhitelisted: boolean;
   isListed: boolean;
 }
 
@@ -120,7 +119,6 @@ describe("tokens.json validation", () => {
 
       // Check boolean types
       try {
-        expect(typeof token.isWhitelisted).toBe("boolean");
         expect(typeof token.isListed).toBe("boolean");
       } catch (error) {
         errors.push(
@@ -392,7 +390,6 @@ describe("tokens.json validation", () => {
       "symbol",
       "decimals",
       "metadata",
-      "isWhitelisted",
       "isListed",
     ]);
 
