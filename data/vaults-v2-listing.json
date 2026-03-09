@@ -449,6 +449,18 @@
     ]
   },
   {
+    "address": "0xbeeff96D65Cb80a0029dc9D3C4d7306c3C3A6253",
+    "chainId": 143,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse High Yield ETH vault aims to optimize yields by lending WETH against a wide range of collaterals.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1773064026
+      }
+    ]
+  },
+  {
     "address": "0xe479bCbc98579bA3E1a1261f7bE85C4C10303d88",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/sentora.svg",
