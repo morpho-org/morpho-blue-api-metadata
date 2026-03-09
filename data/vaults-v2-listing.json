@@ -168,6 +168,18 @@
     ]
   },
   {
+    "address": "0xe09A93786275546690247d70f1767cF0b69e8Ea0",
+    "chainId": 143,
+    "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
+    "description": "Hyperithm cbBTC Degen vault maximizes yield by swiftly integrating unique collaterals providing borrowers with high-return opportunities through active optimization while ensuring effective risk management.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1773035050
+      }
+    ]
+  },
+  {
     "address": "0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
