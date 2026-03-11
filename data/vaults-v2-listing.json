@@ -905,6 +905,18 @@
     ]
   },
   {
+    "address": "0x870F0BF29A25A40E7CC087cD5C53e70C11F2C8A8",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
+    "description": "A low-risk USDT vault with 24h automation. Allocations are continuously rebalanced across liquid markets with strict collateral filters to preserve liquidity and mitigate risk.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1773255427
+      }
+    ]
+  },
+  {
     "address": "0x7ceB0f01Cb7187a2EBED5661eCC4d5701d8F2350",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/august.svg",
