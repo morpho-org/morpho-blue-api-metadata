@@ -748,6 +748,22 @@
     }
   },
   {
+    "image": "https://cdn.morpho.org/v2/assets/images/rkx.svg",
+    "name": "RockawayX",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0xbBacDCFB9691DFA1066aB29edfcc4A73f6DEf918"
+      ]
+    },
+    "id": "rockawayx",
+    "socials": {
+      "url": "https://rockawayx.com/",
+      "twitter": "https://x.com/Rockaway_X",
+      "forum": "https://forum.morpho.org/c/vaults/rockawayx/59"
+    }
+  },
+  {
     "image": "https://cdn.morpho.org/v2/assets/images/swissborg.svg",
     "name": "Swissborg",
     "verified": true,
