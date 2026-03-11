@@ -569,6 +569,18 @@
     ]
   },
   {
+    "address": "0xbeef009FF4FB1727297BF2526806F4A73E4b99aD",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "Steakhouse Prime frxUSD vault aims to optimize yields by lending frxUSD against blue chip crypto and real world asset RWA collateral.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1773245489
+      }
+    ]
+  },
+  {
     "address": "0xbeef00A299ae1784Fb7740d2d469F60a1E015fe9",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
