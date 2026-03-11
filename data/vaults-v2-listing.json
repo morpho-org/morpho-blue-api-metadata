@@ -1315,6 +1315,18 @@
     ]
   },
   {
+    "address": "0xBEeFf08E1887A11D91B9Ca68c133c08Ae3c4B44f",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse Reservoir rUSD vault aims to optimize yield on rUSD lending against Reservoir ecosystem collateral.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1773245335
+      }
+    ]
+  },
+  {
     "address": "0x5837e4189819637853a357aF36650902347F5e73",
     "chainId": 42161,
     "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
