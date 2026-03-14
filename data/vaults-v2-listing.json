@@ -216,6 +216,18 @@
     ]
   },
   {
+    "address": "0xeb6719c14BA01Bf1D6bFB78A65F63f12FabF202C",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "description": "Alpha APXUSD V2 is an actively curated on-chain credit vault designed to allocate capital across selected overcollateralized lending opportunities based on risk liquidity and market conditions.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1773477521
+      }
+    ]
+  },
+  {
     "address": "0x43fCd85E8D9D003D515f886891B7C742AC9f92da",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
