@@ -1090,6 +1090,18 @@
     ]
   },
   {
+    "address": "0xbeeff421948cDE29644a63FBA4ef5e5a621075d0",
+    "chainId": 143,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse High Yield cbBTC vault aims to optimize yields by lending cbBTC against a wide range of collaterals.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1773510507
+      }
+    ]
+  },
+  {
     "address": "0x842A84Df61DbE701c5dAE345F3f8E64aF727E48C",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
