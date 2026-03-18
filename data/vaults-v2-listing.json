@@ -845,6 +845,18 @@
     ]
   },
   {
+    "address": "0xbeEf00890534C736186f3126187Da80c961EdCa1",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "EURC vault for Riva ecosystem.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1773835332
+      }
+    ]
+  },
+  {
     "address": "0x4fFc4e5F1f1F5C43dc9Bc27b53728DA13b02bE35",
     "chainId": 10,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
