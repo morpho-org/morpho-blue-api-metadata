@@ -857,6 +857,18 @@
     ]
   },
   {
+    "address": "0xbeeff9eBE518d1C7E552c4BbfB99487435c4dEc9",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse Resolv USR vault aims to optimize yield on USR lending against collateral assets from the Resolv ecosystem.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1773850093
+      }
+    ]
+  },
+  {
     "address": "0xf7c83eD78D1dcAd6736F9f74C8A2293314441De6",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/singularv.svg",
