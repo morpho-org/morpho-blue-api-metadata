@@ -473,6 +473,18 @@
     ]
   },
   {
+    "address": "0x8E56CB6Bc1a8961ed9062B99045D3299b27CDb4D",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/avantgarde.svg",
+    "description": "The Avantgarde USDC Dynamic vault optimises risk-adjusted returns by allocating across a broader range of liquid USDC markets.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1773831206
+      }
+    ]
+  },
+  {
     "address": "0xe479bCbc98579bA3E1a1261f7bE85C4C10303d88",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/sentora.svg",
