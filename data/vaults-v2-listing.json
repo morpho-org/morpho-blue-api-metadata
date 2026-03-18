@@ -156,6 +156,18 @@
     ]
   },
   {
+    "address": "0xbEeF006fb43820C864894892db0eCFEee3FdF587",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "USDC vault for Riva ecosystem.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1773835232
+      }
+    ]
+  },
+  {
     "address": "0x5dbf760b4fd0cDdDe0366b33aEb338b2A6d77725",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
