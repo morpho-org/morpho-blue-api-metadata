@@ -24,6 +24,18 @@
     ]
   },
   {
+    "address": "0xdbA76Bc542bb07538e046B40F2e8a215B409F7A8",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/anthias.svg",
+    "description": "The Moonwell Frontier cbBTC Vault curated by Anthias Labs is intended to optimize risk adjusted interest earned from BTC liquid restaking tokens as collateral. Unlike the more conservative Moonwell Flagship Vaults, Moonwell Frontier Vaults offer a higher risk reward opportunity for those interested in emerging Bitcoin derivative markets.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1773884544
+      }
+    ]
+  },
+  {
     "address": "0x093272C07700d3cA5301C3Bf9B3A392624179E2F",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
