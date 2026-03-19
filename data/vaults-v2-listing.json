@@ -1250,6 +1250,18 @@
     ]
   },
   {
+    "address": "0x48a90E85be5C56b0A669985A12ee7C449fC79965",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/anthias.svg",
+    "description": "The Moonwell Flagship USDC Morpho Vault curated by Anthias Labs is intended to optimize risk-adjusted interest earned from blue-chip collateral markets.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1773884440
+      }
+    ]
+  },
+  {
     "address": "0x618495ccC4e751178C4914b1E939C0fe0FB07b9b",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
