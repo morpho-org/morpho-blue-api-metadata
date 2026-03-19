@@ -1411,6 +1411,18 @@
     ]
   },
   {
+    "address": "0x35Cbe8542E70fa2f7F9cDF129F19e593F4b4f560",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "description": "Alpha USDC Asia V2 is a USD-denominated lending vault focused on allocating capital to overcollateralized credit markets with exposure to Asia-linked Real-World Assets RWA. The vault targets opportunities where underlying collateral or cash flows are connected to Asian economic activity including but not limited to private credit structures trade finance exposures and regionally anchored asset-backed strategies.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1773918300
+      }
+    ]
+  },
+  {
     "address": "0x5837e4189819637853a357aF36650902347F5e73",
     "chainId": 42161,
     "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
