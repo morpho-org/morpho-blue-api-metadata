@@ -1483,6 +1483,18 @@
     ]
   },
   {
+    "address": "0x80017bF0f793EBbE9679Cd61ff0e395B62CAbB59",
+    "chainId": 143,
+    "image": "https://cdn.morpho.org/v2/assets/images/august.svg",
+    "description": "August Digitals Monad vault",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1773920685
+      }
+    ]
+  },
+  {
     "address": "0x6dC58a0FdfC8D694e571DC59B9A52EEEa780E6bf",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/sentora.svg",
