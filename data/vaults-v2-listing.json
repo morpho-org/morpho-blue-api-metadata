@@ -1,5 +1,17 @@
 [
   {
+    "address": "0x89BeDBB1C4837444Da215A377275Ff96A84D6f53",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/anthias.svg",
+    "description": "The Moonwell Flagship ETH Morpho Vault curated by Anthias Labs is intended to optimize risk-adjusted interest earned from blue-chip collateral markets.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1773884158
+      }
+    ]
+  },
+  {
     "address": "0xbeeff77CE5C059445714E6A3490E273fE7F2492F",
     "chainId": 42161,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
