@@ -804,6 +804,18 @@
     ]
   },
   {
+    "address": "0x0000000000000000000000000000000000000001",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/TEST.svg",
+    "description": "test",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1774004914
+      }
+    ]
+  },
+  {
     "address": "0xBeEfDA19BC6114633FC17e6d074A6A2b472C756f",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
