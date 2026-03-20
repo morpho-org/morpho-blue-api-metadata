@@ -776,7 +776,7 @@
   {
     "image": "https://cdn.morpho.org/v2/assets/images/flowdesk.svg",
     "name": "Flowdesk",
-    "url": "https://www.flowdesk.co/",
+    "verified": true,
     "addresses": {
       "1": [
         "0x3BDA489E8f82f771E3acF4510b36a4df8FD457eA",
