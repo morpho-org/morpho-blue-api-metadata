@@ -774,6 +774,23 @@
     }
   },
   {
+    "image": "https://cdn.morpho.org/v2/assets/images/flowdesk.svg",
+    "name": "Flowdesk",
+    "url": "https://www.flowdesk.co/",
+    "addresses": {
+      "1": [
+        "0x3BDA489E8f82f771E3acF4510b36a4df8FD457eA",
+        "0xA817e31C4b9B3a5A596bB2E81D5068030b1778eC"
+      ]
+    },
+    "id": "flowdesk",
+    "socials": {
+      "url": "https://www.flowdesk.co/",
+      "twitter": "https://x.com/flowdesk_co",
+      "forum": "https://forum.morpho.org/c/vaults/flowdesk/60"
+    }
+  },
+  {
     "image": "https://cdn.morpho.org/v2/assets/images/swissborg.svg",
     "name": "Swissborg",
     "verified": true,
