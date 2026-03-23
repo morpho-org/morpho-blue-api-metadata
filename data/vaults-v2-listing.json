@@ -96,6 +96,18 @@
     ]
   },
   {
+    "address": "0x5f829B1B473cBA86838E1B7BB7E144DbDE228e21",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/rkx.svg",
+    "description": "The RockawayX USDC Prime vault allocates USDC across a curated set of bluechips ETH and BTC-backed Morpho markets to deliver sustainable risk-adjusted lending yield. Exposure is limited to established collateral with proven audit history and deep on-chain liquidity.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1774298186
+      }
+    ]
+  },
+  {
     "address": "0x0B7ee82ad75B2D3fc7f3A110A51ba68714171D25",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
