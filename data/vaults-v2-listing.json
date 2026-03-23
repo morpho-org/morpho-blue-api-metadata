@@ -1410,6 +1410,18 @@
     ]
   },
   {
+    "address": "0x9b1aE9548E4B46cEB6650f6CEc702bAf5CF2b8CC",
+    "chainId": 747474,
+    "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
+    "description": "Yearn KAT vault lends to Katana specific markets. Optimization across markets is handled automatically via an algorithm developed by Yearn. Supply caps are set based on various factors and continuously monitored by the Yearn team as well.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1774302607
+      }
+    ]
+  },
+  {
     "address": "0xf71da79a6eD40F894e883874dCE3f54B1493d930",
     "chainId": 747474,
     "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
