@@ -14,7 +14,6 @@ jobs:
   test:
     name: JSON Schema Validation
     runs-on: ubuntu-latest
-    environment: production
     steps:
       - uses: actions/checkout@v4
 
@@ -30,6 +29,52 @@ jobs:
 
       - name: Run validation tests
         working-directory: ./test
+        run: yarn test
+
+  chainalysis-pr:
+    name: Chainalysis Validation
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request'
+    environment: ci
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: yarn
+
+      - name: Install dependencies
+        working-directory: ./test
+        run: yarn --frozen-lockfile
+
+      - name: Run Chainalysis tests
+        working-directory: ./test
         env:
           CHAINALYSIS_API_TOKEN: ${{ secrets.CHAINALYSIS_API_TOKEN }}
-        run: yarn test
+        run: yarn test:chainalysis
+
+  chainalysis-main:
+    name: Chainalysis Validation (main)
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    environment: production
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: yarn
+
+      - name: Install dependencies
+        working-directory: ./test
+        run: yarn --frozen-lockfile
+
+      - name: Run Chainalysis tests
+        working-directory: ./test
+        env:
+          CHAINALYSIS_API_TOKEN: ${{ secrets.CHAINALYSIS_API_TOKEN }}
+        run: yarn test:chainalysis
