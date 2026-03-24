@@ -1089,6 +1089,18 @@
     ]
   },
   {
+    "address": "0xE0181090c22579B6A217f1522cbf8c9f1F0C1965",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/rkx.svg",
+    "description": "The RockawayX USDC Yield vault offers higher lending rates on USDC by serving borrowing demand from leveraged yield strategies.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1774298131
+      }
+    ]
+  },
+  {
     "address": "0x6a31358E58B8692cE5317181ff3379A5766A7ABA",
     "chainId": 747474,
     "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
