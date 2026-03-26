@@ -283,7 +283,7 @@
     "address": "0xBEEF01735c132Ada46AA9aA4c54623cAA92A64CB",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
-    "description": "The Steakhouse USDC vault aims to optimize yields by lending USDC against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”",
+    "description": "The Steakhouse USDC vault aims to optimize yields by lending USDC against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the \u201cdual engine.\u201d",
     "history": [
       {
         "action": "added",
@@ -379,7 +379,7 @@
     "address": "0x7204B7Dbf9412567835633B6F00C3Edc3a8D6330",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/coinshift-usdc-vault.svg",
-    "description": "Coinshift's USDC provides users with exposure to USDC lending against blue chip crypto and real world asset (RWA) collateral markets. We call this the “dual engine”. The vault is curated by Steakhouse on behalf of Coinshift.",
+    "description": "Coinshift's USDC provides users with exposure to USDC lending against blue chip crypto and real world asset (RWA) collateral markets. We call this the \u201cdual engine\u201d. The vault is curated by Steakhouse on behalf of Coinshift.",
     "history": [
       {
         "action": "added",
@@ -391,7 +391,7 @@
     "address": "0xBeeF7959aE71D4e45e1863dae0B94C35244AF816",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
-    "description": "The Steakhouse PAXG vault aims to optimize yields by lending PAXG against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine”.",
+    "description": "The Steakhouse PAXG vault aims to optimize yields by lending PAXG against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the \u201cdual engine\u201d.",
     "history": [
       {
         "action": "added",
@@ -435,7 +435,7 @@
     "address": "0xbeEF07E929F84466a591De130e4154667214F491",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
-    "description": "The Steakhouse EURCV vault aims to optimize yields by lending EURCV against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine”.",
+    "description": "The Steakhouse EURCV vault aims to optimize yields by lending EURCV against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the \u201cdual engine\u201d.",
     "history": [
       {
         "action": "added",
@@ -515,7 +515,7 @@
     "address": "0xbEEF02e5E13584ab96848af90261f0C8Ee04722a",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
-    "description": "The Steakhouse PYUSD vault aims to optimize yields by lending PYUSD against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”",
+    "description": "The Steakhouse PYUSD vault aims to optimize yields by lending PYUSD against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the \u201cdual engine.\u201d",
     "history": [
       {
         "action": "added",
@@ -539,7 +539,7 @@
     "address": "0xbEef047a543E45807105E51A8BBEFCc5950fcfBa",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
-    "description": "The Steakhouse USDT vault aims to optimize yields by lending USDT against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”",
+    "description": "The Steakhouse USDT vault aims to optimize yields by lending USDT against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the \u201cdual engine.\u201d",
     "history": [
       {
         "action": "added",
@@ -715,7 +715,7 @@
     "address": "0xbeEf094333AEdD535c130958c204E84f681FD9FA",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
-    "description": "The Steakhouse WBTC vault aims to optimize yields by lending WBTC against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”",
+    "description": "The Steakhouse WBTC vault aims to optimize yields by lending WBTC against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the \u201cdual engine.\u201d",
     "history": [
       {
         "action": "added",
@@ -763,7 +763,7 @@
     "address": "0xbEeF087c8430C0f9dCBa39BA866Eb7c22200599B",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
-    "description": "The Steakhouse EURC vault aims to optimize yields by lending EURC against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine”.",
+    "description": "The Steakhouse EURC vault aims to optimize yields by lending EURC against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the \u201cdual engine\u201d.",
     "history": [
       {
         "action": "added",
@@ -807,7 +807,7 @@
     "address": "0xBeEfDA19BC6114633FC17e6d074A6A2b472C756f",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
-    "description": "The Steakhouse USDS vault aims to optimize yields by lending USDS against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine”.",
+    "description": "The Steakhouse USDS vault aims to optimize yields by lending USDS against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the \u201cdual engine\u201d.",
     "history": [
       {
         "action": "added",
@@ -839,7 +839,7 @@
     "address": "0xBEEf050ecd6a16c4e7bfFbB52Ebba7846C4b8cD4",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
-    "description": "The Steakhouse ETH vault aims to optimize yields by lending ETH against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”",
+    "description": "The Steakhouse ETH vault aims to optimize yields by lending ETH against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the \u201cdual engine.\u201d",
     "history": [
       {
         "action": "added",
@@ -892,7 +892,7 @@
     "address": "0xbEEf0075e03A5cE0D84d4ACcF3481363E0584F5c",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
-    "description": "The Steakhouse M vault aims to optimize yields by lending wM against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine“.",
+    "description": "The Steakhouse M vault aims to optimize yields by lending wM against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the \u201cdual engine\u201c.",
     "history": [
       {
         "action": "added",
@@ -1342,7 +1342,7 @@
     "address": "0x1265a81d42d513Df40d0031f8f2e1346954d665a",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/mceusdc.svg",
-    "description": "The Elixir vault curated by MEV Capital is focused on supplying liquidity to Elixir protocol markets. It offers borrowers access to attractive rates through Elixir’s incentives and provides suppliers with a competitive APR.",
+    "description": "The Elixir vault curated by MEV Capital is focused on supplying liquidity to Elixir protocol markets. It offers borrowers access to attractive rates through Elixir\u2019s incentives and provides suppliers with a competitive APR.",
     "history": [
       {
         "action": "added",
@@ -1562,7 +1562,7 @@
     "address": "0x4Ff4186188f8406917293A9e01A1ca16d3cf9E59",
     "chainId": 1,
     "image": "https://cdn.morpho.org/assets/logos/sbmorphousdc.svg",
-    "description": "The SwissBorg USDC vault focuses on optimizing risk-adjusted returns in high-liquidity collateral markets with dynamic asset allocation and strict adherence to Gauntlet’s risk management practices. Deposit into that vault via the SwissBorg App.",
+    "description": "The SwissBorg USDC vault focuses on optimizing risk-adjusted returns in high-liquidity collateral markets with dynamic asset allocation and strict adherence to Gauntlet\u2019s risk management practices. Deposit into that vault via the SwissBorg App.",
     "history": [
       {
         "action": "added",
@@ -1635,7 +1635,7 @@
     "address": "0x30881Baa943777f92DC934d53D3bFdF33382cab3",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steak-r.svg",
-    "description": "The Steakhouse USDR vault aims to optimize yields by lending USDR against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”",
+    "description": "The Steakhouse USDR vault aims to optimize yields by lending USDR against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the \u201cdual engine.\u201d",
     "history": [
       {
         "action": "added",
@@ -1647,7 +1647,7 @@
     "address": "0xA1b60d96e5C50dA627095B9381dc5a46AF1a9a42",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steak-usdq.svg",
-    "description": "The Steakhouse USDQ vault aims to optimize yields by lending USDQ against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”",
+    "description": "The Steakhouse USDQ vault aims to optimize yields by lending USDQ against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the \u201cdual engine.\u201d",
     "history": [
       {
         "action": "added",
@@ -1903,7 +1903,7 @@
     "address": "0xbeeF010f9cb27031ad51e3333f9aF9C6B1228183",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
-    "description": "The Steakhouse USDC vault aims to optimize yields by lending USDC against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”",
+    "description": "The Steakhouse USDC vault aims to optimize yields by lending USDC against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the \u201cdual engine.\u201d",
     "history": [
       {
         "action": "added",
@@ -1959,7 +1959,7 @@
     "address": "0xBeEF086b8807Dc5E5A1740C5E3a7C4c366eA6ab5",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
-    "description": "The Steakhouse EURC vault aims to optimize yields by lending EURC against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine”.",
+    "description": "The Steakhouse EURC vault aims to optimize yields by lending EURC against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the \u201cdual engine\u201d.",
     "history": [
       {
         "action": "added",
@@ -2019,7 +2019,7 @@
     "address": "0xbEEf050a7485865A7a8d8Ca0CC5f7536b7a3443e",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.png",
-    "description": "The Steakhouse ETH vault aims to optimize yields by lending ETH against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”",
+    "description": "The Steakhouse ETH vault aims to optimize yields by lending ETH against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the \u201cdual engine.\u201d",
     "history": [
       {
         "action": "added",
@@ -2722,7 +2722,7 @@
     "address": "0x75741A12B36D181f44F389E0c6B1E0210311e3Ff",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steak-eurcv.svg",
-    "description": "The Steakhouse EURCV vault aims to optimize yields by lending EURCV against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”",
+    "description": "The Steakhouse EURCV vault aims to optimize yields by lending EURCV against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the \u201cdual engine.\u201d",
     "history": [
       {
         "action": "added",
@@ -2734,7 +2734,7 @@
     "address": "0xa5aA40F27DAeDE9748822ef836170f202e196B5A",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steak-m.svg",
-    "description": "The Steakhouse M vault aims to optimize yields by lending wM against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”.",
+    "description": "The Steakhouse M vault aims to optimize yields by lending wM against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the \u201cdual engine.\u201d.",
     "history": [
       {
         "action": "added",
@@ -2882,7 +2882,7 @@
     "address": "0xB17B070A56043e1a5a1AB7443AfAFDEbcc1168D7",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
-    "description": "The Steakhouse sUSDS vault aims to optimize yields by lending sUSDS against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the “dual engine.”",
+    "description": "The Steakhouse sUSDS vault aims to optimize yields by lending sUSDS against blue chip crypto and real world asset (RWA) collateral markets, depending on market conditions. We call this the \u201cdual engine.\u201d",
     "history": [
       {
         "action": "added",
@@ -2926,7 +2926,7 @@
     "address": "0xa00A5B20F487D0113784F85FBa88db66a408F1e0",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/august.svg",
-    "description": "The August USDC Vault runs a dynamic allocation engine—strategically deploying capital into on-chain collateral markets, and adapting to keep yields optimized across market cycles.",
+    "description": "The August USDC Vault runs a dynamic allocation engine\u2014strategically deploying capital into on-chain collateral markets, and adapting to keep yields optimized across market cycles.",
     "history": [
       {
         "action": "added",
@@ -3558,7 +3558,7 @@
     "address": "0x38f4f3B6533de0023b9DCd04b02F93d36ad1F9f9",
     "chainId": 130,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
-    "description": "The Gauntlet USDC vault optimizes for maximum yield within an aggressive risk framework. The Vault follows Gauntlet’s Frontier Strategy, actively managing allocations to potentially higher volatility yield sources that may face liquidity risks in exchange for greater returns, providing enhanced APY for USDC suppliers.",
+    "description": "The Gauntlet USDC vault optimizes for maximum yield within an aggressive risk framework. The Vault follows Gauntlet\u2019s Frontier Strategy, actively managing allocations to potentially higher volatility yield sources that may face liquidity risks in exchange for greater returns, providing enhanced APY for USDC suppliers.",
     "history": [
       {
         "action": "added",
@@ -3722,7 +3722,7 @@
     "address": "0xE74c499fA461AF1844fCa84204490877787cED56",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
-    "description": "The High Yield Clearstar USDC vault aims to provide liquidity to volatile and frontier assets on Base. Potential higher volatility markets mean higher implied risks in exchange for high yields.  This vault has automated reallocation to maximize APR within static risk parameters and also monitors active on-chain risks through the use of Hypernative to reduce exposure to collaterals that might be at risk of suffering exploits.",
+    "description": "The High Yield Clearstar USDC vault aims to provide liquidity to volatile and frontier assets on Base. Potential higher volatility markets mean higher implied risks in exchange for high yields.\u00a0 This vault has automated reallocation to maximize APR within static risk parameters and also monitors active on-chain risks through the use of Hypernative to reduce exposure to collaterals that might be at risk of suffering exploits.",
     "history": [
       {
         "action": "added",
@@ -3770,7 +3770,7 @@
     "address": "0x45f8Cc9a58285B7e7000EB14738346569963179d",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/mevcapital.png",
-    "description": "The MEV Capital LCAP Vault allows users to borrow LCAP to take directional positions on the crypto market. LCAP is an Index DTF (Decentralized Token Folio) powered by Reserve that tracks CF Benchmarks’ Large Cap Index, representing the top assets comprising roughly 95% of crypto’s market cap (excluding stablecoins). The vault aggregates liquidity and optimizes returns through MEV Capital’s active rebalancing strategy across liquid collateral markets.",
+    "description": "The MEV Capital LCAP Vault allows users to borrow LCAP to take directional positions on the crypto market. LCAP is an Index DTF (Decentralized Token Folio) powered by Reserve that tracks CF Benchmarks\u2019 Large Cap Index, representing the top assets comprising roughly 95% of crypto\u2019s market cap (excluding stablecoins). The vault aggregates liquidity and optimizes returns through MEV Capital\u2019s active rebalancing strategy across liquid collateral markets.",
     "history": [
       {
         "action": "added",
@@ -4380,6 +4380,30 @@
       {
         "action": "added",
         "timestamp": 1759997565
+      }
+    ]
+  },
+  {
+    "address": "0x9178eBE0691593184c1D785a864B62a326cc3509",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
+    "description": "A low risk USDC vault with 24h automation. Allocations are continuously rebalanced across liquid markets with strict collateral filters to preserve liquidity and mitigate risk.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1774516088
+      }
+    ]
+  },
+  {
+    "address": "0xc88eFFD6e74D55c78290892809955463468E982A",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
+    "description": "A low risk ETH vault with 24h automation. Allocations are continuously rebalanced across liquid markets with strict collateral filters to preserve liquidity and mitigate risk.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1774516088
       }
     ]
   }
