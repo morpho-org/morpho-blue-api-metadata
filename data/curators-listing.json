@@ -469,7 +469,7 @@
   },
   {
     "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
-    "name": "Edge Capital UltraYield",
+    "name": "UltraYield",
     "verified": true,
     "addresses": {
       "1": [
@@ -486,11 +486,11 @@
         "0x1280e86Cd7787FfA55d37759C0342F8CD3c7594a"
       ]
     },
-    "id": "edge-capital-ultrayield",
+    "id": "ultrayield",
     "socials": {
-      "url": "https://edgecapital.xyz/",
+      "url": "https://ultrayield.app/",
       "twitter": "https://x.com/ultrayieldapp",
-      "forum": "https://forum.morpho.org/c/vaults/edge-capital/44"
+      "forum": "https://forum.morpho.org/c/vaults/ultrayield/44"
     }
   },
   {
