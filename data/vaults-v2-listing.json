@@ -1113,6 +1113,18 @@
     ]
   },
   {
+    "address": "0x32401B9fb79065Bc15949DE0BD43927492f02F0C",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/flowdesk.svg",
+    "description": "Flowdesk AUSD RWA Strategy generates yield by allocating AUSD liquidity to a set of markets backed by tokenized real-world asset collateral with a focus on equity exposure",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1774608397
+      }
+    ]
+  },
+  {
     "address": "0x6a31358E58B8692cE5317181ff3379A5766A7ABA",
     "chainId": 747474,
     "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
