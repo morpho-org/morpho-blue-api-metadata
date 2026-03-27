@@ -1642,4 +1642,16 @@
       }
     ]
   }
-]
+],
+{
+    "address": "0xFa66acd1c6b34A32e9920AcC27fE35AEBBA2Bb24",
+    "chainId": 8453,
+    "image": "",
+    "description": "The ARGt Vault supplies ARGt liquidity to the USDC-ARGt lending market on Morpho, enabling borrowers to access ARGt against USDC collateral while generating yield for depositors.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1743091200
+      }
+    ]
+  }
