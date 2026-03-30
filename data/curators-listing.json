@@ -305,10 +305,12 @@
     "verified": true,
     "addresses": {
       "1": [
-        "0x3300f198988e4C9C63F75dF86De36421f06af8c4"
+        "0x3300f198988e4C9C63F75dF86De36421f06af8c4",
+        "0x0f963A8A8c01042B69054e787E5763ABbB0646A3"
       ],
       "8453": [
-        "0xF93B7122450A50AF3e5A76E1d546e95Ac1d0F579"
+        "0xF93B7122450A50AF3e5A76E1d546e95Ac1d0F579",
+        "0x0f963A8A8c01042B69054e787E5763ABbB0646A3"
       ]
     },
     "id": "sparkdao",
