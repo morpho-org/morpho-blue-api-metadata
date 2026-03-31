@@ -128,14 +128,6 @@
     }
   },
   {
-    "vaultAddress": "0x8eB67A509616cd6A7c1B3c8C21D48FF57df3d458",
-    "chainId": 1,
-    "level": "red",
-    "metadata": {
-      "content": "This vault has paused deposits. Please reach out to the curator for more information."
-    }
-  },
-  {
     "vaultAddress": "0x9B5E92fd227876b4C07a8c02367E2CB23c639DfA",
     "chainId": 1,
     "level": "red",
