@@ -186,6 +186,9 @@
       ],
       "747474": [
         "0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"
+      ],
+      "480": [
+        "0xD8B0F4e54a8dac04E0A57392f5A630cEdb99C940"
       ]
     },
     "id": "re7-labs",
@@ -305,10 +308,12 @@
     "verified": true,
     "addresses": {
       "1": [
-        "0x3300f198988e4C9C63F75dF86De36421f06af8c4"
+        "0x3300f198988e4C9C63F75dF86De36421f06af8c4",
+        "0x0f963A8A8c01042B69054e787E5763ABbB0646A3"
       ],
       "8453": [
-        "0xF93B7122450A50AF3e5A76E1d546e95Ac1d0F579"
+        "0xF93B7122450A50AF3e5A76E1d546e95Ac1d0F579",
+        "0x0f963A8A8c01042B69054e787E5763ABbB0646A3"
       ]
     },
     "id": "sparkdao",
@@ -469,7 +474,7 @@
   },
   {
     "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
-    "name": "Edge Capital UltraYield",
+    "name": "UltraYield",
     "verified": true,
     "addresses": {
       "1": [
@@ -479,6 +484,9 @@
       "10": [
         "0x1280e86Cd7787FfA55d37759C0342F8CD3c7594a"
       ],
+      "143": [
+        "0x1280e86Cd7787FfA55d37759C0342F8CD3c7594a"
+      ],
       "8453": [
         "0x1280e86Cd7787FfA55d37759C0342F8CD3c7594a"
       ],
@@ -486,11 +494,11 @@
         "0x1280e86Cd7787FfA55d37759C0342F8CD3c7594a"
       ]
     },
-    "id": "edge-capital-ultrayield",
+    "id": "ultrayield",
     "socials": {
-      "url": "https://edgecapital.xyz/",
+      "url": "https://ultrayield.app/",
       "twitter": "https://x.com/ultrayieldapp",
-      "forum": "https://forum.morpho.org/c/vaults/edge-capital/44"
+      "forum": "https://forum.morpho.org/c/vaults/ultrayield/44"
     }
   },
   {
@@ -771,6 +779,23 @@
       "url": "https://rockawayx.com/",
       "twitter": "https://x.com/Rockaway_X",
       "forum": "https://forum.morpho.org/c/vaults/rockawayx/59"
+    }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/flowdesk.svg",
+    "name": "Flowdesk",
+    "verified": true,
+    "addresses": {
+      "1": [
+        "0x3BDA489E8f82f771E3acF4510b36a4df8FD457eA",
+        "0xA817e31C4b9B3a5A596bB2E81D5068030b1778eC"
+      ]
+    },
+    "id": "flowdesk",
+    "socials": {
+      "url": "https://www.flowdesk.co/",
+      "twitter": "https://x.com/flowdesk_co",
+      "forum": "https://forum.morpho.org/c/vaults/flowdesk/60"
     }
   },
   {
