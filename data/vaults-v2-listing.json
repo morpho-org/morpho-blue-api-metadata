@@ -1589,5 +1589,17 @@
         "timestamp": 1765811463
       }
     ]
+  },
+  {
+    "address": "0x31C1F900C070b72548A161E36f1d171c769fc4Bd",
+    "chainId": 4217,
+    "image": "https://cdn.morpho.org/assets/logos/test.png",
+    "description": "Test Vault - DO NOT INTERACT",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1775568919
+      }
+    ]
   }
 ]
