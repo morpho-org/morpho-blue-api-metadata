@@ -902,5 +902,22 @@
       "twitter": "https://x.com/Morpho",
       "forum": "https://forum.morpho.org"
     }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/galaxy.png",
+    "name": "Galaxy Curation",
+    "url": "https://galaxy.com/",
+    "addresses": {
+      "1": [
+        "0x42D510eDeb9257f8D920d5B9f5109D95cB22419d",
+        "0xA13094eCEd689b7419BAbA12851374424c1486f1"
+      ]
+    },
+    "id": "galaxy",
+    "verified": true,
+    "socials": {
+      "url": "https://galaxy.com/",
+      "twitter": "https://x.com/galaxyhq"
+    }
   }
 ]
