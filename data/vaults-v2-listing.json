@@ -957,6 +957,18 @@
     ]
   },
   {
+    "address": "0x461eF73F640456138242398a39AB48a557A49293",
+    "chainId": 988,
+    "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
+    "description": "This vault is focused on optimizing and expanding Defi opportunities on Stable network.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1775657927
+      }
+    ]
+  },
+  {
     "address": "0x4fFc4e5F1f1F5C43dc9Bc27b53728DA13b02bE35",
     "chainId": 10,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
