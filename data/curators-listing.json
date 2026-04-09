@@ -923,5 +923,33 @@
       "url": "https://galaxy.com/",
       "twitter": "https://x.com/galaxyhq"
     }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/unified-labs.png",
+    "name": "Unified Labs",
+    "url": "https://unifiedlabs.io/",
+    "addresses": {
+      "1": [
+        "0x75B3C335B85C931B1eE7BEeB3c0e40429F002373",
+        "0xE776512dE9912E8A7AbD4bFD1E48746C59f59fF4"
+      ],
+      "137": [
+        "0x75B3C335B85C931B1eE7BEeB3c0e40429F002373",
+        "0xE776512dE9912E8A7AbD4bFD1E48746C59f59fF4"
+      ],
+      "143": [
+        "0x75B3C335B85C931B1eE7BEeB3c0e40429F002373",
+        "0xE776512dE9912E8A7AbD4bFD1E48746C59f59fF4"
+      ],
+      "42161": [
+        "0x75B3C335B85C931B1eE7BEeB3c0e40429F002373",
+        "0xE776512dE9912E8A7AbD4bFD1E48746C59f59fF4"
+      ]
+    },
+    "id": "unified-labs",
+    "socials": {
+      "url": "https://unifiedlabs.io/",
+      "twitter": "https://x.com/unifiedlabs_"
+    }
   }
 ]
