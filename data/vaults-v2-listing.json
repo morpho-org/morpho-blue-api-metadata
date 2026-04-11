@@ -96,6 +96,18 @@
     ]
   },
   {
+    "address": "0x5f829B1B473cBA86838E1B7BB7E144DbDE228e21",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/rkx.svg",
+    "description": "The RockawayX USDC Prime vault allocates USDC across a curated set of bluechips ETH and BTC-backed Morpho markets to deliver sustainable risk-adjusted lending yield. Exposure is limited to established collateral with proven audit history and deep on-chain liquidity.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1774298186
+      }
+    ]
+  },
+  {
     "address": "0x0B7ee82ad75B2D3fc7f3A110A51ba68714171D25",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
@@ -308,6 +320,18 @@
       {
         "action": "added",
         "timestamp": 1763319176
+      }
+    ]
+  },
+  {
+    "address": "0x91600E31fBeDc72433d4a57F16639cfe661Be7d8",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/galaxy.png",
+    "description": "The Galaxy Quality Stablecoin Vault allocates stablecoin liquidity across a curated selection of markets collateralized exclusively by blue chip assets. The vault is structured for depositors whose primary objective is capital preservation with yield treated as a secondary consideration.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1775583991
       }
     ]
   },
@@ -901,6 +925,10 @@
       {
         "action": "added",
         "timestamp": 1773850093
+      },
+      {
+        "action": "removed",
+        "timestamp": 1774276308
       }
     ]
   },
@@ -925,6 +953,18 @@
       {
         "action": "added",
         "timestamp": 1773835332
+      }
+    ]
+  },
+  {
+    "address": "0x461eF73F640456138242398a39AB48a557A49293",
+    "chainId": 988,
+    "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
+    "description": "This vault is focused on optimizing and expanding Defi opportunities on Stable network.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1775657927
       }
     ]
   },
@@ -973,6 +1013,18 @@
       {
         "action": "added",
         "timestamp": 1765571688
+      }
+    ]
+  },
+  {
+    "address": "0xEceF08A3cD83054e8FF6D8Cb9cE41a36b81E8d7E",
+    "chainId": 143,
+    "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
+    "description": "The UltraYield USDC vault curated by the UltraYield team provides diversified exposure to various Morpho markets by lending cbBTC to achieve an optimized risk-adjusted return.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1775217535
       }
     ]
   },
@@ -1049,6 +1101,18 @@
     ]
   },
   {
+    "address": "0x71ffB6a81786eC285D429d531Cf655107B9D878d",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/galaxy.png",
+    "description": "The Galaxy Quality Stablecoin Vault allocates stablecoin liquidity across a curated selection of markets collateralized exclusively by blue chip assets. The vault is structured for depositors whose primary objective is capital preservation with yield treated as a secondary consideration.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1775584110
+      }
+    ]
+  },
+  {
     "address": "0xbe518068EB6135117207256F8C9aFf81B4382DB1",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
@@ -1081,6 +1145,30 @@
       {
         "action": "added",
         "timestamp": 1764347842
+      }
+    ]
+  },
+  {
+    "address": "0xE0181090c22579B6A217f1522cbf8c9f1F0C1965",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/rkx.svg",
+    "description": "The RockawayX USDC Yield vault offers higher lending rates on USDC by serving borrowing demand from leveraged yield strategies.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1774298131
+      }
+    ]
+  },
+  {
+    "address": "0x32401B9fb79065Bc15949DE0BD43927492f02F0C",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/flowdesk.svg",
+    "description": "Flowdesk AUSD RWA Strategy generates yield by allocating AUSD liquidity to a set of markets backed by tokenized real-world asset collateral with a focus on equity exposure",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1774608397
       }
     ]
   },
@@ -1358,6 +1446,18 @@
     ]
   },
   {
+    "address": "0xBeEFfB65df79Baac701307c9605b7aB207355Fdb",
+    "chainId": 143,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse High Yield USD1 vault aims to optimize yields by lending USD1 against a wide range of collaterals.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1774633181
+      }
+    ]
+  },
+  {
     "address": "0xbeeff07d991C04CD640DE9F15C08ba59c4FEDEb7",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
@@ -1402,6 +1502,18 @@
       {
         "action": "added",
         "timestamp": 1772454800
+      }
+    ]
+  },
+  {
+    "address": "0x9b1aE9548E4B46cEB6650f6CEc702bAf5CF2b8CC",
+    "chainId": 747474,
+    "image": "https://cdn.morpho.org/v2/assets/images/yearn.svg",
+    "description": "Yearn KAT vault lends to Katana specific markets. Optimization across markets is handled automatically via an algorithm developed by Yearn. Supply caps are set based on various factors and continuously monitored by the Yearn team as well.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1774302607
       }
     ]
   },
@@ -1551,6 +1663,18 @@
       {
         "action": "added",
         "timestamp": 1773920685
+      }
+    ]
+  },
+  {
+    "address": "0x64C18DCC4Ccb3b8D27877a4aeBB4C3126CB39cB9",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/rkx.svg",
+    "description": "The RockawayX wETH  vault earns ETH-denominated yield by lending WETH against correlated liquid staking tokens.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1774298209
       }
     ]
   },
