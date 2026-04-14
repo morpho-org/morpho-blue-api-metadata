@@ -33,11 +33,11 @@ async function fetchVaultNames(
   chainId: number
 ): Promise<{ v1Name: string | null; v2Name: string | null }> {
   const query = `
-    query {
-      vault: vaultByAddress(address: "${v1Address}", chainId: ${chainId}) {
+    query VaultNames($v1Address: String!, $v2Address: String!, $chainId: Int!) {
+      vault: vaultByAddress(address: $v1Address, chainId: $chainId) {
         name
       }
-      vaultV2: vaultV2ByAddress(address: "${v2Address}", chainId: ${chainId}) {
+      vaultV2: vaultV2ByAddress(address: $v2Address, chainId: $chainId) {
         name
       }
     }
@@ -48,7 +48,10 @@ async function fetchVaultNames(
     init: {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ query }),
+      body: JSON.stringify({
+        query,
+        variables: { v1Address, v2Address, chainId },
+      }),
     },
   });
 
@@ -57,7 +60,15 @@ async function fetchVaultNames(
       vault?: { name: string } | null;
       vaultV2?: { name: string } | null;
     };
+    errors?: Array<{ message: string }>;
   };
+
+  if (json.errors?.length) {
+    const msg = json.errors.map((e) => e.message).join("; ");
+    throw new Error(
+      `Morpho API GraphQL error for vaults ${v1Address}/${v2Address} on chain ${chainId}: ${msg}`
+    );
+  }
 
   return {
     v1Name: json.data?.vault?.name ?? null,
@@ -104,31 +115,21 @@ describe("vaults-v1-to-v2-migration.json validation", () => {
     }
   });
 
-  test("V1 vault addresses are properly checksummed", () => {
-    migrations.forEach((entry, index) => {
-      try {
-        const checksummedAddress = getAddress(entry.v1VaultAddress);
-        expect(entry.v1VaultAddress).toBe(checksummedAddress);
-      } catch (error) {
-        throw new Error(
-          `Invalid V1 address format at index ${index}: ${entry.v1VaultAddress}`
-        );
-      }
-    });
-  });
-
-  test("V2 vault addresses are properly checksummed", () => {
-    migrations.forEach((entry, index) => {
-      try {
-        const checksummedAddress = getAddress(entry.v2VaultAddress);
-        expect(entry.v2VaultAddress).toBe(checksummedAddress);
-      } catch (error) {
-        throw new Error(
-          `Invalid V2 address format at index ${index}: ${entry.v2VaultAddress}`
-        );
-      }
-    });
-  });
+  test.each(["v1VaultAddress", "v2VaultAddress"] as const)(
+    "%s addresses are properly checksummed",
+    (field) => {
+      migrations.forEach((entry, index) => {
+        try {
+          const checksummedAddress = getAddress(entry[field]);
+          expect(entry[field]).toBe(checksummedAddress);
+        } catch (error) {
+          throw new Error(
+            `Invalid ${field} format at index ${index}: ${entry[field]}`
+          );
+        }
+      });
+    }
+  );
 
   test("chain IDs are valid", () => {
     const validChainIds: number[] = [...VALID_CHAIN_IDS];
@@ -238,63 +239,74 @@ describe("vaults-v1-to-v2-migration.json validation", () => {
   test(
     "(informational) curator name appears in both V1 and V2 vault names",
     async () => {
-      const curatorNames = curators.map((c) => c.name);
+      const curatorNamesLower = curators.map((c) => ({
+        original: c.name,
+        lower: c.name.toLowerCase(),
+      }));
       const warnings: string[] = [];
 
-      for (const [index, entry] of migrations.entries()) {
-        let v1Name: string | null;
-        let v2Name: string | null;
-
-        try {
-          ({ v1Name, v2Name } = await fetchVaultNames(
+      const results = await Promise.allSettled(
+        migrations.map((entry) =>
+          fetchVaultNames(
             entry.v1VaultAddress,
             entry.v2VaultAddress,
             entry.chainId
-          ));
-        } catch {
+          )
+        )
+      );
+
+      results.forEach((result, index) => {
+        const entry = migrations[index];
+
+        if (result.status === "rejected") {
           console.warn(
             `Entry ${index}: Could not fetch vault names from Morpho API for chain ${entry.chainId}`
           );
-          continue;
+          return;
         }
+
+        const { v1Name, v2Name } = result.value;
 
         if (!v1Name || !v2Name) {
           console.warn(
             `Entry ${index}: Vault not found on Morpho API — ` +
               `V1=${v1Name ?? "not found"}, V2=${v2Name ?? "not found"}`
           );
-          continue;
+          return;
         }
 
         const v1NameLower = v1Name.toLowerCase();
         const v2NameLower = v2Name.toLowerCase();
 
-        const v1MatchingCurators = curatorNames.filter((name) =>
-          v1NameLower.includes(name.toLowerCase())
+        const v1MatchingCurators = curatorNamesLower.filter((c) =>
+          v1NameLower.includes(c.lower)
         );
-        const v2MatchingCurators = curatorNames.filter((name) =>
-          v2NameLower.includes(name.toLowerCase())
+        const v2MatchingCurators = curatorNamesLower.filter((c) =>
+          v2NameLower.includes(c.lower)
         );
 
-        const commonCurators = v1MatchingCurators.filter((name) =>
-          v2MatchingCurators.includes(name)
+        const v2Set = new Set(v2MatchingCurators.map((c) => c.original));
+        const v1Set = new Set(v1MatchingCurators.map((c) => c.original));
+
+        const commonCurators = v1MatchingCurators.filter((c) =>
+          v2Set.has(c.original)
         );
 
         if (commonCurators.length > 0) {
           console.log(
-            `Entry ${index}: Curator [${commonCurators.join(", ")}] found in both vault names. ` +
+            `Entry ${index}: Curator [${commonCurators.map((c) => c.original).join(", ")}] found in both vault names. ` +
               `V1="${v1Name}", V2="${v2Name}"`
           );
         } else if (
           v1MatchingCurators.length > 0 ||
           v2MatchingCurators.length > 0
         ) {
-          const onlyInV1 = v1MatchingCurators.filter(
-            (name) => !v2MatchingCurators.includes(name)
-          );
-          const onlyInV2 = v2MatchingCurators.filter(
-            (name) => !v1MatchingCurators.includes(name)
-          );
+          const onlyInV1 = v1MatchingCurators
+            .filter((c) => !v2Set.has(c.original))
+            .map((c) => c.original);
+          const onlyInV2 = v2MatchingCurators
+            .filter((c) => !v1Set.has(c.original))
+            .map((c) => c.original);
           warnings.push(
             `Entry ${index}: Curator name mismatch — ` +
               `V1="${v1Name}" matches [${onlyInV1.join(", ") || "none"}], ` +
@@ -306,7 +318,7 @@ describe("vaults-v1-to-v2-migration.json validation", () => {
               `V1="${v1Name}", V2="${v2Name}"`
           );
         }
-      }
+      });
 
       if (warnings.length > 0) {
         console.warn(
