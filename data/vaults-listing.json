@@ -547,7 +547,7 @@
     "address": "0x5435BC53f2C61298167cdB11Cdf0Db2BFa259ca0",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
-    "description": "The Edge UltraYield USDC vault curated by the UltraYield team provides diversified exposure to various Morpho markets by lending USDC to achieve an optimized risk-adjusted return.",
+    "description": "The UltraYield USDC vault curated by the UltraYield team provides diversified exposure to various Morpho markets by lending USDC to achieve an optimized risk-adjusted return.",
     "history": [
       {
         "action": "added",
@@ -1132,7 +1132,7 @@
     "address": "0x48921e52f70CEC7D3425Cf5103Caace27Fc0b2Fe",
     "chainId": 10,
     "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
-    "description": "The Edge UltraYield USDC vault curated by the UltraYield team provides diversified exposure to various Morpho markets by lending USDC to achieve an optimized risk-adjusted return.",
+    "description": "The UltraYield USDC vault curated by the UltraYield team provides diversified exposure to various Morpho markets by lending USDC to achieve an optimized risk-adjusted return.",
     "history": [
       {
         "action": "added",
@@ -3262,7 +3262,7 @@
     "address": "0x965Ec3552427B8258BD0a0c7baA234618fc98D01",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
-    "description": "The Edge UltraYield USDT vault curated by the UltraYield team provides diversified exposure to various Morpho markets by lending USDT to achieve an optimized risk-adjusted return.",
+    "description": "The UltraYield USDT vault curated by the UltraYield team provides diversified exposure to various Morpho markets by lending USDT to achieve an optimized risk-adjusted return.",
     "history": [
       {
         "action": "added",
@@ -3990,7 +3990,7 @@
     "address": "0x2D91466BCC6946B58869fE2ae521A856737C3f6e",
     "chainId": 42161,
     "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
-    "description": "The Edge UltraYield USDC vault curated by the UltraYield team provides diversified exposure to various Morpho markets by lending USDC to achieve an optimized risk-adjusted return.",
+    "description": "The UltraYield USDC vault curated by the UltraYield team provides diversified exposure to various Morpho markets by lending USDC to achieve an optimized risk-adjusted return",
     "history": [
       {
         "action": "added",
@@ -4018,7 +4018,7 @@
     "address": "0x0562AE950276B24F3eAE0d0a518dADB7Ad2F8D66",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/edge-capital-ultrayield.svg",
-    "description": "The Edge UltraYield USDC vault, curated by the UltraYield team, provides diversified exposure to various Morpho markets by lending USDC to achieve an optimized, risk-adjusted return.",
+    "description": "The UltraYield USDC vault, curated by the UltraYield team, provides diversified exposure to various Morpho markets by lending USDC to achieve an optimized, risk-adjusted return.",
     "history": [
       {
         "action": "added",
