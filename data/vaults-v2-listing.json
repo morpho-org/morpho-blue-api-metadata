@@ -1161,6 +1161,18 @@
     ]
   },
   {
+    "address": "0x0bF0164D17469241B6E086dA4016DCc54FEAA334",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "description": "Alpha USDC Delta V2 is a USD-denominated vault focused on deploying capital into delta-neutral strategies across on-chain and structured markets. The mandate targets opportunities where directional market exposure is minimized through hedging while generating yield from funding spreads basis trades and market inefficiencies. Strategies may include but are not limited to arbitrage across spot and derivatives markets hedged liquidity provision and structured carry positions designed to remain market-neutral under varying conditions.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1776165579
+      }
+    ]
+  },
+  {
     "address": "0x32401B9fb79065Bc15949DE0BD43927492f02F0C",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/flowdesk.svg",
