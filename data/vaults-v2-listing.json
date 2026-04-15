@@ -581,6 +581,18 @@
     ]
   },
   {
+    "address": "0x0ED3615ff949C8A34D15441970900E849A3409FC",
+    "chainId": 143,
+    "image": "https://cdn.morpho.org/v2/assets/images/unified-labs.svg",
+    "description": "The first Vault of Unified Labs. Incluade FUSD and DigiFT RWA asstes in the future",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1776234041
+      }
+    ]
+  },
+  {
     "address": "0x4C7b69b4a82e9E5D8ec60E96516f7A0E17CBC55C",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/clearstar.svg",
