@@ -223,7 +223,7 @@
     "address": "0x6D6D386C4855d9b604D7E14c70526407F6272394",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
-    "description": "Hyperithm ETH Degen vault maximizes yield by swiftly integrating unique collaterals providing borrowers with high-return opportunities through active optimization while ensuring effective risk management.",
+    "description": "Hyperithm ETH Apex vault maximizes yield by swiftly integrating unique collaterals providing borrowers with high-return opportunities through active optimization while ensuring effective risk management.",
     "history": [
       {
         "action": "added",
@@ -843,7 +843,7 @@
     "address": "0x4B6F1C9E5d470b97181786b26da0d0945A7cf027",
     "chainId": 42161,
     "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
-    "description": "Hyperithm USDC vault maximizes yield by swiftly integrating unique collaterals providing borrowers with high-return opportunities through active optimization while ensuring effective risk management.",
+    "description": "Hyperithm USDC Apex vault maximizes yield by swiftly integrating unique collaterals providing borrowers with high-return opportunities through active optimization while ensuring effective risk management.",
     "history": [
       {
         "action": "added",
@@ -2662,7 +2662,7 @@
     "address": "0xCdaea3dde6cE5969aA1414A82A3A681cEd51Ce72",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
-    "description": "Hyperithm USDC Midcurve vault provides liquidity to mid-return collateral markets aiming to generate stable income while maintaining prudent risk management for sustainable performance.",
+    "description": "Hyperithm USDC Core vault provides liquidity to conservative collateral markets aiming to generate stable income while maintaining prudent risk management for sustainable performance.",
     "history": [
       {
         "action": "added",
@@ -3042,7 +3042,7 @@
     "address": "0x777791C4d6DC2CE140D00D2828a7C93503c67777",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
-    "description": "Hyperithm USDC Degen vault maximizes yield by swiftly integrating unique collaterals, providing borrowers with high-return opportunities through active optimization while ensuring effective risk management.",
+    "description": "Hyperithm USDC Apex vault maximizes yield by swiftly integrating unique collaterals providing borrowers with high-return opportunities through active optimization while ensuring effective risk management.",
     "history": [
       {
         "action": "added",
@@ -3670,7 +3670,7 @@
     "address": "0x888883f0eDDF69Ca4BfD00Af93714Ff97F188888",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/hyperithm.svg",
-    "description": "Hyperithm USDT vault maximizes yield by swiftly integrating unique collaterals, providing borrowers with high-return opportunities through active optimization while ensuring effective risk management.",
+    "description": "Hyperithm USDT Core vault provides liquidity to conservative collateral markets aiming to generate stable income while maintaining prudent risk management for sustainable performance.",
     "history": [
       {
         "action": "added",
