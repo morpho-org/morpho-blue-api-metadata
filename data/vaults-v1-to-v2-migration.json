@@ -35,88 +35,73 @@
     "chainId": 42161
   },
   {
-    "v1VaultAddress": "0xdd0f28e19c1780eb6396170735d45153d261490d",
-    "v2VaultAddress": "0x8c106eedad96553e64287a5a6839c3cc78afa3d0",
+    "v1VaultAddress": "0xdd0f28e19C1780eb6396170735D45153D261490d",
+    "v2VaultAddress": "0x8c106EEDAd96553e64287A5A6839c3Cc78afA3D0",
     "chainId": 1
   },
   {
-    "v1VaultAddress": "0xdd0f28e19c1780eb6396170735d45153d261490d",
-    "v2VaultAddress": "0x96d8cf81acad83e533b3ad4fb039f145bed1c14f",
+    "v1VaultAddress": "0x8eB67A509616cd6A7c1B3c8C21D48FF57df3d458",
+    "v2VaultAddress": "0x9a1D6bd5b8642C41F25e0958129B85f8E1176F3e",
     "chainId": 1
   },
   {
-    "v1VaultAddress": "0x8eb67a509616cd6a7c1b3c8c21d48ff57df3d458",
-    "v2VaultAddress": "0x9a1d6bd5b8642c41f25e0958129b85f8e1176f3e",
+    "v1VaultAddress": "0xc582F04d8a82795aa2Ff9c8bb4c1c889fe7b754e",
+    "v2VaultAddress": "0x9a1D6bd5b8642C41F25e0958129B85f8E1176F3e",
     "chainId": 1
   },
   {
-    "v1VaultAddress": "0xc582f04d8a82795aa2ff9c8bb4c1c889fe7b754e",
-    "v2VaultAddress": "0x9a1d6bd5b8642c41f25e0958129b85f8e1176f3e",
+    "v1VaultAddress": "0x8CB3649114051cA5119141a34C200D65dc0Faa73",
+    "v2VaultAddress": "0xf3557AD5E984211ac8A0874A670344f2C3376471",
     "chainId": 1
   },
   {
-    "v1VaultAddress": "0x8cb3649114051ca5119141a34c200d65dc0faa73",
-    "v2VaultAddress": "0xf3557ad5e984211ac8a0874a670344f2c3376471",
+    "v1VaultAddress": "0x79FD640000F8563A866322483524a4b48f1Ed702",
+    "v2VaultAddress": "0xE571B648569619566CF6ce1060C97B621CB635D3",
     "chainId": 1
   },
   {
-    "v1VaultAddress": "0x79fd640000f8563a866322483524a4b48f1ed702",
-    "v2VaultAddress": "0xe571b648569619566cf6ce1060c97b621cb635d3",
+    "v1VaultAddress": "0x2371e134e3455e0593363cBF89d3b6cf53740618",
+    "v2VaultAddress": "0x43fCd85E8D9D003D515f886891B7C742AC9f92da",
     "chainId": 1
   },
   {
-    "v1VaultAddress": "0x2371e134e3455e0593363cbf89d3b6cf53740618",
-    "v2VaultAddress": "0x43fcd85e8d9d003d515f886891b7c742ac9f92da",
+    "v1VaultAddress": "0x4881Ef0BF6d2365D3dd6499ccd7532bcdBCE0658",
+    "v2VaultAddress": "0x5f342382D5F77F0f99E8f26161E689df6c7Cded3",
     "chainId": 1
   },
   {
-    "v1VaultAddress": "0x4881ef0bf6d2365d3dd6499ccd7532bcdbce0658",
-    "v2VaultAddress": "0x5f342382d5f77f0f99e8f26161e689df6c7cded3",
+    "v1VaultAddress": "0x2ed10624315b74a78f11FAbedAa1A228c198aEfB",
+    "v2VaultAddress": "0x842A84Df61DbE701c5dAE345F3f8E64aF727E48C",
     "chainId": 1
   },
   {
-    "v1VaultAddress": "0x2ed10624315b74a78f11fabedaa1a228c198aefb",
-    "v2VaultAddress": "0x842a84df61dbe701c5dae345f3f8e64af727e48c",
-    "chainId": 1
-  },
-  {
-    "v1VaultAddress": "0x7c574174da4b2be3f705c6244b4bfa0815a8b3ed",
-    "v2VaultAddress": "0x610d151ae40662ae148cdbaae1ea5904b6afae78",
+    "v1VaultAddress": "0x7c574174DA4b2be3f705c6244B4BfA0815a8B3Ed",
+    "v2VaultAddress": "0x610D151aE40662AE148cdBaaE1Ea5904b6AFAE78",
     "chainId": 42161
   },
   {
-    "v1VaultAddress": "0x7c574174da4b2be3f705c6244b4bfa0815a8b3ed",
-    "v2VaultAddress": "0x27b5e60eab54eb202db5ec7d0810c0686aff60e6",
+    "v1VaultAddress": "0x7e97fa6893871A2751B5fE961978DCCb2c201E65",
+    "v2VaultAddress": "0x55a2B207b0074E13AdCb858950a81B7a04775E0F",
     "chainId": 42161
   },
   {
-    "v1VaultAddress": "0x7e97fa6893871a2751b5fe961978dccb2c201e65",
-    "v2VaultAddress": "0x55a2b207b0074e13adcb858950a81b7a04775e0f",
-    "chainId": 42161
-  },
-  {
-    "v1VaultAddress": "0xee8f4ec5672f09119b96ab6fb59c27e1b7e44b61",
-    "v2VaultAddress": "0x050ce30b927da55177a4914ec73480238bad56f0",
+    "v1VaultAddress": "0xeE8F4eC5672F09119b96Ab6fB59C27E1b7e44b61",
+    "v2VaultAddress": "0x050cE30b927Da55177A4914EC73480238BAD56f0",
     "chainId": 8453
   },
   {
-    "v1VaultAddress": "0x236919f11ff9ea9550a4287696c2fc9e18e6e890",
-    "v2VaultAddress": "0x1deefabee758aabdc29a542b24ca3b75afd56765",
+    "v1VaultAddress": "0x236919F11ff9eA9550A4287696C2FC9e18E6e890",
+    "v2VaultAddress": "0x1deEfABEe758AAbdC29a542B24ca3b75aFD56765",
     "chainId": 8453
   },
   {
-    "v1VaultAddress": "0x6b13c060f13af1fdb319f52315bbbf3fb1d88844",
-    "v2VaultAddress": "0xfefec33668e22677c4762d0853d56245a800ff08",
+    "v1VaultAddress": "0x6b13c060F13Af1fdB319F52315BbbF3fb1D88844",
+    "v2VaultAddress": "0xFeFeC33668E22677c4762d0853d56245a800ff08",
     "chainId": 8453
   },
   {
-    "v1VaultAddress": "0x1c155be6bc51f2c37d472d4c2eba7a637806e122",
-    "v2VaultAddress": "0x3398445a909ee657e64597d71c3ae15e3712d818",
-    "chainId": 8453
-  },
-  {
-    "v1VaultAddress": "0x1c155be6bc51f2c37d472d4c2eba7a637806e122",
-    "v2VaultAddress": "0x94af495de1f56aa5576deb17986bdcee5dd9778d",
+    "v1VaultAddress": "0x1c155be6bC51F2c37d472d4C2Eba7a637806e122",
+    "v2VaultAddress": "0x94Af495DE1F56Aa5576dEB17986bDCeE5Dd9778D",
     "chainId": 8453
   },
   {
