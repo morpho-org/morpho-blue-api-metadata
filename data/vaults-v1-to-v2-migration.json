@@ -1,7 +1,217 @@
 [
   {
+    "v1VaultAddress": "0xe108fbc04852B5df72f9E44d7C29F47e7A993aDd",
+    "v2VaultAddress": "0x4Ef53d2cAa51C447fdFEEedee8F07FD1962C9ee6",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0x9178eBE0691593184c1D785a864B62a326cc3509",
+    "v2VaultAddress": "0xD5cCe260E7a755DDf0Fb9cdF06443d593AaeaA13",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0xd564F765F9aD3E7d2d6cA782100795a885e8e7C8",
+    "v2VaultAddress": "0xBb50A5341368751024ddf33385BA8cf61fE65FF9",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0xc88eFFD6e74D55c78290892809955463468E982A",
+    "v2VaultAddress": "0x5dbf760b4fd0cDdDe0366b33aEb338b2A6d77725",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0xdaD4e51d64c3B65A9d27aD9F3185B09449712065",
+    "v2VaultAddress": "0x870F0BF29A25A40E7CC087cD5C53e70C11F2C8A8",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0x0c6aec603d48eBf1cECc7b247a2c3DA08b398DC1",
+    "v2VaultAddress": "0xa877D5bb0274dcCbA8556154A30E1Ca4021a275f",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0x2C609d9CfC9dda2dB5C128B2a665D921ec53579d",
+    "v2VaultAddress": "0x5837e4189819637853a357aF36650902347F5e73",
+    "chainId": 42161
+  },
+  {
+    "v1VaultAddress": "0xdd0f28e19C1780eb6396170735D45153D261490d",
+    "v2VaultAddress": "0x8c106EEDAd96553e64287A5A6839c3Cc78afA3D0",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0x8eB67A509616cd6A7c1B3c8C21D48FF57df3d458",
+    "v2VaultAddress": "0x9a1D6bd5b8642C41F25e0958129B85f8E1176F3e",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0xc582F04d8a82795aa2Ff9c8bb4c1c889fe7b754e",
+    "v2VaultAddress": "0x9a1D6bd5b8642C41F25e0958129B85f8E1176F3e",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0x8CB3649114051cA5119141a34C200D65dc0Faa73",
+    "v2VaultAddress": "0xf3557AD5E984211ac8A0874A670344f2C3376471",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0x79FD640000F8563A866322483524a4b48f1Ed702",
+    "v2VaultAddress": "0xE571B648569619566CF6ce1060C97B621CB635D3",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0x2371e134e3455e0593363cBF89d3b6cf53740618",
+    "v2VaultAddress": "0x43fCd85E8D9D003D515f886891B7C742AC9f92da",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0x4881Ef0BF6d2365D3dd6499ccd7532bcdBCE0658",
+    "v2VaultAddress": "0x5f342382D5F77F0f99E8f26161E689df6c7Cded3",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0x2ed10624315b74a78f11FAbedAa1A228c198aEfB",
+    "v2VaultAddress": "0x842A84Df61DbE701c5dAE345F3f8E64aF727E48C",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0x7c574174DA4b2be3f705c6244B4BfA0815a8B3Ed",
+    "v2VaultAddress": "0x610D151aE40662AE148cdBaaE1Ea5904b6AFAE78",
+    "chainId": 42161
+  },
+  {
+    "v1VaultAddress": "0x7e97fa6893871A2751B5fE961978DCCb2c201E65",
+    "v2VaultAddress": "0x55a2B207b0074E13AdCb858950a81B7a04775E0F",
+    "chainId": 42161
+  },
+  {
+    "v1VaultAddress": "0xeE8F4eC5672F09119b96Ab6fB59C27E1b7e44b61",
+    "v2VaultAddress": "0x050cE30b927Da55177A4914EC73480238BAD56f0",
+    "chainId": 8453
+  },
+  {
+    "v1VaultAddress": "0x236919F11ff9eA9550A4287696C2FC9e18E6e890",
+    "v2VaultAddress": "0x1deEfABEe758AAbdC29a542B24ca3b75aFD56765",
+    "chainId": 8453
+  },
+  {
+    "v1VaultAddress": "0x6b13c060F13Af1fdB319F52315BbbF3fb1D88844",
+    "v2VaultAddress": "0xFeFeC33668E22677c4762d0853d56245a800ff08",
+    "chainId": 8453
+  },
+  {
+    "v1VaultAddress": "0x1c155be6bC51F2c37d472d4C2Eba7a637806e122",
+    "v2VaultAddress": "0x94Af495DE1F56Aa5576dEB17986bDCeE5Dd9778D",
+    "chainId": 8453
+  },
+  {
+    "v1VaultAddress": "0xBEEFE94c8aD530842bfE7d8B397938fFc1cb83b2",
+    "v2VaultAddress": "0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9",
+    "chainId": 8453
+  },
+  {
+    "v1VaultAddress": "0xbeeF010f9cb27031ad51e3333f9aF9C6B1228183",
+    "v2VaultAddress": "0xbeef0e0834849aCC03f0089F01f4F1Eeb06873C9",
+    "chainId": 8453
+  },
+  {
+    "v1VaultAddress": "0xBEEF01735c132Ada46AA9aA4c54623cAA92A64CB",
+    "v2VaultAddress": "0xbeef088055857739C12CD3765F20b7679Def0f51",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0xbEef047a543E45807105E51A8BBEFCc5950fcfBa",
+    "v2VaultAddress": "0xbeef003C68896c7D2c3c60d363e8d71a49Ab2bf9",
+    "chainId": 1
+  },
+  {
     "v1VaultAddress": "0xbeEF346d7099865208Ff331e4f648f4154DDAa05",
     "v2VaultAddress": "0xBEeFF047C03714965a54b671A37C18beF6b96210",
     "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0xBEeFFF209270748ddd194831b3fa287a5386f5bC",
+    "v2VaultAddress": "0xbeeff2C5bF38f90e3482a8b19F12E5a6D2FCa757",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0xBEEf050ecd6a16c4e7bfFbB52Ebba7846C4b8cD4",
+    "v2VaultAddress": "0xbeef0046fcab1dE47E41fB75BB3dC4Dfc94108E3",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0x75741A12B36D181f44F389E0c6B1E0210311e3Ff",
+    "v2VaultAddress": "0xbeef0C075Da5D01112AE5cF34d257074fB5DDB2f",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0xA0804346780b4c2e3bE118ac957D1DB82F9d7484",
+    "v2VaultAddress": "0xbeeff07d991C04CD640DE9F15C08ba59c4FEDEb7",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0x4739E2c293bDCD835829aA7c5d7fBdee93565D1a",
+    "v2VaultAddress": "0xbeeff77CE5C059445714E6A3490E273fE7F2492F",
+    "chainId": 42161
+  },
+  {
+    "v1VaultAddress": "0xBEEFA7B88064FeEF0cEe02AAeBBd95D30df3878F",
+    "v2VaultAddress": "0xbeeff7aE5E00Aae3Db302e4B0d8C883810a58100",
+    "chainId": 8453
+  },
+  {
+    "v1VaultAddress": "0x5c0C306Aaa9F877de636f4d5822cA9F2E81563BA",
+    "v2VaultAddress": "0xbeeff1D5dE8F79ff37a151681100B039661da518",
+    "chainId": 42161
+  },
+  {
+    "v1VaultAddress": "0xBeEF086b8807Dc5E5A1740C5E3a7C4c366eA6ab5",
+    "v2VaultAddress": "0xbeef009F28cCf367444a9F79096862920e025DC1",
+    "chainId": 8453
+  },
+  {
+    "v1VaultAddress": "0xBEeff2b772fa2F443cbd1Dd6D33b0C4bebF4aeb7",
+    "v2VaultAddress": "0xbEeFf89ABb7815cCD5182BD1FF82C4a4F8FCb13D",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0xBeeFBedc6fF26A7C4234434e2944dBDb6D4FbF37",
+    "v2VaultAddress": "0xbeef003E31546C7210687f1A7b40d096BE83ec58",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0xBeeF0c8333b3De8F0450565834db4EB05dEf7A5F",
+    "v2VaultAddress": "0xbeef00A299ae1784Fb7740d2d469F60a1E015fe9",
+    "chainId": 8453
+  },
+  {
+    "v1VaultAddress": "0xbEEF02e5E13584ab96848af90261f0C8Ee04722a",
+    "v2VaultAddress": "0xbeef00B5d83C1188F07A5184230a805639c39f04",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0xbEEf050a7485865A7a8d8Ca0CC5f7536b7a3443e",
+    "v2VaultAddress": "0xbeef00f0A818894a2Cf111644A5098421611100E",
+    "chainId": 8453
+  },
+  {
+    "v1VaultAddress": "0xCBeeF01994E24a60f7DCB8De98e75AD8BD4Ad60d",
+    "v2VaultAddress": "0xbeeff7aE5E00Aae3Db302e4B0d8C883810a58100",
+    "chainId": 8453
+  },
+  {
+    "v1VaultAddress": "0xb151A21bb6a13B3b09DE4C599c6265882fb33742",
+    "v2VaultAddress": "0xBEEf0F82E269760429BE6255Fa00821b7e4b592A",
+    "chainId": 137
+  },
+  {
+    "v1VaultAddress": "0xBeEf11eCb698f4B5378685C05A210bdF71093521",
+    "v2VaultAddress": "0xBEeFf08E1887A11D91B9Ca68c133c08Ae3c4B44f",
+    "chainId": 1
+  },
+  {
+    "v1VaultAddress": "0xBeeFa74640a5f7c28966cbA82466EED5609444E0",
+    "v2VaultAddress": "0xbeeff7aE5E00Aae3Db302e4B0d8C883810a58100",
+    "chainId": 8453
   }
 ]
