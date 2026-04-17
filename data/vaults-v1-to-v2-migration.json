@@ -213,5 +213,9 @@
     "v1VaultAddress": "0xBeeFa74640a5f7c28966cbA82466EED5609444E0",
     "v2VaultAddress": "0xbeeff7aE5E00Aae3Db302e4B0d8C883810a58100",
     "chainId": 8453
+  },
+    "v1VaultAddress": "0xb0f05E4De970A1aaf77f8C2F823953a367504BA9",
+    "v2VaultAddress": "0xf1CA44EEa3A4eFFcB195A970a2f1d8553f76F9A1",
+    "chainId": 1
   }
 ]
