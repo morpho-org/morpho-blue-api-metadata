@@ -725,6 +725,18 @@
     ]
   },
   {
+    "address": "0xbeeffABcd0dB09589Dd21854aa760C52aB4bf04F",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse tGBP vault aims to optimize yields by lending tGBP against a wide range of collaterals.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1776449454
+      }
+    ]
+  },
+  {
     "address": "0x610D151aE40662AE148cdBaaE1Ea5904b6AFAE78",
     "chainId": 42161,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
