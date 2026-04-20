@@ -1298,6 +1298,18 @@
     ]
   },
   {
+    "address": "0xbeeffABcd0dB09589Dd21854aa760C52aB4bf04F",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "tGBP V2 vault",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1776672344
+      }
+    ]
+  },
+  {
     "address": "0x842A84Df61DbE701c5dAE345F3f8E64aF727E48C",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
