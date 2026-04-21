@@ -146,25 +146,7 @@ Each price feed entry must include:
 
 [price-feeds.json](./data/price-feeds.json)
 
-## 4. Price mappings [Deprecated]
-
-### 4.1 Oracle prices ( xxx -> USD)
-
-[Oracle prices](./docs/pricing/oracle-prices.md)
-
-Oracle prices are used to calculate the price of an asset to USD.
-
-Eg. WETH -> USD
-
-### 4.2 Spot prices ( xxx -> ETH )
-
-[Spot prices](./docs/pricing/spot-prices.md)
-
-Spot prices are used to calculate the price of an asset to ETH.
-
-Eg. wstETH -> ETH
-
-## 5. Tokens listing
+## 4. Tokens listing
 
 Controls the listed tokens recognized by the protocol. Each token entry represents an ERC-20 token deployed on a supported chain (Ethereum, Base, OP Mainnet, Polygon, Arbitrum, Unichain, World Chain, Katana, HyperEVM, Monad, Stable, Tempo).
 
@@ -310,7 +292,7 @@ Therefore, "ETH" symbol is added as an alternative "hardcoded" oracle to "stETH"
 }
 ```
 
-## 6. Exchange Rate [Deprecated]
+## 5. Exchange Rate [Deprecated]
 
 Controls the exchange rate configurations for assets that require rate conversion (e.g., liquid staking tokens). Each entry defines how to fetch the conversion rate between a token and its underlying asset.
 
@@ -374,7 +356,7 @@ function _myFunction_(uint256) view returns (uint256)
 
 [exchange-rates.json](./data/exchange-rates.json)
 
-## 7. Custom warnings
+## 6. Custom warnings
 
 In case of emergency, or particular situation, Morpho team is able to add custom warnings to some vaults or markets displayed on the Morpho Interface.
 
@@ -436,7 +418,7 @@ The custom warnings file is an array containing both vault and market warnings. 
 
 [custom-warnings.json](./data/custom-warnings.json)
 
-## 8. Curator listing
+## 7. Curator listing
 
 Controls the known curators and the addresses they manage.
 
