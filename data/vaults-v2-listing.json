@@ -1761,5 +1761,17 @@
         "timestamp": 1765811463
       }
     ]
+  },
+  {
+    "address": "0x72AB856d5b4F3A8BA0A4307389c522254272A6fC",
+    "chainId": 1,
+    "image": "https://static.asseto.finance/asseto/250924/dd0t4l1pnvo6kagizj.svg",
+    "description": "CASH+ is a 1:1 asset-backed token collateralized by the CMS USD Money Market Fund, which invests in high-quality short-term USD instruments. It offers both individual and institutional investors instant stablecoin liquidity combined with low-risk yields that track money-market rates.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1776771206
+      }
+    ]
   }
 ]
