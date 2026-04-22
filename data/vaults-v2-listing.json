@@ -1394,6 +1394,18 @@
     ]
   },
   {
+    "address": "0x4047dB25Fd6EcD07d72CA44adf3a2A44dE6DE084",
+    "chainId": 480,
+    "image": "https://cdn.morpho.org/v2/assets/images/re7.png",
+    "description": "The Re7 WARS Morpho V2 vault curated by Re7 Labs aims to deliver peso-denominated yield to wARS holders on Worldchain by lending wARS against bluechip Morpho markets.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1776867180
+      }
+    ]
+  },
+  {
     "address": "0x48a90E85be5C56b0A669985A12ee7C449fC79965",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/anthias.svg",
