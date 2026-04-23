@@ -2311,7 +2311,7 @@
     "address": "0xf24608E0CCb972b0b0f4A6446a0BBf58c701a026",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/eurc.svg",
-    "description": "The Moonwell Flagship EURC Morpho vault curated by B.Protocol and Block Analitica is intended to optimize risk-adjusted interest earned from blue-chip collateral markets.",
+    "description": "The Moonwell Flagship EURC Morpho vault curated by Anthias Labs is intended to optimize risk-adjusted interest earned from blue-chip collateral markets.",
     "history": [
       {
         "action": "added",
@@ -2323,7 +2323,7 @@
     "address": "0xc1256Ae5FF1cf2719D4937adb3bbCCab2E00A2Ca",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/usdc.svg",
-    "description": "The Moonwell Flagship USDC Morpho vault curated by B.Protocol and Block Analitica is intended to optimize risk-adjusted interest earned from blue-chip collateral markets.",
+    "description": "The Moonwell Flagship USDC Morpho vault curated by Anthias Labs is intended to optimize risk-adjusted interest earned from blue-chip collateral markets.",
     "history": [
       {
         "action": "added",
@@ -2335,7 +2335,7 @@
     "address": "0xa0E430870c4604CcfC7B38Ca7845B1FF653D0ff1",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/eth.svg",
-    "description": "The Moonwell Flagship ETH Morpho vault curated by B.Protocol and Block Analitica is intended to optimize risk-adjusted interest earned from blue-chip collateral markets.",
+    "description": "The Moonwell Flagship ETH Morpho vault curated by Anthias Labs is intended to optimize risk-adjusted interest earned from blue-chip collateral markets.",
     "history": [
       {
         "action": "added",
@@ -2363,7 +2363,7 @@
     "address": "0x543257eF2161176D7C8cD90BA65C2d4CaEF5a796",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/assets/logos/cbbtc.svg",
-    "description": "The Moonwell Frontier cbBTC Morpho vault curated by B.Protocol and Block Analitica is intended to optimize risk-adjusted interest earned from BTC liquid restaking tokens as collateral.",
+    "description": "The Moonwell Frontier cbBTC Morpho vault curated by Anthias Labs is intended to optimize risk-adjusted interest earned from BTC liquid restaking tokens as collateral.",
     "history": [
       {
         "action": "added",
