@@ -956,5 +956,20 @@
       "twitter": "https://x.com/unifiedlabs_",
       "forum": "https://forum.morpho.org/c/vaults/unified-labs/61"
     }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/vpay.png",
+    "name": "vPay",
+    "verified": true,
+    "addresses": {
+      "8453": [
+        "0xC9a9431dBC926f60EA8D96D0498EfBD887DfE4b1"
+      ]
+    },
+    "id": "vpay",
+    "socials": {
+      "url": "https://app.vpay.fund",
+      "twitter": "https://x.com/vPay_Global"
+    }
   }
 ]
