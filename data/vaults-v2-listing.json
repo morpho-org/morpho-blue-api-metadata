@@ -291,7 +291,7 @@
     "address": "0x43fCd85E8D9D003D515f886891B7C742AC9f92da",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet WETH Prime vault aims to optimize for risk-adjusted yield by allocating across large market cap assets and high liquidity yield sources. The vaults risk strategy follows the Gauntlet Prime conservative framework whereby we curate supply to manage security and yield to provide a low risk profile at competitive APYs.",
+    "description": "The Gauntlet\u00a0WETH\u00a0Prime vault aims to optimize for risk-adjusted yield by allocating across large market cap assets and high liquidity yield sources. The vaults risk strategy follows the Gauntlet Prime conservative framework whereby we curate supply to manage security and yield to provide a low risk profile at competitive APYs.",
     "history": [
       {
         "action": "added",
@@ -375,7 +375,7 @@
     "address": "0xFeFeC33668E22677c4762d0853d56245a800ff08",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet WETH Balanced vault aims to optimize for risk-adjusted yield across large and medium market cap assets and high liquidity yield sources. The vaults risk strategy follows Gauntlets Balanced framework whereby we curate supply to balance security and yield to provide a low risk profile at competitive APYs.",
+    "description": "The Gauntlet WETH\u00a0Balanced vault aims to optimize for risk-adjusted yield across large and medium market cap assets and high liquidity yield sources. The vaults risk strategy follows Gauntlets Balanced framework whereby we curate supply to balance security and yield to provide a low risk profile at competitive APYs.",
     "history": [
       {
         "action": "added",
@@ -387,7 +387,7 @@
     "address": "0x9a1D6bd5b8642C41F25e0958129B85f8E1176F3e",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet USDC Frontier Vault targets maximum yield by allocating to potentially higher volatility yield sources that may face liquidity risks in exchange for greater returns. The vaults risk strategy follows Gauntlets Frontier framework whereby we curate supply to aggressively target higher yields while managing security to provide an aggressive risk profile at competitive APYs.",
+    "description": "The Gauntlet\u00a0USDC\u00a0Frontier Vault targets maximum yield by allocating to potentially higher volatility yield sources that may face liquidity risks in exchange for greater returns. The vaults risk strategy follows Gauntlets Frontier framework whereby we curate supply to aggressively target higher yields while managing security to provide an aggressive risk profile at competitive APYs.",
     "history": [
       {
         "action": "added",
@@ -648,7 +648,7 @@
     "address": "0x8c106EEDAd96553e64287A5A6839c3Cc78afA3D0",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet USDC Prime vault aims to optimize for risk-adjusted yield by allocating across large market cap assets and high liquidity yield sources. The vaults risk strategy follows the Gauntlet Prime conservative framework whereby we curate supply to manage security and yield to provide a low risk profile at competitive APY",
+    "description": "The Gauntlet\u00a0USDC\u00a0Prime vault aims to optimize for risk-adjusted yield by allocating across large market cap assets and high liquidity yield sources. The vaults risk strategy follows the Gauntlet Prime conservative framework whereby we curate supply to manage security and yield to provide a low risk profile at competitive APY",
     "history": [
       {
         "action": "added",
@@ -768,7 +768,7 @@
     "address": "0x1deEfABEe758AAbdC29a542B24ca3b75aFD56765",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet USDC Frontier Vault targets maximum yield by allocating to potentially higher volatility yield sources that may face liquidity risks in exchange for greater returns. The vaults risk strategy follows Gauntlets Frontier framework whereby we curate supply to aggressively target higher yields while managing security to provide an aggressive risk profile at competitive APYs.",
+    "description": "The Gauntlet\u00a0USDC\u00a0Frontier Vault targets maximum yield by allocating to potentially higher volatility yield sources that may face liquidity risks in exchange for greater returns. The vaults risk strategy follows Gauntlets Frontier framework whereby we curate supply to aggressively target higher yields while managing security to provide an aggressive risk profile at competitive APYs.",
     "history": [
       {
         "action": "added",
@@ -952,7 +952,7 @@
     "address": "0x5f342382D5F77F0f99E8f26161E689df6c7Cded3",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet WETH Balanced vault aims to optimize for risk-adjusted yield across large and medium market cap assets and high liquidity yield sources. The vaults risk strategy follows Gauntlets Balanced framework whereby we curate supply to balance security and yield to provide a low risk profile at competitive APYs.",
+    "description": "The Gauntlet\u00a0WETH\u00a0Balanced vault aims to optimize for risk-adjusted yield across large and medium market cap assets and high liquidity yield sources. The vaults risk strategy follows Gauntlets Balanced framework whereby we curate supply to balance security and yield to provide a low risk profile at competitive APYs.",
     "history": [
       {
         "action": "added",
@@ -1461,7 +1461,7 @@
     "address": "0x050cE30b927Da55177A4914EC73480238BAD56f0",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
-    "description": "The Gauntlet USDC Prime vault aims to optimize for risk-adjusted yield by allocating across large market cap assets and high liquidity yield sources. The vaults risk strategy follows the Gauntlet Prime conservative framework whereby we curate supply to manage security and yield to provide a low risk profile at competitive APYs.",
+    "description": "The Gauntlet\u00a0USDC\u00a0Prime vault aims to optimize for risk-adjusted yield by allocating across large market cap assets and high liquidity yield sources. The vaults risk strategy follows the Gauntlet Prime conservative framework whereby we curate supply to manage security and yield to provide a low risk profile at competitive APYs.",
     "history": [
       {
         "action": "added",
@@ -1783,6 +1783,18 @@
       {
         "action": "added",
         "timestamp": 1765811463
+      }
+    ]
+  },
+  {
+    "address": "0x8c36241D7FB6551af40E7f78Fee88aD0e89Dfb52",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/vpay.png",
+    "description": "vPay USDC Earn vault. Allocates user deposits across Steakhouse Prime USDC, Gauntlet USDC Prime, and Steakhouse HY USDC underlying vaults to deliver smoothed, capped APY. maxRate ceiling protects against yield volatility; performance fee accrues to the vPay treasury.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1777217214
       }
     ]
   }
