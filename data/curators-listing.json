@@ -957,5 +957,21 @@
       "twitter": "https://x.com/unifiedlabs_",
       "forum": "https://forum.morpho.org/c/vaults/unified-labs/61"
     }
+  },
+  {
+    "image": "https://cdn.morpho.org/v2/assets/images/eco-sh.svg",
+    "name": "Ecosystem Vaults by SHF",
+    "url": "https://www.steakhouse.financial",
+    "addresses": {
+      "1": [
+        "0xd6086925EABDA100409Da2adaDFDea08EAB1081A",
+        "0x5c48cffd30a4001916992f464078c47b6e0a92fc"
+      ]
+    },
+    "id": "eco-vaults-shf",
+    "socials": {
+      "url": "https://www.steakhouse.financial",
+      "twitter": "https://x.com/SteakhouseFi",
+    }
   }
 ]
