@@ -1217,6 +1217,18 @@
     ]
   },
   {
+    "address": "0x85F3d81a39dF458E45d5EA20f9EB937fAafd282f",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/ultrayield.svg",
+    "description": "The UltraYield USDT Core vault curated by the UltraYield team provides diversified exposure to various Morpho markets by lending USDT to achieve an optimized risk-adjusted return.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1777383066
+      }
+    ]
+  },
+  {
     "address": "0x0bF0164D17469241B6E086dA4016DCc54FEAA334",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
