@@ -252,6 +252,18 @@
     ]
   },
   {
+    "address": "0x242572d6f1AF7111bcA807ECDd0f74108cEAeD5d",
+    "chainId": 999,
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "description": "Alpha USDT Prime is a USDT-denominated vault that allocates capital across selected lending markets and strategies within the AlphaPing ecosystem. The vault focuses on capital efficiency liquidity and disciplined risk management while dynamically adjusting allocations as market conditions evolve.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1777384652
+      }
+    ]
+  },
+  {
     "address": "0xe2221Aa07ec3266DA87763E2b1e28d07A8a4e53b",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/api3.svg",
