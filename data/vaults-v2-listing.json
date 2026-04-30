@@ -789,6 +789,18 @@
     ]
   },
   {
+    "address": "0xbeEFfc7b7d0604b4afB92628a8E4B09dc01d008A",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
+    "description": "The Steakhouse High Yield vault aims to optimize yields by lending ETH against a wide range of collaterals.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1777549441
+      }
+    ]
+  },
+  {
     "address": "0x1deEfABEe758AAbdC29a542B24ca3b75aFD56765",
     "chainId": 8453,
     "image": "https://cdn.morpho.org/v2/assets/images/gauntlet.svg",
