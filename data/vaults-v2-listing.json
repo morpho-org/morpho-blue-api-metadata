@@ -549,6 +549,18 @@
     ]
   },
   {
+    "address": "0x1e9e47583f15D45a10Df48c0b1846E0492c795D7",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/galaxy.png",
+    "description": "The Galaxy Quality Stablecoin Vault allocates stablecoin liquidity across a curated selection of markets collateralized exclusively by blue chip assets. The vault is structured for depositors whose primary objective is capital preservation with yield treated as a secondary consideration.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1777583844
+      }
+    ]
+  },
+  {
     "address": "0xa877D5bb0274dcCbA8556154A30E1Ca4021a275f",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/kpk.svg",
