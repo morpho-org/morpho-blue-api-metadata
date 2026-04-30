@@ -513,6 +513,18 @@
     ]
   },
   {
+    "address": "0x44dd77d51629987d9555c762bF09903928c70206",
+    "chainId": 8453,
+    "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
+    "description": "Alpha USDC Prime V2 is a USDC-denominated vault that allocates capital across selected lending markets and strategies within the AlphaPing ecosystem. The vault focuses on capital efficiency liquidity and disciplined risk management while dynamically adjusting allocations as market conditions evolve.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1777535132
+      }
+    ]
+  },
+  {
     "address": "0xbEeFf89ABb7815cCD5182BD1FF82C4a4F8FCb13D",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/steakhouse.svg",
