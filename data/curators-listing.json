@@ -973,7 +973,20 @@
     "addresses": {
       "1": [
         "0xd6086925EABDA100409Da2adaDFDea08EAB1081A",
-        "0x5c48Cffd30a4001916992f464078c47B6e0A92FC"
+        "0x5c48Cffd30a4001916992f464078c47B6e0A92FC",
+        "0x827e86072B06674a077f592A531dcE4590aDeCdB"
+      ],
+      "137": [
+        "0x827e86072B06674a077f592A531dcE4590aDeCdB"
+      ],
+      "143": [
+        "0x827e86072B06674a077f592A531dcE4590aDeCdB"
+      ],
+      "8453": [
+        "0x827e86072B06674a077f592A531dcE4590aDeCdB"
+      ],
+      "42161": [
+        "0x827e86072B06674a077f592A531dcE4590aDeCdB"
       ]
     },
     "id": "eco-vaults-shf",
