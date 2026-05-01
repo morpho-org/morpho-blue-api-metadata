@@ -1845,5 +1845,16 @@
         "timestamp": 1765811463
       }
     ]
-  }
-]
+  },
+{
+  "address": "0x594Be6816Ff2EEae7Db4f3EA8F9e81F0CCc94444",
+  "chainId": 1,
+  "image": "https://raw.githubusercontent.com/CurveYield/images/main/CurveYield_Logo_512.png",
+  "description": "The CurveYield scrvUSD Lending Vault supplies markets backed by yield-bearing blue-chip DeFi collateral from protocols such as Curve, Convex, and Yearn. The vault actively manages liquidity to maximize depositor interest by prioritizing markets with above-average interest rates. CurveYield deploys liquidation bots and easy-to-use public liquidation contracts, while carefully curating accepted collateral and market parameters to reduce bad debt risk. Lending interest is combined with scrvUSD yield to enhance depositor returns.",
+  "history": [
+    {
+      "action": "added",
+      "timestamp": 1777656308
+    }
+  ]
+}
