@@ -1446,6 +1446,18 @@
     ]
   },
   {
+    "address": "0xbeEFF75262b2eC16a3C62a807F02EE7627654931",
+    "chainId": 1,
+    "image": "https://cdn.morpho.org/v2/assets/images/eco-sh.svg",
+    "description": "The infiniFi x Steakhouse USDC vault aims to optimize yield on USDC lending against a wide range of collateral assets from the infiniFi ecosystem.",
+    "history": [
+      {
+        "action": "added",
+        "timestamp": 1777551252
+      }
+    ]
+  },
+  {
     "address": "0x9f39B13bB472126D6937Bf25A39338E664eeFa82",
     "chainId": 1,
     "image": "https://cdn.morpho.org/v2/assets/images/alphaping.png",
