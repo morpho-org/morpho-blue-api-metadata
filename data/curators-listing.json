@@ -825,18 +825,6 @@
     "id": "swissborg"
   },
   {
-    "name": "Seamless",
-    "image": "https://cdn.morpho.org/v2/assets/images/seamless.svg",
-    "verified": true,
-    "addresses": {
-      "8453": [
-        "0x639d2dD24304aC2e6A691d8c1cFf4a2665925fee"
-      ]
-    },
-    "ownerOnly": true,
-    "id": "seamless"
-  },
-  {
     "name": "Moonwell",
     "image": "https://cdn.morpho.org/v2/assets/images/moonwell.svg",
     "verified": true,
@@ -862,42 +850,6 @@
     },
     "ownerOnly": true,
     "id": "compound-dao"
-  },
-  {
-    "name": "Elixir",
-    "image": "https://cdn.morpho.org/v2/assets/images/elixir.svg",
-    "verified": true,
-    "addresses": {
-      "1": [
-        "0x64f605ACe63eE71ed8299040eB67577585817227"
-      ]
-    },
-    "ownerOnly": true,
-    "id": "elixir"
-  },
-  {
-    "name": "Olympus",
-    "image": "https://cdn.morpho.org/v2/assets/images/olympus.svg",
-    "verified": true,
-    "addresses": {
-      "1": [
-        "0x245cc372C84B3645Bf0Ffe6538620B04a217988B"
-      ]
-    },
-    "ownerOnly": true,
-    "id": "olympus"
-  },
-  {
-    "name": "USDU DAO",
-    "image": "https://cdn.morpho.org/v2/assets/images/usdudao.svg",
-    "verified": true,
-    "addresses": {
-      "1": [
-        "0x9fe66037c44236c87D9Ac8345F489b4413fDFf06"
-      ]
-    },
-    "ownerOnly": true,
-    "id": "usdu-dao"
   },
   {
     "image": "https://cdn.morpho.org/v2/assets/images/TEST.svg",
